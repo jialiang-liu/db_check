@@ -1,0 +1,126 @@
+name: TW DB Diff
+
+on:
+  schedule:
+    - cron: '* */1 * * *'
+  workflow_dispatch:
+
+jobs:
+  fetch_and_compare:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+    # 检出代码
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      with:
+        ref: main
+
+    # 获取当前版本号
+    - name: Fetch latest version
+      id: fetch_version
+      run: |
+        CURRENT_VERSION=$(curl -X POST -H "Content-Type: application/json" -d '{"regionCode":"tw"}' -s ${{ secrets.WT_VER_URL }} | jq -r '.data.truthVersion')
+        echo "Current version: $CURRENT_VERSION"
+        echo "version=$CURRENT_VERSION" >> $GITHUB_OUTPUT
+
+    # 比较版本号
+    - name: Compare versions
+      id: version_check
+      run: |
+        CURRENT_VERSION=${{ steps.fetch_version.outputs.version }}
+        STORED_VERSION=${{ vars.LAST_VERSION_TW }}
+        
+        echo "Current Version: $CURRENT_VERSION"
+        echo "Stored Version: $STORED_VERSION"
+        
+        if [ "$CURRENT_VERSION" = "" ]; then
+          echo "No valid version info, skipping database comparison"
+          echo "should_continue=false" >> $GITHUB_OUTPUT
+        elif [ "$CURRENT_VERSION" = "$STORED_VERSION" ]; then
+          echo "Version unchanged, skipping database comparison"
+          echo "should_continue=false" >> $GITHUB_OUTPUT
+        else
+          echo "Version changed, proceeding with database comparison"
+          echo "should_continue=true" >> $GITHUB_OUTPUT
+        fi
+
+    # 安装依赖
+    - name: Set up Python
+      if: steps.version_check.outputs.should_continue == 'true'
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.8'
+
+    # 下载数据库文件
+    - name: Download latest DB file
+      if: steps.version_check.outputs.should_continue == 'true'
+      run: |
+        curl -L -o latest_tw.db ${{ secrets.TW_DB_URL }}
+
+    # 比较两个数据库
+    - name: Compare databases
+      if: steps.version_check.outputs.should_continue == 'true'
+      run: |
+        python compare_databases.py database/latest_tw.db latest_tw.db
+
+    # 上传差异文件
+    - name: Upload differences
+      if: steps.version_check.outputs.should_continue == 'true'
+      uses: actions/upload-artifact@v4
+      with:
+        name: db-differences_${{ steps.fetch_version.outputs.version }}
+        path: detailed_changes.json
+
+    # 更新仓库中的数据库文件
+    - name: Update database files
+      if: steps.version_check.outputs.should_continue == 'true'
+      run: |
+        # 将新的数据库文件移动到仓库的特定位置
+        mkdir -p database
+        rm -f database/previous_tw.db
+        mv database/latest_tw.db database/previous_tw.db 2>/dev/null || true
+        mv latest_tw.db database/latest_tw.db
+        mkdir -p results
+        mv detailed_changes.json results/tw_${{ steps.fetch_version.outputs.version }}.json
+
+        # 配置 Git
+        git config user.name github-actions
+        git config user.email github-actions@github.com
+
+        # 提交更改
+        git add database/latest_tw.db
+        git add database/previous_tw.db
+        git add results/tw_${{ steps.fetch_version.outputs.version }}.json
+        git commit -m "Update TW database files ${{ vars.LAST_VERSION_TW }} -> ${{ steps.fetch_version.outputs.version }}"
+        git push
+
+    # 更新存储的版本号
+    - name: Update stored version
+      if: steps.version_check.outputs.should_continue == 'true'
+      env:
+        GH_TOKEN: ${{ secrets.GH_PAT }}
+      run: |
+        # 使用 GitHub CLI 更新 Repository Variable
+        gh api --method PATCH \
+          -H "Accept: application/vnd.github+json" \
+          /repos/${{ github.repository }}/actions/variables/LAST_VERSION_TW \
+          -f name='LAST_VERSION_TW' \
+          -f value='${{ steps.fetch_version.outputs.version }}'
+
+    # 将差异文件传给后端
+    - name: Send Diff JSON via Curl
+      if: steps.version_check.outputs.should_continue == 'true'
+      env:
+        AUTH_TOKEN: ${{ secrets.POST_AUTH_TOKEN }}
+        TARGET_URL: ${{ secrets.POST_TARGET_URL }}
+        LAST_VERSION: ${{ vars.LAST_VERSION_TW }}
+      run: |
+        curl -X POST \
+             -H "Content-Type: multipart/form-data" \
+             -H "Auth-Token: $AUTH_TOKEN" \
+             -F "file=@results/tw_$LAST_VERSION.json" \
+             $TARGET_URL || { echo 'Curl command failed.'; exit 1; }
