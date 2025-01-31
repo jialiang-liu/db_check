@@ -1,0 +1,31 @@
+name: Manual File Push
+
+on:
+  workflow_dispatch:
+
+jobs:
+  fetch_and_compare:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+    # 检出代码
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      with:
+        ref: master
+
+    # 将差异文件传给后端
+    - name: Send Diff JSON via Curl
+      env:
+        AUTH_TOKEN: ${{ secrets.POST_AUTH_TOKEN }}
+        TARGET_URL: ${{ secrets.POST_TARGET_URL }}
+        LAST_VERSION: ${{ vars.LAST_VERSION_JP }}
+      run: |
+        curl -X POST \
+             -H "Content-Type: multipart/form-data" \
+             -H "Auth-Token: $AUTH_TOKEN" \
+             -F "file=@results/jp_$LAST_VERSION.json" \
+             $TARGET_URL || { echo 'Curl command failed.'; exit 1; }
