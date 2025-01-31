@@ -120,6 +120,7 @@ jobs:
         LAST_VERSION: ${{ vars.LAST_VERSION_TW }}
       run: |
         ls
+        ls ./results
         curl -X POST \
              -H "Content-Type: multipart/form-data" \
              -H "Auth-Token: $AUTH_TOKEN" \
