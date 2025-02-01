@@ -37,7 +37,7 @@ jobs:
         echo "Current Version: $CURRENT_VERSION"
         echo "Stored Version: $STORED_VERSION"
         
-        if [ "$CURRENT_VERSION" = "" ]; then
+        if [ "$CURRENT_VERSION" = "" ] || [ -z "$CURRENT_VERSION" ]; then
           echo "No valid version info, skipping database comparison"
           echo "should_continue=false" >> $GITHUB_OUTPUT
         elif [ "$CURRENT_VERSION" = "$STORED_VERSION" ]; then
