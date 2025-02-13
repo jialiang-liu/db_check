@@ -1,0 +1,66 @@
+{
+  "tables": {
+    "only_in_old_db": [],
+    "only_in_new_db": []
+  },
+  "table_changes": {
+    "login_bonus_detail": {
+      "data_changes": {
+        "added": [
+          [["bg_id", 0], ["character_id", 0], ["character_name", ""], ["count", 2], ["description", ""], ["id", 414], ["login_bonus_id", 40015], ["reward_id", 25021], ["reward_num", 3000], ["reward_type", 2], ["voice_id", 0]],
+          [["bg_id", 0], ["character_id", 0], ["character_name", ""], ["count", 2], ["description", ""], ["id", 413], ["login_bonus_id", 40015], ["reward_id", 25012], ["reward_num", 10000], ["reward_type", 2], ["voice_id", 0]],
+          [["bg_id", 0], ["character_id", 0], ["character_name", ""], ["count", 4], ["description", ""], ["id", 417], ["login_bonus_id", 40015], ["reward_id", 25014], ["reward_num", 10000], ["reward_type", 2], ["voice_id", 0]],
+          [["bg_id", 0], ["character_id", 0], ["character_name", ""], ["count", 1], ["description", ""], ["id", 412], ["login_bonus_id", 40015], ["reward_id", 25021], ["reward_num", 3000], ["reward_type", 2], ["voice_id", 0]],
+          [["bg_id", 0], ["character_id", 0], ["character_name", ""], ["count", 1], ["description", ""], ["id", 411], ["login_bonus_id", 40015], ["reward_id", 25011], ["reward_num", 10000], ["reward_type", 2], ["voice_id", 0]],
+          [["bg_id", 0], ["character_id", 0], ["character_name", ""], ["count", 3], ["description", ""], ["id", 415], ["login_bonus_id", 40015], ["reward_id", 25013], ["reward_num", 10000], ["reward_type", 2], ["voice_id", 0]],
+          [["bg_id", 0], ["character_id", 0], ["character_name", ""], ["count", 5], ["description", ""], ["id", 420], ["login_bonus_id", 40015], ["reward_id", 25021], ["reward_num", 3000], ["reward_type", 2], ["voice_id", 0]],
+          [["bg_id", 0], ["character_id", 0], ["character_name", ""], ["count", 3], ["description", ""], ["id", 416], ["login_bonus_id", 40015], ["reward_id", 25021], ["reward_num", 3000], ["reward_type", 2], ["voice_id", 0]],
+          [["bg_id", 0], ["character_id", 0], ["character_name", ""], ["count", 5], ["description", ""], ["id", 419], ["login_bonus_id", 40015], ["reward_id", 25015], ["reward_num", 10000], ["reward_type", 2], ["voice_id", 0]],
+          [["bg_id", 0], ["character_id", 0], ["character_name", ""], ["count", 4], ["description", ""], ["id", 418], ["login_bonus_id", 40015], ["reward_id", 25021], ["reward_num", 3000], ["reward_type", 2], ["voice_id", 0]]
+        ],
+        "modified": [
+          {
+            "id": 33,
+            "old": [["bg_id", 0], ["character_id", 0], ["character_name", ""], ["count", 13], ["description", ""], ["id", 33], ["login_bonus_id", 30000], ["reward_id", 20003], ["reward_num", 20], ["reward_type", 2], ["voice_id", 0]],
+            "new": [["bg_id", 0], ["character_id", 0], ["character_name", ""], ["count", 13], ["description", ""], ["id", 33], ["login_bonus_id", 30000], ["reward_id", 25021], ["reward_num", 5000], ["reward_type", 2], ["voice_id", 0]]
+          },
+          {
+            "id": 27,
+            "old": [["bg_id", 0], ["character_id", 0], ["character_name", ""], ["count", 7], ["description", ""], ["id", 27], ["login_bonus_id", 30000], ["reward_id", 90007], ["reward_num", 3000], ["reward_type", 2], ["voice_id", 0]],
+            "new": [["bg_id", 0], ["character_id", 0], ["character_name", ""], ["count", 7], ["description", ""], ["id", 27], ["login_bonus_id", 30000], ["reward_id", 25014], ["reward_num", 10000], ["reward_type", 2], ["voice_id", 0]]
+          },
+          {
+            "id": 22,
+            "old": [["bg_id", 0], ["character_id", 0], ["character_name", ""], ["count", 2], ["description", ""], ["id", 22], ["login_bonus_id", 30000], ["reward_id", 90007], ["reward_num", 2000], ["reward_type", 2], ["voice_id", 0]],
+            "new": [["bg_id", 0], ["character_id", 0], ["character_name", ""], ["count", 2], ["description", ""], ["id", 22], ["login_bonus_id", 30000], ["reward_id", 25012], ["reward_num", 10000], ["reward_type", 2], ["voice_id", 0]]
+          },
+          {
+            "id": 32,
+            "old": [["bg_id", 0], ["character_id", 0], ["character_name", ""], ["count", 12], ["description", ""], ["id", 32], ["login_bonus_id", 30000], ["reward_id", 22002], ["reward_num", 20], ["reward_type", 2], ["voice_id", 0]],
+            "new": [["bg_id", 0], ["character_id", 0], ["character_name", ""], ["count", 12], ["description", ""], ["id", 32], ["login_bonus_id", 30000], ["reward_id", 25015], ["reward_num", 10000], ["reward_type", 2], ["voice_id", 0]]
+          },
+          {
+            "id": 25,
+            "old": [["bg_id", 0], ["character_id", 0], ["character_name", ""], ["count", 5], ["description", ""], ["id", 25], ["login_bonus_id", 30000], ["reward_id", 94002], ["reward_num", 50000], ["reward_type", 12], ["voice_id", 0]],
+            "new": [["bg_id", 0], ["character_id", 0], ["character_name", ""], ["count", 5], ["description", ""], ["id", 25], ["login_bonus_id", 30000], ["reward_id", 25013], ["reward_num", 10000], ["reward_type", 2], ["voice_id", 0]]
+          },
+          {
+            "id": 23,
+            "old": [["bg_id", 0], ["character_id", 0], ["character_name", ""], ["count", 3], ["description", ""], ["id", 23], ["login_bonus_id", 30000], ["reward_id", 20003], ["reward_num", 20], ["reward_type", 2], ["voice_id", 0]],
+            "new": [["bg_id", 0], ["character_id", 0], ["character_name", ""], ["count", 3], ["description", ""], ["id", 23], ["login_bonus_id", 30000], ["reward_id", 25021], ["reward_num", 5000], ["reward_type", 2], ["voice_id", 0]]
+          },
+          {
+            "id": 28,
+            "old": [["bg_id", 0], ["character_id", 0], ["character_name", ""], ["count", 8], ["description", ""], ["id", 28], ["login_bonus_id", 30000], ["reward_id", 20003], ["reward_num", 20], ["reward_type", 2], ["voice_id", 0]],
+            "new": [["bg_id", 0], ["character_id", 0], ["character_name", ""], ["count", 8], ["description", ""], ["id", 28], ["login_bonus_id", 30000], ["reward_id", 25021], ["reward_num", 5000], ["reward_type", 2], ["voice_id", 0]]
+          },
+          {
+            "id": 21,
+            "old": [["bg_id", 0], ["character_id", 0], ["character_name", ""], ["count", 1], ["description", ""], ["id", 21], ["login_bonus_id", 30000], ["reward_id", 23001], ["reward_num", 30], ["reward_type", 2], ["voice_id", 0]],
+            "new": [["bg_id", 0], ["character_id", 0], ["character_name", ""], ["count", 1], ["description", ""], ["id", 21], ["login_bonus_id", 30000], ["reward_id", 25011], ["reward_num", 10000], ["reward_type", 2], ["voice_id", 0]]
+          }
+        ]
+      }
+    }
+  }
+}
