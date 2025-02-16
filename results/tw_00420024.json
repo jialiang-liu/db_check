@@ -1,0 +1,15 @@
+{
+  "tables": {
+    "only_in_old_db": [],
+    "only_in_new_db": []
+  },
+  "table_changes": {
+    "clan_battle_schedule": {
+      "data_changes": {
+        "added": [
+          [["clan_battle_id", 1080], ["cost_group_id", 1], ["cost_group_id_s", 2], ["end_time", "2025/03/27 04:59:59"], ["last_clan_battle_id", 1079], ["map_bgm", "bgm_M139"], ["mode_change_end_time", "2025/02/22 11:59:59"], ["mode_change_remind_time", "2025/02/21 11:59:59"], ["mode_change_start_time", "2025/02/17 12:00:00"], ["point_per_stamina", 1], ["release_month", 2], ["resource_id", 1], ["start_time", "2025/02/24 05:00:00"]]
+        ]
+      }
+    }
+  }
+}
