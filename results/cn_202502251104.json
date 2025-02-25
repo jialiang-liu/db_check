@@ -1,0 +1,29 @@
+{
+  "tables": {
+    "only_in_old_db": [],
+    "only_in_new_db": []
+  },
+  "table_changes": {
+    "sqlite_stat1": {
+      "data_changes": {
+        "WARNING": "Could not find unique identifier for table"
+      }
+    },
+    "dear_story_detail": {
+      "data_changes": {
+        "modified": [
+          {
+            "id": 6114206,
+            "old": [["chara_index", 2], ["condition_event_boss_id", 0], ["condition_event_quest_id", 0], ["end_time", "2030/12/31 14:59:59"], ["lock_all_text", 0], ["love_level", 0], ["pre_story_id", 0], ["requirement_id", 0], ["reward_id_1", 0], ["reward_id_2", 0], ["reward_id_3", 0], ["reward_type_1", 0], ["reward_type_2", 0], ["reward_type_3", 0], ["reward_value_1", 0], ["reward_value_2", 0], ["reward_value_3", 0], ["start_time", "2023/02/28 12:00:00"], ["story_end", 0], ["story_group_id", 6114], ["story_id", 6114206], ["story_quest_id", 0], ["sub_title", "做猫的\\n周边吧♪"], ["title", "与珠希的信赖度章节"], ["unlock_quest_id", 0], ["visible_type", 0]],
+            "new": [["chara_index", 2], ["condition_event_boss_id", 0], ["condition_event_quest_id", 0], ["end_time", "2030/12/31 14:59:59"], ["lock_all_text", 0], ["love_level", 0], ["pre_story_id", 0], ["requirement_id", 0], ["reward_id_1", 0], ["reward_id_2", 0], ["reward_id_3", 0], ["reward_type_1", 0], ["reward_type_2", 0], ["reward_type_3", 0], ["reward_value_1", 0], ["reward_value_2", 0], ["reward_value_3", 0], ["start_time", "2023/02/28 12:00:00"], ["story_end", 0], ["story_group_id", 6114], ["story_id", 6114206], ["story_quest_id", 0], ["sub_title", "做猫咪\\n周边吧♪"], ["title", "与珠希的信赖度章节"], ["unlock_quest_id", 0], ["visible_type", 0]]
+          },
+          {
+            "id": 6114104,
+            "old": [["chara_index", 1], ["condition_event_boss_id", 0], ["condition_event_quest_id", 0], ["end_time", "2030/12/31 14:59:59"], ["lock_all_text", 0], ["love_level", 0], ["pre_story_id", 0], ["requirement_id", 0], ["reward_id_1", 0], ["reward_id_2", 0], ["reward_id_3", 0], ["reward_type_1", 0], ["reward_type_2", 0], ["reward_type_3", 0], ["reward_value_1", 0], ["reward_value_2", 0], ["reward_value_3", 0], ["start_time", "2023/02/28 12:00:00"], ["story_end", 0], ["story_group_id", 6114], ["story_id", 6114104], ["story_quest_id", 0], ["sub_title", "如何与\\n间谍相处"], ["title", "与莫妮卡的信赖度章节"], ["unlock_quest_id", 0], ["visible_type", 0]],
+            "new": [["chara_index", 1], ["condition_event_boss_id", 0], ["condition_event_quest_id", 0], ["end_time", "2030/12/31 14:59:59"], ["lock_all_text", 0], ["love_level", 0], ["pre_story_id", 0], ["requirement_id", 0], ["reward_id_1", 0], ["reward_id_2", 0], ["reward_id_3", 0], ["reward_type_1", 0], ["reward_type_2", 0], ["reward_type_3", 0], ["reward_value_1", 0], ["reward_value_2", 0], ["reward_value_3", 0], ["start_time", "2023/02/28 12:00:00"], ["story_end", 0], ["story_group_id", 6114], ["story_id", 6114104], ["story_quest_id", 0], ["sub_title", "和间谍打交道\\n的方法"], ["title", "与莫妮卡的信赖度章节"], ["unlock_quest_id", 0], ["visible_type", 0]]
+          }
+        ]
+      }
+    }
+  }
+}
