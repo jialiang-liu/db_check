@@ -1,0 +1,235 @@
+{
+  "tables": {
+    "only_in_old_db": [],
+    "only_in_new_db": []
+  },
+  "table_changes": {
+    "tower_schedule": {
+      "data_changes": {
+        "modified": [
+          {
+            "id": 1035,
+            "old": [["count_start_time", "2021/12/14 15:59:59"], ["end_time", "2021/12/15 15:59:59"], ["max_tower_area_id", 35], ["opening_story_id", 7019000], ["recovery_disable_time", "2021/12/15 00:00:00"], ["start_time", "2021/12/10 16:00:00"], ["tower_schedule_id", 1035]],
+            "new": [["count_start_time", "2021/12/14 15:59:59"], ["end_time", "2021/12/15 15:59:59"], ["max_tower_area_id", 35], ["opening_story_id", 7019000], ["recovery_disable_time", "2021/12/15"], ["start_time", "2021/12/10 16:00:00"], ["tower_schedule_id", 1035]]
+          },
+          {
+            "id": 1020,
+            "old": [["count_start_time", "2020/09/15 15:59:59"], ["end_time", "2020/09/16 15:59:59"], ["max_tower_area_id", 20], ["opening_story_id", 7011003], ["recovery_disable_time", "2020/09/16 00:00:00"], ["start_time", "2020/09/11 16:00:00"], ["tower_schedule_id", 1020]],
+            "new": [["count_start_time", "2020/09/15 15:59:59"], ["end_time", "2020/09/16 15:59:59"], ["max_tower_area_id", 20], ["opening_story_id", 7011003], ["recovery_disable_time", "2020/09/16"], ["start_time", "2020/09/11 16:00:00"], ["tower_schedule_id", 1020]]
+          },
+          {
+            "id": 1037,
+            "old": [["count_start_time", "2022/02/14 15:59:59"], ["end_time", "2022/02/15 15:59:59"], ["max_tower_area_id", 37], ["opening_story_id", 7020000], ["recovery_disable_time", "2022/02/15 00:00:00"], ["start_time", "2022/02/10 16:00:00"], ["tower_schedule_id", 1037]],
+            "new": [["count_start_time", "2022/02/14 15:59:59"], ["end_time", "2022/02/15 15:59:59"], ["max_tower_area_id", 37], ["opening_story_id", 7020000], ["recovery_disable_time", "2022/02/15"], ["start_time", "2022/02/10 16:00:00"], ["tower_schedule_id", 1037]]
+          },
+          {
+            "id": 1024,
+            "old": [["count_start_time", "2021/01/10 15:59:59"], ["end_time", "2021/01/11 15:59:59"], ["max_tower_area_id", 24], ["opening_story_id", 7013003], ["recovery_disable_time", "2021/01/11 00:00:00"], ["start_time", "2021/01/06 16:00:00"], ["tower_schedule_id", 1024]],
+            "new": [["count_start_time", "2021/01/10 15:59:59"], ["end_time", "2021/01/11 15:59:59"], ["max_tower_area_id", 24], ["opening_story_id", 7013003], ["recovery_disable_time", "2021/01/11"], ["start_time", "2021/01/06 16:00:00"], ["tower_schedule_id", 1024]]
+          },
+          {
+            "id": 1025,
+            "old": [["count_start_time", "2021/02/13 15:59:59"], ["end_time", "2021/02/14 15:59:59"], ["max_tower_area_id", 25], ["opening_story_id", 7014000], ["recovery_disable_time", "2021/02/14 00:00:00"], ["start_time", "2021/02/09 16:00:00"], ["tower_schedule_id", 1025]],
+            "new": [["count_start_time", "2021/02/13 15:59:59"], ["end_time", "2021/02/14 15:59:59"], ["max_tower_area_id", 25], ["opening_story_id", 7014000], ["recovery_disable_time", "2021/02/14"], ["start_time", "2021/02/09 16:00:00"], ["tower_schedule_id", 1025]]
+          },
+          {
+            "id": 1040,
+            "old": [["count_start_time", "2022/05/14 15:59:59"], ["end_time", "2022/05/15 15:59:59"], ["max_tower_area_id", 40], ["opening_story_id", 7021003], ["recovery_disable_time", "2022/05/15 00:00:00"], ["start_time", "2022/05/10 16:00:00"], ["tower_schedule_id", 1040]],
+            "new": [["count_start_time", "2022/05/14 15:59:59"], ["end_time", "2022/05/15 15:59:59"], ["max_tower_area_id", 40], ["opening_story_id", 7021003], ["recovery_disable_time", "2022/05/15"], ["start_time", "2022/05/10 16:00:00"], ["tower_schedule_id", 1040]]
+          },
+          {
+            "id": 1042,
+            "old": [["count_start_time", "2022/07/12 15:59:59"], ["end_time", "2022/07/13 15:59:59"], ["max_tower_area_id", 42], ["opening_story_id", 7022003], ["recovery_disable_time", "2022/07/13 00:00:00"], ["start_time", "2022/07/08 16:00:00"], ["tower_schedule_id", 1042]],
+            "new": [["count_start_time", "2022/07/12 15:59:59"], ["end_time", "2022/07/13 15:59:59"], ["max_tower_area_id", 42], ["opening_story_id", 7022003], ["recovery_disable_time", "2022/07/13"], ["start_time", "2022/07/08 16:00:00"], ["tower_schedule_id", 1042]]
+          },
+          {
+            "id": 1045,
+            "old": [["count_start_time", "2022/12/13 15:59:59"], ["end_time", "2022/12/14 15:59:59"], ["max_tower_area_id", 45], ["opening_story_id", 7024000], ["recovery_disable_time", "2022/12/14 00:00:00"], ["start_time", "2022/12/09 16:00:00"], ["tower_schedule_id", 1045]],
+            "new": [["count_start_time", "2022/12/13 15:59:59"], ["end_time", "2022/12/14 15:59:59"], ["max_tower_area_id", 45], ["opening_story_id", 7024000], ["recovery_disable_time", "2022/12/14"], ["start_time", "2022/12/09 16:00:00"], ["tower_schedule_id", 1045]]
+          },
+          {
+            "id": 1028,
+            "old": [["count_start_time", "2021/05/16 15:59:59"], ["end_time", "2021/05/17 15:59:59"], ["max_tower_area_id", 28], ["opening_story_id", 7015003], ["recovery_disable_time", "2021/05/17 00:00:00"], ["start_time", "2021/05/12 16:00:00"], ["tower_schedule_id", 1028]],
+            "new": [["count_start_time", "2021/05/16 15:59:59"], ["end_time", "2021/05/17 15:59:59"], ["max_tower_area_id", 28], ["opening_story_id", 7015003], ["recovery_disable_time", "2021/05/17"], ["start_time", "2021/05/12 16:00:00"], ["tower_schedule_id", 1028]]
+          },
+          {
+            "id": 1017,
+            "old": [["count_start_time", "2020/06/18 15:59:59"], ["end_time", "2020/06/19 15:59:59"], ["max_tower_area_id", 17], ["opening_story_id", 7010000], ["recovery_disable_time", "2020/06/19 00:00:00"], ["start_time", "2020/06/12 16:00:00"], ["tower_schedule_id", 1017]],
+            "new": [["count_start_time", "2020/06/18 15:59:59"], ["end_time", "2020/06/19 15:59:59"], ["max_tower_area_id", 17], ["opening_story_id", 7010000], ["recovery_disable_time", "2020/06/19"], ["start_time", "2020/06/12 16:00:00"], ["tower_schedule_id", 1017]]
+          },
+          {
+            "id": 1049,
+            "old": [["count_start_time", "2023/10/13 15:59:59"], ["end_time", "2023/10/14 15:59:59"], ["max_tower_area_id", 49], ["opening_story_id", 7026000], ["recovery_disable_time", "2023/10/14 00:00:00"], ["start_time", "2023/10/09 16:00:00"], ["tower_schedule_id", 1049]],
+            "new": [["count_start_time", "2023/10/13 15:59:59"], ["end_time", "2023/10/14 15:59:59"], ["max_tower_area_id", 49], ["opening_story_id", 7026000], ["recovery_disable_time", "2023/10/14"], ["start_time", "2023/10/09 16:00:00"], ["tower_schedule_id", 1049]]
+          },
+          {
+            "id": 1050,
+            "old": [["count_start_time", "2024/01/09 15:59:59"], ["end_time", "2024/01/10 15:59:59"], ["max_tower_area_id", 50], ["opening_story_id", 7026003], ["recovery_disable_time", "2024/01/10 00:00:00"], ["start_time", "2024/01/05 16:00:00"], ["tower_schedule_id", 1050]],
+            "new": [["count_start_time", "2024/01/09 15:59:59"], ["end_time", "2024/01/10 15:59:59"], ["max_tower_area_id", 50], ["opening_story_id", 7026003], ["recovery_disable_time", "2024/01/10"], ["start_time", "2024/01/05 16:00:00"], ["tower_schedule_id", 1050]]
+          },
+          {
+            "id": 1015,
+            "old": [["count_start_time", "2020/04/20 15:59:59"], ["end_time", "2020/04/21 15:59:59"], ["max_tower_area_id", 15], ["opening_story_id", 7009000], ["recovery_disable_time", "2020/04/21 00:00:00"], ["start_time", "2020/04/14 16:00:00"], ["tower_schedule_id", 1015]],
+            "new": [["count_start_time", "2020/04/20 15:59:59"], ["end_time", "2020/04/21 15:59:59"], ["max_tower_area_id", 15], ["opening_story_id", 7009000], ["recovery_disable_time", "2020/04/21"], ["start_time", "2020/04/14 16:00:00"], ["tower_schedule_id", 1015]]
+          },
+          {
+            "id": 1051,
+            "old": [["count_start_time", "2024/04/13 15:59:59"], ["end_time", "2024/04/14 15:59:59"], ["max_tower_area_id", 51], ["opening_story_id", 7027000], ["recovery_disable_time", "2024/04/14 00:00:00"], ["start_time", "2024/04/09 16:00:00"], ["tower_schedule_id", 1051]],
+            "new": [["count_start_time", "2024/04/13 15:59:59"], ["end_time", "2024/04/14 15:59:59"], ["max_tower_area_id", 51], ["opening_story_id", 7027000], ["recovery_disable_time", "2024/04/14"], ["start_time", "2024/04/09 16:00:00"], ["tower_schedule_id", 1051]]
+          },
+          {
+            "id": 1013,
+            "old": [["count_start_time", "2020/02/20 15:59:59"], ["end_time", "2020/02/21 15:59:59"], ["max_tower_area_id", 13], ["opening_story_id", 7008000], ["recovery_disable_time", "2020/02/21 00:00:00"], ["start_time", "2020/02/17 16:00:00"], ["tower_schedule_id", 1013]],
+            "new": [["count_start_time", "2020/02/20 15:59:59"], ["end_time", "2020/02/21 15:59:59"], ["max_tower_area_id", 13], ["opening_story_id", 7008000], ["recovery_disable_time", "2020/02/21"], ["start_time", "2020/02/17 16:00:00"], ["tower_schedule_id", 1013]]
+          },
+          {
+            "id": 1036,
+            "old": [["count_start_time", "2022/01/14 15:59:59"], ["end_time", "2022/01/15 15:59:59"], ["max_tower_area_id", 36], ["opening_story_id", 7019003], ["recovery_disable_time", "2022/01/15 00:00:00"], ["start_time", "2022/01/10 16:00:00"], ["tower_schedule_id", 1036]],
+            "new": [["count_start_time", "2022/01/14 15:59:59"], ["end_time", "2022/01/15 15:59:59"], ["max_tower_area_id", 36], ["opening_story_id", 7019003], ["recovery_disable_time", "2022/01/15"], ["start_time", "2022/01/10 16:00:00"], ["tower_schedule_id", 1036]]
+          },
+          {
+            "id": 1023,
+            "old": [["count_start_time", "2020/12/14 15:59:59"], ["end_time", "2020/12/15 15:59:59"], ["max_tower_area_id", 23], ["opening_story_id", 7013000], ["recovery_disable_time", "2020/12/15 00:00:00"], ["start_time", "2020/12/10 16:00:00"], ["tower_schedule_id", 1023]],
+            "new": [["count_start_time", "2020/12/14 15:59:59"], ["end_time", "2020/12/15 15:59:59"], ["max_tower_area_id", 23], ["opening_story_id", 7013000], ["recovery_disable_time", "2020/12/15"], ["start_time", "2020/12/10 16:00:00"], ["tower_schedule_id", 1023]]
+          },
+          {
+            "id": 1032,
+            "old": [["count_start_time", "2021/09/14 15:59:59"], ["end_time", "2021/09/15 15:59:59"], ["max_tower_area_id", 32], ["opening_story_id", 7017003], ["recovery_disable_time", "2021/09/15 00:00:00"], ["start_time", "2021/09/10 16:00:00"], ["tower_schedule_id", 1032]],
+            "new": [["count_start_time", "2021/09/14 15:59:59"], ["end_time", "2021/09/15 15:59:59"], ["max_tower_area_id", 32], ["opening_story_id", 7017003], ["recovery_disable_time", "2021/09/15"], ["start_time", "2021/09/10 16:00:00"], ["tower_schedule_id", 1032]]
+          },
+          {
+            "id": 1052,
+            "old": [["count_start_time", "2024/08/13 15:59:59"], ["end_time", "2024/08/14 15:59:59"], ["max_tower_area_id", 52], ["opening_story_id", 7027003], ["recovery_disable_time", "2024/08/14 00:00:00"], ["start_time", "2024/08/09 16:00:00"], ["tower_schedule_id", 1052]],
+            "new": [["count_start_time", "2024/08/13 15:59:59"], ["end_time", "2024/08/14 15:59:59"], ["max_tower_area_id", 52], ["opening_story_id", 7027003], ["recovery_disable_time", "2024/08/14"], ["start_time", "2024/08/09 16:00:00"], ["tower_schedule_id", 1052]]
+          },
+          {
+            "id": 1046,
+            "old": [["count_start_time", "2023/02/14 15:59:59"], ["end_time", "2023/02/15 15:59:59"], ["max_tower_area_id", 46], ["opening_story_id", 7024003], ["recovery_disable_time", "2023/02/15 00:00:00"], ["start_time", "2023/02/10 16:00:00"], ["tower_schedule_id", 1046]],
+            "new": [["count_start_time", "2023/02/14 15:59:59"], ["end_time", "2023/02/15 15:59:59"], ["max_tower_area_id", 46], ["opening_story_id", 7024003], ["recovery_disable_time", "2023/02/15"], ["start_time", "2023/02/10 16:00:00"], ["tower_schedule_id", 1046]]
+          },
+          {
+            "id": 1019,
+            "old": [["count_start_time", "2020/08/20 15:59:59"], ["end_time", "2020/08/21 15:59:59"], ["max_tower_area_id", 19], ["opening_story_id", 7011000], ["recovery_disable_time", "2020/08/21 00:00:00"], ["start_time", "2020/08/14 16:00:00"], ["tower_schedule_id", 1019]],
+            "new": [["count_start_time", "2020/08/20 15:59:59"], ["end_time", "2020/08/21 15:59:59"], ["max_tower_area_id", 19], ["opening_story_id", 7011000], ["recovery_disable_time", "2020/08/21"], ["start_time", "2020/08/14 16:00:00"], ["tower_schedule_id", 1019]]
+          },
+          {
+            "id": 1033,
+            "old": [["count_start_time", "2021/10/12 15:59:59"], ["end_time", "2021/10/13 15:59:59"], ["max_tower_area_id", 33], ["opening_story_id", 7018000], ["recovery_disable_time", "2021/10/13 00:00:00"], ["start_time", "2021/10/08 16:00:00"], ["tower_schedule_id", 1033]],
+            "new": [["count_start_time", "2021/10/12 15:59:59"], ["end_time", "2021/10/13 15:59:59"], ["max_tower_area_id", 33], ["opening_story_id", 7018000], ["recovery_disable_time", "2021/10/13"], ["start_time", "2021/10/08 16:00:00"], ["tower_schedule_id", 1033]]
+          },
+          {
+            "id": 1038,
+            "old": [["count_start_time", "2022/03/14 15:59:59"], ["end_time", "2022/03/15 15:59:59"], ["max_tower_area_id", 38], ["opening_story_id", 7020003], ["recovery_disable_time", "2022/03/15 00:00:00"], ["start_time", "2022/03/10 16:00:00"], ["tower_schedule_id", 1038]],
+            "new": [["count_start_time", "2022/03/14 15:59:59"], ["end_time", "2022/03/15 15:59:59"], ["max_tower_area_id", 38], ["opening_story_id", 7020003], ["recovery_disable_time", "2022/03/15"], ["start_time", "2022/03/10 16:00:00"], ["tower_schedule_id", 1038]]
+          },
+          {
+            "id": 1053,
+            "old": [["count_start_time", "2024/12/14 15:59:59"], ["end_time", "2024/12/15 15:59:59"], ["max_tower_area_id", 53], ["opening_story_id", 7028000], ["recovery_disable_time", "2024/12/15 00:00:00"], ["start_time", "2024/12/10 16:00:00"], ["tower_schedule_id", 1053]],
+            "new": [["count_start_time", "2024/12/14 15:59:59"], ["end_time", "2024/12/15 15:59:59"], ["max_tower_area_id", 53], ["opening_story_id", 7028000], ["recovery_disable_time", "2024/12/15"], ["start_time", "2024/12/10 16:00:00"], ["tower_schedule_id", 1053]]
+          },
+          {
+            "id": 1043,
+            "old": [["count_start_time", "2022/08/13 15:59:59"], ["end_time", "2022/08/14 15:59:59"], ["max_tower_area_id", 43], ["opening_story_id", 7023000], ["recovery_disable_time", "2022/08/14 00:00:00"], ["start_time", "2022/08/09 16:00:00"], ["tower_schedule_id", 1043]],
+            "new": [["count_start_time", "2022/08/13 15:59:59"], ["end_time", "2022/08/14 15:59:59"], ["max_tower_area_id", 43], ["opening_story_id", 7023000], ["recovery_disable_time", "2022/08/14"], ["start_time", "2022/08/09 16:00:00"], ["tower_schedule_id", 1043]]
+          },
+          {
+            "id": 1041,
+            "old": [["count_start_time", "2022/06/14 15:59:59"], ["end_time", "2022/06/15 15:59:59"], ["max_tower_area_id", 41], ["opening_story_id", 7022000], ["recovery_disable_time", "2022/06/15 00:00:00"], ["start_time", "2022/06/10 16:00:00"], ["tower_schedule_id", 1041]],
+            "new": [["count_start_time", "2022/06/14 15:59:59"], ["end_time", "2022/06/15 15:59:59"], ["max_tower_area_id", 41], ["opening_story_id", 7022000], ["recovery_disable_time", "2022/06/15"], ["start_time", "2022/06/10 16:00:00"], ["tower_schedule_id", 1041]]
+          },
+          {
+            "id": 1039,
+            "old": [["count_start_time", "2022/04/12 15:59:59"], ["end_time", "2022/04/13 15:59:59"], ["max_tower_area_id", 39], ["opening_story_id", 7021000], ["recovery_disable_time", "2022/04/13 00:00:00"], ["start_time", "2022/04/08 16:00:00"], ["tower_schedule_id", 1039]],
+            "new": [["count_start_time", "2022/04/12 15:59:59"], ["end_time", "2022/04/13 15:59:59"], ["max_tower_area_id", 39], ["opening_story_id", 7021000], ["recovery_disable_time", "2022/04/13"], ["start_time", "2022/04/08 16:00:00"], ["tower_schedule_id", 1039]]
+          },
+          {
+            "id": 1029,
+            "old": [["count_start_time", "2021/06/15 15:59:59"], ["end_time", "2021/06/16 15:59:59"], ["max_tower_area_id", 29], ["opening_story_id", 7016000], ["recovery_disable_time", "2021/06/16 00:00:00"], ["start_time", "2021/06/11 16:00:00"], ["tower_schedule_id", 1029]],
+            "new": [["count_start_time", "2021/06/15 15:59:59"], ["end_time", "2021/06/16 15:59:59"], ["max_tower_area_id", 29], ["opening_story_id", 7016000], ["recovery_disable_time", "2021/06/16"], ["start_time", "2021/06/11 16:00:00"], ["tower_schedule_id", 1029]]
+          },
+          {
+            "id": 1044,
+            "old": [["count_start_time", "2022/10/11 15:59:59"], ["end_time", "2022/10/12 15:59:59"], ["max_tower_area_id", 44], ["opening_story_id", 7023003], ["recovery_disable_time", "2022/10/12 00:00:00"], ["start_time", "2022/10/07 16:00:00"], ["tower_schedule_id", 1044]],
+            "new": [["count_start_time", "2022/10/11 15:59:59"], ["end_time", "2022/10/12 15:59:59"], ["max_tower_area_id", 44], ["opening_story_id", 7023003], ["recovery_disable_time", "2022/10/12"], ["start_time", "2022/10/07 16:00:00"], ["tower_schedule_id", 1044]]
+          },
+          {
+            "id": 1047,
+            "old": [["count_start_time", "2023/04/11 15:59:59"], ["end_time", "2023/04/12 15:59:59"], ["max_tower_area_id", 47], ["opening_story_id", 7025000], ["recovery_disable_time", "2023/04/12 00:00:00"], ["start_time", "2023/04/07 16:00:00"], ["tower_schedule_id", 1047]],
+            "new": [["count_start_time", "2023/04/11 15:59:59"], ["end_time", "2023/04/12 15:59:59"], ["max_tower_area_id", 47], ["opening_story_id", 7025000], ["recovery_disable_time", "2023/04/12"], ["start_time", "2023/04/07 16:00:00"], ["tower_schedule_id", 1047]]
+          },
+          {
+            "id": 1034,
+            "old": [["count_start_time", "2021/11/16 15:59:59"], ["end_time", "2021/11/17 15:59:59"], ["max_tower_area_id", 34], ["opening_story_id", 7018003], ["recovery_disable_time", "2021/11/17 00:00:00"], ["start_time", "2021/11/12 16:00:00"], ["tower_schedule_id", 1034]],
+            "new": [["count_start_time", "2021/11/16 15:59:59"], ["end_time", "2021/11/17 15:59:59"], ["max_tower_area_id", 34], ["opening_story_id", 7018003], ["recovery_disable_time", "2021/11/17"], ["start_time", "2021/11/12 16:00:00"], ["tower_schedule_id", 1034]]
+          },
+          {
+            "id": 1054,
+            "old": [["count_start_time", "2025/02/14 15:59:59"], ["end_time", "2025/02/15 15:59:59"], ["max_tower_area_id", 54], ["opening_story_id", 7028003], ["recovery_disable_time", "2025/02/15 00:00:00"], ["start_time", "2025/02/10 16:00:00"], ["tower_schedule_id", 1054]],
+            "new": [["count_start_time", "2025/03/14 15:59:59"], ["end_time", "2025/03/15 15:59:59"], ["max_tower_area_id", 54], ["opening_story_id", 7028003], ["recovery_disable_time", "2025/03/15"], ["start_time", "2025/03/10 16:00:00"], ["tower_schedule_id", 1054]]
+          },
+          {
+            "id": 1026,
+            "old": [["count_start_time", "2021/03/13 15:59:59"], ["end_time", "2021/03/14 15:59:59"], ["max_tower_area_id", 26], ["opening_story_id", 7014003], ["recovery_disable_time", "2021/03/14 00:00:00"], ["start_time", "2021/03/09 16:00:00"], ["tower_schedule_id", 1026]],
+            "new": [["count_start_time", "2021/03/13 15:59:59"], ["end_time", "2021/03/14 15:59:59"], ["max_tower_area_id", 26], ["opening_story_id", 7014003], ["recovery_disable_time", "2021/03/14"], ["start_time", "2021/03/09 16:00:00"], ["tower_schedule_id", 1026]]
+          },
+          {
+            "id": 1012,
+            "old": [["count_start_time", "2020/01/21 15:59:59"], ["end_time", "2020/01/22 15:59:59"], ["max_tower_area_id", 12], ["opening_story_id", 7007003], ["recovery_disable_time", "2020/01/22 00:00:00"], ["start_time", "2020/01/16 16:00:00"], ["tower_schedule_id", 1012]],
+            "new": [["count_start_time", "2020/01/21 15:59:59"], ["end_time", "2020/01/22 15:59:59"], ["max_tower_area_id", 12], ["opening_story_id", 7007003], ["recovery_disable_time", "2020/01/22"], ["start_time", "2020/01/16 16:00:00"], ["tower_schedule_id", 1012]]
+          },
+          {
+            "id": 1014,
+            "old": [["count_start_time", "2020/03/23 15:59:59"], ["end_time", "2020/03/24 15:59:59"], ["max_tower_area_id", 14], ["opening_story_id", 7008003], ["recovery_disable_time", "2020/03/24 00:00:00"], ["start_time", "2020/03/17 16:00:00"], ["tower_schedule_id", 1014]],
+            "new": [["count_start_time", "2020/03/23 15:59:59"], ["end_time", "2020/03/24 15:59:59"], ["max_tower_area_id", 14], ["opening_story_id", 7008003], ["recovery_disable_time", "2020/03/24"], ["start_time", "2020/03/17 16:00:00"], ["tower_schedule_id", 1014]]
+          },
+          {
+            "id": 1018,
+            "old": [["count_start_time", "2020/07/19 15:59:59"], ["end_time", "2020/07/20 15:59:59"], ["max_tower_area_id", 18], ["opening_story_id", 7010003], ["recovery_disable_time", "2020/07/20 00:00:00"], ["start_time", "2020/07/13 16:00:00"], ["tower_schedule_id", 1018]],
+            "new": [["count_start_time", "2020/07/19 15:59:59"], ["end_time", "2020/07/20 15:59:59"], ["max_tower_area_id", 18], ["opening_story_id", 7010003], ["recovery_disable_time", "2020/07/20"], ["start_time", "2020/07/13 16:00:00"], ["tower_schedule_id", 1018]]
+          },
+          {
+            "id": 1027,
+            "old": [["count_start_time", "2021/04/13 15:59:59"], ["end_time", "2021/04/14 15:59:59"], ["max_tower_area_id", 27], ["opening_story_id", 7015000], ["recovery_disable_time", "2021/04/14 00:00:00"], ["start_time", "2021/04/08 16:00:00"], ["tower_schedule_id", 1027]],
+            "new": [["count_start_time", "2021/04/13 15:59:59"], ["end_time", "2021/04/14 15:59:59"], ["max_tower_area_id", 27], ["opening_story_id", 7015000], ["recovery_disable_time", "2021/04/14"], ["start_time", "2021/04/08 16:00:00"], ["tower_schedule_id", 1027]]
+          },
+          {
+            "id": 1048,
+            "old": [["count_start_time", "2023/07/11 15:59:59"], ["end_time", "2023/07/12 15:59:59"], ["max_tower_area_id", 48], ["opening_story_id", 7025003], ["recovery_disable_time", "2023/07/12 00:00:00"], ["start_time", "2023/07/07 16:00:00"], ["tower_schedule_id", 1048]],
+            "new": [["count_start_time", "2023/07/11 15:59:59"], ["end_time", "2023/07/12 15:59:59"], ["max_tower_area_id", 48], ["opening_story_id", 7025003], ["recovery_disable_time", "2023/07/12"], ["start_time", "2023/07/07 16:00:00"], ["tower_schedule_id", 1048]]
+          },
+          {
+            "id": 1030,
+            "old": [["count_start_time", "2021/07/17 15:59:59"], ["end_time", "2021/07/18 15:59:59"], ["max_tower_area_id", 30], ["opening_story_id", 7016003], ["recovery_disable_time", "2021/07/18 00:00:00"], ["start_time", "2021/07/13 16:00:00"], ["tower_schedule_id", 1030]],
+            "new": [["count_start_time", "2021/07/17 15:59:59"], ["end_time", "2021/07/18 15:59:59"], ["max_tower_area_id", 30], ["opening_story_id", 7016003], ["recovery_disable_time", "2021/07/18"], ["start_time", "2021/07/13 16:00:00"], ["tower_schedule_id", 1030]]
+          },
+          {
+            "id": 1031,
+            "old": [["count_start_time", "2021/08/17 15:59:59"], ["end_time", "2021/08/18 15:59:59"], ["max_tower_area_id", 31], ["opening_story_id", 7017000], ["recovery_disable_time", "2021/08/18 00:00:00"], ["start_time", "2021/08/13 16:00:00"], ["tower_schedule_id", 1031]],
+            "new": [["count_start_time", "2021/08/17 15:59:59"], ["end_time", "2021/08/18 15:59:59"], ["max_tower_area_id", 31], ["opening_story_id", 7017000], ["recovery_disable_time", "2021/08/18"], ["start_time", "2021/08/13 16:00:00"], ["tower_schedule_id", 1031]]
+          },
+          {
+            "id": 1021,
+            "old": [["count_start_time", "2020/10/17 15:59:59"], ["end_time", "2020/10/18 15:59:59"], ["max_tower_area_id", 21], ["opening_story_id", 7012000], ["recovery_disable_time", "2020/10/18 00:00:00"], ["start_time", "2020/10/13 16:00:00"], ["tower_schedule_id", 1021]],
+            "new": [["count_start_time", "2020/10/17 15:59:59"], ["end_time", "2020/10/18 15:59:59"], ["max_tower_area_id", 21], ["opening_story_id", 7012000], ["recovery_disable_time", "2020/10/18"], ["start_time", "2020/10/13 16:00:00"], ["tower_schedule_id", 1021]]
+          },
+          {
+            "id": 1022,
+            "old": [["count_start_time", "2020/11/14 15:59:59"], ["end_time", "2020/11/15 15:59:59"], ["max_tower_area_id", 22], ["opening_story_id", 7012003], ["recovery_disable_time", "2020/11/15 00:00:00"], ["start_time", "2020/11/10 16:00:00"], ["tower_schedule_id", 1022]],
+            "new": [["count_start_time", "2020/11/14 15:59:59"], ["end_time", "2020/11/15 15:59:59"], ["max_tower_area_id", 22], ["opening_story_id", 7012003], ["recovery_disable_time", "2020/11/15"], ["start_time", "2020/11/10 16:00:00"], ["tower_schedule_id", 1022]]
+          }
+        ]
+      }
+    },
+    "daily_mission_data": {
+      "data_changes": {
+        "modified": [
+          {
+            "id": 11101001,
+            "old": [["category_icon", 208], ["condition_num", 1], ["condition_value_1", 0], ["condition_value_2", 0], ["condition_value_3", 0], ["daily_mission_id", 11101001], ["description", "挑戰1次露娜之塔的冒險"], ["disp_group", 14], ["end_time", "2025/02/15 15:59:59"], ["max_level", 0], ["min_level", 0], ["mission_condition", 1101], ["mission_reward_id", 11101001], ["start_time", "2025/02/10 16:00:00"], ["system_id", 108], ["title_color_id", 0], ["visible_flag", 1]],
+            "new": [["category_icon", 208], ["condition_num", 1], ["condition_value_1", 0], ["condition_value_2", 0], ["condition_value_3", 0], ["daily_mission_id", 11101001], ["description", "挑戰1次露娜之塔的冒險"], ["disp_group", 14], ["end_time", "2025/03/15 15:59:59"], ["max_level", 0], ["min_level", 0], ["mission_condition", 1101], ["mission_reward_id", 11101001], ["start_time", "2025/03/10 16:00:00"], ["system_id", 108], ["title_color_id", 0], ["visible_flag", 1]]
+          }
+        ]
+      }
+    }
+  }
+}
