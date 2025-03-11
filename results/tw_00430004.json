@@ -1,0 +1,16 @@
+{
+  "tables": {
+    "only_in_old_db": [],
+    "only_in_new_db": []
+  },
+  "table_changes": {
+    "campaign_schedule": {
+      "data_changes": {
+        "added": [
+          [["beginner_id", 0], ["campaign_category", 39], ["campaign_type", 1], ["duplication_order", 0], ["end_time", "2025/03/29 04:59:59"], ["icon_image", 30], ["id", 2191], ["level_id", 0], ["lv_from", 281], ["lv_to", -1], ["shiori_group_id", 0], ["start_time", "2025/03/12 05:00:00"], ["system_id", 111], ["value", 2000.0]],
+          [["beginner_id", 0], ["campaign_category", 49], ["campaign_type", 1], ["duplication_order", 0], ["end_time", "2025/03/29 04:59:59"], ["icon_image", 40], ["id", 2192], ["level_id", 0], ["lv_from", 281], ["lv_to", -1], ["shiori_group_id", 0], ["start_time", "2025/03/12 05:00:00"], ["system_id", 111], ["value", 2000.0]]
+        ]
+      }
+    }
+  }
+}
