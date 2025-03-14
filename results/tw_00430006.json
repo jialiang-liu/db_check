@@ -1,0 +1,43 @@
+{
+  "tables": {
+    "only_in_old_db": [],
+    "only_in_new_db": []
+  },
+  "table_changes": {
+    "unit_skill_data": {
+      "data_changes": {
+        "modified": [
+          {
+            "id": 626101,
+            "old": [["ex_skill_1", 1261501], ["ex_skill_2", 0], ["ex_skill_3", 0], ["ex_skill_4", 0], ["ex_skill_5", 0], ["ex_skill_evolution_1", 1261511], ["ex_skill_evolution_2", 0], ["ex_skill_evolution_3", 0], ["ex_skill_evolution_4", 0], ["ex_skill_evolution_5", 0], ["main_skill_1", 1261002], ["main_skill_10", 0], ["main_skill_2", 1261003], ["main_skill_3", 0], ["main_skill_4", 0], ["main_skill_5", 0], ["main_skill_6", 0], ["main_skill_7", 0], ["main_skill_8", 0], ["main_skill_9", 0], ["main_skill_evolution_1", 0], ["main_skill_evolution_2", 0], ["sp_skill_1", 1261101], ["sp_skill_2", 0], ["sp_skill_3", 0], ["sp_skill_4", 0], ["sp_skill_5", 0], ["sp_skill_evolution_1", 0], ["sp_skill_evolution_2", 0], ["sp_union_burst", 0], ["union_burst", 1261001], ["union_burst_evolution", 0], ["unit_id", 626101]],
+            "new": [["ex_skill_1", 1261501], ["ex_skill_2", 0], ["ex_skill_3", 0], ["ex_skill_4", 0], ["ex_skill_5", 0], ["ex_skill_evolution_1", 1261511], ["ex_skill_evolution_2", 0], ["ex_skill_evolution_3", 0], ["ex_skill_evolution_4", 0], ["ex_skill_evolution_5", 0], ["main_skill_1", 1261002], ["main_skill_10", 0], ["main_skill_2", 1261003], ["main_skill_3", 0], ["main_skill_4", 0], ["main_skill_5", 0], ["main_skill_6", 0], ["main_skill_7", 0], ["main_skill_8", 0], ["main_skill_9", 0], ["main_skill_evolution_1", 1261012], ["main_skill_evolution_2", 0], ["sp_skill_1", 1261101], ["sp_skill_2", 0], ["sp_skill_3", 0], ["sp_skill_4", 0], ["sp_skill_5", 0], ["sp_skill_evolution_1", 0], ["sp_skill_evolution_2", 0], ["sp_union_burst", 0], ["union_burst", 1261001], ["union_burst_evolution", 0], ["unit_id", 626101]]
+          }
+        ]
+      }
+    },
+    "ex_equipment_data": {
+      "data_changes": {
+        "modified": [
+          {
+            "id": 4109501,
+            "old": [["category", 109], ["clan_battle_equip_flag", 0], ["default_accuracy", 0], ["default_atk", 0], ["default_def", 0], ["default_dodge", 0], ["default_energy_recovery_rate", 0], ["default_energy_reduce_rate", 0], ["default_hp", 0], ["default_hp_recovery_rate", 0], ["default_life_steal", 0], ["default_magic_critical", 0], ["default_magic_def", 0], ["default_magic_penetrate", 0], ["default_magic_str", 468], ["default_physical_critical", 0], ["default_physical_penetrate", 0], ["default_wave_energy_recovery", 0], ["default_wave_hp_recovery", 0], ["description", "擊破霸瞳皇帝之殘響的勇者\\n所被給予的法杖。在終炎來臨時為了奪回自身\\n的信念與尊嚴，以在孤獨中鍛鍊出\\n的力量來起身反抗。"], ["ex_equipment_id", 4109501], ["is_force_protected", 0], ["max_accuracy", 0], ["max_atk", 0], ["max_def", 0], ["max_dodge", 0], ["max_energy_recovery_rate", 0], ["max_energy_reduce_rate", 0], ["max_hp", 0], ["max_hp_recovery_rate", 0], ["max_life_steal", 0], ["max_magic_critical", 0], ["max_magic_def", 0], ["max_magic_penetrate", 0], ["max_magic_str", 468], ["max_physical_critical", 0], ["max_physical_penetrate", 0], ["max_rank_flag", 1], ["max_wave_energy_recovery", 0], ["max_wave_hp_recovery", 0], ["name", "霸瞳神杖天之御柱"], ["passive_skill_id_1", 4109501], ["passive_skill_id_2", 0], ["passive_skill_power", 0], ["rarity", 5], ["restriction_id", 0]],
+            "new": [["category", 109], ["clan_battle_equip_flag", 0], ["default_accuracy", 0], ["default_atk", 0], ["default_def", 0], ["default_dodge", 0], ["default_energy_recovery_rate", 0], ["default_energy_reduce_rate", 0], ["default_hp", 0], ["default_hp_recovery_rate", 0], ["default_life_steal", 0], ["default_magic_critical", 0], ["default_magic_def", 0], ["default_magic_penetrate", 0], ["default_magic_str", 468], ["default_physical_critical", 0], ["default_physical_penetrate", 0], ["default_wave_energy_recovery", 0], ["default_wave_hp_recovery", 0], ["description", "擊破霸瞳皇帝之殘響的勇者所被給予\\n的法杖。在終炎來臨時為了奪回自身\\n的信念與尊嚴，以在孤獨中鍛鍊出的\\n力量來起身反抗。"], ["ex_equipment_id", 4109501], ["is_force_protected", 0], ["max_accuracy", 0], ["max_atk", 0], ["max_def", 0], ["max_dodge", 0], ["max_energy_recovery_rate", 0], ["max_energy_reduce_rate", 0], ["max_hp", 0], ["max_hp_recovery_rate", 0], ["max_life_steal", 0], ["max_magic_critical", 0], ["max_magic_def", 0], ["max_magic_penetrate", 0], ["max_magic_str", 468], ["max_physical_critical", 0], ["max_physical_penetrate", 0], ["max_rank_flag", 1], ["max_wave_energy_recovery", 0], ["max_wave_hp_recovery", 0], ["name", "霸瞳神杖天之御柱"], ["passive_skill_id_1", 4109501], ["passive_skill_id_2", 0], ["passive_skill_power", 0], ["rarity", 5], ["restriction_id", 0]]
+          },
+          {
+            "id": 4110501,
+            "old": [["category", 110], ["clan_battle_equip_flag", 0], ["default_accuracy", 0], ["default_atk", 0], ["default_def", 0], ["default_dodge", 0], ["default_energy_recovery_rate", 0], ["default_energy_reduce_rate", 0], ["default_hp", 0], ["default_hp_recovery_rate", 0], ["default_life_steal", 0], ["default_magic_critical", 0], ["default_magic_def", 0], ["default_magic_penetrate", 0], ["default_magic_str", 468], ["default_physical_critical", 0], ["default_physical_penetrate", 0], ["default_wave_energy_recovery", 0], ["default_wave_hp_recovery", 0], ["description", "擊破霸瞳皇帝之殘響的勇者\\n所被給予的書物。敗北後，在已失去的\\n霸道前方存在著何物。那雙瞳孔所\\n映照的未來仍未看透。"], ["ex_equipment_id", 4110501], ["is_force_protected", 0], ["max_accuracy", 0], ["max_atk", 0], ["max_def", 0], ["max_dodge", 0], ["max_energy_recovery_rate", 0], ["max_energy_reduce_rate", 0], ["max_hp", 0], ["max_hp_recovery_rate", 0], ["max_life_steal", 0], ["max_magic_critical", 0], ["max_magic_def", 0], ["max_magic_penetrate", 0], ["max_magic_str", 468], ["max_physical_critical", 0], ["max_physical_penetrate", 0], ["max_rank_flag", 1], ["max_wave_energy_recovery", 0], ["max_wave_hp_recovery", 0], ["name", "霸瞳神言古事記"], ["passive_skill_id_1", 4110501], ["passive_skill_id_2", 0], ["passive_skill_power", 0], ["rarity", 5], ["restriction_id", 0]],
+            "new": [["category", 110], ["clan_battle_equip_flag", 0], ["default_accuracy", 0], ["default_atk", 0], ["default_def", 0], ["default_dodge", 0], ["default_energy_recovery_rate", 0], ["default_energy_reduce_rate", 0], ["default_hp", 0], ["default_hp_recovery_rate", 0], ["default_life_steal", 0], ["default_magic_critical", 0], ["default_magic_def", 0], ["default_magic_penetrate", 0], ["default_magic_str", 468], ["default_physical_critical", 0], ["default_physical_penetrate", 0], ["default_wave_energy_recovery", 0], ["default_wave_hp_recovery", 0], ["description", "擊破霸瞳皇帝之殘響的勇者所被給予\\n的書物。敗北後，在已失去的\\n霸道前方存在著何物。那雙瞳孔所\\n映照的未來仍未看透。"], ["ex_equipment_id", 4110501], ["is_force_protected", 0], ["max_accuracy", 0], ["max_atk", 0], ["max_def", 0], ["max_dodge", 0], ["max_energy_recovery_rate", 0], ["max_energy_reduce_rate", 0], ["max_hp", 0], ["max_hp_recovery_rate", 0], ["max_life_steal", 0], ["max_magic_critical", 0], ["max_magic_def", 0], ["max_magic_penetrate", 0], ["max_magic_str", 468], ["max_physical_critical", 0], ["max_physical_penetrate", 0], ["max_rank_flag", 1], ["max_wave_energy_recovery", 0], ["max_wave_hp_recovery", 0], ["name", "霸瞳神言古事記"], ["passive_skill_id_1", 4110501], ["passive_skill_id_2", 0], ["passive_skill_power", 0], ["rarity", 5], ["restriction_id", 0]]
+          }
+        ]
+      }
+    },
+    "campaign_schedule": {
+      "data_changes": {
+        "added": [
+          [["beginner_id", 0], ["campaign_category", 41], ["campaign_type", 1], ["duplication_order", 0], ["end_time", "2025/03/20 04:59:59"], ["icon_image", 40], ["id", 2194], ["level_id", 0], ["lv_from", 281], ["lv_to", -1], ["shiori_group_id", 0], ["start_time", "2025/03/15 05:00:00"], ["system_id", 101], ["value", 2000.0]],
+          [["beginner_id", 0], ["campaign_category", 31], ["campaign_type", 1], ["duplication_order", 0], ["end_time", "2025/03/20 04:59:59"], ["icon_image", 30], ["id", 2193], ["level_id", 0], ["lv_from", 281], ["lv_to", -1], ["shiori_group_id", 0], ["start_time", "2025/03/15 05:00:00"], ["system_id", 101], ["value", 3000.0]]
+        ]
+      }
+    }
+  }
+}
