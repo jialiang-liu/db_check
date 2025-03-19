@@ -1,0 +1,425 @@
+{
+  "tables": {
+    "only_in_old_db": [],
+    "only_in_new_db": []
+  },
+  "table_changes": {
+    "item_data": {
+      "data_changes": {
+        "added": [
+          [["description", "封印有若菜的記憶碎片的道具。收集一定數量，則可以解放角色深藏的力量。"], ["end_time", "2030/08/01 14:59:59"], ["gojuon_order", 9010012], ["item_id", 31301], ["item_name", "若菜的記憶碎片"], ["item_type", 11], ["limit_num", 9999], ["price", 0], ["promotion_level", 1], ["sell_check_disp", 0], ["start_time", "2015/12/17 15:00:00"], ["value", 31301]],
+          [["description", "據說能使若菜突破力量極限並更為提升的戒指。裝備後能使角色Lv突破極限並超越主角Lv。"], ["end_time", "2030/08/01 14:59:00"], ["gojuon_order", 0], ["item_id", 41301], ["item_name", "若菜專用戒指"], ["item_type", 22], ["limit_num", 9999], ["price", 0], ["promotion_level", 1], ["sell_check_disp", 0], ["start_time", "2015/12/17 15:00:00"], ["value", 0]]
+        ]
+      }
+    },
+    "promotion_bonus": {
+      "data_changes": {
+        "added": [
+          [["accuracy", 2500.0], ["atk", 0.0], ["def", 0.0], ["dodge", 0.0], ["energy_recovery_rate", 10.0], ["energy_reduce_rate", 0.0], ["hp", 0.0], ["hp_recovery_rate", 0.0], ["life_steal", 0.0], ["magic_critical", 0.0], ["magic_def", 0.0], ["magic_penetrate", 0.0], ["magic_str", 0.0], ["physical_critical", 0.0], ["physical_penetrate", 0.0], ["promotion_level", 35], ["unit_id", 130101], ["wave_energy_recovery", 0.0], ["wave_hp_recovery", 0.0]]
+        ]
+      }
+    },
+    "unit_comments": {
+      "data_changes": {
+        "added": [
+          [["all_comments_flag", 0], ["change_face", 1], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 0.0], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "今天狠下心，用了\\n比較好的肉來料理♪\\n因為是騎士先生的生日，\\n希望能合你的口味……"], ["face_id", 1], ["face_id_2", 0], ["face_id_3", 0], ["id", 1301012], ["target_unit_id", 0], ["unit_id", 130131], ["use_type", 2], ["voice_id", 6]],
+          [["all_comments_flag", 0], ["change_face", 1], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 5.3], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "能夠成為某人的助力，\\n是很美好的事呢。\\n……只是跟姊姊她們一起時，\\n不太能做到……"], ["face_id", 2], ["face_id_2", 0], ["face_id_3", 0], ["id", 1301002], ["target_unit_id", 0], ["unit_id", 130101], ["use_type", 1], ["voice_id", 2]],
+          [["all_comments_flag", 0], ["change_face", 4], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 5.0], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "如果你還沒用餐，\\n不嫌棄的話，要不要一起？\\n啊……呃，如果你不喜歡，\\n完全可以拒絕的……！"], ["face_id", 2], ["face_id_2", 0], ["face_id_3", 0], ["id", 1301004], ["target_unit_id", 0], ["unit_id", 130101], ["use_type", 1], ["voice_id", 4]],
+          [["all_comments_flag", 0], ["change_face", 5], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 3.6], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "騎士先生總是\\n這麼幫助我呢……\\n為、為什麼呢？\\n為什麼要對如此沒用的我……"], ["face_id", 6], ["face_id_2", 0], ["face_id_3", 0], ["id", 1301001], ["target_unit_id", 0], ["unit_id", 130101], ["use_type", 1], ["voice_id", 1]],
+          [["all_comments_flag", 0], ["change_face", 2], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 2.5], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "你的衣服破了喔。\\n借我一下，\\n我馬上幫你補好……\\n我很習慣做這種事♪"], ["face_id", 6], ["face_id_2", 0], ["face_id_3", 0], ["id", 1301003], ["target_unit_id", 0], ["unit_id", 130101], ["use_type", 1], ["voice_id", 3]],
+          [["all_comments_flag", 0], ["change_face", 1], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 0.0], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "今天的咖哩是我的得意之作。\\n我煮了很多，\\n請盡情享用。\\n我多撈點肉給你哦……♪"], ["face_id", 1], ["face_id_2", 0], ["face_id_3", 0], ["id", 1301006], ["target_unit_id", 0], ["unit_id", 130131], ["use_type", 1], ["voice_id", 1]],
+          [["all_comments_flag", 0], ["change_face", 4], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 0.0], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "因為我的家人們\\n總是給你添麻煩……\\n要是有什麼方法\\n能向你賠罪就好……"], ["face_id", 4], ["face_id_2", 0], ["face_id_3", 0], ["id", 1301005], ["target_unit_id", 0], ["unit_id", 130101], ["use_type", 1], ["voice_id", 5]],
+          [["all_comments_flag", 0], ["change_face", 1], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 0.0], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "光是有騎士先生看著……\\n我就稍微有點自信了。\\n所以……如果可以的話……\\n能請你再過來吃飯嗎……"], ["face_id", 1], ["face_id_2", 0], ["face_id_3", 0], ["id", 1301010], ["target_unit_id", 0], ["unit_id", 130131], ["use_type", 1], ["voice_id", 5]],
+          [["all_comments_flag", 0], ["change_face", 1], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 0.0], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "像這樣……跟某人\\n一起烹飪真好啊。\\n姊姊她們都不會來幫我，\\n所以其實……我以前有點憧憬。"], ["face_id", 1], ["face_id_2", 0], ["face_id_3", 0], ["id", 1301007], ["target_unit_id", 0], ["unit_id", 130131], ["use_type", 1], ["voice_id", 2]],
+          [["all_comments_flag", 0], ["change_face", 1], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 0.0], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "心、心形的紅蘿蔔……\\n沒有任何、特別的意思喔？\\n反正吃進肚子以後、都一樣……"], ["face_id", 1], ["face_id_2", 0], ["face_id_3", 0], ["id", 1301009], ["target_unit_id", 0], ["unit_id", 130131], ["use_type", 1], ["voice_id", 4]],
+          [["all_comments_flag", 0], ["change_face", 2], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 1.8], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "生、生日、\\n快樂……！\\n這是給你的禮物……\\n雖然不是什麼大不了的東西……"], ["face_id", 6], ["face_id_2", 0], ["face_id_3", 0], ["id", 1301011], ["target_unit_id", 0], ["unit_id", 130101], ["use_type", 2], ["voice_id", 6]],
+          [["all_comments_flag", 0], ["change_face", 1], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 0.0], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "姊姊和布武機\\n對料理的喜好完全不一樣……\\n讓我在制定菜單時常常很煩惱。"], ["face_id", 1], ["face_id_2", 0], ["face_id_3", 0], ["id", 1301008], ["target_unit_id", 0], ["unit_id", 130131], ["use_type", 1], ["voice_id", 3]]
+        ]
+      }
+    },
+    "skill_data": {
+      "data_changes": {
+        "added": [
+          [["action_1", 130100101], ["action_10", 0], ["action_2", 130100102], ["action_3", 130100103], ["action_4", 130100104], ["action_5", 130100105], ["action_6", 130100106], ["action_7", 130100107], ["action_8", 130100108], ["action_9", 0], ["boss_ub_cool_time", 0.0], ["depend_action_1", 0], ["depend_action_10", 0], ["depend_action_2", 0], ["depend_action_3", 130100102], ["depend_action_4", 0], ["depend_action_5", 0], ["depend_action_6", 0], ["depend_action_7", 0], ["depend_action_8", 0], ["depend_action_9", 0], ["description", "特大幅度提升【召喚】我方全體的物理攻擊力，並對面前的１名敵方角色造成特大幅度的物理傷害，小幅度降低其物理防禦力。並且，若菜所召喚的尖刺兄弟在我方時，大幅度恢復尖刺兄弟的ＨＰ，其它狀況下則叫出１隻尖刺兄弟。"], ["icon_type", 1003], ["name", "拜託了！尖刺兄弟"], ["skill_area_width", 0], ["skill_cast_time", 0.0], ["skill_id", 1301001], ["skill_type", 0]],
+          [["action_1", 430110201], ["action_10", 0], ["action_2", 430110202], ["action_3", 0], ["action_4", 0], ["action_5", 0], ["action_6", 0], ["action_7", 0], ["action_8", 0], ["action_9", 0], ["boss_ub_cool_time", 0.0], ["depend_action_1", 0], ["depend_action_10", 0], ["depend_action_2", 0], ["depend_action_3", 0], ["depend_action_4", 0], ["depend_action_5", 0], ["depend_action_6", 0], ["depend_action_7", 0], ["depend_action_8", 0], ["depend_action_9", 0], ["description", ""], ["icon_type", 2001], ["name", "尖刺護盾"], ["skill_area_width", 0], ["skill_cast_time", 1.0], ["skill_id", 4301102], ["skill_type", 0]],
+          [["action_1", 130151101], ["action_10", 0], ["action_2", 0], ["action_3", 0], ["action_4", 0], ["action_5", 0], ["action_6", 0], ["action_7", 0], ["action_8", 0], ["action_9", 0], ["boss_ub_cool_time", 0.0], ["depend_action_1", 0], ["depend_action_10", 0], ["depend_action_2", 0], ["depend_action_3", 0], ["depend_action_4", 0], ["depend_action_5", 0], ["depend_action_6", 0], ["depend_action_7", 0], ["depend_action_8", 0], ["depend_action_9", 0], ["description", "戰鬥開始時，大幅度提升自身的物理暴擊率。"], ["icon_type", 3001], ["name", "秘藏節儉食譜+"], ["skill_area_width", 0], ["skill_cast_time", 0.0], ["skill_id", 1301511], ["skill_type", 0]],
+          [["action_1", 430110301], ["action_10", 0], ["action_2", 430110302], ["action_3", 0], ["action_4", 0], ["action_5", 0], ["action_6", 0], ["action_7", 0], ["action_8", 0], ["action_9", 0], ["boss_ub_cool_time", 0.0], ["depend_action_1", 0], ["depend_action_10", 0], ["depend_action_2", 0], ["depend_action_3", 0], ["depend_action_4", 0], ["depend_action_5", 0], ["depend_action_6", 0], ["depend_action_7", 0], ["depend_action_8", 0], ["depend_action_9", 0], ["description", ""], ["icon_type", 2001], ["name", "反擊芒刺"], ["skill_area_width", 0], ["skill_cast_time", 1.0], ["skill_id", 4301103], ["skill_type", 0]],
+          [["action_1", 130100201], ["action_10", 0], ["action_2", 130100202], ["action_3", 130100203], ["action_4", 130100204], ["action_5", 130100205], ["action_6", 130100206], ["action_7", 130100207], ["action_8", 130100208], ["action_9", 0], ["boss_ub_cool_time", 0.0], ["depend_action_1", 0], ["depend_action_10", 0], ["depend_action_2", 0], ["depend_action_3", 0], ["depend_action_4", 0], ["depend_action_5", 0], ["depend_action_6", 0], ["depend_action_7", 0], ["depend_action_8", 0], ["depend_action_9", 0], ["description", "特大幅度提升自身以外的我方全體的物理攻擊力與物理暴擊率，並中幅度恢復ＨＰ與ＴＰ。同時中幅度提升自身的物理攻擊力，大幅度提升物理暴擊率，小幅度恢復ＨＰ與ＴＰ。"], ["icon_type", 2003], ["name", "要來份咖哩嗎？"], ["skill_area_width", 0], ["skill_cast_time", 1.05], ["skill_id", 1301002], ["skill_type", 0]],
+          [["action_1", 130100301], ["action_10", 0], ["action_2", 130100302], ["action_3", 0], ["action_4", 0], ["action_5", 0], ["action_6", 0], ["action_7", 0], ["action_8", 0], ["action_9", 0], ["boss_ub_cool_time", 0.0], ["depend_action_1", 0], ["depend_action_10", 0], ["depend_action_2", 0], ["depend_action_3", 0], ["depend_action_4", 0], ["depend_action_5", 0], ["depend_action_6", 0], ["depend_action_7", 0], ["depend_action_8", 0], ["depend_action_9", 0], ["description", "對面前的１名敵人造成大幅度的物理傷害，同時對我方全體展開物理/魔法無效的護盾。"], ["icon_type", 2013], ["name", "尖刺突擊"], ["skill_area_width", 0], ["skill_cast_time", 0.66], ["skill_id", 1301003], ["skill_type", 0]],
+          [["action_1", 130110101], ["action_10", 0], ["action_2", 130110102], ["action_3", 130110103], ["action_4", 130110104], ["action_5", 0], ["action_6", 0], ["action_7", 0], ["action_8", 0], ["action_9", 0], ["boss_ub_cool_time", 0.0], ["depend_action_1", 0], ["depend_action_10", 0], ["depend_action_2", 0], ["depend_action_3", 0], ["depend_action_4", 0], ["depend_action_5", 0], ["depend_action_6", 0], ["depend_action_7", 0], ["depend_action_8", 0], ["depend_action_9", 0], ["description", "沒有【召喚】若菜所召喚的尖刺兄弟在我方時，叫出１隻尖刺兄弟。尖刺兄弟被召喚後，會對若菜施加【尖刺盾牌】，每當受到敵人的攻擊時依照該敵人的最大ＨＰ，造成最大99999的比例傷害。同時，從下次行動開始，尖刺兄弟發動技能後，一段時間內會承受被施加【尖刺盾牌】的角色所受到的傷害。"], ["icon_type", 2017], ["name", "誰來救救我～！"], ["skill_area_width", 0], ["skill_cast_time", 0.0], ["skill_id", 1301101], ["skill_type", 0]],
+          [["action_1", 130150101], ["action_10", 0], ["action_2", 0], ["action_3", 0], ["action_4", 0], ["action_5", 0], ["action_6", 0], ["action_7", 0], ["action_8", 0], ["action_9", 0], ["boss_ub_cool_time", 0.0], ["depend_action_1", 0], ["depend_action_10", 0], ["depend_action_2", 0], ["depend_action_3", 0], ["depend_action_4", 0], ["depend_action_5", 0], ["depend_action_6", 0], ["depend_action_7", 0], ["depend_action_8", 0], ["depend_action_9", 0], ["description", "戰鬥開始時，中幅度提升自身的物理暴擊率。"], ["icon_type", 3001], ["name", "秘藏節儉食譜"], ["skill_area_width", 0], ["skill_cast_time", 0.0], ["skill_id", 1301501], ["skill_type", 0]]
+        ]
+      }
+    },
+    "unit_promotion_status": {
+      "data_changes": {
+        "added": [
+          [["accuracy", 10.0], ["atk", 1555.0], ["def", 127.0], ["dodge", 8.0], ["energy_recovery_rate", 14.0], ["energy_reduce_rate", 0.0], ["hp", 7065.0], ["hp_recovery_rate", 15.0], ["life_steal", 9.0], ["magic_critical", 0.0], ["magic_def", 93.0], ["magic_penetrate", 0.0], ["magic_str", 20.0], ["physical_critical", 52.0], ["physical_penetrate", 0.0], ["promotion_level", 11], ["unit_id", 430101], ["wave_energy_recovery", 85.0], ["wave_hp_recovery", 2150.0]],
+          [["accuracy", 39.0], ["atk", 35015.0], ["def", 236.0], ["dodge", 2.0], ["energy_recovery_rate", 22.0], ["energy_reduce_rate", 0.0], ["hp", 11495.0], ["hp_recovery_rate", 30.0], ["life_steal", 6.0], ["magic_critical", 0.0], ["magic_def", 187.0], ["magic_penetrate", 0.0], ["magic_str", 0.0], ["physical_critical", 1423.0], ["physical_penetrate", 0.0], ["promotion_level", 33], ["unit_id", 130101], ["wave_energy_recovery", 123.0], ["wave_hp_recovery", 1345.0]]
+        ]
+      }
+    },
+    "emblem_mission_data": {
+      "data_changes": {
+        "added": [
+          [["category_icon", 301], ["condition_num", 5], ["condition_value_1", 130101], ["condition_value_2", 0], ["condition_value_3", 0], ["description", "將若菜升到★5"], ["disp_group", 201282], ["end_time", "2030/04/01 14:59:59"], ["mission_condition", 6011], ["mission_id", 56011919], ["mission_reward_id", 56011919], ["start_time", "2025/03/19 16:00:00"], ["system_id", 501], ["visible_flag", 1]],
+          [["category_icon", 301], ["condition_num", 1], ["condition_value_1", 130101], ["condition_value_2", 0], ["condition_value_3", 0], ["description", "讓若菜成為夥伴"], ["disp_group", 201282], ["end_time", "2030/04/01 14:59:59"], ["mission_condition", 6011], ["mission_id", 56011917], ["mission_reward_id", 56011917], ["start_time", "2025/03/19 16:00:00"], ["system_id", 501], ["visible_flag", 1]],
+          [["category_icon", 301], ["condition_num", 3], ["condition_value_1", 130101], ["condition_value_2", 0], ["condition_value_3", 0], ["description", "將若菜升到★3"], ["disp_group", 201282], ["end_time", "2030/04/01 14:59:59"], ["mission_condition", 6011], ["mission_id", 56011918], ["mission_reward_id", 56011918], ["start_time", "2025/03/19 16:00:00"], ["system_id", 501], ["visible_flag", 1]]
+        ]
+      }
+    },
+    "v1_dd37ee7632aaf484e1ffe30ca71e3b9d9f220caa8f5c64d2162e80a098fca71f": {
+      "data_changes": {
+        "added": [
+          [["2672fdcac2681ee06c7eb66f3b21359f7969fe0eab6ca0d646804d68f17e6205", 2.0], ["c06a35b85a392ac2d7c696edc66c53ea81ec5edc877bf5501c7981a06b29a6e9", 130131]]
+        ]
+      }
+    },
+    "define_spskill": {
+      "data_changes": {
+        "added": [
+          [["base_skill_id", 1301001], ["link_skill_slot", 1301001], ["skill_category", 2], ["sp_skill_id", 1301101]]
+        ]
+      }
+    },
+    "emblem_data": {
+      "data_changes": {
+        "added": [
+          [["description_mission_id", 56011917], ["disp_oder", 201911], ["emblem_id", 10201917], ["emblem_name", "若菜"], ["end_time", "2030/01/01 23:59:59"], ["event_emblem", 0], ["start_time", "2025/03/19 16:00:00"], ["type", 2]],
+          [["description_mission_id", 56011918], ["disp_oder", 201912], ["emblem_id", 10201918], ["emblem_name", "與若菜的羈絆"], ["end_time", "2030/01/01 23:59:59"], ["event_emblem", 0], ["start_time", "2025/03/19 16:00:00"], ["type", 2]],
+          [["description_mission_id", 56011919], ["disp_oder", 201913], ["emblem_id", 10201919], ["emblem_name", "無法無天姊妹的不幸次女"], ["end_time", "2030/01/01 23:59:59"], ["event_emblem", 0], ["start_time", "2025/03/19 16:00:00"], ["type", 2]]
+        ]
+      }
+    },
+    "banner": {
+      "data_changes": {
+        "added": [
+          [["banner_id", 10313], ["condition_id", 0], ["end_date", "2025/03/28 15:59:59"], ["gacha_id", 30358], ["is_show_room", 0], ["priority", 18], ["start_date", "2025/03/19 16:00:00"], ["sub_banner_id_1", 0], ["system_id", 302], ["type", 1]]
+        ]
+      }
+    },
+    "unlock_rarity_6": {
+      "data_changes": {
+        "added": [
+          [["accuracy", 0], ["atk", 0], ["consume_gold", 0], ["def", 0], ["dodge", 0], ["energy_recovery_rate", 0], ["energy_reduce_rate", 0], ["hp", 0], ["hp_recovery_rate", 0], ["life_steal", 0], ["magic_critical", 0], ["magic_def", 0], ["magic_penetrate", 0], ["magic_str", 0], ["material_count", 0], ["material_id", 0], ["material_type", 0], ["physical_critical", 0], ["physical_penetrate", 0], ["slot_id", 3], ["unit_id", 130101], ["unlock_flag", 0], ["unlock_level", 0], ["wave_energy_recovery", 0], ["wave_hp_recovery", 0]]
+        ]
+      }
+    },
+    "ub_auto_define": {
+      "data_changes": {
+        "added": [
+          [["skill_id", 1301001], ["ub_auto_id_1", 1], ["ub_auto_id_2", 0], ["ub_auto_id_3", 0], ["ub_auto_id_4", 0], ["ub_auto_id_5", 0]]
+        ]
+      }
+    },
+    "actual_unit_background": {
+      "data_changes": {
+        "added": [
+          [["bg_id", 510221], ["face_type", 4], ["unit_id", 130131], ["unit_name", "蠻出井 若菜"]]
+        ]
+      }
+    },
+    "v1_618f7171286f4d1240445cce08365274934c00754f561b12d1a80d472f746141": {
+      "data_changes": {
+        "added": [
+          [["0ee7e03de6e5657b56c8d87e9b1448b86d3bc68291ea3748a75f46de5a6e33f4", 1], ["1ef6db7e6f332ca685eb40946e20826a5bd68084a78be1fe33d45e9b249000e3", 1301], ["2156ffb26cf7c572b2676ced1e793bb18f9816f544da04c0a0a12129f0124aeb", "2015/04/01 15:00:00"], ["2a82da593e1c5874a1373f07ae485e7d8eff75d9840cc9b63c28785a23342e8b", "2030/12/17 14:59:59"], ["7258d45a08385b2ecd19f1165bb1e357bda8952e3177b66c618ba4b15b3c2df4", 286], ["742a3d5dd21fe0062c6eededbc4c035a462bbc2be9d13470e99f6035424f0714", 901011], ["952dce5602bb8fdd0603cecf55a5dd1937afe3ae2877035c6a4fddf3716e939c", 0], ["cbc6cd13545acdb8c860fd363a36ce18795dd72a002e17c4a9ac9e1aadcec608", "若菜"], ["ccdb442c67323c546f0d03543b4ddbcbd4d2601b3e4eaefab4adc68069d6fddf", 0], ["d48921e4ed078b90e20319ae076a27768fcb6c2a402a20a1e70f47c92bf3bf22", 0], ["dcdc807500470fcae7440780ae361c078f8d6d4c9c2418907b71722fdf1c0044", 1301]]
+        ]
+      }
+    },
+    "unit_introduction": {
+      "data_changes": {
+        "added": [
+          [["end_time", "2025/03/28 15:59:59"], ["gacha_id", 30358], ["id", 350], ["introduction_number", 1], ["maximum_chunk_size_1", 380000], ["maximum_chunk_size_2", 0], ["maximum_chunk_size_3", 0], ["maximum_chunk_size_loop_1", 380000], ["maximum_chunk_size_loop_2", 0], ["maximum_chunk_size_loop_3", 0], ["start_time", "2025/03/19 16:00:00"]]
+        ]
+      }
+    },
+    "unit_profile": {
+      "data_changes": {
+        "added": [
+          [["age", "16"], ["birth_day", "30"], ["birth_month", "5"], ["blood_type", "A"], ["catch_copy", "辛苦但有精神。盜賊公會的次女"], ["favorite", "編織"], ["guild", "蠻賊三姊妹"], ["guild_id", "21"], ["height", "158"], ["race", "人族"], ["self_text", ""], ["unit_id", 130101], ["unit_name", "若菜"], ["voice", "石見舞菜香"], ["voice_id", 0], ["weight", "45"]]
+        ]
+      }
+    },
+    "unit_motion_list": {
+      "data_changes": {
+        "added": [
+          [["sp_motion", 1], ["unit_id", 130101]]
+        ]
+      }
+    },
+    "skill_action": {
+      "data_changes": {
+        "added": [
+          [["action_detail_1", 6195], ["action_detail_2", 0], ["action_detail_3", 130110104], ["action_id", 130110103], ["action_type", 28], ["action_value_1", 1.0], ["action_value_2", 2.0], ["action_value_3", 1.0], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", ""], ["level_up_disp", ""], ["target_area", 3], ["target_assignment", 2], ["target_count", 1], ["target_number", 0], ["target_range", 2160], ["target_type", 7]],
+          [["action_detail_1", 10], ["action_detail_2", 1], ["action_detail_3", 0], ["action_id", 130100101], ["action_type", 10], ["action_value_1", 1.0], ["action_value_2", 48.0], ["action_value_3", 48.0], ["action_value_4", 18.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 1.0], ["class_id", 1], ["description", "提升我方全體{0}的物理攻擊力"], ["level_up_disp", "物理攻擊力提升+{0}"], ["target_area", 3], ["target_assignment", 2], ["target_count", 99], ["target_number", 0], ["target_range", 2160], ["target_type", 3]],
+          [["action_detail_1", 5], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 130100302], ["action_type", 6], ["action_value_1", 32.0], ["action_value_2", 32.0], ["action_value_3", 12.0], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "展開{0}傷害比例的物理魔法無效屏障"], ["level_up_disp", "無效傷害量+{0}"], ["target_area", 3], ["target_assignment", 2], ["target_count", 99], ["target_number", 0], ["target_range", 2160], ["target_type", 3]],
+          [["action_detail_1", 1], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 430110202], ["action_type", 16], ["action_value_1", 100.0], ["action_value_2", 0.0], ["action_value_3", 0.0], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", ""], ["level_up_disp", ""], ["target_area", 3], ["target_assignment", 2], ["target_count", 1], ["target_number", 0], ["target_range", 2160], ["target_type", 13195]],
+          [["action_detail_1", 720], ["action_detail_2", 130100105], ["action_detail_3", 130100106], ["action_id", 130100104], ["action_type", 28], ["action_value_1", 1.0], ["action_value_2", 2.0], ["action_value_3", 430101.0], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", ""], ["level_up_disp", ""], ["target_area", 3], ["target_assignment", 2], ["target_count", 99], ["target_number", 0], ["target_range", 2160], ["target_type", 3]],
+          [["action_detail_1", 60], ["action_detail_2", 1], ["action_detail_3", 0], ["action_id", 130100206], ["action_type", 10], ["action_value_1", 1.0], ["action_value_2", 90.0], ["action_value_3", 0.0], ["action_value_4", 12.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "自身物理暴擊提升{0}"], ["level_up_disp", ""], ["target_area", 3], ["target_assignment", 2], ["target_count", 1], ["target_number", 0], ["target_range", 2160], ["target_type", 7]],
+          [["action_detail_1", 0], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 130110104], ["action_type", 35], ["action_value_1", 1.0], ["action_value_2", 195.0], ["action_value_3", 180.0], ["action_value_4", 1.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", ""], ["level_up_disp", ""], ["target_area", 3], ["target_assignment", 2], ["target_count", 1], ["target_number", 0], ["target_range", 2160], ["target_type", 7]],
+          [["action_detail_1", 3], ["action_detail_2", 1], ["action_detail_3", 0], ["action_id", 430110302], ["action_type", 46], ["action_value_1", 1.0], ["action_value_2", 0.0], ["action_value_3", 99999.0], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", ""], ["level_up_disp", ""], ["target_area", 1], ["target_assignment", 1], ["target_count", 1], ["target_number", 0], ["target_range", 0], ["target_type", 3]],
+          [["action_detail_1", 60], ["action_detail_2", 1], ["action_detail_3", 0], ["action_id", 130100202], ["action_type", 10], ["action_value_1", 1.0], ["action_value_2", 180.0], ["action_value_3", 0.0], ["action_value_4", 12.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "提升自身以外的我方全體{0}的物理暴擊"], ["level_up_disp", ""], ["target_area", 3], ["target_assignment", 2], ["target_count", 99], ["target_number", 0], ["target_range", 2160], ["target_type", 34]],
+          [["action_detail_1", 10], ["action_detail_2", 1], ["action_detail_3", 0], ["action_id", 130100205], ["action_type", 10], ["action_value_1", 1.0], ["action_value_2", 16.0], ["action_value_3", 16.0], ["action_value_4", 12.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 1.0], ["class_id", 1], ["description", "提升自身{0}的物理攻擊力"], ["level_up_disp", "物理攻擊力提升+{0}"], ["target_area", 3], ["target_assignment", 2], ["target_count", 1], ["target_number", 0], ["target_range", 2160], ["target_type", 7]],
+          [["action_detail_1", 21], ["action_detail_2", 1], ["action_detail_3", 0], ["action_id", 130100103], ["action_type", 10], ["action_value_1", 1.0], ["action_value_2", 0.4], ["action_value_3", 0.4], ["action_value_4", 18.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "降低敵方單體{0}的物理防禦力"], ["level_up_disp", "物理防禦力降低+{0}"], ["target_area", 1], ["target_assignment", 1], ["target_count", 1], ["target_number", 0], ["target_range", 2160], ["target_type", 3]],
+          [["action_detail_1", 6], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 130150101], ["action_type", 90], ["action_value_1", 1.0], ["action_value_2", 20.0], ["action_value_3", 1.0], ["action_value_4", 1.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "自身物理暴擊提升{0}"], ["level_up_disp", "物理暴擊提高+{0}"], ["target_area", 0], ["target_assignment", 0], ["target_count", 0], ["target_number", 0], ["target_range", 0], ["target_type", 0]],
+          [["action_detail_1", 1], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 130100102], ["action_type", 1], ["action_value_1", 55.0], ["action_value_2", 55.0], ["action_value_3", 4.4], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "對敵方單體造成{0}的物理傷害"], ["level_up_disp", "物理傷害+{0}"], ["target_area", 1], ["target_assignment", 1], ["target_count", 1], ["target_number", 0], ["target_range", 2160], ["target_type", 3]],
+          [["action_detail_1", 10], ["action_detail_2", 1], ["action_detail_3", 0], ["action_id", 130100201], ["action_type", 10], ["action_value_1", 1.0], ["action_value_2", 32.0], ["action_value_3", 32.0], ["action_value_4", 12.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 1.0], ["class_id", 1], ["description", "提升自身以外的我方全體{0}的物理攻擊力"], ["level_up_disp", "物理攻擊力提升+{0}"], ["target_area", 3], ["target_assignment", 2], ["target_count", 99], ["target_number", 0], ["target_range", 2160], ["target_type", 34]],
+          [["action_detail_1", 1], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 130100208], ["action_type", 16], ["action_value_1", 75.0], ["action_value_2", 0.0], ["action_value_3", 0.0], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "回復自身{0}的TP"], ["level_up_disp", "TP回復量+{0}"], ["target_area", 2], ["target_assignment", 2], ["target_count", 1], ["target_number", 0], ["target_range", 2160], ["target_type", 7]],
+          [["action_detail_1", 1], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 130100301], ["action_type", 1], ["action_value_1", 27.5], ["action_value_2", 27.5], ["action_value_3", 2.2], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "對敵方單體造成{0}的物理傷害"], ["level_up_disp", "物理傷害+{0}"], ["target_area", 1], ["target_assignment", 1], ["target_count", 1], ["target_number", 0], ["target_range", 2160], ["target_type", 3]],
+          [["action_detail_1", 1], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 130100207], ["action_type", 4], ["action_value_1", 1.0], ["action_value_2", 0.5], ["action_value_3", 0.5], ["action_value_4", 0.15], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "回復自身{0}的HP"], ["level_up_disp", "HP回復量+{0}"], ["target_area", 2], ["target_assignment", 2], ["target_count", 1], ["target_number", 0], ["target_range", 2160], ["target_type", 7]],
+          [["action_detail_1", 1], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 130100105], ["action_type", 4], ["action_value_1", 1.0], ["action_value_2", 22.5], ["action_value_3", 22.5], ["action_value_4", 1.125], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "恢復尖刺兄弟{0}的ＨＰ"], ["level_up_disp", "HP回復量+{0}"], ["target_area", 3], ["target_assignment", 2], ["target_count", 1], ["target_number", 0], ["target_range", 2160], ["target_type", 23]],
+          [["action_detail_1", 0], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 130100108], ["action_type", 35], ["action_value_1", 1.0], ["action_value_2", 195.0], ["action_value_3", 180.0], ["action_value_4", 1.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", ""], ["level_up_disp", ""], ["target_area", 3], ["target_assignment", 2], ["target_count", 1], ["target_number", 0], ["target_range", 2160], ["target_type", 7]],
+          [["action_detail_1", 6195], ["action_detail_2", 0], ["action_detail_3", 130100108], ["action_id", 130100107], ["action_type", 28], ["action_value_1", 1.0], ["action_value_2", 2.0], ["action_value_3", 1.0], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", ""], ["level_up_disp", ""], ["target_area", 3], ["target_assignment", 2], ["target_count", 1], ["target_number", 0], ["target_range", 2160], ["target_type", 7]],
+          [["action_detail_1", 1], ["action_detail_2", 430101], ["action_detail_3", 1], ["action_id", 130100106], ["action_type", 15], ["action_value_1", 0.0], ["action_value_2", 1.0], ["action_value_3", 1.0], ["action_value_4", 0.0], ["action_value_5", 1.0], ["action_value_6", 0.0], ["action_value_7", 420.0], ["class_id", 1], ["description", "召喚尖刺兄弟"], ["level_up_disp", "召喚尖刺兄弟的Ｌｖ+{0}"], ["target_area", 2], ["target_assignment", 2], ["target_count", 1], ["target_number", 0], ["target_range", 2160], ["target_type", 7]],
+          [["action_detail_1", 1], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 130100204], ["action_type", 16], ["action_value_1", 150.0], ["action_value_2", 0.0], ["action_value_3", 0.0], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "使自身以外的我方全體的TP恢復{0}"], ["level_up_disp", "TP回復量+{0}"], ["target_area", 3], ["target_assignment", 2], ["target_count", 99], ["target_number", 0], ["target_range", 2160], ["target_type", 34]],
+          [["action_detail_1", 720], ["action_detail_2", 0], ["action_detail_3", 130110102], ["action_id", 130110101], ["action_type", 28], ["action_value_1", 1.0], ["action_value_2", 2.0], ["action_value_3", 430101.0], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", ""], ["level_up_disp", ""], ["target_area", 3], ["target_assignment", 2], ["target_count", 99], ["target_number", 0], ["target_range", 2160], ["target_type", 3]],
+          [["action_detail_1", 6], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 130151101], ["action_type", 90], ["action_value_1", 1.0], ["action_value_2", 320.0], ["action_value_3", 1.0], ["action_value_4", 1.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "自身物理暴擊提升{0}"], ["level_up_disp", "物理暴擊提高+{0}"], ["target_area", 0], ["target_assignment", 0], ["target_count", 0], ["target_number", 0], ["target_range", 0], ["target_type", 0]],
+          [["action_detail_1", 1], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 130100203], ["action_type", 4], ["action_value_1", 1.0], ["action_value_2", 1.0], ["action_value_3", 1.0], ["action_value_4", 0.3], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "恢復自身以外我方全體{0}的ＨＰ"], ["level_up_disp", "HP回復量+{0}"], ["target_area", 3], ["target_assignment", 2], ["target_count", 99], ["target_number", 0], ["target_range", 2160], ["target_type", 34]],
+          [["action_detail_1", 1], ["action_detail_2", 430101], ["action_detail_3", 1], ["action_id", 130110102], ["action_type", 15], ["action_value_1", 0.0], ["action_value_2", 1.0], ["action_value_3", 0.0], ["action_value_4", 0.0], ["action_value_5", 1.0], ["action_value_6", 0.0], ["action_value_7", 420.0], ["class_id", 1], ["description", "召喚尖刺兄弟"], ["level_up_disp", "召喚尖刺兄弟的Ｌｖ+{0}"], ["target_area", 2], ["target_assignment", 2], ["target_count", 1], ["target_number", 0], ["target_range", 2160], ["target_type", 7]],
+          [["action_detail_1", 195], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 430110201], ["action_type", 106], ["action_value_1", 0.0], ["action_value_2", 0.0], ["action_value_3", 8.0], ["action_value_4", 0.0], ["action_value_5", 3.0], ["action_value_6", 0.5], ["action_value_7", 0.0], ["class_id", 1], ["description", ""], ["level_up_disp", ""], ["target_area", 3], ["target_assignment", 2], ["target_count", 1], ["target_number", 0], ["target_range", 2160], ["target_type", 13195]],
+          [["action_detail_1", 14], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 430110301], ["action_type", 17], ["action_value_1", 100.0], ["action_value_2", 0.0], ["action_value_3", 0.0], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", ""], ["level_up_disp", ""], ["target_area", 0], ["target_assignment", 0], ["target_count", 1], ["target_number", 0], ["target_range", 0], ["target_type", 7]]
+        ]
+      }
+    },
+    "chara_identity": {
+      "data_changes": {
+        "added": [
+          [["chara_type", 301], ["chara_type_2", 0], ["chara_type_3", 0], ["unit_id", 130101]]
+        ]
+      }
+    },
+    "unit_data": {
+      "data_changes": {
+        "added": [
+          [["atk_type", 1], ["comment", ""], ["cutin1_star6", 0], ["cutin2_star6", 0], ["cutin_1", 0], ["cutin_2", 0], ["end_time", "2030/12/31 15:00:00"], ["exskill_display", 0], ["guild_id", 0], ["is_limited", 1], ["kana", "尖刺兄弟"], ["motion_type", 0], ["move_speed", 450], ["normal_atk_cast_time", 2.0], ["only_disp_owned", 0], ["original_unit_id", 0], ["prefab_id", 430101], ["prefab_id_battle", 0], ["rarity", 3], ["se_type", 1], ["search_area_width", 210], ["start_time", "2025/03/19 16:00:00"], ["unit_id", 430101], ["unit_name", "尖刺兄弟"]]
+        ],
+        "modified": [
+          {
+            "id": 130101,
+            "old": [["atk_type", 0], ["comment", "【物理】位於中衛，常常抽到壞籤的盜賊公會次女。\\n召喚來的刺蝟墊木會站上前線保護若菜，而她自身\\n會從攻擊支援到恢復ＨＰ和ＴＰ，在各方面無私地支持我方。"], ["cutin1_star6", 0], ["cutin2_star6", 0], ["cutin_1", 0], ["cutin_2", 0], ["end_time", "2030/12/31 15:00:00"], ["exskill_display", 0], ["guild_id", 0], ["is_limited", 1], ["kana", "若菜"], ["motion_type", 1], ["move_speed", 0], ["normal_atk_cast_time", 0.0], ["only_disp_owned", 0], ["original_unit_id", 0], ["prefab_id", 130101], ["prefab_id_battle", 0], ["rarity", 3], ["se_type", 1], ["search_area_width", 0], ["start_time", "2025/03/01 16:00:00"], ["unit_id", 130101], ["unit_name", "若菜"]],
+            "new": [["atk_type", 1], ["comment", "【物理】位於中衛，常常抽到壞籤的盜賊公會次女。\\n召喚來的刺蝟墊木會站上前線保護若菜，而她自身\\n會從攻擊支援到恢復ＨＰ和ＴＰ，在各方面無私地支持我方。"], ["cutin1_star6", 130101], ["cutin2_star6", 0], ["cutin_1", 130101], ["cutin_2", 0], ["end_time", "2025/03/28 15:59:59"], ["exskill_display", 0], ["guild_id", 0], ["is_limited", 1], ["kana", "若菜"], ["motion_type", 9], ["move_speed", 450], ["normal_atk_cast_time", 2.09], ["only_disp_owned", 0], ["original_unit_id", 0], ["prefab_id", 130101], ["prefab_id_battle", 0], ["rarity", 3], ["se_type", 7], ["search_area_width", 535], ["start_time", "2025/03/19 16:00:00"], ["unit_id", 130101], ["unit_name", "若菜"]]
+          }
+        ]
+      }
+    },
+    "unlock_unit_condition": {
+      "data_changes": {
+        "added": [
+          [["class_id", 1], ["condition_id_1", 31301], ["condition_id_2", 0], ["condition_id_3", 0], ["condition_id_4", 0], ["condition_id_5", 0], ["condition_type_1", 1], ["condition_type_2", 0], ["condition_type_3", 0], ["condition_type_4", 0], ["condition_type_5", 0], ["condition_type_detail_1", 2], ["condition_type_detail_2", 0], ["condition_type_detail_3", 0], ["condition_type_detail_4", 0], ["condition_type_detail_5", 0], ["count_1", 145], ["count_2", 0], ["count_3", 0], ["count_4", 0], ["count_5", 0], ["pre_unit_id", 0], ["release_effect_type", 2], ["unit_id", 130101], ["unit_name", "若菜"]]
+        ]
+      }
+    },
+    "story_detail": {
+      "data_changes": {
+        "added": [
+          [["can_bookmark", 1], ["end_time", "2030/12/17 14:59:59"], ["force_unlock_time", "2030/12/17 14:59:59"], ["force_unlock_time_2", "2030/12/17 14:59:59"], ["lock_all_text", 0], ["love_level", 5], ["pre_story_id", 1301002], ["pre_story_id_2", 0], ["read_process_flag", 1], ["requirement_id", 130101], ["reward_id_1", 91002], ["reward_id_2", 0], ["reward_id_3", 0], ["reward_type_1", 8], ["reward_type_2", 0], ["reward_type_3", 0], ["reward_value_1", 20], ["reward_value_2", 0], ["reward_value_3", 0], ["start_time", "2015/04/01 15:00:00"], ["story_end", 0], ["story_group_id", 1301], ["story_id", 1301003], ["story_quest_id", 0], ["sub_title", "我的監視人先生兼……"], ["title", "若菜 第3話"], ["unlock_quest_id", 0], ["visible_type", 0]],
+          [["can_bookmark", 1], ["end_time", "2030/12/17 14:59:59"], ["force_unlock_time", "2030/12/17 14:59:59"], ["force_unlock_time_2", "2030/12/17 14:59:59"], ["lock_all_text", 0], ["love_level", 4], ["pre_story_id", 1301001], ["pre_story_id_2", 0], ["read_process_flag", 1], ["requirement_id", 130101], ["reward_id_1", 91002], ["reward_id_2", 0], ["reward_id_3", 0], ["reward_type_1", 8], ["reward_type_2", 0], ["reward_type_3", 0], ["reward_value_1", 20], ["reward_value_2", 0], ["reward_value_3", 0], ["start_time", "2015/04/01 15:00:00"], ["story_end", 0], ["story_group_id", 1301], ["story_id", 1301002], ["story_quest_id", 0], ["sub_title", "我的小祕密"], ["title", "若菜 第2話"], ["unlock_quest_id", 0], ["visible_type", 0]],
+          [["can_bookmark", 1], ["end_time", "2030/12/17 14:59:59"], ["force_unlock_time", "2030/12/17 14:59:59"], ["force_unlock_time_2", "2030/12/17 14:59:59"], ["lock_all_text", 0], ["love_level", 8], ["pre_story_id", 1301003], ["pre_story_id_2", 0], ["read_process_flag", 1], ["requirement_id", 130101], ["reward_id_1", 91002], ["reward_id_2", 0], ["reward_id_3", 0], ["reward_type_1", 8], ["reward_type_2", 0], ["reward_type_3", 0], ["reward_value_1", 50], ["reward_value_2", 0], ["reward_value_3", 0], ["start_time", "2015/04/01 15:00:00"], ["story_end", 0], ["story_group_id", 1301], ["story_id", 1301004], ["story_quest_id", 0], ["sub_title", "我的……學長（？）"], ["title", "若菜 第4話"], ["unlock_quest_id", 0], ["visible_type", 0]],
+          [["can_bookmark", 1], ["end_time", "2030/12/17 14:59:59"], ["force_unlock_time", "2030/12/17 14:59:59"], ["force_unlock_time_2", "2030/12/17 14:59:59"], ["lock_all_text", 0], ["love_level", 0], ["pre_story_id", 2209009], ["pre_story_id_2", 0], ["read_process_flag", 1], ["requirement_id", 130101], ["reward_id_1", 91002], ["reward_id_2", 0], ["reward_id_3", 0], ["reward_type_1", 8], ["reward_type_2", 0], ["reward_type_3", 0], ["reward_value_1", 20], ["reward_value_2", 0], ["reward_value_3", 0], ["start_time", "2015/04/01 15:00:00"], ["story_end", 0], ["story_group_id", 1301], ["story_id", 1301001], ["story_quest_id", 0], ["sub_title", "我的身分保證人先生"], ["title", "若菜 第1話"], ["unlock_quest_id", 0], ["visible_type", 0]]
+        ]
+      }
+    },
+    "app_icon": {
+      "data_changes": {
+        "added": [
+          [["id", 130131]]
+        ]
+      }
+    },
+    "voice_group_chara": {
+      "data_changes": {
+        "added": [
+          [["group_unit_id", 130101001], ["group_unit_id_comment", "若菜"], ["unit_id_01", 130101], ["unit_id_02", 0], ["unit_id_03", 0], ["unit_id_04", 0], ["unit_id_05", 0], ["unit_id_06", 0], ["unit_id_07", 0], ["unit_id_08", 0], ["unit_id_09", 0], ["unit_id_10", 0]]
+        ]
+      }
+    },
+    "clan_battle_schedule": {
+      "data_changes": {
+        "added": [
+          [["clan_battle_id", 1081], ["cost_group_id", 1], ["cost_group_id_s", 2], ["end_time", "2025/04/26 04:59:59"], ["last_clan_battle_id", 1080], ["map_bgm", "bgm_M166"], ["mode_change_end_time", "2025/03/25 11:59:59"], ["mode_change_remind_time", "2025/03/24 11:59:59"], ["mode_change_start_time", "2025/03/20 12:00:00"], ["point_per_stamina", 1], ["release_month", 3], ["resource_id", 2], ["start_time", "2025/03/27 05:00:00"]]
+        ]
+      }
+    },
+    "unit_background": {
+      "data_changes": {
+        "added": [
+          [["bg_id", 501760], ["bg_name", "蠻賊貪鯊號_室內_居住區"], ["face_type", 4], ["position", 0.0], ["unit_id", 130101], ["unit_name", "若菜"]]
+        ]
+      }
+    },
+    "chara_story_status": {
+      "data_changes": {
+        "added": [
+          [["chara_id_1", 1301], ["chara_id_10", 0], ["chara_id_11", 0], ["chara_id_12", 0], ["chara_id_13", 0], ["chara_id_14", 0], ["chara_id_15", 0], ["chara_id_16", 0], ["chara_id_17", 0], ["chara_id_18", 0], ["chara_id_19", 0], ["chara_id_2", 0], ["chara_id_20", 0], ["chara_id_3", 0], ["chara_id_4", 0], ["chara_id_5", 0], ["chara_id_6", 0], ["chara_id_7", 0], ["chara_id_8", 0], ["chara_id_9", 0], ["status_rate_1", 600], ["status_rate_2", 0], ["status_rate_3", 0], ["status_rate_4", 0], ["status_rate_5", 0], ["status_type_1", 1], ["status_type_2", 0], ["status_type_3", 0], ["status_type_4", 0], ["status_type_5", 0], ["story_id", 1301004], ["unlock_story_name", "若菜のエピソード第4話"]],
+          [["chara_id_1", 1301], ["chara_id_10", 0], ["chara_id_11", 0], ["chara_id_12", 0], ["chara_id_13", 0], ["chara_id_14", 0], ["chara_id_15", 0], ["chara_id_16", 0], ["chara_id_17", 0], ["chara_id_18", 0], ["chara_id_19", 0], ["chara_id_2", 0], ["chara_id_20", 0], ["chara_id_3", 0], ["chara_id_4", 0], ["chara_id_5", 0], ["chara_id_6", 0], ["chara_id_7", 0], ["chara_id_8", 0], ["chara_id_9", 0], ["status_rate_1", 500], ["status_rate_2", 0], ["status_rate_3", 0], ["status_rate_4", 0], ["status_rate_5", 0], ["status_type_1", 1], ["status_type_2", 0], ["status_type_3", 0], ["status_type_4", 0], ["status_type_5", 0], ["story_id", 1301003], ["unlock_story_name", "若菜のエピソード第3話"]],
+          [["chara_id_1", 1301], ["chara_id_10", 0], ["chara_id_11", 0], ["chara_id_12", 0], ["chara_id_13", 0], ["chara_id_14", 0], ["chara_id_15", 0], ["chara_id_16", 0], ["chara_id_17", 0], ["chara_id_18", 0], ["chara_id_19", 0], ["chara_id_2", 0], ["chara_id_20", 0], ["chara_id_3", 0], ["chara_id_4", 0], ["chara_id_5", 0], ["chara_id_6", 0], ["chara_id_7", 0], ["chara_id_8", 0], ["chara_id_9", 0], ["status_rate_1", 400], ["status_rate_2", 0], ["status_rate_3", 0], ["status_rate_4", 0], ["status_rate_5", 0], ["status_type_1", 1], ["status_type_2", 0], ["status_type_3", 0], ["status_type_4", 0], ["status_type_5", 0], ["story_id", 1301002], ["unlock_story_name", "若菜のエピソード第2話"]]
+        ]
+      }
+    },
+    "voice_group": {
+      "data_changes": {
+        "added": [
+          [["group_id", 20210], ["group_id_comment", "若菜＆布武機"], ["group_unit_id_01", 130201001], ["group_unit_id_02", 130101001], ["group_unit_id_03", 0], ["group_unit_id_04", 0], ["group_unit_id_05", 0]],
+          [["group_id", 20209], ["group_id_comment", "若菜＆倭"], ["group_unit_id_01", 130001001], ["group_unit_id_02", 130101001], ["group_unit_id_03", 0], ["group_unit_id_04", 0], ["group_unit_id_05", 0]],
+          [["group_id", 20211], ["group_id_comment", "若菜＆栞"], ["group_unit_id_01", 130101001], ["group_unit_id_02", 103801001], ["group_unit_id_03", 0], ["group_unit_id_04", 0], ["group_unit_id_05", 0]]
+        ]
+      }
+    },
+    "unit_skill_data": {
+      "data_changes": {
+        "added": [
+          [["ex_skill_1", 0], ["ex_skill_2", 0], ["ex_skill_3", 0], ["ex_skill_4", 0], ["ex_skill_5", 0], ["ex_skill_evolution_1", 0], ["ex_skill_evolution_2", 0], ["ex_skill_evolution_3", 0], ["ex_skill_evolution_4", 0], ["ex_skill_evolution_5", 0], ["main_skill_1", 0], ["main_skill_10", 0], ["main_skill_2", 0], ["main_skill_3", 0], ["main_skill_4", 0], ["main_skill_5", 0], ["main_skill_6", 0], ["main_skill_7", 0], ["main_skill_8", 0], ["main_skill_9", 0], ["main_skill_evolution_1", 0], ["main_skill_evolution_2", 0], ["sp_skill_1", 4301102], ["sp_skill_2", 4301103], ["sp_skill_3", 0], ["sp_skill_4", 0], ["sp_skill_5", 0], ["sp_skill_evolution_1", 0], ["sp_skill_evolution_2", 0], ["sp_union_burst", 0], ["union_burst", 0], ["union_burst_evolution", 0], ["unit_id", 430101]],
+          [["ex_skill_1", 1301501], ["ex_skill_2", 0], ["ex_skill_3", 0], ["ex_skill_4", 0], ["ex_skill_5", 0], ["ex_skill_evolution_1", 1301511], ["ex_skill_evolution_2", 0], ["ex_skill_evolution_3", 0], ["ex_skill_evolution_4", 0], ["ex_skill_evolution_5", 0], ["main_skill_1", 1301002], ["main_skill_10", 0], ["main_skill_2", 1301003], ["main_skill_3", 0], ["main_skill_4", 0], ["main_skill_5", 0], ["main_skill_6", 0], ["main_skill_7", 0], ["main_skill_8", 0], ["main_skill_9", 0], ["main_skill_evolution_1", 0], ["main_skill_evolution_2", 0], ["sp_skill_1", 1301101], ["sp_skill_2", 0], ["sp_skill_3", 0], ["sp_skill_4", 0], ["sp_skill_5", 0], ["sp_skill_evolution_1", 0], ["sp_skill_evolution_2", 0], ["sp_union_burst", 0], ["union_burst", 1301001], ["union_burst_evolution", 0], ["unit_id", 130101]]
+        ]
+      }
+    },
+    "spskill_lv_initialize_data": {
+      "data_changes": {
+        "added": [
+          [["base_skill_id", 1301001], ["initialize_skill_id", 1301101]]
+        ]
+      }
+    },
+    "exceed_level_unit": {
+      "data_changes": {
+        "added": [
+          [["consume_num_1", 40], ["consume_num_2", 30000000], ["consume_num_3", 0], ["consume_num_4", 0], ["consume_num_5", 0], ["exceed_item_id", 41301], ["exceed_stage", 1], ["id", 1130101], ["item_id_1", 31301], ["item_id_2", 94000], ["item_id_3", 0], ["item_id_4", 0], ["item_id_5", 0], ["reward_type_1", 2], ["reward_type_2", 12], ["reward_type_3", 0], ["reward_type_4", 0], ["reward_type_5", 0], ["unit_id", 130101]]
+        ]
+      }
+    },
+    "gacha_data": {
+      "data_changes": {
+        "added": [
+          [["b445862d0ab66dcf0d21148e77310f8e2f88e53c87861cd1b30c6271489741b7", 0], ["chara_odds_star1", "0"], ["chara_odds_star2", "0"], ["chara_odds_star3", "0"], ["description", "取得道具獎勵或記憶碎片吧！"], ["description_2", ""], ["description_sp", ""], ["discount_price", 0], ["end_time", "2025/03/28 15:59:59"], ["exchange_id", 0], ["ff12a2d323be4140b5b5f0e3db8f93c207d4d0594eff84913f280ebb8f5fbfcd", 0], ["free_gacha_count", 10], ["free_gacha_interval_time", 0], ["free_gacha_type", 1], ["gacha10_special_odds_star1", "0"], ["gacha10_special_odds_star2", "0"], ["gacha10_special_odds_star3", "0"], ["gacha_bonus_id", 0], ["gacha_cost_type", 3], ["gacha_detail", 1], ["gacha_id", 10358], ["gacha_name", "一般轉蛋"], ["gacha_odds", "10358"], ["gacha_odds_star2", ""], ["gacha_times_limit10", 0], ["gacha_type", 0], ["movie_id", 0], ["parallel_id", 0], ["pick_up_chara_text", ""], ["pickup_badge", 0], ["pickup_id", 0], ["price", 0], ["prizegacha_id", 0], ["rarity_odds", "0"], ["special_id", 0], ["start_time", "2025/03/19 16:00:00"], ["tab_name", ""], ["ticket_id", 0], ["ticket_id_10", 0], ["title_id", 0]],
+          [["b445862d0ab66dcf0d21148e77310f8e2f88e53c87861cd1b30c6271489741b7", 0], ["chara_odds_star1", "30358_1"], ["chara_odds_star2", "30358_2"], ["chara_odds_star3", "30358_3"], ["description", "限定「若菜」登場！\\n期間內出現率UP！"], ["description_2", "[3C404E]每次讓目標角色加入時[FFBB00,CE4F00][-]獲得[-]角色記憶碎片200個！"], ["description_sp", ""], ["discount_price", 50], ["end_time", "2025/03/28 15:59:59"], ["exchange_id", 358], ["ff12a2d323be4140b5b5f0e3db8f93c207d4d0594eff84913f280ebb8f5fbfcd", 0], ["free_gacha_count", 0], ["free_gacha_interval_time", 0], ["free_gacha_type", 0], ["gacha10_special_odds_star1", "0"], ["gacha10_special_odds_star2", "0"], ["gacha10_special_odds_star3", "0"], ["gacha_bonus_id", 1160], ["gacha_cost_type", 2], ["gacha_detail", 2], ["gacha_id", 30358], ["gacha_name", "精選轉蛋"], ["gacha_odds", "0"], ["gacha_odds_star2", "0"], ["gacha_times_limit10", 1], ["gacha_type", 1], ["movie_id", 300358], ["parallel_id", 0], ["pick_up_chara_text", "若菜"], ["pickup_badge", 0], ["pickup_id", 0], ["price", 150], ["prizegacha_id", 0], ["rarity_odds", "300000"], ["special_id", 0], ["start_time", "2025/03/19 16:00:00"], ["tab_name", ""], ["ticket_id", 24001], ["ticket_id_10", 24004], ["title_id", 0]],
+          [["b445862d0ab66dcf0d21148e77310f8e2f88e53c87861cd1b30c6271489741b7", 0], ["chara_odds_star1", "20358_1"], ["chara_odds_star2", "20358_2"], ["chara_odds_star3", "20358_3"], ["description", "白金轉蛋僅會出現角色喔！"], ["description_2", ""], ["description_sp", ""], ["discount_price", 50], ["end_time", "2025/03/28 15:59:59"], ["exchange_id", 358], ["ff12a2d323be4140b5b5f0e3db8f93c207d4d0594eff84913f280ebb8f5fbfcd", 0], ["free_gacha_count", 0], ["free_gacha_interval_time", 0], ["free_gacha_type", 0], ["gacha10_special_odds_star1", "0"], ["gacha10_special_odds_star2", "0"], ["gacha10_special_odds_star3", "0"], ["gacha_bonus_id", 0], ["gacha_cost_type", 2], ["gacha_detail", 2], ["gacha_id", 20358], ["gacha_name", "白金轉蛋"], ["gacha_odds", "0"], ["gacha_odds_star2", "0"], ["gacha_times_limit10", 0], ["gacha_type", 1], ["movie_id", 200001], ["parallel_id", 0], ["pick_up_chara_text", "無精選角色"], ["pickup_badge", 0], ["pickup_id", 0], ["price", 150], ["prizegacha_id", 0], ["rarity_odds", "300000"], ["special_id", 0], ["start_time", "2025/03/19 16:00:00"], ["tab_name", ""], ["ticket_id", 24001], ["ticket_id_10", 24004], ["title_id", 0]]
+        ]
+      }
+    },
+    "emblem_mission_reward_data": {
+      "data_changes": {
+        "added": [
+          [["icon_type", 1001], ["id", 1460], ["mission_reward_id", 56011917], ["reward_id", 10201917], ["reward_num", 1], ["reward_type", 15]],
+          [["icon_type", 1003], ["id", 1462], ["mission_reward_id", 56011919], ["reward_id", 10201919], ["reward_num", 1], ["reward_type", 15]],
+          [["icon_type", 0], ["id", 1463], ["mission_reward_id", 56011919], ["reward_id", 91002], ["reward_num", 50], ["reward_type", 8]],
+          [["icon_type", 1002], ["id", 1461], ["mission_reward_id", 56011918], ["reward_id", 10201918], ["reward_num", 1], ["reward_type", 15]]
+        ]
+      }
+    },
+    "spskill_label_data": {
+      "data_changes": {
+        "added": [
+          [["normal_label_text", "平常時"], ["sp_label_text", "特殊技能"], ["unit_id", 130101]]
+        ]
+      }
+    },
+    "unit_rarity": {
+      "data_changes": {
+        "added": [
+          [["accuracy", 0.0], ["accuracy_growth", 0.0], ["atk", 53.59], ["atk_growth", 7.44], ["consume_gold", 20000], ["consume_num", 30], ["def", 3.96], ["def_growth", 0.56], ["dodge", 0.0], ["dodge_growth", 0.0], ["energy_recovery_rate", 0.0], ["energy_recovery_rate_growth", 0.0], ["energy_reduce_rate", 0.0], ["energy_reduce_rate_growth", 0.0], ["hp", 501.4], ["hp_growth", 69.63], ["hp_recovery_rate", 0.0], ["hp_recovery_rate_growth", 0.0], ["life_steal", 0.0], ["life_steal_growth", 0.0], ["magic_critical", 0.0], ["magic_critical_growth", 0.0], ["magic_def", 3.01], ["magic_def_growth", 0.42], ["magic_penetrate", 0.0], ["magic_penetrate_growth", 0.0], ["magic_str", 0.0], ["magic_str_growth", 0.0], ["physical_critical", 5.0], ["physical_critical_growth", 0.0], ["physical_penetrate", 0.0], ["physical_penetrate_growth", 0.0], ["rarity", 2], ["unit_id", 130101], ["unit_material_id", 31301], ["wave_energy_recovery", 0.0], ["wave_energy_recovery_growth", 0.0], ["wave_hp_recovery", 0.0], ["wave_hp_recovery_growth", 0.0]],
+          [["accuracy", 0.0], ["accuracy_growth", 0.0], ["atk", 67.66], ["atk_growth", 12.54], ["consume_gold", 50000], ["consume_num", 150], ["def", 5.94], ["def_growth", 1.11], ["dodge", 0.0], ["dodge_growth", 0.0], ["energy_recovery_rate", 0.0], ["energy_recovery_rate_growth", 0.0], ["energy_reduce_rate", 0.0], ["energy_reduce_rate_growth", 0.0], ["hp", 827.3], ["hp_growth", 153.2], ["hp_recovery_rate", 0.0], ["hp_recovery_rate_growth", 0.0], ["life_steal", 0.0], ["life_steal_growth", 0.0], ["magic_critical", 0.0], ["magic_critical_growth", 0.0], ["magic_def", 5.54], ["magic_def_growth", 1.02], ["magic_penetrate", 0.0], ["magic_penetrate_growth", 0.0], ["magic_str", 0.0], ["magic_str_growth", 0.0], ["physical_critical", 15.0], ["physical_critical_growth", 0.0], ["physical_penetrate", 0.0], ["physical_penetrate_growth", 0.0], ["rarity", 5], ["unit_id", 430101], ["unit_material_id", 34301], ["wave_energy_recovery", 0.0], ["wave_energy_recovery_growth", 0.0], ["wave_hp_recovery", 0.0], ["wave_hp_recovery_growth", 0.0]]
+        ]
+      }
+    },
+    "unit_ex_equipment_slot": {
+      "data_changes": {
+        "added": [
+          [["slot_category_1", 105], ["slot_category_2", 201], ["slot_category_3", 302], ["unit_id", 130101]]
+        ]
+      }
+    },
+    "gacha_exchange_lineup": {
+      "data_changes": {
+        "added": [
+          [["end_time", "2025/03/28 15:59:59"], ["exchange_id", 358], ["gacha_bonus_id", 1160], ["id", 939], ["pickup_gacha_id", 30358], ["rarity", 3], ["start_time", "2025/03/19 16:00:00"], ["unit_id", 130101]]
+        ]
+      }
+    },
+    "guild": {
+      "data_changes": {
+        "modified": [
+          {
+            "id": 21,
+            "old": [["description", ""], ["guild_id", 21], ["guild_master", 1300], ["guild_name", "蠻賊三姊妹"], ["member1", 1302], ["member10", 0], ["member11", 0], ["member12", 0], ["member13", 0], ["member14", 0], ["member15", 0], ["member16", 0], ["member17", 0], ["member18", 0], ["member19", 0], ["member2", 1300], ["member20", 0], ["member21", 0], ["member22", 0], ["member23", 0], ["member24", 0], ["member25", 0], ["member26", 0], ["member27", 0], ["member28", 0], ["member29", 0], ["member3", 0], ["member30", 0], ["member4", 0], ["member5", 0], ["member6", 0], ["member7", 0], ["member8", 0], ["member9", 0]],
+            "new": [["description", ""], ["guild_id", 21], ["guild_master", 1300], ["guild_name", "蠻賊三姊妹"], ["member1", 1302], ["member10", 0], ["member11", 0], ["member12", 0], ["member13", 0], ["member14", 0], ["member15", 0], ["member16", 0], ["member17", 0], ["member18", 0], ["member19", 0], ["member2", 1300], ["member20", 0], ["member21", 0], ["member22", 0], ["member23", 0], ["member24", 0], ["member25", 0], ["member26", 0], ["member27", 0], ["member28", 0], ["member29", 0], ["member3", 1301], ["member30", 0], ["member4", 0], ["member5", 0], ["member6", 0], ["member7", 0], ["member8", 0], ["member9", 0]]
+          }
+        ]
+      }
+    },
+    "unit_attack_pattern": {
+      "data_changes": {
+        "added": [
+          [["atk_pattern_1", 2001], ["atk_pattern_10", 0], ["atk_pattern_11", 0], ["atk_pattern_12", 0], ["atk_pattern_13", 0], ["atk_pattern_14", 0], ["atk_pattern_15", 0], ["atk_pattern_16", 0], ["atk_pattern_17", 0], ["atk_pattern_18", 0], ["atk_pattern_19", 0], ["atk_pattern_2", 1], ["atk_pattern_20", 0], ["atk_pattern_3", 2001], ["atk_pattern_4", 1], ["atk_pattern_5", 0], ["atk_pattern_6", 0], ["atk_pattern_7", 0], ["atk_pattern_8", 0], ["atk_pattern_9", 0], ["loop_end", 4], ["loop_start", 2], ["pattern_id", 43010101], ["unit_id", 430101]],
+          [["atk_pattern_1", 2001], ["atk_pattern_10", 0], ["atk_pattern_11", 0], ["atk_pattern_12", 0], ["atk_pattern_13", 0], ["atk_pattern_14", 0], ["atk_pattern_15", 0], ["atk_pattern_16", 0], ["atk_pattern_17", 0], ["atk_pattern_18", 0], ["atk_pattern_19", 0], ["atk_pattern_2", 1001], ["atk_pattern_20", 0], ["atk_pattern_3", 1002], ["atk_pattern_4", 1], ["atk_pattern_5", 1001], ["atk_pattern_6", 1], ["atk_pattern_7", 1002], ["atk_pattern_8", 1], ["atk_pattern_9", 1002], ["loop_end", 9], ["loop_start", 5], ["pattern_id", 13010101], ["unit_id", 130101]]
+        ]
+      }
+    },
+    "unit_talent": {
+      "data_changes": {
+        "added": [
+          [["setting_id", 43010101], ["talent_id", 3], ["unit_id", 430101]],
+          [["setting_id", 13010101], ["talent_id", 3], ["unit_id", 130101]]
+        ]
+      }
+    },
+    "room_unit_comments": {
+      "data_changes": {
+        "added": [
+          [["beloved_step", 1], ["description", "新的節儉食譜……\\n啊，這種草\\n原來可以吃啊……"], ["face_id", 1], ["id", 8682], ["insert_word_type", 0], ["time", 0], ["trigger", 3], ["unit_id", 130101], ["voice_id", 8]]
+        ]
+      }
+    },
+    "unit_promotion": {
+      "data_changes": {
+        "added": [
+          [["equip_slot_1", 108072], ["equip_slot_2", 108071], ["equip_slot_3", 108311], ["equip_slot_4", 107313], ["equip_slot_5", 108581], ["equip_slot_6", 107583], ["promotion_level", 24], ["unit_id", 430101]],
+          [["equip_slot_1", 106193], ["equip_slot_2", 106192], ["equip_slot_3", 106282], ["equip_slot_4", 106191], ["equip_slot_5", 106552], ["equip_slot_6", 106551], ["promotion_level", 19], ["unit_id", 130101]]
+        ]
+      }
+    },
+    "tips": {
+      "data_changes": {
+        "added": [
+          [["id", 4130101], ["tips_index", 1], ["title", "早晨之聲"], ["value", 130101]]
+        ]
+      }
+    },
+    "album_production_list": {
+      "data_changes": {
+        "added": [
+          [["description", ""], ["id", 13010107], ["title", "羈絆Rank表演6"], ["type", 106], ["unit_id", 130101]],
+          [["description", ""], ["id", 13010108], ["title", "羈絆Rank表演7"], ["type", 107], ["unit_id", 130101]],
+          [["description", ""], ["id", 13010101], ["title", "解放表演1"], ["type", 201], ["unit_id", 130101]],
+          [["description", ""], ["id", 13010105], ["title", "羈絆Rank表演4"], ["type", 104], ["unit_id", 130101]],
+          [["description", ""], ["id", 13010104], ["title", "羈絆Rank表演3"], ["type", 103], ["unit_id", 130101]],
+          [["description", ""], ["id", 13010106], ["title", "羈絆Rank表演5"], ["type", 105], ["unit_id", 130101]],
+          [["description", ""], ["id", 13010103], ["title", "羈絆Rank表演2"], ["type", 102], ["unit_id", 130101]],
+          [["description", ""], ["id", 13010102], ["title", "羈絆Rank表演1"], ["type", 101], ["unit_id", 130101]]
+        ]
+      }
+    },
+    "still": {
+      "data_changes": {
+        "added": [
+          [["album_ignore", 0], ["facial_id", 1], ["my_page_flag", 1], ["position_y", 0], ["scroll_direction", 0], ["still_group_id", 1301004], ["still_id", 130100402], ["story_group_id", 1301], ["story_id", 1301004], ["unit_id_1", 130132], ["unit_id_10", 0], ["unit_id_2", 0], ["unit_id_3", 0], ["unit_id_4", 0], ["unit_id_5", 0], ["unit_id_6", 0], ["unit_id_7", 0], ["unit_id_8", 0], ["unit_id_9", 0], ["vertical_still_flg", 0]],
+          [["album_ignore", 0], ["facial_id", 1], ["my_page_flag", 1], ["position_y", 0], ["scroll_direction", 0], ["still_group_id", 1301004], ["still_id", 130100403], ["story_group_id", 1301], ["story_id", 1301004], ["unit_id_1", 130132], ["unit_id_10", 0], ["unit_id_2", 0], ["unit_id_3", 0], ["unit_id_4", 0], ["unit_id_5", 0], ["unit_id_6", 0], ["unit_id_7", 0], ["unit_id_8", 0], ["unit_id_9", 0], ["vertical_still_flg", 0]],
+          [["album_ignore", 0], ["facial_id", 1], ["my_page_flag", 1], ["position_y", 0], ["scroll_direction", 0], ["still_group_id", 0], ["still_id", 130100102], ["story_group_id", 1301], ["story_id", 1301001], ["unit_id_1", 0], ["unit_id_10", 0], ["unit_id_2", 0], ["unit_id_3", 0], ["unit_id_4", 0], ["unit_id_5", 0], ["unit_id_6", 0], ["unit_id_7", 0], ["unit_id_8", 0], ["unit_id_9", 0], ["vertical_still_flg", 0]],
+          [["album_ignore", 0], ["facial_id", 1], ["my_page_flag", 1], ["position_y", 0], ["scroll_direction", 0], ["still_group_id", 1301004], ["still_id", 130100401], ["story_group_id", 1301], ["story_id", 1301004], ["unit_id_1", 130132], ["unit_id_10", 0], ["unit_id_2", 0], ["unit_id_3", 0], ["unit_id_4", 0], ["unit_id_5", 0], ["unit_id_6", 0], ["unit_id_7", 0], ["unit_id_8", 0], ["unit_id_9", 0], ["vertical_still_flg", 0]],
+          [["album_ignore", 0], ["facial_id", 1], ["my_page_flag", 1], ["position_y", 0], ["scroll_direction", 0], ["still_group_id", 0], ["still_id", 130100101], ["story_group_id", 1301], ["story_id", 1301001], ["unit_id_1", 0], ["unit_id_10", 0], ["unit_id_2", 0], ["unit_id_3", 0], ["unit_id_4", 0], ["unit_id_5", 0], ["unit_id_6", 0], ["unit_id_7", 0], ["unit_id_8", 0], ["unit_id_9", 0], ["vertical_still_flg", 0]],
+          [["album_ignore", 0], ["facial_id", 1], ["my_page_flag", 1], ["position_y", 0], ["scroll_direction", 0], ["still_group_id", 1301002], ["still_id", 130100204], ["story_group_id", 1301], ["story_id", 1301002], ["unit_id_1", 130112], ["unit_id_10", 0], ["unit_id_2", 130212], ["unit_id_3", 0], ["unit_id_4", 0], ["unit_id_5", 0], ["unit_id_6", 0], ["unit_id_7", 0], ["unit_id_8", 0], ["unit_id_9", 0], ["vertical_still_flg", 0]],
+          [["album_ignore", 0], ["facial_id", 1], ["my_page_flag", 1], ["position_y", 0], ["scroll_direction", 0], ["still_group_id", 0], ["still_id", 130100202], ["story_group_id", 1301], ["story_id", 1301002], ["unit_id_1", 0], ["unit_id_10", 0], ["unit_id_2", 0], ["unit_id_3", 0], ["unit_id_4", 0], ["unit_id_5", 0], ["unit_id_6", 0], ["unit_id_7", 0], ["unit_id_8", 0], ["unit_id_9", 0], ["vertical_still_flg", 0]],
+          [["album_ignore", 0], ["facial_id", 1], ["my_page_flag", 1], ["position_y", 0], ["scroll_direction", 0], ["still_group_id", 1301002], ["still_id", 130100205], ["story_group_id", 1301], ["story_id", 1301002], ["unit_id_1", 130112], ["unit_id_10", 0], ["unit_id_2", 130212], ["unit_id_3", 0], ["unit_id_4", 0], ["unit_id_5", 0], ["unit_id_6", 0], ["unit_id_7", 0], ["unit_id_8", 0], ["unit_id_9", 0], ["vertical_still_flg", 0]],
+          [["album_ignore", 0], ["facial_id", 1], ["my_page_flag", 1], ["position_y", 0], ["scroll_direction", 0], ["still_group_id", 1301002], ["still_id", 130100203], ["story_group_id", 1301], ["story_id", 1301002], ["unit_id_1", 130112], ["unit_id_10", 0], ["unit_id_2", 130212], ["unit_id_3", 0], ["unit_id_4", 0], ["unit_id_5", 0], ["unit_id_6", 0], ["unit_id_7", 0], ["unit_id_8", 0], ["unit_id_9", 0], ["vertical_still_flg", 0]],
+          [["album_ignore", 0], ["facial_id", 1], ["my_page_flag", 1], ["position_y", 0], ["scroll_direction", 0], ["still_group_id", 0], ["still_id", 130100201], ["story_group_id", 1301], ["story_id", 1301002], ["unit_id_1", 0], ["unit_id_10", 0], ["unit_id_2", 0], ["unit_id_3", 0], ["unit_id_4", 0], ["unit_id_5", 0], ["unit_id_6", 0], ["unit_id_7", 0], ["unit_id_8", 0], ["unit_id_9", 0], ["vertical_still_flg", 0]]
+        ]
+      }
+    },
+    "unit_enemy_data": {
+      "data_changes": {
+        "added": [
+          [["atk_type", 1], ["comment", "有著若菜樣貌的特殊魔物"], ["cutin", 0], ["cutin_star6", 0], ["motion_type", 9], ["move_speed", 450], ["normal_atk_cast_time", 2.09], ["prefab_id", 130101], ["se_type", 7], ["search_area_width", 535], ["unit_id", 630101], ["unit_name", "若菜的闇影"], ["visual_change_flag", 1]]
+        ]
+      }
+    }
+  }
+}
