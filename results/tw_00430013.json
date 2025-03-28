@@ -1,0 +1,77 @@
+{
+  "tables": {
+    "only_in_old_db": [],
+    "only_in_new_db": []
+  },
+  "table_changes": {
+    "unit_data": {
+      "data_changes": {
+        "modified": [
+          {
+            "id": 123801,
+            "old": [["atk_type", 1], ["comment", "【物理】位於前衛，以兔子模樣在戰場蹦蹦跳跳的\\n誓約女君。會運用迴避所有物理攻擊的技能及攻擊力強化\\n來單身闖入敵陣，並用ＵＢ的範圍攻擊從內側將敵人擊潰。"], ["cutin1_star6", 123801], ["cutin2_star6", 0], ["cutin_1", 123801], ["cutin_2", 0], ["end_time", "2024/03/20 15:59:59"], ["exskill_display", 0], ["guild_id", 0], ["is_limited", 1], ["kana", "克莉絲提娜（狂野）"], ["motion_type", 1], ["move_speed", 450], ["normal_atk_cast_time", 2.295], ["only_disp_owned", 0], ["original_unit_id", 0], ["prefab_id", 123801], ["prefab_id_battle", 0], ["rarity", 3], ["se_type", 1], ["search_area_width", 238], ["start_time", "2024/03/15 16:00:00"], ["unit_id", 123801], ["unit_name", "克莉絲提娜（狂野）"]],
+            "new": [["atk_type", 1], ["comment", "【物理】位於前衛，以兔子模樣在戰場蹦蹦跳跳的\\n誓約女君。會運用迴避所有物理攻擊的技能及攻擊力強化\\n來單身闖入敵陣，並用ＵＢ的範圍攻擊從內側將敵人擊潰。"], ["cutin1_star6", 123801], ["cutin2_star6", 0], ["cutin_1", 123801], ["cutin_2", 0], ["end_time", "2025/04/01 15:59:59"], ["exskill_display", 0], ["guild_id", 0], ["is_limited", 1], ["kana", "克莉絲提娜（狂野）"], ["motion_type", 1], ["move_speed", 450], ["normal_atk_cast_time", 2.295], ["only_disp_owned", 0], ["original_unit_id", 0], ["prefab_id", 123801], ["prefab_id_battle", 0], ["rarity", 3], ["se_type", 1], ["search_area_width", 238], ["start_time", "2025/03/28 16:00:00"], ["unit_id", 123801], ["unit_name", "克莉絲提娜（狂野）"]]
+          }
+        ]
+      }
+    },
+    "unit_introduction": {
+      "data_changes": {
+        "added": [
+          [["end_time", "2025/04/01 15:59:59"], ["gacha_id", 30359], ["id", 351], ["introduction_number", 1], ["maximum_chunk_size_1", 380000], ["maximum_chunk_size_2", 0], ["maximum_chunk_size_3", 0], ["maximum_chunk_size_loop_1", 380000], ["maximum_chunk_size_loop_2", 0], ["maximum_chunk_size_loop_3", 0], ["start_time", "2025/03/28 16:00:00"]]
+        ]
+      }
+    },
+    "banner": {
+      "data_changes": {
+        "added": [
+          [["banner_id", 10314], ["condition_id", 0], ["end_date", "2025/04/01 15:59:59"], ["gacha_id", 30359], ["is_show_room", 0], ["priority", 18], ["start_date", "2025/03/28 16:00:00"], ["sub_banner_id_1", 0], ["system_id", 302], ["type", 1]]
+        ]
+      }
+    },
+    "prizegacha_data": {
+      "data_changes": {
+        "added": [
+          [["disp_prize_fixed_compensation", 5], ["gacha_prize1", 1], ["gacha_prize10", 10], ["prize_fixed_compensation", 5], ["prize_fixed_compensation_quantity", 1], ["prize_memory_id_1", 31238], ["prize_memory_id_10", 0], ["prize_memory_id_11", 0], ["prize_memory_id_12", 0], ["prize_memory_id_13", 0], ["prize_memory_id_14", 0], ["prize_memory_id_15", 0], ["prize_memory_id_16", 0], ["prize_memory_id_17", 0], ["prize_memory_id_18", 0], ["prize_memory_id_19", 0], ["prize_memory_id_2", 0], ["prize_memory_id_20", 0], ["prize_memory_id_21", 0], ["prize_memory_id_22", 0], ["prize_memory_id_23", 0], ["prize_memory_id_24", 0], ["prize_memory_id_25", 0], ["prize_memory_id_26", 0], ["prize_memory_id_27", 0], ["prize_memory_id_28", 0], ["prize_memory_id_29", 0], ["prize_memory_id_3", 0], ["prize_memory_id_30", 0], ["prize_memory_id_4", 0], ["prize_memory_id_5", 0], ["prize_memory_id_6", 0], ["prize_memory_id_7", 0], ["prize_memory_id_8", 0], ["prize_memory_id_9", 0], ["prizegacha_id", 100151], ["rarity_odds", 100000]]
+        ]
+      }
+    },
+    "gacha_data": {
+      "data_changes": {
+        "added": [
+          [["b445862d0ab66dcf0d21148e77310f8e2f88e53c87861cd1b30c6271489741b7", 0], ["chara_odds_star1", "30359_1"], ["chara_odds_star2", "30359_2"], ["chara_odds_star3", "30359_3"], ["description", "限定角色復刻！登場機率在期間內提升！\\n『10 連轉蛋』確定有1個5等以上！"], ["description_2", ""], ["description_sp", ""], ["discount_price", 50], ["end_time", "2025/04/01 15:59:59"], ["exchange_id", 359], ["ff12a2d323be4140b5b5f0e3db8f93c207d4d0594eff84913f280ebb8f5fbfcd", 0], ["free_gacha_count", 0], ["free_gacha_interval_time", 0], ["free_gacha_type", 0], ["gacha10_special_odds_star1", "0"], ["gacha10_special_odds_star2", "0"], ["gacha10_special_odds_star3", "0"], ["gacha_bonus_id", 0], ["gacha_cost_type", 2], ["gacha_detail", 2], ["gacha_id", 30359], ["gacha_name", "獎勵轉蛋"], ["gacha_odds", "0"], ["gacha_odds_star2", "0"], ["gacha_times_limit10", 0], ["gacha_type", 1], ["movie_id", 300359], ["parallel_id", 0], ["pick_up_chara_text", "克莉絲提娜（狂野）"], ["pickup_badge", 0], ["pickup_id", 0], ["price", 150], ["prizegacha_id", 100151], ["rarity_odds", "300000"], ["special_id", 0], ["start_time", "2025/03/28 16:00:00"], ["tab_name", ""], ["ticket_id", 24001], ["ticket_id_10", 24004], ["title_id", 0]],
+          [["b445862d0ab66dcf0d21148e77310f8e2f88e53c87861cd1b30c6271489741b7", 0], ["chara_odds_star1", "0"], ["chara_odds_star2", "0"], ["chara_odds_star3", "0"], ["description", "取得道具獎勵或記憶碎片吧！"], ["description_2", ""], ["description_sp", ""], ["discount_price", 0], ["end_time", "2025/04/01 15:59:59"], ["exchange_id", 0], ["ff12a2d323be4140b5b5f0e3db8f93c207d4d0594eff84913f280ebb8f5fbfcd", 0], ["free_gacha_count", 10], ["free_gacha_interval_time", 0], ["free_gacha_type", 1], ["gacha10_special_odds_star1", "0"], ["gacha10_special_odds_star2", "0"], ["gacha10_special_odds_star3", "0"], ["gacha_bonus_id", 0], ["gacha_cost_type", 3], ["gacha_detail", 1], ["gacha_id", 10359], ["gacha_name", "一般轉蛋"], ["gacha_odds", "10359"], ["gacha_odds_star2", ""], ["gacha_times_limit10", 0], ["gacha_type", 0], ["movie_id", 0], ["parallel_id", 0], ["pick_up_chara_text", ""], ["pickup_badge", 0], ["pickup_id", 0], ["price", 0], ["prizegacha_id", 0], ["rarity_odds", "0"], ["special_id", 0], ["start_time", "2025/03/28 16:00:00"], ["tab_name", ""], ["ticket_id", 0], ["ticket_id_10", 0], ["title_id", 0]],
+          [["b445862d0ab66dcf0d21148e77310f8e2f88e53c87861cd1b30c6271489741b7", 0], ["chara_odds_star1", "20359_1"], ["chara_odds_star2", "20359_2"], ["chara_odds_star3", "20359_3"], ["description", "白金轉蛋僅會出現角色喔！"], ["description_2", ""], ["description_sp", ""], ["discount_price", 50], ["end_time", "2025/04/01 15:59:59"], ["exchange_id", 359], ["ff12a2d323be4140b5b5f0e3db8f93c207d4d0594eff84913f280ebb8f5fbfcd", 0], ["free_gacha_count", 0], ["free_gacha_interval_time", 0], ["free_gacha_type", 0], ["gacha10_special_odds_star1", "0"], ["gacha10_special_odds_star2", "0"], ["gacha10_special_odds_star3", "0"], ["gacha_bonus_id", 0], ["gacha_cost_type", 2], ["gacha_detail", 2], ["gacha_id", 20359], ["gacha_name", "白金轉蛋"], ["gacha_odds", "0"], ["gacha_odds_star2", "0"], ["gacha_times_limit10", 0], ["gacha_type", 1], ["movie_id", 200001], ["parallel_id", 0], ["pick_up_chara_text", "無精選角色"], ["pickup_badge", 0], ["pickup_id", 0], ["price", 150], ["prizegacha_id", 0], ["rarity_odds", "300000"], ["special_id", 0], ["start_time", "2025/03/28 16:00:00"], ["tab_name", ""], ["ticket_id", 24001], ["ticket_id_10", 24004], ["title_id", 0]]
+        ]
+      }
+    },
+    "event_gacha_data": {
+      "data_changes": {
+        "added": [
+          [["cost", 1], ["event_id", 10158], ["gacha_id", 10158], ["gacha_name", "Love＆Punishment　惡魔送來的聖誕節"], ["item_id", 61572], ["item_type", 2], ["repeat_step", 6]]
+        ]
+      }
+    },
+    "gacha_exchange_lineup": {
+      "data_changes": {
+        "added": [
+          [["end_time", "2025/04/01 15:59:59"], ["exchange_id", 359], ["gacha_bonus_id", 0], ["id", 940], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2025/03/28 16:00:00"], ["unit_id", 123801]]
+        ]
+      }
+    },
+    "event_story_data": {
+      "data_changes": {
+        "added": [
+          [["disp_order", 1], ["end_time", "2030/04/24 14:59:59"], ["start_time", "2025/03/28 16:00:00"], ["story_group_id", 5158], ["story_type", 5], ["thumbnail_id", 0], ["title", "Love＆Punishment　\\n惡魔送來的聖誕節"], ["value", 10158]]
+        ]
+      }
+    },
+    "hatsune_schedule": {
+      "data_changes": {
+        "added": [
+          [["backgroud_pos_x", 60], ["backgroud_pos_y", 50], ["backgroud_size_x", 1768], ["backgroud_size_y", 1060], ["background", 500881], ["banner_unit_id", 134201], ["close_time", "2025/04/19 15:59:59"], ["count_start_time", "2025/04/11 15:59:59"], ["end_time", "2025/04/15 15:59:59"], ["event_id", 10158], ["original_event_id", 0], ["que_id", "bgm_MC213"], ["series_event_id", 0], ["sheet_id", "bgm_MC213"], ["start_time", "2025/04/01 16:00:00"], ["teaser_dialog_type", 0], ["teaser_time", "2025/03/28 16:00:00"]]
+        ]
+      }
+    }
+  }
+}
