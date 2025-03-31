@@ -1,0 +1,15 @@
+{
+  "tables": {
+    "only_in_old_db": [],
+    "only_in_new_db": []
+  },
+  "table_changes": {
+    "ticket_gacha_data": {
+      "data_changes": {
+        "added": [
+          [["chara_odds_star1", "80012_1"], ["chara_odds_star2", "80012_2"], ["chara_odds_star3", "80012_3"], ["gacha_detail", 2], ["gacha_id", 80012], ["gacha_name", "★3必得 新手冲刺扭蛋券"], ["gacha_times", 1], ["gacha_type", 1], ["guarantee_rarity", "0"], ["rarity_odds", "80000"], ["staging_type", 1], ["ticket_id", 24016]]
+        ]
+      }
+    }
+  }
+}
