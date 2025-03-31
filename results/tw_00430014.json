@@ -1,0 +1,45 @@
+{
+  "tables": {
+    "only_in_old_db": [],
+    "only_in_new_db": []
+  },
+  "table_changes": {
+    "story_detail": {
+      "data_changes": {
+        "added": [
+          [["can_bookmark", 0], ["end_time", "2030/12/17 14:59:59"], ["force_unlock_time", "2030/12/17 14:59:59"], ["force_unlock_time_2", "2030/12/17 14:59:59"], ["lock_all_text", 0], ["love_level", 0], ["pre_story_id", 0], ["pre_story_id_2", 0], ["read_process_flag", 1], ["requirement_id", 0], ["reward_id_1", 31002], ["reward_id_2", 0], ["reward_id_3", 0], ["reward_type_1", 2], ["reward_type_2", 0], ["reward_type_3", 0], ["reward_value_1", 10], ["reward_value_2", 0], ["reward_value_3", 0], ["start_time", "2025/04/05 05:00:00"], ["story_end", 0], ["story_group_id", 4010], ["story_id", 4010082], ["story_quest_id", 0], ["sub_title", "4月5日的劇情2"], ["title", ""], ["unlock_quest_id", 0], ["visible_type", 2]],
+          [["can_bookmark", 0], ["end_time", "2030/12/17 14:59:59"], ["force_unlock_time", "2030/12/17 14:59:59"], ["force_unlock_time_2", "2030/12/17 14:59:59"], ["lock_all_text", 0], ["love_level", 0], ["pre_story_id", 0], ["pre_story_id_2", 0], ["read_process_flag", 1], ["requirement_id", 0], ["reward_id_1", 31258], ["reward_id_2", 0], ["reward_id_3", 0], ["reward_type_1", 2], ["reward_type_2", 0], ["reward_type_3", 0], ["reward_value_1", 10], ["reward_value_2", 0], ["reward_value_3", 0], ["start_time", "2025/04/29 05:00:00"], ["story_end", 0], ["story_group_id", 4010], ["story_id", 4010086], ["story_quest_id", 0], ["sub_title", "4月29日的劇情2"], ["title", ""], ["unlock_quest_id", 0], ["visible_type", 2]],
+          [["can_bookmark", 0], ["end_time", "2030/12/17 14:59:59"], ["force_unlock_time", "2030/12/17 14:59:59"], ["force_unlock_time_2", "2030/12/17 14:59:59"], ["lock_all_text", 0], ["love_level", 0], ["pre_story_id", 0], ["pre_story_id_2", 0], ["read_process_flag", 1], ["requirement_id", 0], ["reward_id_1", 31020], ["reward_id_2", 0], ["reward_id_3", 0], ["reward_type_1", 2], ["reward_type_2", 0], ["reward_type_3", 0], ["reward_value_1", 10], ["reward_value_2", 0], ["reward_value_3", 0], ["start_time", "2025/04/03 05:00:00"], ["story_end", 0], ["story_group_id", 4010], ["story_id", 4010081], ["story_quest_id", 0], ["sub_title", "4月3日的劇情2"], ["title", ""], ["unlock_quest_id", 0], ["visible_type", 2]],
+          [["can_bookmark", 0], ["end_time", "2030/12/17 14:59:59"], ["force_unlock_time", "2030/12/17 14:59:59"], ["force_unlock_time_2", "2030/12/17 14:59:59"], ["lock_all_text", 0], ["love_level", 0], ["pre_story_id", 0], ["pre_story_id_2", 0], ["read_process_flag", 1], ["requirement_id", 0], ["reward_id_1", 31016], ["reward_id_2", 0], ["reward_id_3", 0], ["reward_type_1", 2], ["reward_type_2", 0], ["reward_type_3", 0], ["reward_value_1", 10], ["reward_value_2", 0], ["reward_value_3", 0], ["start_time", "2025/04/10 05:00:00"], ["story_end", 0], ["story_group_id", 4010], ["story_id", 4010084], ["story_quest_id", 0], ["sub_title", "4月10日的劇情2"], ["title", ""], ["unlock_quest_id", 0], ["visible_type", 2]],
+          [["can_bookmark", 0], ["end_time", "2030/12/17 14:59:59"], ["force_unlock_time", "2030/12/17 14:59:59"], ["force_unlock_time_2", "2030/12/17 14:59:59"], ["lock_all_text", 0], ["love_level", 0], ["pre_story_id", 0], ["pre_story_id_2", 0], ["read_process_flag", 1], ["requirement_id", 0], ["reward_id_1", 31055], ["reward_id_2", 0], ["reward_id_3", 0], ["reward_type_1", 2], ["reward_type_2", 0], ["reward_type_3", 0], ["reward_value_1", 10], ["reward_value_2", 0], ["reward_value_3", 0], ["start_time", "2025/04/07 05:00:00"], ["story_end", 0], ["story_group_id", 4010], ["story_id", 4010083], ["story_quest_id", 0], ["sub_title", "4月7日的劇情2"], ["title", ""], ["unlock_quest_id", 0], ["visible_type", 2]],
+          [["can_bookmark", 0], ["end_time", "2030/12/17 14:59:59"], ["force_unlock_time", "2030/12/17 14:59:59"], ["force_unlock_time_2", "2030/12/17 14:59:59"], ["lock_all_text", 0], ["love_level", 0], ["pre_story_id", 0], ["pre_story_id_2", 0], ["read_process_flag", 1], ["requirement_id", 0], ["reward_id_1", 31067], ["reward_id_2", 0], ["reward_id_3", 0], ["reward_type_1", 2], ["reward_type_2", 0], ["reward_type_3", 0], ["reward_value_1", 10], ["reward_value_2", 0], ["reward_value_3", 0], ["start_time", "2025/04/17 05:00:00"], ["story_end", 0], ["story_group_id", 4010], ["story_id", 4010085], ["story_quest_id", 0], ["sub_title", "4月17日的劇情2"], ["title", ""], ["unlock_quest_id", 0], ["visible_type", 2]]
+        ]
+      }
+    },
+    "fbs_schedule": {
+      "data_changes": {
+        "added": [
+          [["end_time", "2025/04/11 04:59:59"], ["fbs_id", 84], ["start_time", "2025/04/10 05:00:00"], ["story_id", 4010084]],
+          [["end_time", "2025/04/30 04:59:59"], ["fbs_id", 86], ["start_time", "2025/04/29 05:00:00"], ["story_id", 4010086]],
+          [["end_time", "2025/04/08 04:59:59"], ["fbs_id", 83], ["start_time", "2025/04/07 05:00:00"], ["story_id", 4010083]],
+          [["end_time", "2025/04/04 04:59:59"], ["fbs_id", 81], ["start_time", "2025/04/03 05:00:00"], ["story_id", 4010081]],
+          [["end_time", "2025/04/18 04:59:59"], ["fbs_id", 85], ["start_time", "2025/04/17 05:00:00"], ["story_id", 4010085]],
+          [["end_time", "2025/04/06 04:59:59"], ["fbs_id", 82], ["start_time", "2025/04/05 05:00:00"], ["story_id", 4010082]]
+        ]
+      }
+    },
+    "campaign_schedule": {
+      "data_changes": {
+        "added": [
+          [["beginner_id", 0], ["campaign_category", 152], ["campaign_type", 1], ["duplication_order", 0], ["end_time", "2025/04/15 15:59:59"], ["icon_image", 80], ["id", 2230], ["level_id", 0], ["lv_from", 1], ["lv_to", -1], ["shiori_group_id", 0], ["start_time", "2025/04/01 16:00:00"], ["system_id", 6005], ["value", 1500.0]],
+          [["beginner_id", 0], ["campaign_category", 37], ["campaign_type", 1], ["duplication_order", 0], ["end_time", "2025/04/11 04:59:59"], ["icon_image", 30], ["id", 2227], ["level_id", 0], ["lv_from", 1], ["lv_to", -1], ["shiori_group_id", 0], ["start_time", "2025/04/01 05:00:00"], ["system_id", 109], ["value", 2000.0]],
+          [["beginner_id", 0], ["campaign_category", 34], ["campaign_type", 1], ["duplication_order", 0], ["end_time", "2025/04/11 04:59:59"], ["icon_image", 30], ["id", 2225], ["level_id", 0], ["lv_from", 1], ["lv_to", -1], ["shiori_group_id", 0], ["start_time", "2025/04/01 05:00:00"], ["system_id", 103], ["value", 2000.0]],
+          [["beginner_id", 0], ["campaign_category", 45], ["campaign_type", 1], ["duplication_order", 0], ["end_time", "2025/04/16 04:59:59"], ["icon_image", 40], ["id", 2224], ["level_id", 0], ["lv_from", 1], ["lv_to", -1], ["shiori_group_id", 0], ["start_time", "2025/04/01 05:00:00"], ["system_id", 104], ["value", 2000.0]],
+          [["beginner_id", 0], ["campaign_category", 38], ["campaign_type", 1], ["duplication_order", 0], ["end_time", "2025/04/11 04:59:59"], ["icon_image", 30], ["id", 2228], ["level_id", 0], ["lv_from", 1], ["lv_to", -1], ["shiori_group_id", 0], ["start_time", "2025/04/01 05:00:00"], ["system_id", 112], ["value", 2000.0]],
+          [["beginner_id", 0], ["campaign_category", 44], ["campaign_type", 1], ["duplication_order", 0], ["end_time", "2025/04/11 04:59:59"], ["icon_image", 40], ["id", 2226], ["level_id", 0], ["lv_from", 1], ["lv_to", -1], ["shiori_group_id", 0], ["start_time", "2025/04/01 05:00:00"], ["system_id", 103], ["value", 2000.0]],
+          [["beginner_id", 0], ["campaign_category", 151], ["campaign_type", 1], ["duplication_order", 0], ["end_time", "2025/04/15 15:59:59"], ["icon_image", 80], ["id", 2229], ["level_id", 0], ["lv_from", 1], ["lv_to", -1], ["shiori_group_id", 0], ["start_time", "2025/04/01 16:00:00"], ["system_id", 6004], ["value", 1500.0]]
+        ]
+      }
+    }
+  }
+}
