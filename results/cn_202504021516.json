@@ -1,0 +1,18 @@
+{
+  "tables": {
+    "only_in_old_db": [],
+    "only_in_new_db": []
+  },
+  "table_changes": {
+    "story_detail": {
+      "data_changes": {
+        "added": [
+          [["end_time", "2099/12/31 23:59:59"], ["force_unlock_time", "2030/12/17 14:59:00"], ["force_unlock_time_2", "2030/12/17 14:59:00"], ["lock_all_text", 0], ["love_level", 10], ["pre_story_id", 1055009], ["pre_story_id_2", 0], ["requirement_id", 105501], ["reward_id_1", 91002], ["reward_id_2", 0], ["reward_id_3", 0], ["reward_type_1", 8], ["reward_type_2", 0], ["reward_type_3", 0], ["reward_value_1", 50], ["reward_value_2", 0], ["reward_value_3", 0], ["start_time", "2025/01/27 11:00:00"], ["story_end", 0], ["story_group_id", 1055], ["story_id", 1055010], ["story_quest_id", 0], ["sub_title", "符合我风格的礼物"], ["title", "步美 第10话"], ["unknown_1", 1], ["unlock_quest_id", 0], ["visible_type", 0]],
+          [["end_time", "2099/12/31 23:59:59"], ["force_unlock_time", "2030/12/17 14:59:00"], ["force_unlock_time_2", "2030/12/17 14:59:00"], ["lock_all_text", 0], ["love_level", 12], ["pre_story_id", 1055011], ["pre_story_id_2", 0], ["requirement_id", 105501], ["reward_id_1", 91002], ["reward_id_2", 0], ["reward_id_3", 0], ["reward_type_1", 8], ["reward_type_2", 0], ["reward_type_3", 0], ["reward_value_1", 50], ["reward_value_2", 0], ["reward_value_3", 0], ["start_time", "2025/01/27 11:00:00"], ["story_end", 0], ["story_group_id", 1055], ["story_id", 1055012], ["story_quest_id", 0], ["sub_title", "只有一个无法退让的心意"], ["title", "步美 第12话"], ["unknown_1", 1], ["unlock_quest_id", 0], ["visible_type", 0]],
+          [["end_time", "2099/12/31 23:59:59"], ["force_unlock_time", "2030/12/17 14:59:00"], ["force_unlock_time_2", "2030/12/17 14:59:00"], ["lock_all_text", 0], ["love_level", 9], ["pre_story_id", 1055008], ["pre_story_id_2", 0], ["requirement_id", 105501], ["reward_id_1", 91002], ["reward_id_2", 0], ["reward_id_3", 0], ["reward_type_1", 8], ["reward_type_2", 0], ["reward_type_3", 0], ["reward_value_1", 50], ["reward_value_2", 0], ["reward_value_3", 0], ["start_time", "2025/01/27 11:00:00"], ["story_end", 0], ["story_group_id", 1055], ["story_id", 1055009], ["story_quest_id", 0], ["sub_title", "超个性派女主角诞生？"], ["title", "步美 第9话"], ["unknown_1", 1], ["unlock_quest_id", 0], ["visible_type", 0]],
+          [["end_time", "2099/12/31 23:59:59"], ["force_unlock_time", "2030/12/17 14:59:00"], ["force_unlock_time_2", "2030/12/17 14:59:00"], ["lock_all_text", 0], ["love_level", 11], ["pre_story_id", 1055010], ["pre_story_id_2", 0], ["requirement_id", 105501], ["reward_id_1", 91002], ["reward_id_2", 0], ["reward_id_3", 0], ["reward_type_1", 8], ["reward_type_2", 0], ["reward_type_3", 0], ["reward_value_1", 50], ["reward_value_2", 0], ["reward_value_3", 0], ["start_time", "2025/01/27 11:00:00"], ["story_end", 0], ["story_group_id", 1055], ["story_id", 1055011], ["story_quest_id", 0], ["sub_title", "温柔的心愿和前辈的护身符"], ["title", "步美 第11话"], ["unknown_1", 1], ["unlock_quest_id", 0], ["visible_type", 0]]
+        ]
+      }
+    }
+  }
+}
