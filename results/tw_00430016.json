@@ -1,0 +1,32 @@
+{
+  "tables": {
+    "only_in_old_db": [],
+    "only_in_new_db": []
+  },
+  "table_changes": {
+    "login_bonus_adv": {
+      "data_changes": {
+        "added": [
+          [["adv_id", 400], ["count_key", 0], ["end_time", "2025/04/04 04:59:59"], ["id", 148], ["login_bonus_id", 70014], ["read_process_flag", 0], ["start_time", "2025/04/03 05:00:00"]],
+          [["adv_id", 401], ["count_key", 0], ["end_time", "2025/04/05 04:59:59"], ["id", 149], ["login_bonus_id", 70015], ["read_process_flag", 0], ["start_time", "2025/04/04 05:00:00"]]
+        ]
+      }
+    },
+    "login_bonus_detail": {
+      "data_changes": {
+        "added": [
+          [["bg_id", 0], ["character_id", 0], ["character_name", ""], ["count", 1], ["description", ""], ["id", 495], ["login_bonus_id", 70015], ["reward_id", 41000], ["reward_num", 1], ["reward_type", 2], ["voice_id", 0]],
+          [["bg_id", 0], ["character_id", 0], ["character_name", ""], ["count", 1], ["description", ""], ["id", 494], ["login_bonus_id", 70014], ["reward_id", 91002], ["reward_num", 500], ["reward_type", 8], ["voice_id", 0]]
+        ]
+      }
+    },
+    "login_bonus_data": {
+      "data_changes": {
+        "added": [
+          [["adv_play_type", 1], ["bg_id", 500160], ["count_num", 1], ["count_type", 0], ["end_time", "2025/04/04 04:59:59"], ["login_bonus_id", 70014], ["login_bonus_type", 7], ["name", "聖誕節登入獎勵"], ["odds_group_id", 0], ["stamp_id", 0], ["start_time", "2025/04/03 05:00:00"]],
+          [["adv_play_type", 1], ["bg_id", 500160], ["count_num", 1], ["count_type", 0], ["end_time", "2025/04/05 04:59:59"], ["login_bonus_id", 70015], ["login_bonus_type", 7], ["name", "聖誕節登入獎勵"], ["odds_group_id", 0], ["stamp_id", 0], ["start_time", "2025/04/04 05:00:00"]]
+        ]
+      }
+    }
+  }
+}
