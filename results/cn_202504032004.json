@@ -1,0 +1,162 @@
+{
+  "tables": {
+    "only_in_old_db": [],
+    "only_in_new_db": []
+  },
+  "table_changes": {
+    "bmy_story_data": {
+      "data_changes": {
+        "modified": [
+          {
+            "id": 5120073,
+            "old": [["condition_boss_id", 1012001], ["condition_quest_id", 10120115], ["original_event_id", 10120], ["reward_count", 20], ["reward_id", 91002], ["reward_type", 8], ["sub_story_id", 5120073], ["title", "【墨丘利财团】的美貌"]],
+            "new": [["condition_boss_id", 1012001], ["condition_quest_id", 10120115], ["original_event_id", 10120], ["reward_count", 20], ["reward_id", 91002], ["reward_type", 8], ["sub_story_id", 5120073], ["title", "【墨丘利财团】的美丽之处"]]
+          },
+          {
+            "id": 5120065,
+            "old": [["condition_boss_id", 1012001], ["condition_quest_id", 10120115], ["original_event_id", 10120], ["reward_count", 20], ["reward_id", 91002], ["reward_type", 8], ["sub_story_id", 5120065], ["title", "【慈乐之音】的美貌"]],
+            "new": [["condition_boss_id", 1012001], ["condition_quest_id", 10120115], ["original_event_id", 10120], ["reward_count", 20], ["reward_id", 91002], ["reward_type", 8], ["sub_story_id", 5120065], ["title", "【慈乐之音】的美丽之处"]]
+          },
+          {
+            "id": 5120061,
+            "old": [["condition_boss_id", 1012001], ["condition_quest_id", 10120115], ["original_event_id", 10120], ["reward_count", 20], ["reward_id", 91002], ["reward_type", 8], ["sub_story_id", 5120061], ["title", "我公会伙伴的美貌"]],
+            "new": [["condition_boss_id", 1012001], ["condition_quest_id", 10120115], ["original_event_id", 10120], ["reward_count", 20], ["reward_id", 91002], ["reward_type", 8], ["sub_story_id", 5120061], ["title", "我的公会伙伴的美丽之处"]]
+          },
+          {
+            "id": 5120075,
+            "old": [["condition_boss_id", 1012001], ["condition_quest_id", 10120115], ["original_event_id", 10120], ["reward_count", 20], ["reward_id", 91002], ["reward_type", 8], ["sub_story_id", 5120075], ["title", "【月光学院】的美貌"]],
+            "new": [["condition_boss_id", 1012001], ["condition_quest_id", 10120115], ["original_event_id", 10120], ["reward_count", 20], ["reward_id", 91002], ["reward_type", 8], ["sub_story_id", 5120075], ["title", "【月光学院】的美丽之处"]]
+          },
+          {
+            "id": 5120064,
+            "old": [["condition_boss_id", 1012001], ["condition_quest_id", 10120115], ["original_event_id", 10120], ["reward_count", 20], ["reward_id", 91002], ["reward_type", 8], ["sub_story_id", 5120064], ["title", "【拉比林斯】的美貌"]],
+            "new": [["condition_boss_id", 1012001], ["condition_quest_id", 10120115], ["original_event_id", 10120], ["reward_count", 20], ["reward_id", 91002], ["reward_type", 8], ["sub_story_id", 5120064], ["title", "【拉比林斯】的美丽之处"]]
+          },
+          {
+            "id": 5120070,
+            "old": [["condition_boss_id", 1012001], ["condition_quest_id", 10120115], ["original_event_id", 10120], ["reward_count", 20], ["reward_id", 91002], ["reward_type", 8], ["sub_story_id", 5120070], ["title", "【咲恋救济院】的美貌"]],
+            "new": [["condition_boss_id", 1012001], ["condition_quest_id", 10120115], ["original_event_id", 10120], ["reward_count", 20], ["reward_id", 91002], ["reward_type", 8], ["sub_story_id", 5120070], ["title", "【咲恋救济院】的美丽之处"]]
+          },
+          {
+            "id": 5120078,
+            "old": [["condition_boss_id", 1012001], ["condition_quest_id", 10120115], ["original_event_id", 10120], ["reward_count", 20], ["reward_id", 91002], ["reward_type", 8], ["sub_story_id", 5120078], ["title", "？？？的美貌　其一"]],
+            "new": [["condition_boss_id", 1012001], ["condition_quest_id", 10120115], ["original_event_id", 10120], ["reward_count", 20], ["reward_id", 91002], ["reward_type", 8], ["sub_story_id", 5120078], ["title", "？？？的美丽之处　其一"]]
+          },
+          {
+            "id": 5120074,
+            "old": [["condition_boss_id", 1012001], ["condition_quest_id", 10120115], ["original_event_id", 10120], ["reward_count", 20], ["reward_id", 91002], ["reward_type", 8], ["sub_story_id", 5120074], ["title", "【暮光流星群】\\n 的美貌"]],
+            "new": [["condition_boss_id", 1012001], ["condition_quest_id", 10120115], ["original_event_id", 10120], ["reward_count", 20], ["reward_id", 91002], ["reward_type", 8], ["sub_story_id", 5120074], ["title", "【暮光流星群】\\n 的美丽之处"]]
+          },
+          {
+            "id": 5120069,
+            "old": [["condition_boss_id", 1012001], ["condition_quest_id", 10120115], ["original_event_id", 10120], ["reward_count", 20], ["reward_id", 91002], ["reward_type", 8], ["sub_story_id", 5120069], ["title", "【王宫骑士团】\\n 的美貌"]],
+            "new": [["condition_boss_id", 1012001], ["condition_quest_id", 10120115], ["original_event_id", 10120], ["reward_count", 20], ["reward_id", 91002], ["reward_type", 8], ["sub_story_id", 5120069], ["title", "【王宫骑士团】\\n 的美丽之处"]]
+          },
+          {
+            "id": 5120072,
+            "old": [["condition_boss_id", 1012001], ["condition_quest_id", 10120115], ["original_event_id", 10120], ["reward_count", 20], ["reward_id", 91002], ["reward_type", 8], ["sub_story_id", 5120072], ["title", "【伊丽莎白牧场】\\n 的美貌"]],
+            "new": [["condition_boss_id", 1012001], ["condition_quest_id", 10120115], ["original_event_id", 10120], ["reward_count", 20], ["reward_id", 91002], ["reward_type", 8], ["sub_story_id", 5120072], ["title", "【伊丽莎白牧场】\\n 的美丽之处"]]
+          },
+          {
+            "id": 5120079,
+            "old": [["condition_boss_id", 1012001], ["condition_quest_id", 10120115], ["original_event_id", 10120], ["reward_count", 20], ["reward_id", 91002], ["reward_type", 8], ["sub_story_id", 5120079], ["title", "？？？的美貌　其二"]],
+            "new": [["condition_boss_id", 1012001], ["condition_quest_id", 10120115], ["original_event_id", 10120], ["reward_count", 20], ["reward_id", 91002], ["reward_type", 8], ["sub_story_id", 5120079], ["title", "？？？的美丽之处　其二"]]
+          },
+          {
+            "id": 5120080,
+            "old": [["condition_boss_id", 1012001], ["condition_quest_id", 10120115], ["original_event_id", 10120], ["reward_count", 20], ["reward_id", 91002], ["reward_type", 8], ["sub_story_id", 5120080], ["title", "？？？的美貌　其三"]],
+            "new": [["condition_boss_id", 1012001], ["condition_quest_id", 10120115], ["original_event_id", 10120], ["reward_count", 20], ["reward_id", 91002], ["reward_type", 8], ["sub_story_id", 5120080], ["title", "？？？的美丽之处　其三"]]
+          },
+          {
+            "id": 5120068,
+            "old": [["condition_boss_id", 1012001], ["condition_quest_id", 10120115], ["original_event_id", 10120], ["reward_count", 20], ["reward_id", 91002], ["reward_type", 8], ["sub_story_id", 5120068], ["title", "【恶魔伪王国军】\\n 的美貌"]],
+            "new": [["condition_boss_id", 1012001], ["condition_quest_id", 10120115], ["original_event_id", 10120], ["reward_count", 20], ["reward_id", 91002], ["reward_type", 8], ["sub_story_id", 5120068], ["title", "【恶魔伪王国军】\\n 的美丽之处"]]
+          },
+          {
+            "id": 5120066,
+            "old": [["condition_boss_id", 1012001], ["condition_quest_id", 10120115], ["original_event_id", 10120], ["reward_count", 20], ["reward_id", 91002], ["reward_type", 8], ["sub_story_id", 5120066], ["title", "【小小甜心】的美貌"]],
+            "new": [["condition_boss_id", 1012001], ["condition_quest_id", 10120115], ["original_event_id", 10120], ["reward_count", 20], ["reward_id", 91002], ["reward_type", 8], ["sub_story_id", 5120066], ["title", "【小小甜心】的美丽之处"]]
+          },
+          {
+            "id": 5120067,
+            "old": [["condition_boss_id", 1012001], ["condition_quest_id", 10120115], ["original_event_id", 10120], ["reward_count", 20], ["reward_id", 91002], ["reward_type", 8], ["sub_story_id", 5120067], ["title", "【森林守卫】的美貌"]],
+            "new": [["condition_boss_id", 1012001], ["condition_quest_id", 10120115], ["original_event_id", 10120], ["reward_count", 20], ["reward_id", 91002], ["reward_type", 8], ["sub_story_id", 5120067], ["title", "【森林守卫】的美丽之处"]]
+          },
+          {
+            "id": 5120077,
+            "old": [["condition_boss_id", 1012001], ["condition_quest_id", 10120115], ["original_event_id", 10120], ["reward_count", 20], ["reward_id", 91002], ["reward_type", 8], ["sub_story_id", 5120077], ["title", "【龙族据点】的美貌"]],
+            "new": [["condition_boss_id", 1012001], ["condition_quest_id", 10120115], ["original_event_id", 10120], ["reward_count", 20], ["reward_id", 91002], ["reward_type", 8], ["sub_story_id", 5120077], ["title", "【龙族据点】的美丽之处"]]
+          },
+          {
+            "id": 5120063,
+            "old": [["condition_boss_id", 1012001], ["condition_quest_id", 10120115], ["original_event_id", 10120], ["reward_count", 20], ["reward_id", 91002], ["reward_type", 8], ["sub_story_id", 5120063], ["title", "【破晓之星】\\n 的美貌"]],
+            "new": [["condition_boss_id", 1012001], ["condition_quest_id", 10120115], ["original_event_id", 10120], ["reward_count", 20], ["reward_id", 91002], ["reward_type", 8], ["sub_story_id", 5120063], ["title", "【破晓之星】\\n 的美丽之处"]]
+          },
+          {
+            "id": 5120071,
+            "old": [["condition_boss_id", 1012001], ["condition_quest_id", 10120115], ["original_event_id", 10120], ["reward_count", 20], ["reward_id", 91002], ["reward_type", 8], ["sub_story_id", 5120071], ["title", "【自卫团】的美貌"]],
+            "new": [["condition_boss_id", 1012001], ["condition_quest_id", 10120115], ["original_event_id", 10120], ["reward_count", 20], ["reward_id", 91002], ["reward_type", 8], ["sub_story_id", 5120071], ["title", "【自卫团】的美丽之处"]]
+          },
+          {
+            "id": 5120076,
+            "old": [["condition_boss_id", 1012001], ["condition_quest_id", 10120115], ["original_event_id", 10120], ["reward_count", 20], ["reward_id", 91002], ["reward_type", 8], ["sub_story_id", 5120076], ["title", "【圣特蕾莎女子学院（好朋友社）】\\n 的美貌"]],
+            "new": [["condition_boss_id", 1012001], ["condition_quest_id", 10120115], ["original_event_id", 10120], ["reward_count", 20], ["reward_id", 91002], ["reward_type", 8], ["sub_story_id", 5120076], ["title", "【圣特蕾莎女子学院（好朋友社）】\\n 的美丽之处"]]
+          },
+          {
+            "id": 5120062,
+            "old": [["condition_boss_id", 1012001], ["condition_quest_id", 10120115], ["original_event_id", 10120], ["reward_count", 20], ["reward_id", 91002], ["reward_type", 8], ["sub_story_id", 5120062], ["title", "【美食殿堂】的美貌"]],
+            "new": [["condition_boss_id", 1012001], ["condition_quest_id", 10120115], ["original_event_id", 10120], ["reward_count", 20], ["reward_id", 91002], ["reward_type", 8], ["sub_story_id", 5120062], ["title", "【美食殿堂】的美丽之处"]]
+          }
+        ]
+      }
+    },
+    "dvs_story_data": {
+      "data_changes": {
+        "modified": [
+          {
+            "id": 5118065,
+            "old": [["condition_quest_id", 0], ["detail_description", "跳蚤市场一角举行的格斗大赛——\\n香织也在那里？"], ["detail_title", "跳蚤市场"], ["dvs_story_type", 2], ["is_last", 0], ["original_event_id", 10118], ["reward_count_1", 1], ["reward_count_2", 40], ["reward_id_1", 4107402], ["reward_id_2", 91002], ["reward_type_1", 18], ["reward_type_2", 8], ["sub_story_id", 5118065], ["sub_title", "白热！　格斗大赛！"], ["title", "与香织的相遇"]],
+            "new": [["condition_quest_id", 0], ["detail_description", "跳蚤市场一角举行的格斗大赛——\\n香织也在那里？"], ["detail_title", "跳蚤市场"], ["dvs_story_type", 2], ["is_last", 0], ["original_event_id", 10118], ["reward_count_1", 1], ["reward_count_2", 40], ["reward_id_1", 4107402], ["reward_id_2", 91002], ["reward_type_1", 18], ["reward_type_2", 8], ["sub_story_id", 5118065], ["sub_title", "白热化的格斗大赛！"], ["title", "与香织的相遇"]]
+          },
+          {
+            "id": 5118068,
+            "old": [["condition_quest_id", 0], ["detail_description", "毗伽菈他们在街上散步时，路过的\\n七七香一脸兴奋地走了过来？"], ["detail_title", "兰德索尔市区"], ["dvs_story_type", 3], ["is_last", 0], ["original_event_id", 10118], ["reward_count_1", 1], ["reward_count_2", 40], ["reward_id_1", 4109402], ["reward_id_2", 91002], ["reward_type_1", 18], ["reward_type_2", 8], ["sub_story_id", 5118068], ["sub_title", "巫女遇到魔法少女"], ["title", "与七七香的相遇"]],
+            "new": [["condition_quest_id", 0], ["detail_description", "毗伽菈他们在街上散步时，路过的\\n七七香一脸兴奋地走了过来？"], ["detail_title", "兰德索尔市区"], ["dvs_story_type", 3], ["is_last", 0], ["original_event_id", 10118], ["reward_count_1", 1], ["reward_count_2", 40], ["reward_id_1", 4109402], ["reward_id_2", 91002], ["reward_type_1", 18], ["reward_type_2", 8], ["sub_story_id", 5118068], ["sub_title", "当巫女遇到魔法少女"], ["title", "与七七香的相遇"]]
+          }
+        ]
+      }
+    },
+    "story_detail": {
+      "data_changes": {
+        "modified": [
+          {
+            "id": 2001006,
+            "old": [["end_time", "2099/12/31 23:59:59"], ["force_unlock_time", "2099/12/31 23:59:59"], ["force_unlock_time_2", "2099/12/31 23:59:59"], ["lock_all_text", 0], ["love_level", 0], ["pre_story_id", 2001005], ["pre_story_id_2", 0], ["requirement_id", 0], ["reward_id_1", 91002], ["reward_id_2", 0], ["reward_id_3", 0], ["reward_type_1", 8], ["reward_type_2", 0], ["reward_type_3", 0], ["reward_value_1", 20], ["reward_value_2", 0], ["reward_value_3", 0], ["start_time", "2020/01/01 0:00:00"], ["story_end", 0], ["story_group_id", 2001], ["story_id", 2001006], ["story_quest_id", 0], ["sub_title", "幕间·Ⅱ"], ["title", "第1章 幕间"], ["unknown_1", 1], ["unlock_quest_id", 11001010], ["visible_type", 5]],
+            "new": [["end_time", "2099/12/31 23:59:59"], ["force_unlock_time", "2099/12/31 23:59:59"], ["force_unlock_time_2", "2099/12/31 23:59:59"], ["lock_all_text", 0], ["love_level", 0], ["pre_story_id", 2001005], ["pre_story_id_2", 0], ["requirement_id", 0], ["reward_id_1", 91002], ["reward_id_2", 0], ["reward_id_3", 0], ["reward_type_1", 8], ["reward_type_2", 0], ["reward_type_3", 0], ["reward_value_1", 20], ["reward_value_2", 0], ["reward_value_3", 0], ["start_time", "2020/01/01 0:00:00"], ["story_end", 0], ["story_group_id", 2001], ["story_id", 2001006], ["story_quest_id", 0], ["sub_title", "幕间・Ⅱ"], ["title", "第1章 幕间"], ["unknown_1", 1], ["unlock_quest_id", 11001010], ["visible_type", 5]]
+          },
+          {
+            "id": 2103099,
+            "old": [["end_time", "2099/12/31 23:59:59"], ["force_unlock_time", "2099/12/31 23:59:59"], ["force_unlock_time_2", "2099/12/31 23:59:59"], ["lock_all_text", 0], ["love_level", 0], ["pre_story_id", 2103018], ["pre_story_id_2", 0], ["requirement_id", 0], ["reward_id_1", 91002], ["reward_id_2", 0], ["reward_id_3", 0], ["reward_type_1", 8], ["reward_type_2", 0], ["reward_type_3", 0], ["reward_value_1", 20], ["reward_value_2", 0], ["reward_value_3", 0], ["start_time", "2022/08/15 11:00:00"], ["story_end", 0], ["story_group_id", 2103], ["story_id", 2103099], ["story_quest_id", 0], ["sub_title", "幕间·Ⅱ"], ["title", "第2部 第3章 幕间"], ["unknown_1", 1], ["unlock_quest_id", 11037014], ["visible_type", 5]],
+            "new": [["end_time", "2099/12/31 23:59:59"], ["force_unlock_time", "2099/12/31 23:59:59"], ["force_unlock_time_2", "2099/12/31 23:59:59"], ["lock_all_text", 0], ["love_level", 0], ["pre_story_id", 2103018], ["pre_story_id_2", 0], ["requirement_id", 0], ["reward_id_1", 91002], ["reward_id_2", 0], ["reward_id_3", 0], ["reward_type_1", 8], ["reward_type_2", 0], ["reward_type_3", 0], ["reward_value_1", 20], ["reward_value_2", 0], ["reward_value_3", 0], ["start_time", "2022/08/15 11:00:00"], ["story_end", 0], ["story_group_id", 2103], ["story_id", 2103099], ["story_quest_id", 0], ["sub_title", "幕间・Ⅱ"], ["title", "第2部 第3章 幕间"], ["unknown_1", 1], ["unlock_quest_id", 11037014], ["visible_type", 5]]
+          }
+        ]
+      }
+    },
+    "arcade_story_list": {
+      "data_changes": {
+        "modified": [
+          {
+            "id": 5027700,
+            "old": [["arcade_id", 1004], ["story_id", 5027700], ["sub_title", "再次前往厄尔庇斯岛！"]],
+            "new": [["arcade_id", 1004], ["story_id", 5027700], ["sub_title", "再临厄尔庇斯岛！"]]
+          },
+          {
+            "id": 5027701,
+            "old": [["arcade_id", 1004], ["story_id", 5027701], ["sub_title", "过于激烈的战斗"]],
+            "new": [["arcade_id", 1004], ["story_id", 5027701], ["sub_title", "过于热血的战斗"]]
+          }
+        ]
+      }
+    }
+  }
+}
