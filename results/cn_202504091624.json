@@ -1,0 +1,24 @@
+{
+  "tables": {
+    "only_in_old_db": [],
+    "only_in_new_db": []
+  },
+  "table_changes": {
+    "unit_comments": {
+      "data_changes": {
+        "modified": [
+          {
+            "id": 1256012,
+            "old": [["all_comments_flag", 0], ["change_face", 1], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 0.0], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "生日快乐！今天我会\\n花一天为你庆祝！\\n能独占毗奇，\\n你真是个幸福的人啊！"], ["face_id", 1], ["face_id_2", 0], ["face_id_3", 0], ["id", 1256012], ["target_unit_id", 0], ["unit_id", 125631], ["use_type", 2], ["voice_id", 6]],
+            "new": [["all_comments_flag", 0], ["change_face", 1], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 0.0], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "生日快乐！今天我会\\n花一天为你庆祝！\\n能独占，\\n你真是个幸福的人啊！"], ["face_id", 1], ["face_id_2", 0], ["face_id_3", 0], ["id", 1256012], ["target_unit_id", 0], ["unit_id", 125631], ["use_type", 2], ["voice_id", 6]]
+          },
+          {
+            "id": 1256001,
+            "old": [["all_comments_flag", 0], ["change_face", 2], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 3.6], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "大老远来到兰德索尔\\n真是正确的决定！\\n不愧是幸运！饼干！\\n毗奇！是吧！"], ["face_id", 1], ["face_id_2", 0], ["face_id_3", 0], ["id", 1256001], ["target_unit_id", 0], ["unit_id", 125601], ["use_type", 1], ["voice_id", 1]],
+            "new": [["all_comments_flag", 0], ["change_face", 2], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 3.6], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "大老远来到兰德索尔\\n真是正确的决定！\\n不愧是幸运！饼干！\\n！是吧！"], ["face_id", 1], ["face_id_2", 0], ["face_id_3", 0], ["id", 1256001], ["target_unit_id", 0], ["unit_id", 125601], ["use_type", 1], ["voice_id", 1]]
+          }
+        ]
+      }
+    }
+  }
+}
