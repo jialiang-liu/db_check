@@ -1,0 +1,630 @@
+{
+  "tables": {
+    "only_in_old_db": [],
+    "only_in_new_db": []
+  },
+  "table_changes": {
+    "v1_dd37ee7632aaf484e1ffe30ca71e3b9d9f220caa8f5c64d2162e80a098fca71f": {
+      "data_changes": {
+        "added": [
+          [["2672fdcac2681ee06c7eb66f3b21359f7969fe0eab6ca0d646804d68f17e6205", 2.0], ["c06a35b85a392ac2d7c696edc66c53ea81ec5edc877bf5501c7981a06b29a6e9", 132931]]
+        ]
+      }
+    },
+    "room_unit_comments": {
+      "data_changes": {
+        "added": [
+          [["beloved_step", 1], ["description", "就算愛有所損壞，\\n也會一次又一次修好，\\n我們倆之間，\\n愛是永無止盡的。"], ["face_id", 1], ["id", 8720], ["insert_word_type", 0], ["time", 0], ["trigger", 2], ["unit_id", 132901], ["voice_id", 3]]
+        ]
+      }
+    },
+    "voice_group": {
+      "data_changes": {
+        "added": [
+          [["group_id", 30232], ["group_id_comment", "伊緒（聖誕節）（花凜對話用）"], ["group_unit_id_01", 118501001], ["group_unit_id_02", 332901001], ["group_unit_id_03", 0], ["group_unit_id_04", 0], ["group_unit_id_05", 0]]
+        ]
+      }
+    },
+    "still": {
+      "data_changes": {
+        "added": [
+          [["album_ignore", 0], ["facial_id", 1], ["my_page_flag", 1], ["position_y", 0], ["scroll_direction", 0], ["still_group_id", 0], ["still_id", 132900401], ["story_group_id", 1329], ["story_id", 1329004], ["unit_id_1", 131], ["unit_id_10", 0], ["unit_id_2", 231], ["unit_id_3", 101832], ["unit_id_4", 0], ["unit_id_5", 0], ["unit_id_6", 0], ["unit_id_7", 0], ["unit_id_8", 0], ["unit_id_9", 0], ["vertical_still_flg", 0]],
+          [["album_ignore", 0], ["facial_id", 1], ["my_page_flag", 1], ["position_y", 0], ["scroll_direction", 0], ["still_group_id", 0], ["still_id", 132900201], ["story_group_id", 1329], ["story_id", 1329002], ["unit_id_1", 132912], ["unit_id_10", 0], ["unit_id_2", 0], ["unit_id_3", 0], ["unit_id_4", 0], ["unit_id_5", 0], ["unit_id_6", 0], ["unit_id_7", 0], ["unit_id_8", 0], ["unit_id_9", 0], ["vertical_still_flg", 0]]
+        ]
+      }
+    },
+    "v1_618f7171286f4d1240445cce08365274934c00754f561b12d1a80d472f746141": {
+      "data_changes": {
+        "added": [
+          [["0ee7e03de6e5657b56c8d87e9b1448b86d3bc68291ea3748a75f46de5a6e33f4", 1], ["1ef6db7e6f332ca685eb40946e20826a5bd68084a78be1fe33d45e9b249000e3", 1329], ["2156ffb26cf7c572b2676ced1e793bb18f9816f544da04c0a0a12129f0124aeb", "2015/04/01 15:00:00"], ["2a82da593e1c5874a1373f07ae485e7d8eff75d9840cc9b63c28785a23342e8b", "2030/12/17 14:59:59"], ["7258d45a08385b2ecd19f1165bb1e357bda8952e3177b66c618ba4b15b3c2df4", 28], ["742a3d5dd21fe0062c6eededbc4c035a462bbc2be9d13470e99f6035424f0714", 10412], ["952dce5602bb8fdd0603cecf55a5dd1937afe3ae2877035c6a4fddf3716e939c", 0], ["cbc6cd13545acdb8c860fd363a36ce18795dd72a002e17c4a9ac9e1aadcec608", "伊緒（聖誕節）"], ["ccdb442c67323c546f0d03543b4ddbcbd4d2601b3e4eaefab4adc68069d6fddf", 0], ["d48921e4ed078b90e20319ae076a27768fcb6c2a402a20a1e70f47c92bf3bf22", 0], ["dcdc807500470fcae7440780ae361c078f8d6d4c9c2418907b71722fdf1c0044", 1329]]
+        ],
+        "modified": [
+          {
+            "id": 1190,
+            "old": [["0ee7e03de6e5657b56c8d87e9b1448b86d3bc68291ea3748a75f46de5a6e33f4", 1], ["1ef6db7e6f332ca685eb40946e20826a5bd68084a78be1fe33d45e9b249000e3", 1190], ["2156ffb26cf7c572b2676ced1e793bb18f9816f544da04c0a0a12129f0124aeb", "2015/04/01 15:00:00"], ["2a82da593e1c5874a1373f07ae485e7d8eff75d9840cc9b63c28785a23342e8b", "2030/12/17 14:59:59"], ["7258d45a08385b2ecd19f1165bb1e357bda8952e3177b66c618ba4b15b3c2df4", 1057], ["742a3d5dd21fe0062c6eededbc4c035a462bbc2be9d13470e99f6035424f0714", 10413], ["952dce5602bb8fdd0603cecf55a5dd1937afe3ae2877035c6a4fddf3716e939c", 0], ["cbc6cd13545acdb8c860fd363a36ce18795dd72a002e17c4a9ac9e1aadcec608", "伊緒（黑暗）"], ["ccdb442c67323c546f0d03543b4ddbcbd4d2601b3e4eaefab4adc68069d6fddf", 0], ["d48921e4ed078b90e20319ae076a27768fcb6c2a402a20a1e70f47c92bf3bf22", 0], ["dcdc807500470fcae7440780ae361c078f8d6d4c9c2418907b71722fdf1c0044", 1190]],
+            "new": [["0ee7e03de6e5657b56c8d87e9b1448b86d3bc68291ea3748a75f46de5a6e33f4", 1], ["1ef6db7e6f332ca685eb40946e20826a5bd68084a78be1fe33d45e9b249000e3", 1190], ["2156ffb26cf7c572b2676ced1e793bb18f9816f544da04c0a0a12129f0124aeb", "2015/04/01 15:00:00"], ["2a82da593e1c5874a1373f07ae485e7d8eff75d9840cc9b63c28785a23342e8b", "2030/12/17 14:59:59"], ["7258d45a08385b2ecd19f1165bb1e357bda8952e3177b66c618ba4b15b3c2df4", 1057], ["742a3d5dd21fe0062c6eededbc4c035a462bbc2be9d13470e99f6035424f0714", 10414], ["952dce5602bb8fdd0603cecf55a5dd1937afe3ae2877035c6a4fddf3716e939c", 0], ["cbc6cd13545acdb8c860fd363a36ce18795dd72a002e17c4a9ac9e1aadcec608", "伊緒（黑暗）"], ["ccdb442c67323c546f0d03543b4ddbcbd4d2601b3e4eaefab4adc68069d6fddf", 0], ["d48921e4ed078b90e20319ae076a27768fcb6c2a402a20a1e70f47c92bf3bf22", 0], ["dcdc807500470fcae7440780ae361c078f8d6d4c9c2418907b71722fdf1c0044", 1190]]
+          },
+          {
+            "id": 1101,
+            "old": [["0ee7e03de6e5657b56c8d87e9b1448b86d3bc68291ea3748a75f46de5a6e33f4", 1], ["1ef6db7e6f332ca685eb40946e20826a5bd68084a78be1fe33d45e9b249000e3", 1101], ["2156ffb26cf7c572b2676ced1e793bb18f9816f544da04c0a0a12129f0124aeb", "2019/11/01 16:00:00"], ["2a82da593e1c5874a1373f07ae485e7d8eff75d9840cc9b63c28785a23342e8b", "2030/12/17 14:59:59"], ["7258d45a08385b2ecd19f1165bb1e357bda8952e3177b66c618ba4b15b3c2df4", 1022], ["742a3d5dd21fe0062c6eededbc4c035a462bbc2be9d13470e99f6035424f0714", 10412], ["952dce5602bb8fdd0603cecf55a5dd1937afe3ae2877035c6a4fddf3716e939c", 0], ["cbc6cd13545acdb8c860fd363a36ce18795dd72a002e17c4a9ac9e1aadcec608", "伊緒（夏日）"], ["ccdb442c67323c546f0d03543b4ddbcbd4d2601b3e4eaefab4adc68069d6fddf", 0], ["d48921e4ed078b90e20319ae076a27768fcb6c2a402a20a1e70f47c92bf3bf22", 0], ["dcdc807500470fcae7440780ae361c078f8d6d4c9c2418907b71722fdf1c0044", 1101]],
+            "new": [["0ee7e03de6e5657b56c8d87e9b1448b86d3bc68291ea3748a75f46de5a6e33f4", 1], ["1ef6db7e6f332ca685eb40946e20826a5bd68084a78be1fe33d45e9b249000e3", 1101], ["2156ffb26cf7c572b2676ced1e793bb18f9816f544da04c0a0a12129f0124aeb", "2019/11/01 16:00:00"], ["2a82da593e1c5874a1373f07ae485e7d8eff75d9840cc9b63c28785a23342e8b", "2030/12/17 14:59:59"], ["7258d45a08385b2ecd19f1165bb1e357bda8952e3177b66c618ba4b15b3c2df4", 1022], ["742a3d5dd21fe0062c6eededbc4c035a462bbc2be9d13470e99f6035424f0714", 10413], ["952dce5602bb8fdd0603cecf55a5dd1937afe3ae2877035c6a4fddf3716e939c", 0], ["cbc6cd13545acdb8c860fd363a36ce18795dd72a002e17c4a9ac9e1aadcec608", "伊緒（夏日）"], ["ccdb442c67323c546f0d03543b4ddbcbd4d2601b3e4eaefab4adc68069d6fddf", 0], ["d48921e4ed078b90e20319ae076a27768fcb6c2a402a20a1e70f47c92bf3bf22", 0], ["dcdc807500470fcae7440780ae361c078f8d6d4c9c2418907b71722fdf1c0044", 1101]]
+          }
+        ]
+      }
+    },
+    "promotion_bonus": {
+      "data_changes": {
+        "added": [
+          [["accuracy", 0.0], ["atk", 0.0], ["def", 0.0], ["dodge", 0.0], ["energy_recovery_rate", 10.0], ["energy_reduce_rate", 2500.0], ["hp", 0.0], ["hp_recovery_rate", 0.0], ["life_steal", 0.0], ["magic_critical", 0.0], ["magic_def", 0.0], ["magic_penetrate", 0.0], ["magic_str", 0.0], ["physical_critical", 0.0], ["physical_penetrate", 0.0], ["promotion_level", 34], ["unit_id", 132901], ["wave_energy_recovery", 0.0], ["wave_hp_recovery", 0.0]]
+        ]
+      }
+    },
+    "gacha_pickup": {
+      "data_changes": {
+        "added": [
+          [["id", 27], ["name", "真步（夢想樂園）"], ["priority", 1], ["reward_id", 131001], ["reward_type", 1]]
+        ]
+      }
+    },
+    "unit_background": {
+      "data_changes": {
+        "added": [
+          [["bg_id", 500038], ["bg_name", "蘭德索爾_鬧區_聖誕節_夜晚"], ["face_type", 2], ["position", 0.0], ["unit_id", 132901], ["unit_name", "伊緒（聖誕節）"]]
+        ]
+      }
+    },
+    "unique_equipment_rankup": {
+      "data_changes": {
+        "added": [
+          [["consume_num_1", 5], ["consume_num_10", 0], ["consume_num_2", 10], ["consume_num_3", 0], ["consume_num_4", 0], ["consume_num_5", 0], ["consume_num_6", 0], ["consume_num_7", 0], ["consume_num_8", 0], ["consume_num_9", 0], ["crafted_cost", 1000000], ["equip_id", 132801], ["item_id_1", 31280], ["item_id_10", 0], ["item_id_2", 140001], ["item_id_3", 0], ["item_id_4", 0], ["item_id_5", 0], ["item_id_6", 0], ["item_id_7", 0], ["item_id_8", 0], ["item_id_9", 0], ["reward_type_1", 2], ["reward_type_10", 0], ["reward_type_2", 4], ["reward_type_3", 0], ["reward_type_4", 0], ["reward_type_5", 0], ["reward_type_6", 0], ["reward_type_7", 0], ["reward_type_8", 0], ["reward_type_9", 0], ["unique_equip_rank", 23], ["unit_level", 300]],
+          [["consume_num_1", 10], ["consume_num_10", 0], ["consume_num_2", 8], ["consume_num_3", 0], ["consume_num_4", 0], ["consume_num_5", 0], ["consume_num_6", 0], ["consume_num_7", 0], ["consume_num_8", 0], ["consume_num_9", 0], ["crafted_cost", 250000], ["equip_id", 132791], ["item_id_1", 31279], ["item_id_10", 0], ["item_id_2", 140001], ["item_id_3", 0], ["item_id_4", 0], ["item_id_5", 0], ["item_id_6", 0], ["item_id_7", 0], ["item_id_8", 0], ["item_id_9", 0], ["reward_type_1", 2], ["reward_type_10", 0], ["reward_type_2", 4], ["reward_type_3", 0], ["reward_type_4", 0], ["reward_type_5", 0], ["reward_type_6", 0], ["reward_type_7", 0], ["reward_type_8", 0], ["reward_type_9", 0], ["unique_equip_rank", 3], ["unit_level", 70]]
+        ]
+      }
+    },
+    "unit_comments": {
+      "data_changes": {
+        "added": [
+          [["all_comments_flag", 0], ["change_face", 1], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 0.0], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "睡不著的夜晚就呼喚我吧♪\\n身為聖誕節惡魔，\\n我會讓你做個\\n非常美妙的好、夢、哦♪"], ["face_id", 1], ["face_id_2", 0], ["face_id_3", 0], ["id", 1329006], ["target_unit_id", 0], ["unit_id", 132931], ["use_type", 1], ["voice_id", 1]],
+          [["all_comments_flag", 0], ["change_face", 2], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 0.0], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "如果你做了好事我就會稱讚你♪\\n好乖好乖，你很努力了。\\n我會一直守望著你喔♪"], ["face_id", 2], ["face_id_2", 0], ["face_id_3", 0], ["id", 1329005], ["target_unit_id", 0], ["unit_id", 132901], ["use_type", 1], ["voice_id", 5]],
+          [["all_comments_flag", 0], ["change_face", 2], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 4.3], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "不久前常有王國騎士團的人\\n叫住我問話，\\n但最近他們都會向我致意。\\n大家都好有禮貌呢～♪"], ["face_id", 6], ["face_id_2", 0], ["face_id_3", 0], ["id", 1329003], ["target_unit_id", 0], ["unit_id", 132901], ["use_type", 1], ["voice_id", 3]],
+          [["all_comments_flag", 0], ["change_face", 1], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 0.0], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "光是有你在身邊\\n我的心就一直暖暖的♪\\n如果你也是，那我會很開心的♪"], ["face_id", 1], ["face_id_2", 0], ["face_id_3", 0], ["id", 1329009], ["target_unit_id", 0], ["unit_id", 132931], ["use_type", 1], ["voice_id", 4]],
+          [["all_comments_flag", 0], ["change_face", 1], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 0.0], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "生日快樂！\\n我給你一個美夢\\n當作生日禮物吧♪\\n睡醒的感覺一定會很棒！"], ["face_id", 1], ["face_id_2", 0], ["face_id_3", 0], ["id", 1329012], ["target_unit_id", 0], ["unit_id", 132931], ["use_type", 2], ["voice_id", 6]],
+          [["all_comments_flag", 0], ["change_face", 1], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 0.0], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "這場夢的盡頭\\n會有什麼呢？\\n呵呵，去確認時\\n我想跟你一起去呢♪"], ["face_id", 1], ["face_id_2", 0], ["face_id_3", 0], ["id", 1329008], ["target_unit_id", 0], ["unit_id", 132931], ["use_type", 1], ["voice_id", 3]],
+          [["all_comments_flag", 0], ["change_face", 2], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 8.4], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "在聖誕節前的夜晚，\\n一個黑影出現在眾人夢中！\\n其真實身分就是……\\n變成聖誕節惡魔的伊緒哦♪"], ["face_id", 1], ["face_id_2", 0], ["face_id_3", 0], ["id", 1329001], ["target_unit_id", 0], ["unit_id", 132901], ["use_type", 1], ["voice_id", 1]],
+          [["all_comments_flag", 0], ["change_face", 1], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 0.0], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "如果聖誕禮物真的是我，\\n你會怎麼辦？\\n在夢裡的話，為了你\\n我什麼都可以做喔♪"], ["face_id", 1], ["face_id_2", 0], ["face_id_3", 0], ["id", 1329010], ["target_unit_id", 0], ["unit_id", 132931], ["use_type", 1], ["voice_id", 5]],
+          [["all_comments_flag", 0], ["change_face", 2], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 5.0], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "生日快樂！\\n得辦個盛大的慶生派對呢♪\\n蛋糕當然是要\\n鮮奶油蛋糕囉♪"], ["face_id", 1], ["face_id_2", 0], ["face_id_3", 0], ["id", 1329011], ["target_unit_id", 0], ["unit_id", 132901], ["use_type", 2], ["voice_id", 6]],
+          [["all_comments_flag", 0], ["change_face", 1], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 9.9], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "不知道為什麼，我常常會\\n從他人那裡獲得力量呢～\\n像是黑暗力量、惡魔力量，\\n還有……你的強化之類的♪"], ["face_id", 6], ["face_id_2", 0], ["face_id_3", 0], ["id", 1329004], ["target_unit_id", 0], ["unit_id", 132901], ["use_type", 1], ["voice_id", 4]],
+          [["all_comments_flag", 0], ["change_face", 1], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 0.0], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "這套衣服意外地並不冷哦。\\n一定是聖誕節惡魔的力量\\n在保護我呢♪"], ["face_id", 1], ["face_id_2", 0], ["face_id_3", 0], ["id", 1329002], ["target_unit_id", 0], ["unit_id", 132901], ["use_type", 1], ["voice_id", 2]],
+          [["all_comments_flag", 0], ["change_face", 1], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 0.0], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "我從小時候就憧憬著\\n能睡在雲上♪\\n夢想居然在夢中實現了，呵呵"], ["face_id", 1], ["face_id_2", 0], ["face_id_3", 0], ["id", 1329007], ["target_unit_id", 0], ["unit_id", 132931], ["use_type", 1], ["voice_id", 2]]
+        ]
+      }
+    },
+    "prizegacha_data": {
+      "data_changes": {
+        "added": [
+          [["disp_prize_fixed_compensation", 5], ["gacha_prize1", 1], ["gacha_prize10", 10], ["prize_fixed_compensation", 5], ["prize_fixed_compensation_quantity", 1], ["prize_memory_id_1", 31310], ["prize_memory_id_10", 0], ["prize_memory_id_11", 0], ["prize_memory_id_12", 0], ["prize_memory_id_13", 0], ["prize_memory_id_14", 0], ["prize_memory_id_15", 0], ["prize_memory_id_16", 0], ["prize_memory_id_17", 0], ["prize_memory_id_18", 0], ["prize_memory_id_19", 0], ["prize_memory_id_2", 31279], ["prize_memory_id_20", 0], ["prize_memory_id_21", 0], ["prize_memory_id_22", 0], ["prize_memory_id_23", 0], ["prize_memory_id_24", 0], ["prize_memory_id_25", 0], ["prize_memory_id_26", 0], ["prize_memory_id_27", 0], ["prize_memory_id_28", 0], ["prize_memory_id_29", 0], ["prize_memory_id_3", 0], ["prize_memory_id_30", 0], ["prize_memory_id_4", 0], ["prize_memory_id_5", 0], ["prize_memory_id_6", 0], ["prize_memory_id_7", 0], ["prize_memory_id_8", 0], ["prize_memory_id_9", 0], ["prizegacha_id", 100152], ["rarity_odds", 100000]]
+        ]
+      }
+    },
+    "chara_story_status": {
+      "data_changes": {
+        "added": [
+          [["chara_id_1", 1329], ["chara_id_10", 0], ["chara_id_11", 0], ["chara_id_12", 0], ["chara_id_13", 0], ["chara_id_14", 0], ["chara_id_15", 0], ["chara_id_16", 0], ["chara_id_17", 0], ["chara_id_18", 0], ["chara_id_19", 0], ["chara_id_2", 1018], ["chara_id_20", 0], ["chara_id_3", 1101], ["chara_id_4", 1190], ["chara_id_5", 0], ["chara_id_6", 0], ["chara_id_7", 0], ["chara_id_8", 0], ["chara_id_9", 0], ["status_rate_1", 50], ["status_rate_2", 0], ["status_rate_3", 0], ["status_rate_4", 0], ["status_rate_5", 0], ["status_type_1", 4], ["status_type_2", 0], ["status_type_3", 0], ["status_type_4", 0], ["status_type_5", 0], ["story_id", 1329004], ["unlock_story_name", "イオ（クリスマス）のエピソード第4話"]],
+          [["chara_id_1", 1329], ["chara_id_10", 0], ["chara_id_11", 0], ["chara_id_12", 0], ["chara_id_13", 0], ["chara_id_14", 0], ["chara_id_15", 0], ["chara_id_16", 0], ["chara_id_17", 0], ["chara_id_18", 0], ["chara_id_19", 0], ["chara_id_2", 1018], ["chara_id_20", 0], ["chara_id_3", 1101], ["chara_id_4", 1190], ["chara_id_5", 0], ["chara_id_6", 0], ["chara_id_7", 0], ["chara_id_8", 0], ["chara_id_9", 0], ["status_rate_1", 10], ["status_rate_2", 0], ["status_rate_3", 0], ["status_rate_4", 0], ["status_rate_5", 0], ["status_type_1", 4], ["status_type_2", 0], ["status_type_3", 0], ["status_type_4", 0], ["status_type_5", 0], ["story_id", 1329002], ["unlock_story_name", "イオ（クリスマス）のエピソード第2話"]],
+          [["chara_id_1", 1329], ["chara_id_10", 0], ["chara_id_11", 0], ["chara_id_12", 0], ["chara_id_13", 0], ["chara_id_14", 0], ["chara_id_15", 0], ["chara_id_16", 0], ["chara_id_17", 0], ["chara_id_18", 0], ["chara_id_19", 0], ["chara_id_2", 1018], ["chara_id_20", 0], ["chara_id_3", 1101], ["chara_id_4", 1190], ["chara_id_5", 0], ["chara_id_6", 0], ["chara_id_7", 0], ["chara_id_8", 0], ["chara_id_9", 0], ["status_rate_1", 30], ["status_rate_2", 0], ["status_rate_3", 0], ["status_rate_4", 0], ["status_rate_5", 0], ["status_type_1", 4], ["status_type_2", 0], ["status_type_3", 0], ["status_type_4", 0], ["status_type_5", 0], ["story_id", 1329003], ["unlock_story_name", "イオ（クリスマス）のエピソード第3話"]]
+        ],
+        "modified": [
+          {
+            "id": 1018011,
+            "old": [["chara_id_1", 1018], ["chara_id_10", 0], ["chara_id_11", 0], ["chara_id_12", 0], ["chara_id_13", 0], ["chara_id_14", 0], ["chara_id_15", 0], ["chara_id_16", 0], ["chara_id_17", 0], ["chara_id_18", 0], ["chara_id_19", 0], ["chara_id_2", 1101], ["chara_id_20", 0], ["chara_id_3", 1190], ["chara_id_4", 0], ["chara_id_5", 0], ["chara_id_6", 0], ["chara_id_7", 0], ["chara_id_8", 0], ["chara_id_9", 0], ["status_rate_1", 120], ["status_rate_2", 0], ["status_rate_3", 0], ["status_rate_4", 0], ["status_rate_5", 0], ["status_type_1", 4], ["status_type_2", 0], ["status_type_3", 0], ["status_type_4", 0], ["status_type_5", 0], ["story_id", 1018011], ["unlock_story_name", "伊緒のエピソード第11話"]],
+            "new": [["chara_id_1", 1018], ["chara_id_10", 0], ["chara_id_11", 0], ["chara_id_12", 0], ["chara_id_13", 0], ["chara_id_14", 0], ["chara_id_15", 0], ["chara_id_16", 0], ["chara_id_17", 0], ["chara_id_18", 0], ["chara_id_19", 0], ["chara_id_2", 1101], ["chara_id_20", 0], ["chara_id_3", 1190], ["chara_id_4", 1329], ["chara_id_5", 0], ["chara_id_6", 0], ["chara_id_7", 0], ["chara_id_8", 0], ["chara_id_9", 0], ["status_rate_1", 120], ["status_rate_2", 0], ["status_rate_3", 0], ["status_rate_4", 0], ["status_rate_5", 0], ["status_type_1", 4], ["status_type_2", 0], ["status_type_3", 0], ["status_type_4", 0], ["status_type_5", 0], ["story_id", 1018011], ["unlock_story_name", "伊緒のエピソード第11話"]]
+          },
+          {
+            "id": 1018010,
+            "old": [["chara_id_1", 1018], ["chara_id_10", 0], ["chara_id_11", 0], ["chara_id_12", 0], ["chara_id_13", 0], ["chara_id_14", 0], ["chara_id_15", 0], ["chara_id_16", 0], ["chara_id_17", 0], ["chara_id_18", 0], ["chara_id_19", 0], ["chara_id_2", 1101], ["chara_id_20", 0], ["chara_id_3", 1190], ["chara_id_4", 0], ["chara_id_5", 0], ["chara_id_6", 0], ["chara_id_7", 0], ["chara_id_8", 0], ["chara_id_9", 0], ["status_rate_1", 120], ["status_rate_2", 0], ["status_rate_3", 0], ["status_rate_4", 0], ["status_rate_5", 0], ["status_type_1", 4], ["status_type_2", 0], ["status_type_3", 0], ["status_type_4", 0], ["status_type_5", 0], ["story_id", 1018010], ["unlock_story_name", "伊緒のエピソード第10話"]],
+            "new": [["chara_id_1", 1018], ["chara_id_10", 0], ["chara_id_11", 0], ["chara_id_12", 0], ["chara_id_13", 0], ["chara_id_14", 0], ["chara_id_15", 0], ["chara_id_16", 0], ["chara_id_17", 0], ["chara_id_18", 0], ["chara_id_19", 0], ["chara_id_2", 1101], ["chara_id_20", 0], ["chara_id_3", 1190], ["chara_id_4", 1329], ["chara_id_5", 0], ["chara_id_6", 0], ["chara_id_7", 0], ["chara_id_8", 0], ["chara_id_9", 0], ["status_rate_1", 120], ["status_rate_2", 0], ["status_rate_3", 0], ["status_rate_4", 0], ["status_rate_5", 0], ["status_type_1", 4], ["status_type_2", 0], ["status_type_3", 0], ["status_type_4", 0], ["status_type_5", 0], ["story_id", 1018010], ["unlock_story_name", "伊緒のエピソード第10話"]]
+          },
+          {
+            "id": 1190004,
+            "old": [["chara_id_1", 1190], ["chara_id_10", 0], ["chara_id_11", 0], ["chara_id_12", 0], ["chara_id_13", 0], ["chara_id_14", 0], ["chara_id_15", 0], ["chara_id_16", 0], ["chara_id_17", 0], ["chara_id_18", 0], ["chara_id_19", 0], ["chara_id_2", 1018], ["chara_id_20", 0], ["chara_id_3", 1101], ["chara_id_4", 0], ["chara_id_5", 0], ["chara_id_6", 0], ["chara_id_7", 0], ["chara_id_8", 0], ["chara_id_9", 0], ["status_rate_1", 50], ["status_rate_2", 0], ["status_rate_3", 0], ["status_rate_4", 0], ["status_rate_5", 0], ["status_type_1", 4], ["status_type_2", 0], ["status_type_3", 0], ["status_type_4", 0], ["status_type_5", 0], ["story_id", 1190004], ["unlock_story_name", "伊緒（黑暗）のエピソード第4話"]],
+            "new": [["chara_id_1", 1190], ["chara_id_10", 0], ["chara_id_11", 0], ["chara_id_12", 0], ["chara_id_13", 0], ["chara_id_14", 0], ["chara_id_15", 0], ["chara_id_16", 0], ["chara_id_17", 0], ["chara_id_18", 0], ["chara_id_19", 0], ["chara_id_2", 1018], ["chara_id_20", 0], ["chara_id_3", 1101], ["chara_id_4", 1329], ["chara_id_5", 0], ["chara_id_6", 0], ["chara_id_7", 0], ["chara_id_8", 0], ["chara_id_9", 0], ["status_rate_1", 50], ["status_rate_2", 0], ["status_rate_3", 0], ["status_rate_4", 0], ["status_rate_5", 0], ["status_type_1", 4], ["status_type_2", 0], ["status_type_3", 0], ["status_type_4", 0], ["status_type_5", 0], ["story_id", 1190004], ["unlock_story_name", "伊緒（黑暗）のエピソード第4話"]]
+          },
+          {
+            "id": 1190003,
+            "old": [["chara_id_1", 1190], ["chara_id_10", 0], ["chara_id_11", 0], ["chara_id_12", 0], ["chara_id_13", 0], ["chara_id_14", 0], ["chara_id_15", 0], ["chara_id_16", 0], ["chara_id_17", 0], ["chara_id_18", 0], ["chara_id_19", 0], ["chara_id_2", 1018], ["chara_id_20", 0], ["chara_id_3", 1101], ["chara_id_4", 0], ["chara_id_5", 0], ["chara_id_6", 0], ["chara_id_7", 0], ["chara_id_8", 0], ["chara_id_9", 0], ["status_rate_1", 30], ["status_rate_2", 0], ["status_rate_3", 0], ["status_rate_4", 0], ["status_rate_5", 0], ["status_type_1", 4], ["status_type_2", 0], ["status_type_3", 0], ["status_type_4", 0], ["status_type_5", 0], ["story_id", 1190003], ["unlock_story_name", "伊緒（黑暗）のエピソード第3話"]],
+            "new": [["chara_id_1", 1190], ["chara_id_10", 0], ["chara_id_11", 0], ["chara_id_12", 0], ["chara_id_13", 0], ["chara_id_14", 0], ["chara_id_15", 0], ["chara_id_16", 0], ["chara_id_17", 0], ["chara_id_18", 0], ["chara_id_19", 0], ["chara_id_2", 1018], ["chara_id_20", 0], ["chara_id_3", 1101], ["chara_id_4", 1329], ["chara_id_5", 0], ["chara_id_6", 0], ["chara_id_7", 0], ["chara_id_8", 0], ["chara_id_9", 0], ["status_rate_1", 30], ["status_rate_2", 0], ["status_rate_3", 0], ["status_rate_4", 0], ["status_rate_5", 0], ["status_type_1", 4], ["status_type_2", 0], ["status_type_3", 0], ["status_type_4", 0], ["status_type_5", 0], ["story_id", 1190003], ["unlock_story_name", "伊緒（黑暗）のエピソード第3話"]]
+          },
+          {
+            "id": 1101003,
+            "old": [["chara_id_1", 1101], ["chara_id_10", 0], ["chara_id_11", 0], ["chara_id_12", 0], ["chara_id_13", 0], ["chara_id_14", 0], ["chara_id_15", 0], ["chara_id_16", 0], ["chara_id_17", 0], ["chara_id_18", 0], ["chara_id_19", 0], ["chara_id_2", 1018], ["chara_id_20", 0], ["chara_id_3", 1190], ["chara_id_4", 0], ["chara_id_5", 0], ["chara_id_6", 0], ["chara_id_7", 0], ["chara_id_8", 0], ["chara_id_9", 0], ["status_rate_1", 30], ["status_rate_2", 0], ["status_rate_3", 0], ["status_rate_4", 0], ["status_rate_5", 0], ["status_type_1", 4], ["status_type_2", 0], ["status_type_3", 0], ["status_type_4", 0], ["status_type_5", 0], ["story_id", 1101003], ["unlock_story_name", "イオ（サマー）のエピソード第3話"]],
+            "new": [["chara_id_1", 1101], ["chara_id_10", 0], ["chara_id_11", 0], ["chara_id_12", 0], ["chara_id_13", 0], ["chara_id_14", 0], ["chara_id_15", 0], ["chara_id_16", 0], ["chara_id_17", 0], ["chara_id_18", 0], ["chara_id_19", 0], ["chara_id_2", 1018], ["chara_id_20", 0], ["chara_id_3", 1190], ["chara_id_4", 1329], ["chara_id_5", 0], ["chara_id_6", 0], ["chara_id_7", 0], ["chara_id_8", 0], ["chara_id_9", 0], ["status_rate_1", 30], ["status_rate_2", 0], ["status_rate_3", 0], ["status_rate_4", 0], ["status_rate_5", 0], ["status_type_1", 4], ["status_type_2", 0], ["status_type_3", 0], ["status_type_4", 0], ["status_type_5", 0], ["story_id", 1101003], ["unlock_story_name", "イオ（サマー）のエピソード第3話"]]
+          },
+          {
+            "id": 1018012,
+            "old": [["chara_id_1", 1018], ["chara_id_10", 0], ["chara_id_11", 0], ["chara_id_12", 0], ["chara_id_13", 0], ["chara_id_14", 0], ["chara_id_15", 0], ["chara_id_16", 0], ["chara_id_17", 0], ["chara_id_18", 0], ["chara_id_19", 0], ["chara_id_2", 1101], ["chara_id_20", 0], ["chara_id_3", 1190], ["chara_id_4", 0], ["chara_id_5", 0], ["chara_id_6", 0], ["chara_id_7", 0], ["chara_id_8", 0], ["chara_id_9", 0], ["status_rate_1", 200], ["status_rate_2", 30], ["status_rate_3", 0], ["status_rate_4", 0], ["status_rate_5", 0], ["status_type_1", 4], ["status_type_2", 7], ["status_type_3", 0], ["status_type_4", 0], ["status_type_5", 0], ["story_id", 1018012], ["unlock_story_name", "伊緒のエピソード第12話"]],
+            "new": [["chara_id_1", 1018], ["chara_id_10", 0], ["chara_id_11", 0], ["chara_id_12", 0], ["chara_id_13", 0], ["chara_id_14", 0], ["chara_id_15", 0], ["chara_id_16", 0], ["chara_id_17", 0], ["chara_id_18", 0], ["chara_id_19", 0], ["chara_id_2", 1101], ["chara_id_20", 0], ["chara_id_3", 1190], ["chara_id_4", 1329], ["chara_id_5", 0], ["chara_id_6", 0], ["chara_id_7", 0], ["chara_id_8", 0], ["chara_id_9", 0], ["status_rate_1", 200], ["status_rate_2", 30], ["status_rate_3", 0], ["status_rate_4", 0], ["status_rate_5", 0], ["status_type_1", 4], ["status_type_2", 7], ["status_type_3", 0], ["status_type_4", 0], ["status_type_5", 0], ["story_id", 1018012], ["unlock_story_name", "伊緒のエピソード第12話"]]
+          },
+          {
+            "id": 1018006,
+            "old": [["chara_id_1", 1018], ["chara_id_10", 0], ["chara_id_11", 0], ["chara_id_12", 0], ["chara_id_13", 0], ["chara_id_14", 0], ["chara_id_15", 0], ["chara_id_16", 0], ["chara_id_17", 0], ["chara_id_18", 0], ["chara_id_19", 0], ["chara_id_2", 1101], ["chara_id_20", 0], ["chara_id_3", 1190], ["chara_id_4", 0], ["chara_id_5", 0], ["chara_id_6", 0], ["chara_id_7", 0], ["chara_id_8", 0], ["chara_id_9", 0], ["status_rate_1", 60], ["status_rate_2", 0], ["status_rate_3", 0], ["status_rate_4", 0], ["status_rate_5", 0], ["status_type_1", 4], ["status_type_2", 0], ["status_type_3", 0], ["status_type_4", 0], ["status_type_5", 0], ["story_id", 1018006], ["unlock_story_name", "伊緒のエピソード第6話"]],
+            "new": [["chara_id_1", 1018], ["chara_id_10", 0], ["chara_id_11", 0], ["chara_id_12", 0], ["chara_id_13", 0], ["chara_id_14", 0], ["chara_id_15", 0], ["chara_id_16", 0], ["chara_id_17", 0], ["chara_id_18", 0], ["chara_id_19", 0], ["chara_id_2", 1101], ["chara_id_20", 0], ["chara_id_3", 1190], ["chara_id_4", 1329], ["chara_id_5", 0], ["chara_id_6", 0], ["chara_id_7", 0], ["chara_id_8", 0], ["chara_id_9", 0], ["status_rate_1", 60], ["status_rate_2", 0], ["status_rate_3", 0], ["status_rate_4", 0], ["status_rate_5", 0], ["status_type_1", 4], ["status_type_2", 0], ["status_type_3", 0], ["status_type_4", 0], ["status_type_5", 0], ["story_id", 1018006], ["unlock_story_name", "伊緒のエピソード第6話"]]
+          },
+          {
+            "id": 1018004,
+            "old": [["chara_id_1", 1018], ["chara_id_10", 0], ["chara_id_11", 0], ["chara_id_12", 0], ["chara_id_13", 0], ["chara_id_14", 0], ["chara_id_15", 0], ["chara_id_16", 0], ["chara_id_17", 0], ["chara_id_18", 0], ["chara_id_19", 0], ["chara_id_2", 1101], ["chara_id_20", 0], ["chara_id_3", 1190], ["chara_id_4", 0], ["chara_id_5", 0], ["chara_id_6", 0], ["chara_id_7", 0], ["chara_id_8", 0], ["chara_id_9", 0], ["status_rate_1", 30], ["status_rate_2", 0], ["status_rate_3", 0], ["status_rate_4", 0], ["status_rate_5", 0], ["status_type_1", 4], ["status_type_2", 0], ["status_type_3", 0], ["status_type_4", 0], ["status_type_5", 0], ["story_id", 1018004], ["unlock_story_name", "伊緒のエピソード第4話"]],
+            "new": [["chara_id_1", 1018], ["chara_id_10", 0], ["chara_id_11", 0], ["chara_id_12", 0], ["chara_id_13", 0], ["chara_id_14", 0], ["chara_id_15", 0], ["chara_id_16", 0], ["chara_id_17", 0], ["chara_id_18", 0], ["chara_id_19", 0], ["chara_id_2", 1101], ["chara_id_20", 0], ["chara_id_3", 1190], ["chara_id_4", 1329], ["chara_id_5", 0], ["chara_id_6", 0], ["chara_id_7", 0], ["chara_id_8", 0], ["chara_id_9", 0], ["status_rate_1", 30], ["status_rate_2", 0], ["status_rate_3", 0], ["status_rate_4", 0], ["status_rate_5", 0], ["status_type_1", 4], ["status_type_2", 0], ["status_type_3", 0], ["status_type_4", 0], ["status_type_5", 0], ["story_id", 1018004], ["unlock_story_name", "伊緒のエピソード第4話"]]
+          },
+          {
+            "id": 1018003,
+            "old": [["chara_id_1", 1018], ["chara_id_10", 0], ["chara_id_11", 0], ["chara_id_12", 0], ["chara_id_13", 0], ["chara_id_14", 0], ["chara_id_15", 0], ["chara_id_16", 0], ["chara_id_17", 0], ["chara_id_18", 0], ["chara_id_19", 0], ["chara_id_2", 1101], ["chara_id_20", 0], ["chara_id_3", 1190], ["chara_id_4", 0], ["chara_id_5", 0], ["chara_id_6", 0], ["chara_id_7", 0], ["chara_id_8", 0], ["chara_id_9", 0], ["status_rate_1", 15], ["status_rate_2", 0], ["status_rate_3", 0], ["status_rate_4", 0], ["status_rate_5", 0], ["status_type_1", 4], ["status_type_2", 0], ["status_type_3", 0], ["status_type_4", 0], ["status_type_5", 0], ["story_id", 1018003], ["unlock_story_name", "伊緒のエピソード第3話"]],
+            "new": [["chara_id_1", 1018], ["chara_id_10", 0], ["chara_id_11", 0], ["chara_id_12", 0], ["chara_id_13", 0], ["chara_id_14", 0], ["chara_id_15", 0], ["chara_id_16", 0], ["chara_id_17", 0], ["chara_id_18", 0], ["chara_id_19", 0], ["chara_id_2", 1101], ["chara_id_20", 0], ["chara_id_3", 1190], ["chara_id_4", 1329], ["chara_id_5", 0], ["chara_id_6", 0], ["chara_id_7", 0], ["chara_id_8", 0], ["chara_id_9", 0], ["status_rate_1", 15], ["status_rate_2", 0], ["status_rate_3", 0], ["status_rate_4", 0], ["status_rate_5", 0], ["status_type_1", 4], ["status_type_2", 0], ["status_type_3", 0], ["status_type_4", 0], ["status_type_5", 0], ["story_id", 1018003], ["unlock_story_name", "伊緒のエピソード第3話"]]
+          },
+          {
+            "id": 1190002,
+            "old": [["chara_id_1", 1190], ["chara_id_10", 0], ["chara_id_11", 0], ["chara_id_12", 0], ["chara_id_13", 0], ["chara_id_14", 0], ["chara_id_15", 0], ["chara_id_16", 0], ["chara_id_17", 0], ["chara_id_18", 0], ["chara_id_19", 0], ["chara_id_2", 1018], ["chara_id_20", 0], ["chara_id_3", 1101], ["chara_id_4", 0], ["chara_id_5", 0], ["chara_id_6", 0], ["chara_id_7", 0], ["chara_id_8", 0], ["chara_id_9", 0], ["status_rate_1", 10], ["status_rate_2", 0], ["status_rate_3", 0], ["status_rate_4", 0], ["status_rate_5", 0], ["status_type_1", 4], ["status_type_2", 0], ["status_type_3", 0], ["status_type_4", 0], ["status_type_5", 0], ["story_id", 1190002], ["unlock_story_name", "伊緒（黑暗）のエピソード第2話"]],
+            "new": [["chara_id_1", 1190], ["chara_id_10", 0], ["chara_id_11", 0], ["chara_id_12", 0], ["chara_id_13", 0], ["chara_id_14", 0], ["chara_id_15", 0], ["chara_id_16", 0], ["chara_id_17", 0], ["chara_id_18", 0], ["chara_id_19", 0], ["chara_id_2", 1018], ["chara_id_20", 0], ["chara_id_3", 1101], ["chara_id_4", 1329], ["chara_id_5", 0], ["chara_id_6", 0], ["chara_id_7", 0], ["chara_id_8", 0], ["chara_id_9", 0], ["status_rate_1", 10], ["status_rate_2", 0], ["status_rate_3", 0], ["status_rate_4", 0], ["status_rate_5", 0], ["status_type_1", 4], ["status_type_2", 0], ["status_type_3", 0], ["status_type_4", 0], ["status_type_5", 0], ["story_id", 1190002], ["unlock_story_name", "伊緒（黑暗）のエピソード第2話"]]
+          },
+          {
+            "id": 1101002,
+            "old": [["chara_id_1", 1101], ["chara_id_10", 0], ["chara_id_11", 0], ["chara_id_12", 0], ["chara_id_13", 0], ["chara_id_14", 0], ["chara_id_15", 0], ["chara_id_16", 0], ["chara_id_17", 0], ["chara_id_18", 0], ["chara_id_19", 0], ["chara_id_2", 1018], ["chara_id_20", 0], ["chara_id_3", 1190], ["chara_id_4", 0], ["chara_id_5", 0], ["chara_id_6", 0], ["chara_id_7", 0], ["chara_id_8", 0], ["chara_id_9", 0], ["status_rate_1", 10], ["status_rate_2", 0], ["status_rate_3", 0], ["status_rate_4", 0], ["status_rate_5", 0], ["status_type_1", 4], ["status_type_2", 0], ["status_type_3", 0], ["status_type_4", 0], ["status_type_5", 0], ["story_id", 1101002], ["unlock_story_name", "イオ（サマー）のエピソード第2話"]],
+            "new": [["chara_id_1", 1101], ["chara_id_10", 0], ["chara_id_11", 0], ["chara_id_12", 0], ["chara_id_13", 0], ["chara_id_14", 0], ["chara_id_15", 0], ["chara_id_16", 0], ["chara_id_17", 0], ["chara_id_18", 0], ["chara_id_19", 0], ["chara_id_2", 1018], ["chara_id_20", 0], ["chara_id_3", 1190], ["chara_id_4", 1329], ["chara_id_5", 0], ["chara_id_6", 0], ["chara_id_7", 0], ["chara_id_8", 0], ["chara_id_9", 0], ["status_rate_1", 10], ["status_rate_2", 0], ["status_rate_3", 0], ["status_rate_4", 0], ["status_rate_5", 0], ["status_type_1", 4], ["status_type_2", 0], ["status_type_3", 0], ["status_type_4", 0], ["status_type_5", 0], ["story_id", 1101002], ["unlock_story_name", "イオ（サマー）のエピソード第2話"]]
+          },
+          {
+            "id": 1018005,
+            "old": [["chara_id_1", 1018], ["chara_id_10", 0], ["chara_id_11", 0], ["chara_id_12", 0], ["chara_id_13", 0], ["chara_id_14", 0], ["chara_id_15", 0], ["chara_id_16", 0], ["chara_id_17", 0], ["chara_id_18", 0], ["chara_id_19", 0], ["chara_id_2", 1101], ["chara_id_20", 0], ["chara_id_3", 1190], ["chara_id_4", 0], ["chara_id_5", 0], ["chara_id_6", 0], ["chara_id_7", 0], ["chara_id_8", 0], ["chara_id_9", 0], ["status_rate_1", 40], ["status_rate_2", 0], ["status_rate_3", 0], ["status_rate_4", 0], ["status_rate_5", 0], ["status_type_1", 4], ["status_type_2", 0], ["status_type_3", 0], ["status_type_4", 0], ["status_type_5", 0], ["story_id", 1018005], ["unlock_story_name", "伊緒のエピソード第5話"]],
+            "new": [["chara_id_1", 1018], ["chara_id_10", 0], ["chara_id_11", 0], ["chara_id_12", 0], ["chara_id_13", 0], ["chara_id_14", 0], ["chara_id_15", 0], ["chara_id_16", 0], ["chara_id_17", 0], ["chara_id_18", 0], ["chara_id_19", 0], ["chara_id_2", 1101], ["chara_id_20", 0], ["chara_id_3", 1190], ["chara_id_4", 1329], ["chara_id_5", 0], ["chara_id_6", 0], ["chara_id_7", 0], ["chara_id_8", 0], ["chara_id_9", 0], ["status_rate_1", 40], ["status_rate_2", 0], ["status_rate_3", 0], ["status_rate_4", 0], ["status_rate_5", 0], ["status_type_1", 4], ["status_type_2", 0], ["status_type_3", 0], ["status_type_4", 0], ["status_type_5", 0], ["story_id", 1018005], ["unlock_story_name", "伊緒のエピソード第5話"]]
+          },
+          {
+            "id": 1018008,
+            "old": [["chara_id_1", 1018], ["chara_id_10", 0], ["chara_id_11", 0], ["chara_id_12", 0], ["chara_id_13", 0], ["chara_id_14", 0], ["chara_id_15", 0], ["chara_id_16", 0], ["chara_id_17", 0], ["chara_id_18", 0], ["chara_id_19", 0], ["chara_id_2", 1101], ["chara_id_20", 0], ["chara_id_3", 1190], ["chara_id_4", 0], ["chara_id_5", 0], ["chara_id_6", 0], ["chara_id_7", 0], ["chara_id_8", 0], ["chara_id_9", 0], ["status_rate_1", 90], ["status_rate_2", 60], ["status_rate_3", 0], ["status_rate_4", 0], ["status_rate_5", 0], ["status_type_1", 4], ["status_type_2", 11], ["status_type_3", 0], ["status_type_4", 0], ["status_type_5", 0], ["story_id", 1018008], ["unlock_story_name", "伊緒のエピソード第8話"]],
+            "new": [["chara_id_1", 1018], ["chara_id_10", 0], ["chara_id_11", 0], ["chara_id_12", 0], ["chara_id_13", 0], ["chara_id_14", 0], ["chara_id_15", 0], ["chara_id_16", 0], ["chara_id_17", 0], ["chara_id_18", 0], ["chara_id_19", 0], ["chara_id_2", 1101], ["chara_id_20", 0], ["chara_id_3", 1190], ["chara_id_4", 1329], ["chara_id_5", 0], ["chara_id_6", 0], ["chara_id_7", 0], ["chara_id_8", 0], ["chara_id_9", 0], ["status_rate_1", 90], ["status_rate_2", 60], ["status_rate_3", 0], ["status_rate_4", 0], ["status_rate_5", 0], ["status_type_1", 4], ["status_type_2", 11], ["status_type_3", 0], ["status_type_4", 0], ["status_type_5", 0], ["story_id", 1018008], ["unlock_story_name", "伊緒のエピソード第8話"]]
+          },
+          {
+            "id": 1018009,
+            "old": [["chara_id_1", 1018], ["chara_id_10", 0], ["chara_id_11", 0], ["chara_id_12", 0], ["chara_id_13", 0], ["chara_id_14", 0], ["chara_id_15", 0], ["chara_id_16", 0], ["chara_id_17", 0], ["chara_id_18", 0], ["chara_id_19", 0], ["chara_id_2", 1101], ["chara_id_20", 0], ["chara_id_3", 1190], ["chara_id_4", 0], ["chara_id_5", 0], ["chara_id_6", 0], ["chara_id_7", 0], ["chara_id_8", 0], ["chara_id_9", 0], ["status_rate_1", 80], ["status_rate_2", 0], ["status_rate_3", 0], ["status_rate_4", 0], ["status_rate_5", 0], ["status_type_1", 4], ["status_type_2", 0], ["status_type_3", 0], ["status_type_4", 0], ["status_type_5", 0], ["story_id", 1018009], ["unlock_story_name", "伊緒のエピソード第9話"]],
+            "new": [["chara_id_1", 1018], ["chara_id_10", 0], ["chara_id_11", 0], ["chara_id_12", 0], ["chara_id_13", 0], ["chara_id_14", 0], ["chara_id_15", 0], ["chara_id_16", 0], ["chara_id_17", 0], ["chara_id_18", 0], ["chara_id_19", 0], ["chara_id_2", 1101], ["chara_id_20", 0], ["chara_id_3", 1190], ["chara_id_4", 1329], ["chara_id_5", 0], ["chara_id_6", 0], ["chara_id_7", 0], ["chara_id_8", 0], ["chara_id_9", 0], ["status_rate_1", 80], ["status_rate_2", 0], ["status_rate_3", 0], ["status_rate_4", 0], ["status_rate_5", 0], ["status_type_1", 4], ["status_type_2", 0], ["status_type_3", 0], ["status_type_4", 0], ["status_type_5", 0], ["story_id", 1018009], ["unlock_story_name", "伊緒のエピソード第9話"]]
+          },
+          {
+            "id": 1101004,
+            "old": [["chara_id_1", 1101], ["chara_id_10", 0], ["chara_id_11", 0], ["chara_id_12", 0], ["chara_id_13", 0], ["chara_id_14", 0], ["chara_id_15", 0], ["chara_id_16", 0], ["chara_id_17", 0], ["chara_id_18", 0], ["chara_id_19", 0], ["chara_id_2", 1018], ["chara_id_20", 0], ["chara_id_3", 1190], ["chara_id_4", 0], ["chara_id_5", 0], ["chara_id_6", 0], ["chara_id_7", 0], ["chara_id_8", 0], ["chara_id_9", 0], ["status_rate_1", 50], ["status_rate_2", 0], ["status_rate_3", 0], ["status_rate_4", 0], ["status_rate_5", 0], ["status_type_1", 4], ["status_type_2", 0], ["status_type_3", 0], ["status_type_4", 0], ["status_type_5", 0], ["story_id", 1101004], ["unlock_story_name", "イオ（サマー）のエピソード第4話"]],
+            "new": [["chara_id_1", 1101], ["chara_id_10", 0], ["chara_id_11", 0], ["chara_id_12", 0], ["chara_id_13", 0], ["chara_id_14", 0], ["chara_id_15", 0], ["chara_id_16", 0], ["chara_id_17", 0], ["chara_id_18", 0], ["chara_id_19", 0], ["chara_id_2", 1018], ["chara_id_20", 0], ["chara_id_3", 1190], ["chara_id_4", 1329], ["chara_id_5", 0], ["chara_id_6", 0], ["chara_id_7", 0], ["chara_id_8", 0], ["chara_id_9", 0], ["status_rate_1", 50], ["status_rate_2", 0], ["status_rate_3", 0], ["status_rate_4", 0], ["status_rate_5", 0], ["status_type_1", 4], ["status_type_2", 0], ["status_type_3", 0], ["status_type_4", 0], ["status_type_5", 0], ["story_id", 1101004], ["unlock_story_name", "イオ（サマー）のエピソード第4話"]]
+          },
+          {
+            "id": 1018007,
+            "old": [["chara_id_1", 1018], ["chara_id_10", 0], ["chara_id_11", 0], ["chara_id_12", 0], ["chara_id_13", 0], ["chara_id_14", 0], ["chara_id_15", 0], ["chara_id_16", 0], ["chara_id_17", 0], ["chara_id_18", 0], ["chara_id_19", 0], ["chara_id_2", 1101], ["chara_id_20", 0], ["chara_id_3", 1190], ["chara_id_4", 0], ["chara_id_5", 0], ["chara_id_6", 0], ["chara_id_7", 0], ["chara_id_8", 0], ["chara_id_9", 0], ["status_rate_1", 60], ["status_rate_2", 0], ["status_rate_3", 0], ["status_rate_4", 0], ["status_rate_5", 0], ["status_type_1", 4], ["status_type_2", 0], ["status_type_3", 0], ["status_type_4", 0], ["status_type_5", 0], ["story_id", 1018007], ["unlock_story_name", "伊緒のエピソード第7話"]],
+            "new": [["chara_id_1", 1018], ["chara_id_10", 0], ["chara_id_11", 0], ["chara_id_12", 0], ["chara_id_13", 0], ["chara_id_14", 0], ["chara_id_15", 0], ["chara_id_16", 0], ["chara_id_17", 0], ["chara_id_18", 0], ["chara_id_19", 0], ["chara_id_2", 1101], ["chara_id_20", 0], ["chara_id_3", 1190], ["chara_id_4", 1329], ["chara_id_5", 0], ["chara_id_6", 0], ["chara_id_7", 0], ["chara_id_8", 0], ["chara_id_9", 0], ["status_rate_1", 60], ["status_rate_2", 0], ["status_rate_3", 0], ["status_rate_4", 0], ["status_rate_5", 0], ["status_type_1", 4], ["status_type_2", 0], ["status_type_3", 0], ["status_type_4", 0], ["status_type_5", 0], ["story_id", 1018007], ["unlock_story_name", "伊緒のエピソード第7話"]]
+          },
+          {
+            "id": 1018002,
+            "old": [["chara_id_1", 1018], ["chara_id_10", 0], ["chara_id_11", 0], ["chara_id_12", 0], ["chara_id_13", 0], ["chara_id_14", 0], ["chara_id_15", 0], ["chara_id_16", 0], ["chara_id_17", 0], ["chara_id_18", 0], ["chara_id_19", 0], ["chara_id_2", 1101], ["chara_id_20", 0], ["chara_id_3", 1190], ["chara_id_4", 0], ["chara_id_5", 0], ["chara_id_6", 0], ["chara_id_7", 0], ["chara_id_8", 0], ["chara_id_9", 0], ["status_rate_1", 15], ["status_rate_2", 0], ["status_rate_3", 0], ["status_rate_4", 0], ["status_rate_5", 0], ["status_type_1", 4], ["status_type_2", 0], ["status_type_3", 0], ["status_type_4", 0], ["status_type_5", 0], ["story_id", 1018002], ["unlock_story_name", "伊緒のエピソード第2話"]],
+            "new": [["chara_id_1", 1018], ["chara_id_10", 0], ["chara_id_11", 0], ["chara_id_12", 0], ["chara_id_13", 0], ["chara_id_14", 0], ["chara_id_15", 0], ["chara_id_16", 0], ["chara_id_17", 0], ["chara_id_18", 0], ["chara_id_19", 0], ["chara_id_2", 1101], ["chara_id_20", 0], ["chara_id_3", 1190], ["chara_id_4", 1329], ["chara_id_5", 0], ["chara_id_6", 0], ["chara_id_7", 0], ["chara_id_8", 0], ["chara_id_9", 0], ["status_rate_1", 15], ["status_rate_2", 0], ["status_rate_3", 0], ["status_rate_4", 0], ["status_rate_5", 0], ["status_type_1", 4], ["status_type_2", 0], ["status_type_3", 0], ["status_type_4", 0], ["status_type_5", 0], ["story_id", 1018002], ["unlock_story_name", "伊緒のエピソード第2話"]]
+          }
+        ]
+      }
+    },
+    "unit_data": {
+      "data_changes": {
+        "added": [
+          [["atk_type", 2], ["comment", "【魔法】位於後衛，於舒適沉睡之中來訪的聖誕夜惡魔。\\n賦予魔法攻擊力最高的我方角色【惡魔的親吻】，\\n施展支援攻擊和恢復ＴＰ，寸步不離地進行教導。"], ["cutin1_star6", 132901], ["cutin2_star6", 0], ["cutin_1", 132901], ["cutin_2", 0], ["end_time", "2030/12/31 15:00:00"], ["exskill_display", 0], ["guild_id", 0], ["is_limited", 0], ["kana", "伊緒（聖誕節）"], ["motion_type", 46], ["move_speed", 450], ["normal_atk_cast_time", 2.09], ["only_disp_owned", 0], ["original_unit_id", 0], ["prefab_id", 132901], ["prefab_id_battle", 0], ["rarity", 3], ["se_type", 5], ["search_area_width", 748], ["start_time", "2025/04/10 16:00:00"], ["unit_id", 132901], ["unit_name", "伊緒（聖誕節）"]]
+        ],
+        "modified": [
+          {
+            "id": 127901,
+            "old": [["atk_type", 2], ["comment", "【魔法】在中衛帶給大家笑容的貪吃聖誕公主。\\n於前線抵擋敵人的攻擊，並支援範圍內我方的防禦，\\n甚至能降低敵人的防禦，為聖夜點燃勝利的光輝。"], ["cutin1_star6", 127901], ["cutin2_star6", 0], ["cutin_1", 127901], ["cutin_2", 0], ["end_time", "2024/10/01 15:59:59"], ["exskill_display", 0], ["guild_id", 0], ["is_limited", 1], ["kana", "貪吃佩可（聖誕節）"], ["motion_type", 5], ["move_speed", 450], ["normal_atk_cast_time", 1.965], ["only_disp_owned", 0], ["original_unit_id", 0], ["prefab_id", 127901], ["prefab_id_battle", 0], ["rarity", 3], ["se_type", 5], ["search_area_width", 372], ["start_time", "2024/09/28 16:00:00"], ["unit_id", 127901], ["unit_name", "貪吃佩可（聖誕節）"]],
+            "new": [["atk_type", 2], ["comment", "【魔法】在中衛帶給大家笑容的貪吃聖誕公主。\\n於前線抵擋敵人的攻擊，並支援範圍內我方的防禦，\\n甚至能降低敵人的防禦，為聖夜點燃勝利的光輝。"], ["cutin1_star6", 127901], ["cutin2_star6", 0], ["cutin_1", 127901], ["cutin_2", 0], ["end_time", "2025/04/15 15:59:59"], ["exskill_display", 0], ["guild_id", 0], ["is_limited", 1], ["kana", "貪吃佩可（聖誕節）"], ["motion_type", 5], ["move_speed", 450], ["normal_atk_cast_time", 1.965], ["only_disp_owned", 0], ["original_unit_id", 0], ["prefab_id", 127901], ["prefab_id_battle", 0], ["rarity", 3], ["se_type", 5], ["search_area_width", 372], ["start_time", "2025/04/10 16:00:00"], ["unit_id", 127901], ["unit_name", "貪吃佩可（聖誕節）"]]
+          },
+          {
+            "id": 131001,
+            "old": [["atk_type", 2], ["comment", "【魔法】位於後衛，在馬戲團舞台上閃閃發光的童話少女。\\n除了支援我方攻防、削弱敵方攻防之外，\\n擁有【謝幕】時會以追加傷害技能點亮勝利的聚光燈。"], ["cutin1_star6", 131001], ["cutin2_star6", 0], ["cutin_1", 131001], ["cutin_2", 0], ["end_time", "2024/10/11 15:59:59"], ["exskill_display", 0], ["guild_id", 0], ["is_limited", 1], ["kana", "真步（夢想樂園）"], ["motion_type", 7], ["move_speed", 450], ["normal_atk_cast_time", 1.84], ["only_disp_owned", 0], ["original_unit_id", 0], ["prefab_id", 131001], ["prefab_id_battle", 0], ["rarity", 3], ["se_type", 7], ["search_area_width", 702], ["start_time", "2024/10/01 16:00:00"], ["unit_id", 131001], ["unit_name", "真步（夢想樂園）"]],
+            "new": [["atk_type", 2], ["comment", "【魔法】位於後衛，在馬戲團舞台上閃閃發光的童話少女。\\n除了支援我方攻防、削弱敵方攻防之外，\\n擁有【謝幕】時會以追加傷害技能點亮勝利的聚光燈。"], ["cutin1_star6", 131001], ["cutin2_star6", 0], ["cutin_1", 131001], ["cutin_2", 0], ["end_time", "2025/04/15 15:59:59"], ["exskill_display", 0], ["guild_id", 0], ["is_limited", 1], ["kana", "真步（夢想樂園）"], ["motion_type", 7], ["move_speed", 450], ["normal_atk_cast_time", 1.84], ["only_disp_owned", 0], ["original_unit_id", 0], ["prefab_id", 131001], ["prefab_id_battle", 0], ["rarity", 3], ["se_type", 7], ["search_area_width", 702], ["start_time", "2025/04/10 16:00:00"], ["unit_id", 131001], ["unit_name", "真步（夢想樂園）"]]
+          }
+        ]
+      }
+    },
+    "emblem_mission_reward_data": {
+      "data_changes": {
+        "added": [
+          [["icon_type", 1001], ["id", 1468], ["mission_reward_id", 56011923], ["reward_id", 10201923], ["reward_num", 1], ["reward_type", 15]],
+          [["icon_type", 0], ["id", 1471], ["mission_reward_id", 56011925], ["reward_id", 91002], ["reward_num", 50], ["reward_type", 8]],
+          [["icon_type", 1002], ["id", 1469], ["mission_reward_id", 56011924], ["reward_id", 10201924], ["reward_num", 1], ["reward_type", 15]],
+          [["icon_type", 1003], ["id", 1470], ["mission_reward_id", 56011925], ["reward_id", 10201925], ["reward_num", 1], ["reward_type", 15]]
+        ]
+      }
+    },
+    "exceed_level_unit": {
+      "data_changes": {
+        "added": [
+          [["consume_num_1", 120], ["consume_num_2", 20000000], ["consume_num_3", 0], ["consume_num_4", 0], ["consume_num_5", 0], ["exceed_item_id", 41329], ["exceed_stage", 1], ["id", 1132901], ["item_id_1", 31329], ["item_id_2", 94000], ["item_id_3", 0], ["item_id_4", 0], ["item_id_5", 0], ["reward_type_1", 2], ["reward_type_2", 12], ["reward_type_3", 0], ["reward_type_4", 0], ["reward_type_5", 0], ["unit_id", 132901]]
+        ]
+      }
+    },
+    "guild": {
+      "data_changes": {
+        "modified": [
+          {
+            "id": 14,
+            "old": [["description", "存在於蘭德索爾的學校之一。由公會管理協會所直營的公立教育機關。在學校裡，前來上學的學生的年齡、種族、學力都不盡相同。"], ["guild_id", 14], ["guild_master", 1018], ["guild_name", "月光學院"], ["member1", 1018], ["member10", 1273], ["member11", 0], ["member12", 0], ["member13", 0], ["member14", 0], ["member15", 0], ["member16", 0], ["member17", 0], ["member18", 0], ["member19", 0], ["member2", 1050], ["member20", 0], ["member21", 0], ["member22", 0], ["member23", 0], ["member24", 0], ["member25", 0], ["member26", 0], ["member27", 0], ["member28", 0], ["member29", 0], ["member3", 1016], ["member30", 0], ["member4", 1083], ["member5", 1100], ["member6", 1101], ["member7", 1179], ["member8", 1190], ["member9", 1214]],
+            "new": [["description", "存在於蘭德索爾的學校之一。由公會管理協會所直營的公立教育機關。在學校裡，前來上學的學生的年齡、種族、學力都不盡相同。"], ["guild_id", 14], ["guild_master", 1018], ["guild_name", "月光學院"], ["member1", 1018], ["member10", 1273], ["member11", 1329], ["member12", 0], ["member13", 0], ["member14", 0], ["member15", 0], ["member16", 0], ["member17", 0], ["member18", 0], ["member19", 0], ["member2", 1050], ["member20", 0], ["member21", 0], ["member22", 0], ["member23", 0], ["member24", 0], ["member25", 0], ["member26", 0], ["member27", 0], ["member28", 0], ["member29", 0], ["member3", 1016], ["member30", 0], ["member4", 1083], ["member5", 1100], ["member6", 1101], ["member7", 1179], ["member8", 1190], ["member9", 1214]]
+          }
+        ]
+      }
+    },
+    "unit_unique_equipment": {
+      "data_changes": {
+        "added": [
+          [["equip_id", 132801], ["equip_slot", 1], ["unit_id", 128001]],
+          [["equip_id", 132791], ["equip_slot", 1], ["unit_id", 127901]]
+        ]
+      }
+    },
+    "unit_talent": {
+      "data_changes": {
+        "added": [
+          [["setting_id", 13290101], ["talent_id", 4], ["unit_id", 132901]]
+        ]
+      }
+    },
+    "daily_mission_data": {
+      "data_changes": {
+        "modified": [
+          {
+            "id": 11101001,
+            "old": [["category_icon", 208], ["condition_num", 1], ["condition_value_1", 0], ["condition_value_2", 0], ["condition_value_3", 0], ["daily_mission_id", 11101001], ["description", "挑戰1次露娜之塔的冒險"], ["disp_group", 14], ["end_time", "2025/03/15 15:59:59"], ["max_level", 0], ["min_level", 0], ["mission_condition", 1101], ["mission_reward_id", 11101001], ["start_time", "2025/03/10 16:00:00"], ["system_id", 108], ["title_color_id", 0], ["visible_flag", 1]],
+            "new": [["category_icon", 208], ["condition_num", 1], ["condition_value_1", 0], ["condition_value_2", 0], ["condition_value_3", 0], ["daily_mission_id", 11101001], ["description", "挑戰1次露娜之塔的冒險"], ["disp_group", 14], ["end_time", "2025/04/15 15:59:59"], ["max_level", 0], ["min_level", 0], ["mission_condition", 1101], ["mission_reward_id", 11101001], ["start_time", "2025/04/10 16:00:00"], ["system_id", 108], ["title_color_id", 0], ["visible_flag", 1]]
+          }
+        ]
+      }
+    },
+    "unit_rarity": {
+      "data_changes": {
+        "added": [
+          [["accuracy", 0.0], ["accuracy_growth", 0.0], ["atk", 0.0], ["atk_growth", 0.0], ["consume_gold", 20000], ["consume_num", 30], ["def", 2.87], ["def_growth", 0.41], ["dodge", 0.0], ["dodge_growth", 0.0], ["energy_recovery_rate", 0.0], ["energy_recovery_rate_growth", 0.0], ["energy_reduce_rate", 0.0], ["energy_reduce_rate_growth", 0.0], ["hp", 389.6], ["hp_growth", 54.12], ["hp_recovery_rate", 0.0], ["hp_recovery_rate_growth", 0.0], ["life_steal", 0.0], ["life_steal_growth", 0.0], ["magic_critical", 0.0], ["magic_critical_growth", 0.0], ["magic_def", 3.01], ["magic_def_growth", 0.42], ["magic_penetrate", 0.0], ["magic_penetrate_growth", 0.0], ["magic_str", 45.66], ["magic_str_growth", 6.35], ["physical_critical", 0.0], ["physical_critical_growth", 0.0], ["physical_penetrate", 0.0], ["physical_penetrate_growth", 0.0], ["rarity", 2], ["unit_id", 132901], ["unit_material_id", 31329], ["wave_energy_recovery", 0.0], ["wave_energy_recovery_growth", 0.0], ["wave_hp_recovery", 0.0], ["wave_hp_recovery_growth", 0.0]]
+        ]
+      }
+    },
+    "emblem_data": {
+      "data_changes": {
+        "added": [
+          [["description_mission_id", 56011924], ["disp_oder", 201918], ["emblem_id", 10201924], ["emblem_name", "與伊緒（聖誕節）的羈絆"], ["end_time", "2030/01/01 23:59:59"], ["event_emblem", 0], ["start_time", "2025/04/10 16:00:00"], ["type", 2]],
+          [["description_mission_id", 56011925], ["disp_oder", 201919], ["emblem_id", 10201925], ["emblem_name", "聖誕夜的課程開始♪"], ["end_time", "2030/01/01 23:59:59"], ["event_emblem", 0], ["start_time", "2025/04/10 16:00:00"], ["type", 2]],
+          [["description_mission_id", 56011923], ["disp_oder", 201917], ["emblem_id", 10201923], ["emblem_name", "伊緒（聖誕節）"], ["end_time", "2030/01/01 23:59:59"], ["event_emblem", 0], ["start_time", "2025/04/10 16:00:00"], ["type", 2]]
+        ]
+      }
+    },
+    "album_production_list": {
+      "data_changes": {
+        "added": [
+          [["description", ""], ["id", 13290104], ["title", "羈絆Rank表演3"], ["type", 103], ["unit_id", 132901]],
+          [["description", ""], ["id", 13290106], ["title", "羈絆Rank表演5"], ["type", 105], ["unit_id", 132901]],
+          [["description", ""], ["id", 13290102], ["title", "羈絆Rank表演1"], ["type", 101], ["unit_id", 132901]],
+          [["description", ""], ["id", 13290105], ["title", "羈絆Rank表演4"], ["type", 104], ["unit_id", 132901]],
+          [["description", ""], ["id", 13290101], ["title", "解放表演1"], ["type", 201], ["unit_id", 132901]],
+          [["description", ""], ["id", 13290103], ["title", "羈絆Rank表演2"], ["type", 102], ["unit_id", 132901]],
+          [["description", ""], ["id", 13290107], ["title", "羈絆Rank表演6"], ["type", 106], ["unit_id", 132901]],
+          [["description", ""], ["id", 13290108], ["title", "羈絆Rank表演7"], ["type", 107], ["unit_id", 132901]]
+        ]
+      }
+    },
+    "unit_promotion_status": {
+      "data_changes": {
+        "added": [
+          [["accuracy", 0.0], ["atk", 0.0], ["def", 46.0], ["dodge", 0.0], ["energy_recovery_rate", 17.0], ["energy_reduce_rate", 11.0], ["hp", 3230.0], ["hp_recovery_rate", 116.0], ["life_steal", 2.0], ["magic_critical", 111.0], ["magic_def", 141.0], ["magic_penetrate", 0.0], ["magic_str", 2657.0], ["physical_critical", 0.0], ["physical_penetrate", 0.0], ["promotion_level", 12], ["unit_id", 132901], ["wave_energy_recovery", 177.0], ["wave_hp_recovery", 615.0]]
+        ]
+      }
+    },
+    "skill_action": {
+      "data_changes": {
+        "added": [
+          [["action_detail_1", 1], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 132910103], ["action_type", 16], ["action_value_1", 100.0], ["action_value_2", 0.0], ["action_value_3", 0.0], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "使目標我方恢復{0}的TP"], ["level_up_disp", ""], ["target_area", 2], ["target_assignment", 2], ["target_count", 1], ["target_number", 0], ["target_range", 2160], ["target_type", 50]],
+          [["action_detail_1", 41], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 132900102], ["action_type", 10], ["action_value_1", 1.0], ["action_value_2", 0.7], ["action_value_3", 0.7], ["action_value_4", 18.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "降低敵方單體{0}的魔法防禦力"], ["level_up_disp", "魔法防禦力降低+{0}"], ["target_area", 1], ["target_assignment", 1], ["target_count", 1], ["target_number", 0], ["target_range", 2160], ["target_type", 3]],
+          [["action_detail_1", 1], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 132900307], ["action_type", 16], ["action_value_1", 50.0], ["action_value_2", 0.0], ["action_value_3", 1.0], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "讓範圍內的夥伴恢復{0}TP"], ["level_up_disp", ""], ["target_area", 2], ["target_assignment", 2], ["target_count", 99], ["target_number", 0], ["target_range", 250], ["target_type", 3]],
+          [["action_detail_1", 1], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 132910106], ["action_type", 16], ["action_value_1", 50.0], ["action_value_2", 0.0], ["action_value_3", 1.0], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "讓範圍內的夥伴恢復{0}TP"], ["level_up_disp", ""], ["target_area", 2], ["target_assignment", 2], ["target_count", 99], ["target_number", 0], ["target_range", 250], ["target_type", 3]],
+          [["action_detail_1", 10], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 128001207], ["action_type", 10], ["action_value_1", 1.0], ["action_value_2", 22.0], ["action_value_3", 22.0], ["action_value_4", 180.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "初次使用時，提升範圍內的我方{0}的物理攻擊力"], ["level_up_disp", "物理攻擊力提升+{0}"], ["target_area", 2], ["target_assignment", 2], ["target_count", 99], ["target_number", 0], ["target_range", 150], ["target_type", 3]],
+          [["action_detail_1", 4], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 132951101], ["action_type", 90], ["action_value_1", 1.0], ["action_value_2", 240.0], ["action_value_3", 15.0], ["action_value_4", 1.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "提升自身{0}的魔法攻擊力"], ["level_up_disp", "魔法攻擊力提升+{0}"], ["target_area", 0], ["target_assignment", 0], ["target_count", 0], ["target_number", 0], ["target_range", 0], ["target_type", 0]],
+          [["action_detail_1", 2], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 132900101], ["action_type", 1], ["action_value_1", 67.5], ["action_value_2", 67.5], ["action_value_3", 5.4], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "對敵方單體造成{0}的魔法傷害"], ["level_up_disp", "魔法傷害+{0}"], ["target_area", 1], ["target_assignment", 1], ["target_count", 1], ["target_number", 0], ["target_range", 2160], ["target_type", 3]],
+          [["action_detail_1", 120], ["action_detail_2", 1], ["action_detail_3", 0], ["action_id", 132900209], ["action_type", 10], ["action_value_1", 1.0], ["action_value_2", 4.0], ["action_value_3", 0.0], ["action_value_4", 12.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "提升範圍內我方魔法攻擊暴擊時的傷害{0}％"], ["level_up_disp", ""], ["target_area", 2], ["target_assignment", 2], ["target_count", 99], ["target_number", 0], ["target_range", 250], ["target_type", 3]],
+          [["action_detail_1", 2], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 132910105], ["action_type", 4], ["action_value_1", 1.0], ["action_value_2", 1.2], ["action_value_3", 1.2], ["action_value_4", 0.12], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "回復範圍內的我方{0}的HP"], ["level_up_disp", "HP回復量+{0}"], ["target_area", 2], ["target_assignment", 2], ["target_count", 99], ["target_number", 0], ["target_range", 250], ["target_type", 3]],
+          [["action_detail_1", 2], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 132900301], ["action_type", 4], ["action_value_1", 1.0], ["action_value_2", 2.4], ["action_value_3", 2.4], ["action_value_4", 0.24], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "讓目標夥伴的HP恢復{0}"], ["level_up_disp", "HP回復量+{0}"], ["target_area", 2], ["target_assignment", 2], ["target_count", 1], ["target_number", 0], ["target_range", 2160], ["target_type", 13196]],
+          [["action_detail_1", 41], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 132900201], ["action_type", 10], ["action_value_1", 1.0], ["action_value_2", 0.4], ["action_value_3", 0.4], ["action_value_4", 12.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "降低敵方單體{0}的魔法防禦力"], ["level_up_disp", "魔法防禦力降低+{0}"], ["target_area", 1], ["target_assignment", 1], ["target_count", 1], ["target_number", 0], ["target_range", 2160], ["target_type", 3]],
+          [["action_detail_1", 30], ["action_detail_2", 1], ["action_detail_3", 0], ["action_id", 132900208], ["action_type", 10], ["action_value_1", 1.0], ["action_value_2", 22.5], ["action_value_3", 22.5], ["action_value_4", 12.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 1.0], ["class_id", 1], ["description", "提升範圍內的我方{0}的魔法攻擊力"], ["level_up_disp", "魔法攻擊力提升+{0}"], ["target_area", 2], ["target_assignment", 2], ["target_count", 99], ["target_number", 0], ["target_range", 250], ["target_type", 3]],
+          [["action_detail_1", 1], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 132900305], ["action_type", 7], ["action_value_1", 0.0], ["action_value_2", 0.0], ["action_value_3", 0.0], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", ""], ["level_up_disp", ""], ["target_area", 2], ["target_assignment", 2], ["target_count", 1], ["target_number", 0], ["target_range", 2160], ["target_type", 13196]],
+          [["action_detail_1", 20], ["action_detail_2", 1], ["action_detail_3", 0], ["action_id", 127901203], ["action_type", 10], ["action_value_1", 1.0], ["action_value_2", 1.0], ["action_value_3", 1.0], ["action_value_4", 12.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "提升範圍內的我方{0}的物理防禦力"], ["level_up_disp", "物理防禦力提升+{0}"], ["target_area", 2], ["target_assignment", 2], ["target_count", 99], ["target_number", 0], ["target_range", 300], ["target_type", 3]],
+          [["action_detail_1", 30], ["action_detail_2", 1], ["action_detail_3", 0], ["action_id", 132900203], ["action_type", 10], ["action_value_1", 1.0], ["action_value_2", 45.0], ["action_value_3", 45.0], ["action_value_4", 12.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 1.0], ["class_id", 1], ["description", "讓目標夥伴的魔法攻擊力提升{0}"], ["level_up_disp", "魔法攻擊力提升+{0}"], ["target_area", 2], ["target_assignment", 2], ["target_count", 1], ["target_number", 0], ["target_range", 2160], ["target_type", 13196]],
+          [["action_detail_1", 11], ["action_detail_2", 1], ["action_detail_3", 0], ["action_id", 128001202], ["action_type", 10], ["action_value_1", 1.0], ["action_value_2", 10.0], ["action_value_3", 10.0], ["action_value_4", 12.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 1.0], ["class_id", 1], ["description", "降低敵方單體{0}的物理攻擊力"], ["level_up_disp", "物理攻擊力降低+{0}"], ["target_area", 3], ["target_assignment", 1], ["target_count", 1], ["target_number", 0], ["target_range", 2160], ["target_type", 3]],
+          [["action_detail_1", 31], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 132900202], ["action_type", 10], ["action_value_1", 1.0], ["action_value_2", 18.0], ["action_value_3", 18.0], ["action_value_4", 12.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "降低敵方單體{0}的魔法攻擊力"], ["level_up_disp", "魔法攻擊力下降+{0}"], ["target_area", 1], ["target_assignment", 1], ["target_count", 1], ["target_number", 0], ["target_range", 2160], ["target_type", 3]],
+          [["action_detail_1", 1221], ["action_detail_2", 0], ["action_detail_3", 128001209], ["action_id", 128001208], ["action_type", 28], ["action_value_1", 1.0], ["action_value_2", 2.0], ["action_value_3", 0.0], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", ""], ["level_up_disp", ""], ["target_area", 1], ["target_assignment", 2], ["target_count", 1], ["target_number", 0], ["target_range", 0], ["target_type", 7]],
+          [["action_detail_1", 40], ["action_detail_2", 1], ["action_detail_3", 0], ["action_id", 127901204], ["action_type", 10], ["action_value_1", 1.0], ["action_value_2", 1.0], ["action_value_3", 1.0], ["action_value_4", 12.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "提升範圍內的我方{0}的魔法防禦力"], ["level_up_disp", "魔法防禦力提升+{0}"], ["target_area", 2], ["target_assignment", 2], ["target_count", 99], ["target_number", 0], ["target_range", 300], ["target_type", 3]],
+          [["action_detail_1", 120], ["action_detail_2", 1], ["action_detail_3", 0], ["action_id", 132900204], ["action_type", 10], ["action_value_1", 1.0], ["action_value_2", 8.0], ["action_value_3", 0.0], ["action_value_4", 12.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "提升目標我方魔法攻擊暴擊時的傷害{0}％"], ["level_up_disp", ""], ["target_area", 2], ["target_assignment", 2], ["target_count", 1], ["target_number", 0], ["target_range", 2160], ["target_type", 13196]],
+          [["action_detail_1", 2], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 132900103], ["action_type", 4], ["action_value_1", 1.0], ["action_value_2", 5.0], ["action_value_3", 5.0], ["action_value_4", 0.5], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "回復範圍內的我方{0}的HP"], ["level_up_disp", "HP回復量+{0}"], ["target_area", 2], ["target_assignment", 2], ["target_count", 99], ["target_number", 0], ["target_range", 250], ["target_type", 3]],
+          [["action_detail_1", 721], ["action_detail_2", 132900208], ["action_detail_3", 0], ["action_id", 132900205], ["action_type", 28], ["action_value_1", 0.0], ["action_value_2", 0.0], ["action_value_3", 196.0], ["action_value_4", 1.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", ""], ["level_up_disp", ""], ["target_area", 2], ["target_assignment", 2], ["target_count", 99], ["target_number", 0], ["target_range", 2160], ["target_type", 3]],
+          [["action_detail_1", 0], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 132910101], ["action_type", 35], ["action_value_1", 1.0], ["action_value_2", 196.0], ["action_value_3", 180.0], ["action_value_4", 1.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "賦予自身以外魔法攻擊力最高的我方１名角色惡魔的親吻"], ["level_up_disp", ""], ["target_area", 2], ["target_assignment", 2], ["target_count", 1], ["target_number", 0], ["target_range", 2160], ["target_type", 50]],
+          [["action_detail_1", 1], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 132900302], ["action_type", 16], ["action_value_1", 100.0], ["action_value_2", 0.0], ["action_value_3", 0.0], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "使目標我方恢復{0}的TP"], ["level_up_disp", ""], ["target_area", 2], ["target_assignment", 2], ["target_count", 1], ["target_number", 0], ["target_range", 2160], ["target_type", 13196]],
+          [["action_detail_1", 40], ["action_detail_2", 1], ["action_detail_3", 0], ["action_id", 132900105], ["action_type", 10], ["action_value_1", 1.0], ["action_value_2", 1.2], ["action_value_3", 1.2], ["action_value_4", 18.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 1.0], ["class_id", 1], ["description", "提升範圍內的我方{0}的魔法防禦力"], ["level_up_disp", "魔法防禦力提升+{0}"], ["target_area", 2], ["target_assignment", 2], ["target_count", 99], ["target_number", 0], ["target_range", 250], ["target_type", 3]],
+          [["action_detail_1", 4], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 132950101], ["action_type", 90], ["action_value_1", 1.0], ["action_value_2", 15.0], ["action_value_3", 15.0], ["action_value_4", 1.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "提升自身{0}的魔法攻擊力"], ["level_up_disp", "魔法攻擊力提升+{0}"], ["target_area", 0], ["target_assignment", 0], ["target_count", 0], ["target_number", 0], ["target_range", 0], ["target_type", 0]],
+          [["action_detail_1", 2], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 132910102], ["action_type", 4], ["action_value_1", 1.0], ["action_value_2", 2.4], ["action_value_3", 2.4], ["action_value_4", 0.24], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "讓目標夥伴的HP恢復{0}"], ["level_up_disp", "HP回復量+{0}"], ["target_area", 2], ["target_assignment", 2], ["target_count", 1], ["target_number", 0], ["target_range", 2160], ["target_type", 50]],
+          [["action_detail_1", 1], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 132900207], ["action_type", 7], ["action_value_1", 0.0], ["action_value_2", 0.0], ["action_value_3", 0.0], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", ""], ["level_up_disp", ""], ["target_area", 2], ["target_assignment", 2], ["target_count", 1], ["target_number", 0], ["target_range", 2160], ["target_type", 13196]],
+          [["action_detail_1", 721], ["action_detail_2", 132900306], ["action_detail_3", 0], ["action_id", 132900303], ["action_type", 28], ["action_value_1", 0.0], ["action_value_2", 0.0], ["action_value_3", 196.0], ["action_value_4", 1.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", ""], ["level_up_disp", ""], ["target_area", 2], ["target_assignment", 2], ["target_count", 99], ["target_number", 0], ["target_range", 2160], ["target_type", 3]],
+          [["action_detail_1", 721], ["action_detail_2", 132900307], ["action_detail_3", 0], ["action_id", 132900304], ["action_type", 28], ["action_value_1", 0.0], ["action_value_2", 0.0], ["action_value_3", 196.0], ["action_value_4", 1.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", ""], ["level_up_disp", ""], ["target_area", 2], ["target_assignment", 2], ["target_count", 99], ["target_number", 0], ["target_range", 2160], ["target_type", 3]],
+          [["action_detail_1", 10], ["action_detail_2", 1], ["action_detail_3", 0], ["action_id", 128001204], ["action_type", 10], ["action_value_1", 1.0], ["action_value_2", 33.0], ["action_value_3", 33.0], ["action_value_4", 12.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "讓一名同伴的物理攻擊力提升{0}"], ["level_up_disp", "物理攻擊力提升+{0}"], ["target_area", 2], ["target_assignment", 2], ["target_count", 1], ["target_number", 0], ["target_range", 2160], ["target_type", 4]],
+          [["action_detail_1", 721], ["action_detail_2", 132900209], ["action_detail_3", 0], ["action_id", 132900206], ["action_type", 28], ["action_value_1", 0.0], ["action_value_2", 0.0], ["action_value_3", 196.0], ["action_value_4", 1.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", ""], ["level_up_disp", ""], ["target_area", 2], ["target_assignment", 2], ["target_count", 99], ["target_number", 0], ["target_range", 2160], ["target_type", 3]],
+          [["action_detail_1", 60], ["action_detail_2", 1], ["action_detail_3", 0], ["action_id", 128001205], ["action_type", 10], ["action_value_1", 1.0], ["action_value_2", 150.0], ["action_value_3", 0.0], ["action_value_4", 12.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "提升一名夥伴的物理暴擊{0}"], ["level_up_disp", ""], ["target_area", 2], ["target_assignment", 2], ["target_count", 1], ["target_number", 0], ["target_range", 2160], ["target_type", 4]],
+          [["action_detail_1", 2], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 128001210], ["action_type", 45], ["action_value_1", 1.0], ["action_value_2", 0.0], ["action_value_3", 0.0], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", ""], ["level_up_disp", ""], ["target_area", 1], ["target_assignment", 2], ["target_count", 1], ["target_number", 0], ["target_range", 0], ["target_type", 7]],
+          [["action_detail_1", 6], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 132900104], ["action_type", 6], ["action_value_1", 45.0], ["action_value_2", 45.0], ["action_value_3", 18.0], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "展開可吸收{0}傷害量的物理魔法吸收護盾"], ["level_up_disp", "吸收傷害量+{0}"], ["target_area", 2], ["target_assignment", 2], ["target_count", 99], ["target_number", 0], ["target_range", 250], ["target_type", 3]],
+          [["action_detail_1", 20], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 128001209], ["action_type", 10], ["action_value_1", 1.0], ["action_value_2", 0.6], ["action_value_3", 0.6], ["action_value_4", 180.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "初次使用時，提升範圍內的我方{0}的物理防禦力"], ["level_up_disp", "物理防禦力提升+{0}"], ["target_area", 2], ["target_assignment", 2], ["target_count", 99], ["target_number", 0], ["target_range", 150], ["target_type", 3]],
+          [["action_detail_1", 2], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 132900306], ["action_type", 4], ["action_value_1", 1.0], ["action_value_2", 1.2], ["action_value_3", 1.2], ["action_value_4", 0.12], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "回復範圍內的我方{0}的HP"], ["level_up_disp", "HP回復量+{0}"], ["target_area", 2], ["target_assignment", 2], ["target_count", 99], ["target_number", 0], ["target_range", 250], ["target_type", 3]],
+          [["action_detail_1", 21], ["action_detail_2", 1], ["action_detail_3", 0], ["action_id", 128001203], ["action_type", 10], ["action_value_1", 1.0], ["action_value_2", 0.8], ["action_value_3", 0.8], ["action_value_4", 12.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 1.0], ["class_id", 1], ["description", "降低敵方單體{0}的物理防禦力"], ["level_up_disp", "物理防禦力降低+{0}"], ["target_area", 3], ["target_assignment", 1], ["target_count", 1], ["target_number", 0], ["target_range", 2160], ["target_type", 3]],
+          [["action_detail_1", 1], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 128001201], ["action_type", 1], ["action_value_1", 35.0], ["action_value_2", 35.0], ["action_value_3", 2.8], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "對敵方單體造成{0}的物理傷害"], ["level_up_disp", "物理傷害+{0}"], ["target_area", 1], ["target_assignment", 1], ["target_count", 1], ["target_number", 0], ["target_range", 2160], ["target_type", 3]],
+          [["action_detail_1", 1], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 127901202], ["action_type", 7], ["action_value_1", 0.0], ["action_value_2", 0.0], ["action_value_3", 0.0], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", ""], ["level_up_disp", ""], ["target_area", 2], ["target_assignment", 2], ["target_count", 1], ["target_number", 0], ["target_range", 2160], ["target_type", 25]],
+          [["action_detail_1", 1221], ["action_detail_2", 0], ["action_detail_3", 128001207], ["action_id", 128001206], ["action_type", 28], ["action_value_1", 1.0], ["action_value_2", 2.0], ["action_value_3", 0.0], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", ""], ["level_up_disp", ""], ["target_area", 1], ["target_assignment", 2], ["target_count", 1], ["target_number", 0], ["target_range", 0], ["target_type", 7]],
+          [["action_detail_1", 1], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 132910104], ["action_type", 7], ["action_value_1", 0.0], ["action_value_2", 0.0], ["action_value_3", 0.0], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", ""], ["level_up_disp", ""], ["target_area", 2], ["target_assignment", 2], ["target_count", 1], ["target_number", 0], ["target_range", 2160], ["target_type", 50]],
+          [["action_detail_1", 1], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 127901205], ["action_type", 16], ["action_value_1", 220.0], ["action_value_2", 0.0], ["action_value_3", 0.0], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "回復自身{0}的TP"], ["level_up_disp", ""], ["target_area", 3], ["target_assignment", 2], ["target_count", 1], ["target_number", 0], ["target_range", 2160], ["target_type", 7]],
+          [["action_detail_1", 2], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 127901201], ["action_type", 4], ["action_value_1", 1.0], ["action_value_2", 5.0], ["action_value_3", 5.0], ["action_value_4", 1.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "回復我方單體{0}的HP"], ["level_up_disp", "HP回復量+{0}"], ["target_area", 2], ["target_assignment", 2], ["target_count", 1], ["target_number", 0], ["target_range", 2160], ["target_type", 25]]
+        ]
+      }
+    },
+    "item_data": {
+      "data_changes": {
+        "added": [
+          [["description", "封印有伊緒（聖誕節）的記憶碎片的道具。收集一定數量，則可以解放角色深藏的力量。"], ["end_time", "2030/08/01 14:59:59"], ["gojuon_order", 104142], ["item_id", 31329], ["item_name", "伊緒（聖誕節）的記憶碎片"], ["item_type", 11], ["limit_num", 9999], ["price", 0], ["promotion_level", 1], ["sell_check_disp", 0], ["start_time", "2015/12/17 15:00:00"], ["value", 31329]],
+          [["description", "據說能使伊緒（聖誕節）突破力量極限並更為提升的戒指。裝備後能使角色Lv突破極限並超越主角Lv。"], ["end_time", "2030/08/01 14:59:00"], ["gojuon_order", 0], ["item_id", 41329], ["item_name", "伊緒（聖誕節）專用戒指"], ["item_type", 22], ["limit_num", 9999], ["price", 0], ["promotion_level", 1], ["sell_check_disp", 0], ["start_time", "2015/12/17 15:00:00"], ["value", 0]]
+        ]
+      }
+    },
+    "hatsune_boss_extra_effect": {
+      "data_changes": {
+        "added": [
+          [["boss_id", 1015806], ["detail", "戰鬥開始90秒內，\\n特大幅度降低敵方全體的物理防禦力"], ["icon_id", 3011], ["id", 10158009], ["start_time", "2025/04/10 16:00:00"], ["unit_id", 132901]],
+          [["boss_id", 1015806], ["detail", "戰鬥開始90秒內，\\n特大幅度降低敵方全體的魔法防禦力"], ["icon_id", 3011], ["id", 10158010], ["start_time", "2025/04/10 16:00:00"], ["unit_id", 132901]]
+        ]
+      }
+    },
+    "actual_unit_background": {
+      "data_changes": {
+        "added": [
+          [["bg_id", 510110], ["face_type", 2], ["unit_id", 132931], ["unit_name", "支倉 伊緒"]]
+        ]
+      }
+    },
+    "unique_equipment_data": {
+      "data_changes": {
+        "added": [
+          [["accuracy", 0.0], ["atk", 60.0], ["craft_flg", 1], ["def", 0.0], ["description", "克蕾琪塔為了聖誕節的典禮\\n準備的禮服。雖然是象徵著\\n服從公主的忠臣的沉穩的服裝，\\n但是知道價格之後會讓周圍的人靜不下來。"], ["dodge", 0.0], ["enable_donation", 0], ["energy_recovery_rate", 0.0], ["energy_reduce_rate", 0.0], ["equipment_enhance_point", 0], ["equipment_id", 132801], ["equipment_name", "聖誕里士滿"], ["hp", 0.0], ["hp_recovery_rate", 0.0], ["life_steal", 0.0], ["magic_critical", 0.0], ["magic_def", 0.0], ["magic_penetrate", 0], ["magic_str", 0.0], ["physical_critical", 20.0], ["physical_penetrate", 0.0], ["promotion_level", 98], ["require_level", 1], ["sale_price", 0.0], ["wave_energy_recovery", 0.0], ["wave_hp_recovery", 0.0]],
+          [["accuracy", 0.0], ["atk", 0.0], ["craft_flg", 1], ["def", 9.0], ["description", "克蕾琪塔為了貪吃佩可，\\n盡了一切忠義所準備的最高級的服裝。\\n因為被罵花費了太多預算，\\n所以調整了裙子的長度來應對。"], ["dodge", 0.0], ["enable_donation", 0], ["energy_recovery_rate", 1.0], ["energy_reduce_rate", 0.0], ["equipment_enhance_point", 0], ["equipment_id", 132791], ["equipment_name", "聖誕節公主"], ["hp", 400.0], ["hp_recovery_rate", 0.0], ["life_steal", 0.0], ["magic_critical", 0.0], ["magic_def", 9.0], ["magic_penetrate", 0], ["magic_str", 0.0], ["physical_critical", 0.0], ["physical_penetrate", 0.0], ["promotion_level", 98], ["require_level", 1], ["sale_price", 0.0], ["wave_energy_recovery", 0.0], ["wave_hp_recovery", 0.0]]
+        ]
+      }
+    },
+    "campaign_schedule": {
+      "data_changes": {
+        "added": [
+          [["beginner_id", 0], ["campaign_category", 39], ["campaign_type", 1], ["duplication_order", 0], ["end_time", "2025/04/26 04:59:59"], ["icon_image", 30], ["id", 2231], ["level_id", 0], ["lv_from", 281], ["lv_to", -1], ["shiori_group_id", 0], ["start_time", "2025/04/11 05:00:00"], ["system_id", 111], ["value", 2000.0]],
+          [["beginner_id", 0], ["campaign_category", 49], ["campaign_type", 1], ["duplication_order", 0], ["end_time", "2025/04/26 04:59:59"], ["icon_image", 40], ["id", 2232], ["level_id", 0], ["lv_from", 281], ["lv_to", -1], ["shiori_group_id", 0], ["start_time", "2025/04/11 05:00:00"], ["system_id", 111], ["value", 2000.0]]
+        ]
+      }
+    },
+    "skill_data": {
+      "data_changes": {
+        "added": [
+          [["action_1", 132951101], ["action_10", 0], ["action_2", 0], ["action_3", 0], ["action_4", 0], ["action_5", 0], ["action_6", 0], ["action_7", 0], ["action_8", 0], ["action_9", 0], ["boss_ub_cool_time", 0.0], ["depend_action_1", 0], ["depend_action_10", 0], ["depend_action_2", 0], ["depend_action_3", 0], ["depend_action_4", 0], ["depend_action_5", 0], ["depend_action_6", 0], ["depend_action_7", 0], ["depend_action_8", 0], ["depend_action_9", 0], ["description", "戰鬥開始時，大幅度提升自己的魔法攻擊力。"], ["icon_type", 3003], ["name", "秘密課程+"], ["skill_area_width", 0], ["skill_cast_time", 0.0], ["skill_id", 1329511], ["skill_type", 0]],
+          [["action_1", 127901201], ["action_10", 0], ["action_2", 127901202], ["action_3", 127901203], ["action_4", 127901204], ["action_5", 127901205], ["action_6", 0], ["action_7", 0], ["action_8", 0], ["action_9", 0], ["boss_ub_cool_time", 0.0], ["depend_action_1", 0], ["depend_action_10", 0], ["depend_action_2", 0], ["depend_action_3", 127901202], ["depend_action_4", 127901202], ["depend_action_5", 0], ["depend_action_6", 0], ["depend_action_7", 0], ["depend_action_8", 0], ["depend_action_9", 0], ["description", "中幅度恢復ＨＰ最低的１名我方角色的ＨＰ。並以該角色為中心，大幅度提升範圍內所有我方的物理防禦力與魔法防禦力，中幅度恢復自身的ＴＰ。"], ["icon_type", 2005], ["name", "皇家仁心+"], ["skill_area_width", 0], ["skill_cast_time", 1.05], ["skill_id", 1279012], ["skill_type", 0]],
+          [["action_1", 132900201], ["action_10", 0], ["action_2", 132900202], ["action_3", 132900203], ["action_4", 132900204], ["action_5", 132900205], ["action_6", 132900206], ["action_7", 132900207], ["action_8", 132900208], ["action_9", 132900209], ["boss_ub_cool_time", 0.0], ["depend_action_1", 0], ["depend_action_10", 0], ["depend_action_2", 0], ["depend_action_3", 0], ["depend_action_4", 0], ["depend_action_5", 0], ["depend_action_6", 0], ["depend_action_7", 0], ["depend_action_8", 132900207], ["depend_action_9", 132900207], ["description", "小幅度降低面前的１名敵人的魔法防禦力，大幅度降低其魔法攻擊力。此外，特大幅度提升被施加【惡魔的親吻】的我方的魔法攻擊力，小幅度提升魔法攻擊暴擊時的傷害，並以該角色為中心，大幅度提升範圍內所有我方的魔法攻擊力，且小幅度提升魔法攻擊暴擊時的傷害。"], ["icon_type", 2004], ["name", "甜蜜愛心禮物"], ["skill_area_width", 0], ["skill_cast_time", 1.05], ["skill_id", 1329002], ["skill_type", 0]],
+          [["action_1", 132910101], ["action_10", 0], ["action_2", 132910102], ["action_3", 132910103], ["action_4", 132910104], ["action_5", 132910105], ["action_6", 132910106], ["action_7", 0], ["action_8", 0], ["action_9", 0], ["boss_ub_cool_time", 0.0], ["depend_action_1", 0], ["depend_action_10", 0], ["depend_action_2", 0], ["depend_action_3", 0], ["depend_action_4", 0], ["depend_action_5", 132910104], ["depend_action_6", 132910104], ["depend_action_7", 0], ["depend_action_8", 0], ["depend_action_9", 0], ["description", "賦予自身以外魔法攻擊力最高的我方１名角色【惡魔的親吻】，小幅度恢復ＨＰ與ＴＰ。同時以該角色為中心，小幅度恢復範圍內所有我方的ＨＰ與ＴＰ。"], ["icon_type", 2006], ["name", "真心親吻"], ["skill_area_width", 0], ["skill_cast_time", 1.05], ["skill_id", 1329101], ["skill_type", 0]],
+          [["action_1", 128001201], ["action_10", 128001210], ["action_2", 128001202], ["action_3", 128001203], ["action_4", 128001204], ["action_5", 128001205], ["action_6", 128001206], ["action_7", 128001207], ["action_8", 128001208], ["action_9", 128001209], ["boss_ub_cool_time", 0.0], ["depend_action_1", 0], ["depend_action_10", 0], ["depend_action_2", 128001201], ["depend_action_3", 128001201], ["depend_action_4", 0], ["depend_action_5", 0], ["depend_action_6", 0], ["depend_action_7", 0], ["depend_action_8", 0], ["depend_action_9", 0], ["description", "對面前的１名敵人造成大幅度的物理傷害，中幅度降低其物理攻擊力與物理防禦力，並特大幅度提升１名最遠的我方角色的物理攻擊力，大幅度提升物理暴擊率。戰鬥開始後，第一次使用此技能時，以自身為中心，範圍內我方全體大幅度提升物理攻擊力，中幅度提升物理防禦力。"], ["icon_type", 2001], ["name", "絢麗閃耀+"], ["skill_area_width", 0], ["skill_cast_time", 1.05], ["skill_id", 1280012], ["skill_type", 0]],
+          [["action_1", 132950101], ["action_10", 0], ["action_2", 0], ["action_3", 0], ["action_4", 0], ["action_5", 0], ["action_6", 0], ["action_7", 0], ["action_8", 0], ["action_9", 0], ["boss_ub_cool_time", 0.0], ["depend_action_1", 0], ["depend_action_10", 0], ["depend_action_2", 0], ["depend_action_3", 0], ["depend_action_4", 0], ["depend_action_5", 0], ["depend_action_6", 0], ["depend_action_7", 0], ["depend_action_8", 0], ["depend_action_9", 0], ["description", "戰鬥開始時，中幅度提升自己的魔法攻擊力。"], ["icon_type", 3003], ["name", "秘密課程"], ["skill_area_width", 0], ["skill_cast_time", 0.0], ["skill_id", 1329501], ["skill_type", 0]],
+          [["action_1", 132900301], ["action_10", 0], ["action_2", 132900302], ["action_3", 132900303], ["action_4", 132900304], ["action_5", 132900305], ["action_6", 132900306], ["action_7", 132900307], ["action_8", 0], ["action_9", 0], ["boss_ub_cool_time", 0.0], ["depend_action_1", 0], ["depend_action_10", 0], ["depend_action_2", 0], ["depend_action_3", 0], ["depend_action_4", 0], ["depend_action_5", 0], ["depend_action_6", 132900305], ["depend_action_7", 132900305], ["depend_action_8", 0], ["depend_action_9", 0], ["description", "小幅度恢復被施加【惡魔的親吻】的我方的ＨＰ與ＴＰ。同時以該角色為中心，小幅度恢復範圍內所有我方的ＨＰ與ＴＰ。"], ["icon_type", 2006], ["name", "真心親吻"], ["skill_area_width", 0], ["skill_cast_time", 1.05], ["skill_id", 1329003], ["skill_type", 0]],
+          [["action_1", 132900101], ["action_10", 0], ["action_2", 132900102], ["action_3", 132900103], ["action_4", 132900104], ["action_5", 132900105], ["action_6", 0], ["action_7", 0], ["action_8", 0], ["action_9", 0], ["boss_ub_cool_time", 0.0], ["depend_action_1", 0], ["depend_action_10", 0], ["depend_action_2", 132900101], ["depend_action_3", 0], ["depend_action_4", 0], ["depend_action_5", 0], ["depend_action_6", 0], ["depend_action_7", 0], ["depend_action_8", 0], ["depend_action_9", 0], ["description", "對面前的１名敵人造成特大幅度的魔法傷害，中幅度降低其魔法防禦力。此外，以自身為中心，中幅度恢復範圍內所有我方的ＨＰ，並展開物理/魔法吸收的護盾，大幅度提升魔法防禦力。"], ["icon_type", 1004], ["name", "可愛惡魔潛擊"], ["skill_area_width", 0], ["skill_cast_time", 0.0], ["skill_id", 1329001], ["skill_type", 0]]
+        ]
+      }
+    },
+    "unit_promotion": {
+      "data_changes": {
+        "added": [
+          [["equip_slot_1", 109252], ["equip_slot_2", 109251], ["equip_slot_3", 109371], ["equip_slot_4", 108374], ["equip_slot_5", 109611], ["equip_slot_6", 108584], ["promotion_level", 28], ["unit_id", 132901]]
+        ]
+      }
+    },
+    "unique_equipment_craft": {
+      "data_changes": {
+        "added": [
+          [["consume_num_1", 50], ["consume_num_10", 0], ["consume_num_2", 3], ["consume_num_3", 0], ["consume_num_4", 0], ["consume_num_5", 0], ["consume_num_6", 0], ["consume_num_7", 0], ["consume_num_8", 0], ["consume_num_9", 0], ["crafted_cost", 1000000], ["equip_id", 132791], ["item_id_1", 31279], ["item_id_10", 0], ["item_id_2", 140000], ["item_id_3", 0], ["item_id_4", 0], ["item_id_5", 0], ["item_id_6", 0], ["item_id_7", 0], ["item_id_8", 0], ["item_id_9", 0], ["reward_type_1", 2], ["reward_type_10", 0], ["reward_type_2", 4], ["reward_type_3", 0], ["reward_type_4", 0], ["reward_type_5", 0], ["reward_type_6", 0], ["reward_type_7", 0], ["reward_type_8", 0], ["reward_type_9", 0]],
+          [["consume_num_1", 50], ["consume_num_10", 0], ["consume_num_2", 3], ["consume_num_3", 0], ["consume_num_4", 0], ["consume_num_5", 0], ["consume_num_6", 0], ["consume_num_7", 0], ["consume_num_8", 0], ["consume_num_9", 0], ["crafted_cost", 1000000], ["equip_id", 132801], ["item_id_1", 31280], ["item_id_10", 0], ["item_id_2", 140000], ["item_id_3", 0], ["item_id_4", 0], ["item_id_5", 0], ["item_id_6", 0], ["item_id_7", 0], ["item_id_8", 0], ["item_id_9", 0], ["reward_type_1", 2], ["reward_type_10", 0], ["reward_type_2", 4], ["reward_type_3", 0], ["reward_type_4", 0], ["reward_type_5", 0], ["reward_type_6", 0], ["reward_type_7", 0], ["reward_type_8", 0], ["reward_type_9", 0]]
+        ]
+      }
+    },
+    "unlock_unit_condition": {
+      "data_changes": {
+        "added": [
+          [["class_id", 1], ["condition_id_1", 31329], ["condition_id_2", 0], ["condition_id_3", 0], ["condition_id_4", 0], ["condition_id_5", 0], ["condition_type_1", 1], ["condition_type_2", 0], ["condition_type_3", 0], ["condition_type_4", 0], ["condition_type_5", 0], ["condition_type_detail_1", 2], ["condition_type_detail_2", 0], ["condition_type_detail_3", 0], ["condition_type_detail_4", 0], ["condition_type_detail_5", 0], ["count_1", 145], ["count_2", 0], ["count_3", 0], ["count_4", 0], ["count_5", 0], ["pre_unit_id", 0], ["release_effect_type", 2], ["unit_id", 132901], ["unit_name", "伊緒（聖誕節）"]]
+        ]
+      }
+    },
+    "unit_skill_data": {
+      "data_changes": {
+        "added": [
+          [["ex_skill_1", 1329501], ["ex_skill_2", 0], ["ex_skill_3", 0], ["ex_skill_4", 0], ["ex_skill_5", 0], ["ex_skill_evolution_1", 1329511], ["ex_skill_evolution_2", 0], ["ex_skill_evolution_3", 0], ["ex_skill_evolution_4", 0], ["ex_skill_evolution_5", 0], ["main_skill_1", 1329002], ["main_skill_10", 0], ["main_skill_2", 1329003], ["main_skill_3", 0], ["main_skill_4", 0], ["main_skill_5", 0], ["main_skill_6", 0], ["main_skill_7", 0], ["main_skill_8", 0], ["main_skill_9", 0], ["main_skill_evolution_1", 0], ["main_skill_evolution_2", 0], ["sp_skill_1", 1329101], ["sp_skill_2", 0], ["sp_skill_3", 0], ["sp_skill_4", 0], ["sp_skill_5", 0], ["sp_skill_evolution_1", 0], ["sp_skill_evolution_2", 0], ["sp_union_burst", 0], ["union_burst", 1329001], ["union_burst_evolution", 0], ["unit_id", 132901]]
+        ],
+        "modified": [
+          {
+            "id": 128001,
+            "old": [["ex_skill_1", 1280501], ["ex_skill_2", 0], ["ex_skill_3", 0], ["ex_skill_4", 0], ["ex_skill_5", 0], ["ex_skill_evolution_1", 1280511], ["ex_skill_evolution_2", 0], ["ex_skill_evolution_3", 0], ["ex_skill_evolution_4", 0], ["ex_skill_evolution_5", 0], ["main_skill_1", 1280002], ["main_skill_10", 0], ["main_skill_2", 1280003], ["main_skill_3", 0], ["main_skill_4", 0], ["main_skill_5", 0], ["main_skill_6", 0], ["main_skill_7", 0], ["main_skill_8", 0], ["main_skill_9", 0], ["main_skill_evolution_1", 0], ["main_skill_evolution_2", 0], ["sp_skill_1", 0], ["sp_skill_2", 0], ["sp_skill_3", 0], ["sp_skill_4", 0], ["sp_skill_5", 0], ["sp_skill_evolution_1", 0], ["sp_skill_evolution_2", 0], ["sp_union_burst", 0], ["union_burst", 1280001], ["union_burst_evolution", 0], ["unit_id", 128001]],
+            "new": [["ex_skill_1", 1280501], ["ex_skill_2", 0], ["ex_skill_3", 0], ["ex_skill_4", 0], ["ex_skill_5", 0], ["ex_skill_evolution_1", 1280511], ["ex_skill_evolution_2", 0], ["ex_skill_evolution_3", 0], ["ex_skill_evolution_4", 0], ["ex_skill_evolution_5", 0], ["main_skill_1", 1280002], ["main_skill_10", 0], ["main_skill_2", 1280003], ["main_skill_3", 0], ["main_skill_4", 0], ["main_skill_5", 0], ["main_skill_6", 0], ["main_skill_7", 0], ["main_skill_8", 0], ["main_skill_9", 0], ["main_skill_evolution_1", 1280012], ["main_skill_evolution_2", 0], ["sp_skill_1", 0], ["sp_skill_2", 0], ["sp_skill_3", 0], ["sp_skill_4", 0], ["sp_skill_5", 0], ["sp_skill_evolution_1", 0], ["sp_skill_evolution_2", 0], ["sp_union_burst", 0], ["union_burst", 1280001], ["union_burst_evolution", 0], ["unit_id", 128001]]
+          },
+          {
+            "id": 127901,
+            "old": [["ex_skill_1", 1279501], ["ex_skill_2", 0], ["ex_skill_3", 0], ["ex_skill_4", 0], ["ex_skill_5", 0], ["ex_skill_evolution_1", 1279511], ["ex_skill_evolution_2", 0], ["ex_skill_evolution_3", 0], ["ex_skill_evolution_4", 0], ["ex_skill_evolution_5", 0], ["main_skill_1", 1279002], ["main_skill_10", 0], ["main_skill_2", 1279003], ["main_skill_3", 0], ["main_skill_4", 0], ["main_skill_5", 0], ["main_skill_6", 0], ["main_skill_7", 0], ["main_skill_8", 0], ["main_skill_9", 0], ["main_skill_evolution_1", 0], ["main_skill_evolution_2", 0], ["sp_skill_1", 0], ["sp_skill_2", 0], ["sp_skill_3", 0], ["sp_skill_4", 0], ["sp_skill_5", 0], ["sp_skill_evolution_1", 0], ["sp_skill_evolution_2", 0], ["sp_union_burst", 0], ["union_burst", 1279001], ["union_burst_evolution", 0], ["unit_id", 127901]],
+            "new": [["ex_skill_1", 1279501], ["ex_skill_2", 0], ["ex_skill_3", 0], ["ex_skill_4", 0], ["ex_skill_5", 0], ["ex_skill_evolution_1", 1279511], ["ex_skill_evolution_2", 0], ["ex_skill_evolution_3", 0], ["ex_skill_evolution_4", 0], ["ex_skill_evolution_5", 0], ["main_skill_1", 1279002], ["main_skill_10", 0], ["main_skill_2", 1279003], ["main_skill_3", 0], ["main_skill_4", 0], ["main_skill_5", 0], ["main_skill_6", 0], ["main_skill_7", 0], ["main_skill_8", 0], ["main_skill_9", 0], ["main_skill_evolution_1", 1279012], ["main_skill_evolution_2", 0], ["sp_skill_1", 0], ["sp_skill_2", 0], ["sp_skill_3", 0], ["sp_skill_4", 0], ["sp_skill_5", 0], ["sp_skill_evolution_1", 0], ["sp_skill_evolution_2", 0], ["sp_union_burst", 0], ["union_burst", 1279001], ["union_burst_evolution", 0], ["unit_id", 127901]]
+          }
+        ]
+      }
+    },
+    "gacha_exchange_lineup": {
+      "data_changes": {
+        "added": [
+          [["end_time", "2025/04/15 15:59:59"], ["exchange_id", 361], ["gacha_bonus_id", 0], ["id", 942], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2025/04/10 16:00:00"], ["unit_id", 131001]],
+          [["end_time", "2025/04/15 15:59:59"], ["exchange_id", 362], ["gacha_bonus_id", 1162], ["id", 944], ["pickup_gacha_id", 30362], ["rarity", 3], ["start_time", "2025/04/10 16:00:00"], ["unit_id", 132901]],
+          [["end_time", "2025/04/15 15:59:59"], ["exchange_id", 361], ["gacha_bonus_id", 0], ["id", 943], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2025/04/10 16:00:00"], ["unit_id", 127901]]
+        ]
+      }
+    },
+    "banner": {
+      "data_changes": {
+        "added": [
+          [["banner_id", 10316], ["condition_id", 0], ["end_date", "2025/04/15 15:59:59"], ["gacha_id", 30361], ["is_show_room", 0], ["priority", 19], ["start_date", "2025/04/10 16:00:00"], ["sub_banner_id_1", 0], ["system_id", 302], ["type", 1]],
+          [["banner_id", 10317], ["condition_id", 0], ["end_date", "2025/04/15 15:59:59"], ["gacha_id", 30362], ["is_show_room", 0], ["priority", 18], ["start_date", "2025/04/10 16:00:00"], ["sub_banner_id_1", 0], ["system_id", 302], ["type", 1]]
+        ]
+      }
+    },
+    "story_detail": {
+      "data_changes": {
+        "added": [
+          [["can_bookmark", 1], ["end_time", "2030/12/17 14:59:59"], ["force_unlock_time", "2030/12/17 14:59:59"], ["force_unlock_time_2", "2030/12/17 14:59:59"], ["lock_all_text", 0], ["love_level", 5], ["pre_story_id", 1329002], ["pre_story_id_2", 0], ["read_process_flag", 1], ["requirement_id", 132901], ["reward_id_1", 91002], ["reward_id_2", 0], ["reward_id_3", 0], ["reward_type_1", 8], ["reward_type_2", 0], ["reward_type_3", 0], ["reward_value_1", 20], ["reward_value_2", 0], ["reward_value_3", 0], ["start_time", "2015/04/01 15:00:00"], ["story_end", 0], ["story_group_id", 1329], ["story_id", 1329003], ["story_quest_id", 0], ["sub_title", "想教導你未知的事"], ["title", "伊緒（聖誕節） 第3話"], ["unlock_quest_id", 0], ["visible_type", 0]],
+          [["can_bookmark", 1], ["end_time", "2030/12/17 14:59:59"], ["force_unlock_time", "2030/12/17 14:59:59"], ["force_unlock_time_2", "2030/12/17 14:59:59"], ["lock_all_text", 0], ["love_level", 8], ["pre_story_id", 1329003], ["pre_story_id_2", 0], ["read_process_flag", 1], ["requirement_id", 132901], ["reward_id_1", 91002], ["reward_id_2", 0], ["reward_id_3", 0], ["reward_type_1", 8], ["reward_type_2", 0], ["reward_type_3", 0], ["reward_value_1", 50], ["reward_value_2", 0], ["reward_value_3", 0], ["start_time", "2015/04/01 15:00:00"], ["story_end", 0], ["story_group_id", 1329], ["story_id", 1329004], ["story_quest_id", 0], ["sub_title", "聖誕老人與小孩子的願望"], ["title", "伊緒（聖誕節） 第4話"], ["unlock_quest_id", 0], ["visible_type", 0]],
+          [["can_bookmark", 1], ["end_time", "2030/12/17 14:59:59"], ["force_unlock_time", "2025/04/15 16:00:00"], ["force_unlock_time_2", "2030/12/17 14:59:59"], ["lock_all_text", 0], ["love_level", 0], ["pre_story_id", 5158007], ["pre_story_id_2", 0], ["read_process_flag", 1], ["requirement_id", 132901], ["reward_id_1", 91002], ["reward_id_2", 0], ["reward_id_3", 0], ["reward_type_1", 8], ["reward_type_2", 0], ["reward_type_3", 0], ["reward_value_1", 20], ["reward_value_2", 0], ["reward_value_3", 0], ["start_time", "2015/04/01 15:00:00"], ["story_end", 0], ["story_group_id", 1329], ["story_id", 1329001], ["story_quest_id", 0], ["sub_title", "夢中的特別校外教學"], ["title", "伊緒（聖誕節） 第1話"], ["unlock_quest_id", 0], ["visible_type", 0]],
+          [["can_bookmark", 1], ["end_time", "2030/12/17 14:59:59"], ["force_unlock_time", "2030/12/17 14:59:59"], ["force_unlock_time_2", "2030/12/17 14:59:59"], ["lock_all_text", 0], ["love_level", 4], ["pre_story_id", 1329001], ["pre_story_id_2", 0], ["read_process_flag", 1], ["requirement_id", 132901], ["reward_id_1", 91002], ["reward_id_2", 0], ["reward_id_3", 0], ["reward_type_1", 8], ["reward_type_2", 0], ["reward_type_3", 0], ["reward_value_1", 20], ["reward_value_2", 0], ["reward_value_3", 0], ["start_time", "2015/04/01 15:00:00"], ["story_end", 0], ["story_group_id", 1329], ["story_id", 1329002], ["story_quest_id", 0], ["sub_title", "想送出的禮物"], ["title", "伊緒（聖誕節） 第2話"], ["unlock_quest_id", 0], ["visible_type", 0]]
+        ]
+      }
+    },
+    "unit_enemy_data": {
+      "data_changes": {
+        "added": [
+          [["atk_type", 2], ["comment", "有著伊緒（聖誕節）樣貌的特殊魔物"], ["cutin", 0], ["cutin_star6", 0], ["motion_type", 46], ["move_speed", 450], ["normal_atk_cast_time", 2.09], ["prefab_id", 132901], ["se_type", 5], ["search_area_width", 748], ["unit_id", 632901], ["unit_name", "伊緒（聖誕節）的闇影"], ["visual_change_flag", 1]]
+        ]
+      }
+    },
+    "spskill_lv_initialize_data": {
+      "data_changes": {
+        "added": [
+          [["base_skill_id", 1329001], ["initialize_skill_id", 1329101]]
+        ]
+      }
+    },
+    "gacha_data": {
+      "data_changes": {
+        "added": [
+          [["b445862d0ab66dcf0d21148e77310f8e2f88e53c87861cd1b30c6271489741b7", 0], ["chara_odds_star1", "20361_1"], ["chara_odds_star2", "20361_2"], ["chara_odds_star3", "20361_3"], ["description", "白金轉蛋僅會出現角色喔！"], ["description_2", ""], ["description_sp", ""], ["discount_price", 50], ["end_time", "2025/04/15 15:59:59"], ["exchange_id", 362], ["ff12a2d323be4140b5b5f0e3db8f93c207d4d0594eff84913f280ebb8f5fbfcd", 0], ["free_gacha_count", 0], ["free_gacha_interval_time", 0], ["free_gacha_type", 0], ["gacha10_special_odds_star1", "0"], ["gacha10_special_odds_star2", "0"], ["gacha10_special_odds_star3", "0"], ["gacha_bonus_id", 0], ["gacha_cost_type", 2], ["gacha_detail", 2], ["gacha_id", 20361], ["gacha_name", "白金轉蛋"], ["gacha_odds", "0"], ["gacha_odds_star2", "0"], ["gacha_times_limit10", 0], ["gacha_type", 1], ["movie_id", 200001], ["parallel_id", 0], ["pick_up_chara_text", "無精選角色"], ["pickup_badge", 0], ["pickup_id", 0], ["price", 150], ["prizegacha_id", 0], ["rarity_odds", "300000"], ["special_id", 0], ["start_time", "2025/04/10 16:00:00"], ["tab_name", ""], ["ticket_id", 24001], ["ticket_id_10", 24004], ["title_id", 0]],
+          [["b445862d0ab66dcf0d21148e77310f8e2f88e53c87861cd1b30c6271489741b7", 0], ["chara_odds_star1", "0"], ["chara_odds_star2", "0"], ["chara_odds_star3", "0"], ["description", "取得道具獎勵或記憶碎片吧！"], ["description_2", ""], ["description_sp", ""], ["discount_price", 0], ["end_time", "2025/04/15 15:59:59"], ["exchange_id", 0], ["ff12a2d323be4140b5b5f0e3db8f93c207d4d0594eff84913f280ebb8f5fbfcd", 0], ["free_gacha_count", 10], ["free_gacha_interval_time", 0], ["free_gacha_type", 1], ["gacha10_special_odds_star1", "0"], ["gacha10_special_odds_star2", "0"], ["gacha10_special_odds_star3", "0"], ["gacha_bonus_id", 0], ["gacha_cost_type", 3], ["gacha_detail", 1], ["gacha_id", 10361], ["gacha_name", "一般轉蛋"], ["gacha_odds", "10361"], ["gacha_odds_star2", ""], ["gacha_times_limit10", 0], ["gacha_type", 0], ["movie_id", 0], ["parallel_id", 0], ["pick_up_chara_text", ""], ["pickup_badge", 0], ["pickup_id", 0], ["price", 0], ["prizegacha_id", 0], ["rarity_odds", "0"], ["special_id", 0], ["start_time", "2025/04/10 16:00:00"], ["tab_name", ""], ["ticket_id", 0], ["ticket_id_10", 0], ["title_id", 0]],
+          [["b445862d0ab66dcf0d21148e77310f8e2f88e53c87861cd1b30c6271489741b7", 0], ["chara_odds_star1", "30361_1"], ["chara_odds_star2", "30361_2"], ["chara_odds_star3", "30361_3"], ["description", "可自選精選角色！\\n『10 連轉蛋』確定有1個5等以上！"], ["description_2", ""], ["description_sp", ""], ["discount_price", 50], ["end_time", "2025/04/15 15:59:59"], ["exchange_id", 361], ["ff12a2d323be4140b5b5f0e3db8f93c207d4d0594eff84913f280ebb8f5fbfcd", 0], ["free_gacha_count", 0], ["free_gacha_interval_time", 0], ["free_gacha_type", 0], ["gacha10_special_odds_star1", "0"], ["gacha10_special_odds_star2", "0"], ["gacha10_special_odds_star3", "0"], ["gacha_bonus_id", 0], ["gacha_cost_type", 2], ["gacha_detail", 2], ["gacha_id", 30361], ["gacha_name", "可自選的獎勵轉蛋"], ["gacha_odds", "0"], ["gacha_odds_star2", "0"], ["gacha_times_limit10", 0], ["gacha_type", 1], ["movie_id", 300361], ["parallel_id", 0], ["pick_up_chara_text", "真步（夢想樂園）\\n貪吃佩可（聖誕節）"], ["pickup_badge", 0], ["pickup_id", 27], ["price", 150], ["prizegacha_id", 100152], ["rarity_odds", "300000"], ["special_id", 0], ["start_time", "2025/04/10 16:00:00"], ["tab_name", ""], ["ticket_id", 24001], ["ticket_id_10", 24004], ["title_id", 1]],
+          [["b445862d0ab66dcf0d21148e77310f8e2f88e53c87861cd1b30c6271489741b7", 0], ["chara_odds_star1", "30362_1"], ["chara_odds_star2", "30362_2"], ["chara_odds_star3", "30362_3"], ["description", "新角色「伊緒（聖誕節）」登場！\\n期間內出現率UP！"], ["description_2", "[3C404E]每次讓目標角色加入時[FFBB00,CE4F00][-]獲得[-]角色記憶碎片200個！"], ["description_sp", ""], ["discount_price", 50], ["end_time", "2025/04/15 15:59:59"], ["exchange_id", 362], ["ff12a2d323be4140b5b5f0e3db8f93c207d4d0594eff84913f280ebb8f5fbfcd", 0], ["free_gacha_count", 0], ["free_gacha_interval_time", 0], ["free_gacha_type", 0], ["gacha10_special_odds_star1", "0"], ["gacha10_special_odds_star2", "0"], ["gacha10_special_odds_star3", "0"], ["gacha_bonus_id", 1162], ["gacha_cost_type", 2], ["gacha_detail", 2], ["gacha_id", 30362], ["gacha_name", "精選轉蛋"], ["gacha_odds", "0"], ["gacha_odds_star2", "0"], ["gacha_times_limit10", 1], ["gacha_type", 1], ["movie_id", 300362], ["parallel_id", 0], ["pick_up_chara_text", "伊緒（聖誕節）"], ["pickup_badge", 0], ["pickup_id", 0], ["price", 150], ["prizegacha_id", 0], ["rarity_odds", "300000"], ["special_id", 0], ["start_time", "2025/04/10 16:00:00"], ["tab_name", ""], ["ticket_id", 24001], ["ticket_id_10", 24004], ["title_id", 0]]
+        ]
+      }
+    },
+    "emblem_mission_data": {
+      "data_changes": {
+        "added": [
+          [["category_icon", 301], ["condition_num", 3], ["condition_value_1", 132901], ["condition_value_2", 0], ["condition_value_3", 0], ["description", "將伊緒（聖誕節）升到★3"], ["disp_group", 201284], ["end_time", "2030/04/01 14:59:59"], ["mission_condition", 6011], ["mission_id", 56011924], ["mission_reward_id", 56011924], ["start_time", "2025/04/10 16:00:00"], ["system_id", 501], ["visible_flag", 1]],
+          [["category_icon", 301], ["condition_num", 1], ["condition_value_1", 132901], ["condition_value_2", 0], ["condition_value_3", 0], ["description", "讓伊緒（聖誕節）成為夥伴"], ["disp_group", 201284], ["end_time", "2030/04/01 14:59:59"], ["mission_condition", 6011], ["mission_id", 56011923], ["mission_reward_id", 56011923], ["start_time", "2025/04/10 16:00:00"], ["system_id", 501], ["visible_flag", 1]],
+          [["category_icon", 301], ["condition_num", 5], ["condition_value_1", 132901], ["condition_value_2", 0], ["condition_value_3", 0], ["description", "將伊緒（聖誕節）升到★5"], ["disp_group", 201284], ["end_time", "2030/04/01 14:59:59"], ["mission_condition", 6011], ["mission_id", 56011925], ["mission_reward_id", 56011925], ["start_time", "2025/04/10 16:00:00"], ["system_id", 501], ["visible_flag", 1]]
+        ]
+      }
+    },
+    "chara_identity": {
+      "data_changes": {
+        "added": [
+          [["chara_type", 18], ["chara_type_2", 0], ["chara_type_3", 0], ["unit_id", 132901]]
+        ]
+      }
+    },
+    "define_spskill": {
+      "data_changes": {
+        "added": [
+          [["base_skill_id", 1329001], ["link_skill_slot", 1329001], ["skill_category", 2], ["sp_skill_id", 1329101]]
+        ]
+      }
+    },
+    "unit_motion_list": {
+      "data_changes": {
+        "added": [
+          [["sp_motion", 1], ["unit_id", 132901]]
+        ]
+      }
+    },
+    "tower_schedule": {
+      "data_changes": {
+        "modified": [
+          {
+            "id": 1054,
+            "old": [["count_start_time", "2025/03/14 15:59:59"], ["end_time", "2025/03/15 15:59:59"], ["max_tower_area_id", 54], ["opening_story_id", 7028003], ["recovery_disable_time", "2025/03/15"], ["start_time", "2025/03/10 16:00:00"], ["tower_schedule_id", 1054]],
+            "new": [["count_start_time", "2025/04/14 15:59:59"], ["end_time", "2025/04/15 15:59:59"], ["max_tower_area_id", 54], ["opening_story_id", 7028003], ["recovery_disable_time", "2025/04/15"], ["start_time", "2025/04/10 16:00:00"], ["tower_schedule_id", 1054]]
+          }
+        ]
+      }
+    },
+    "voice_group_chara": {
+      "data_changes": {
+        "added": [
+          [["group_unit_id", 332901001], ["group_unit_id_comment", "伊緒（聖誕節）（花凜對話用）"], ["unit_id_01", 132901], ["unit_id_02", 0], ["unit_id_03", 0], ["unit_id_04", 0], ["unit_id_05", 0], ["unit_id_06", 0], ["unit_id_07", 0], ["unit_id_08", 0], ["unit_id_09", 0], ["unit_id_10", 0]]
+        ],
+        "modified": [
+          {
+            "id": 101801001,
+            "old": [["group_unit_id", 101801001], ["group_unit_id_comment", "月光學院（伊緒）"], ["unit_id_01", 101801], ["unit_id_02", 110101], ["unit_id_03", 119001], ["unit_id_04", 0], ["unit_id_05", 0], ["unit_id_06", 0], ["unit_id_07", 0], ["unit_id_08", 0], ["unit_id_09", 0], ["unit_id_10", 0]],
+            "new": [["group_unit_id", 101801001], ["group_unit_id_comment", "月光學院（伊緒）"], ["unit_id_01", 101801], ["unit_id_02", 110101], ["unit_id_03", 119001], ["unit_id_04", 132901], ["unit_id_05", 0], ["unit_id_06", 0], ["unit_id_07", 0], ["unit_id_08", 0], ["unit_id_09", 0], ["unit_id_10", 0]]
+          },
+          {
+            "id": 102901001,
+            "old": [["group_unit_id", 102901001], ["group_unit_id_comment", "慈樂之音（望）"], ["unit_id_01", 102901], ["unit_id_02", 111601], ["unit_id_03", 117201], ["unit_id_04", 124801], ["unit_id_05", 0], ["unit_id_06", 0], ["unit_id_07", 0], ["unit_id_08", 0], ["unit_id_09", 0], ["unit_id_10", 0]],
+            "new": [["group_unit_id", 102901001], ["group_unit_id_comment", "慈樂之音（望）"], ["unit_id_01", 102901], ["unit_id_02", 111601], ["unit_id_03", 117201], ["unit_id_04", 124801], ["unit_id_05", 132201], ["unit_id_06", 0], ["unit_id_07", 0], ["unit_id_08", 0], ["unit_id_09", 0], ["unit_id_10", 0]]
+          }
+        ]
+      }
+    },
+    "unit_ex_equipment_slot": {
+      "data_changes": {
+        "added": [
+          [["slot_category_1", 109], ["slot_category_2", 203], ["slot_category_3", 305], ["unit_id", 132901]]
+        ]
+      }
+    },
+    "unlock_rarity_6": {
+      "data_changes": {
+        "added": [
+          [["accuracy", 0], ["atk", 0], ["consume_gold", 0], ["def", 0], ["dodge", 0], ["energy_recovery_rate", 0], ["energy_reduce_rate", 0], ["hp", 0], ["hp_recovery_rate", 0], ["life_steal", 0], ["magic_critical", 0], ["magic_def", 0], ["magic_penetrate", 0], ["magic_str", 0], ["material_count", 0], ["material_id", 0], ["material_type", 0], ["physical_critical", 0], ["physical_penetrate", 0], ["slot_id", 2], ["unit_id", 132901], ["unlock_flag", 0], ["unlock_level", 0], ["wave_energy_recovery", 0], ["wave_hp_recovery", 0]]
+        ]
+      }
+    },
+    "unit_attack_pattern": {
+      "data_changes": {
+        "added": [
+          [["atk_pattern_1", 2001], ["atk_pattern_10", 0], ["atk_pattern_11", 0], ["atk_pattern_12", 1], ["atk_pattern_13", 0], ["atk_pattern_14", 0], ["atk_pattern_15", 0], ["atk_pattern_16", 0], ["atk_pattern_17", 0], ["atk_pattern_18", 0], ["atk_pattern_19", 0], ["atk_pattern_2", 1001], ["atk_pattern_20", 0], ["atk_pattern_3", 1], ["atk_pattern_4", 1002], ["atk_pattern_5", 1], ["atk_pattern_6", 1001], ["atk_pattern_7", 1], ["atk_pattern_8", 1002], ["atk_pattern_9", 1001], ["loop_end", 10], ["loop_start", 4], ["pattern_id", 13290101], ["unit_id", 132901]]
+        ]
+      }
+    },
+    "unit_introduction": {
+      "data_changes": {
+        "added": [
+          [["end_time", "2025/04/15 15:59:59"], ["gacha_id", 30362], ["id", 353], ["introduction_number", 1], ["maximum_chunk_size_1", 380000], ["maximum_chunk_size_2", 0], ["maximum_chunk_size_3", 0], ["maximum_chunk_size_loop_1", 380000], ["maximum_chunk_size_loop_2", 0], ["maximum_chunk_size_loop_3", 0], ["start_time", "2025/04/10 16:00:00"]],
+          [["end_time", "2025/04/15 15:59:59"], ["gacha_id", 30361], ["id", 354], ["introduction_number", 1], ["maximum_chunk_size_1", 380000], ["maximum_chunk_size_2", 0], ["maximum_chunk_size_3", 0], ["maximum_chunk_size_loop_1", 380000], ["maximum_chunk_size_loop_2", 0], ["maximum_chunk_size_loop_3", 0], ["start_time", "2025/04/10 16:00:00"]]
+        ]
+      }
+    },
+    "spskill_label_data": {
+      "data_changes": {
+        "added": [
+          [["normal_label_text", "平常時"], ["sp_label_text", "初次發動時"], ["unit_id", 132901]]
+        ]
+      }
+    },
+    "extra_effect_unit_group": {
+      "data_changes": {
+        "added": [
+          [["group_id", 6101581], ["target_id", 220], ["unit_id", 132901]]
+        ]
+      }
+    },
+    "unit_profile": {
+      "data_changes": {
+        "added": [
+          [["age", "23"], ["birth_day", "14"], ["birth_month", "8"], ["blood_type", "B"], ["catch_copy", "魅惑眾多男性的純潔女老師"], ["favorite", "看戀愛小說、戀愛劇、戀愛漫畫"], ["guild", "月光學院"], ["guild_id", "14"], ["height", "162"], ["race", "魔族"], ["self_text", "謝謝你總是幫我喔。\\n明明我才是年長的一方，卻老是依賴你，真對不起～"], ["unit_id", 132901], ["unit_name", "伊緒（聖誕節）"], ["voice", "伊藤静"], ["voice_id", 0], ["weight", "52"]]
+        ]
+      }
+    },
+    "unique_equip_enhance_rate": {
+      "data_changes": {
+        "added": [
+          [["accuracy", 0.0], ["atk", 0.0], ["def", 0.45], ["dodge", 0.0], ["energy_recovery_rate", 0.05], ["energy_reduce_rate", 0.0], ["equipment_id", 132791], ["hp", 20.0], ["hp_recovery_rate", 0.0], ["id", 1327910], ["life_steal", 0.0], ["magic_critical", 0.0], ["magic_def", 0.45], ["magic_penetrate", 0.0], ["magic_str", 0.0], ["max_lv", 260], ["min_lv", 2], ["physical_critical", 0.0], ["physical_penetrate", 0.0], ["wave_energy_recovery", 0.0], ["wave_hp_recovery", 0.0]],
+          [["accuracy", 0.0], ["atk", 0.0], ["def", 0.45], ["dodge", 0.0], ["energy_recovery_rate", 0.0], ["energy_reduce_rate", 0.0], ["equipment_id", 132791], ["hp", 22.1], ["hp_recovery_rate", 0.0], ["id", 1327911], ["life_steal", 0.0], ["magic_critical", 0.0], ["magic_def", 0.45], ["magic_penetrate", 0.0], ["magic_str", 0.0], ["max_lv", -1], ["min_lv", 261], ["physical_critical", 0.0], ["physical_penetrate", 0.0], ["wave_energy_recovery", 0.0], ["wave_hp_recovery", 0.0]],
+          [["accuracy", 0.0], ["atk", 3.0], ["def", 0.0], ["dodge", 0.0], ["energy_recovery_rate", 0.0], ["energy_reduce_rate", 0.0], ["equipment_id", 132801], ["hp", 0.0], ["hp_recovery_rate", 0.0], ["id", 1328010], ["life_steal", 0.0], ["magic_critical", 0.0], ["magic_def", 0.0], ["magic_penetrate", 0.0], ["magic_str", 0.0], ["max_lv", -1], ["min_lv", 2], ["physical_critical", 1.0], ["physical_penetrate", 0.0], ["wave_energy_recovery", 0.0], ["wave_hp_recovery", 0.0]]
+        ]
+      }
+    }
+  }
+}
