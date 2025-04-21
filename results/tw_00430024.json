@@ -1,0 +1,77 @@
+{
+  "tables": {
+    "only_in_old_db": [],
+    "only_in_new_db": []
+  },
+  "table_changes": {
+    "unique_equip_consume_group": {
+      "data_changes": {
+        "added": [
+          [["group_id", 29], ["index_in_group", 1], ["item_id", 32059]]
+        ]
+      }
+    },
+    "v1_442f75f06409ba568224964b54fa3e31237d735175d8809e19ad2603dbe02901": {
+      "data_changes": {
+        "added": [
+          [["5d8147e91dd2898988d1b6d9c232951b06e2754abff0af4bbad3067190cbc9c3", 29], ["686469fd29ad48516cf89aebc27a911e5d13fcfaa21b714c51ef5af237c2c922", 130592]]
+        ]
+      }
+    },
+    "unique_equipment_data": {
+      "data_changes": {
+        "added": [
+          [["accuracy", 0.0], ["atk", 0.0], ["craft_flg", 1], ["def", 20.0], ["description", "經常待在可可蘿身邊，掌管風的精靈。\\n雖然看起來很嬌小，\\n但是力量隨著使役者可可蘿的成長而變強，\\n體內蘊藏著大精靈等級的力量。"], ["dodge", 0.0], ["enable_donation", 0], ["energy_recovery_rate", 2.0], ["energy_reduce_rate", 0.0], ["equipment_enhance_point", 0], ["equipment_id", 130592], ["equipment_name", "可可蘿的精靈"], ["hp", 1000.0], ["hp_recovery_rate", 0.0], ["life_steal", 0.0], ["magic_critical", 0.0], ["magic_def", 20.0], ["magic_penetrate", 0], ["magic_str", 0.0], ["physical_critical", 0.0], ["physical_penetrate", 0.0], ["promotion_level", 98], ["require_level", 1], ["sale_price", 0.0], ["wave_energy_recovery", 0.0], ["wave_hp_recovery", 0.0]]
+        ]
+      }
+    },
+    "unit_skill_data": {
+      "data_changes": {
+        "modified": [
+          {
+            "id": 105901,
+            "old": [["ex_skill_1", 1059501], ["ex_skill_2", 0], ["ex_skill_3", 0], ["ex_skill_4", 0], ["ex_skill_5", 0], ["ex_skill_evolution_1", 1059511], ["ex_skill_evolution_2", 0], ["ex_skill_evolution_3", 0], ["ex_skill_evolution_4", 0], ["ex_skill_evolution_5", 0], ["main_skill_1", 1059002], ["main_skill_10", 0], ["main_skill_2", 1059003], ["main_skill_3", 0], ["main_skill_4", 0], ["main_skill_5", 0], ["main_skill_6", 0], ["main_skill_7", 0], ["main_skill_8", 0], ["main_skill_9", 0], ["main_skill_evolution_1", 1059012], ["main_skill_evolution_2", 0], ["sp_skill_1", 0], ["sp_skill_2", 0], ["sp_skill_3", 0], ["sp_skill_4", 0], ["sp_skill_5", 0], ["sp_skill_evolution_1", 0], ["sp_skill_evolution_2", 0], ["sp_union_burst", 0], ["union_burst", 1059001], ["union_burst_evolution", 1059011], ["unit_id", 105901]],
+            "new": [["ex_skill_1", 1059501], ["ex_skill_2", 0], ["ex_skill_3", 0], ["ex_skill_4", 0], ["ex_skill_5", 0], ["ex_skill_evolution_1", 1059511], ["ex_skill_evolution_2", 0], ["ex_skill_evolution_3", 0], ["ex_skill_evolution_4", 0], ["ex_skill_evolution_5", 0], ["main_skill_1", 1059002], ["main_skill_10", 0], ["main_skill_2", 1059003], ["main_skill_3", 0], ["main_skill_4", 0], ["main_skill_5", 0], ["main_skill_6", 0], ["main_skill_7", 0], ["main_skill_8", 0], ["main_skill_9", 0], ["main_skill_evolution_1", 1059012], ["main_skill_evolution_2", 1059013], ["sp_skill_1", 0], ["sp_skill_2", 0], ["sp_skill_3", 0], ["sp_skill_4", 0], ["sp_skill_5", 0], ["sp_skill_evolution_1", 0], ["sp_skill_evolution_2", 0], ["sp_union_burst", 0], ["union_burst", 1059001], ["union_burst_evolution", 1059011], ["unit_id", 105901]]
+          }
+        ]
+      }
+    },
+    "unit_unique_equipment": {
+      "data_changes": {
+        "modified": [
+          {
+            "id": 105901,
+            "old": [["equip_id", 130591], ["equip_slot", 1], ["unit_id", 105901]],
+            "new": [["equip_id", 130592], ["equip_slot", 2], ["unit_id", 105901]]
+          }
+        ]
+      }
+    },
+    "unique_equip_enhance_rate": {
+      "data_changes": {
+        "added": [
+          [["accuracy", 0.0], ["atk", 0.0], ["def", 20.0], ["dodge", 0.0], ["energy_recovery_rate", 2.0], ["energy_reduce_rate", 0.0], ["equipment_id", 130592], ["hp", 1000.0], ["hp_recovery_rate", 0.0], ["id", 1305920], ["life_steal", 0.0], ["magic_critical", 0.0], ["magic_def", 20.0], ["magic_penetrate", 0.0], ["magic_str", 0.0], ["max_lv", -1], ["min_lv", 1], ["physical_critical", 0.0], ["physical_penetrate", 0.0], ["wave_energy_recovery", 0.0], ["wave_hp_recovery", 0.0]]
+        ]
+      }
+    },
+    "skill_data": {
+      "data_changes": {
+        "added": [
+          [["action_1", 105901301], ["action_10", 0], ["action_2", 105901302], ["action_3", 105901303], ["action_4", 105901304], ["action_5", 105901305], ["action_6", 105901306], ["action_7", 0], ["action_8", 0], ["action_9", 0], ["boss_ub_cool_time", 0.0], ["depend_action_1", 0], ["depend_action_10", 0], ["depend_action_2", 0], ["depend_action_3", 0], ["depend_action_4", 0], ["depend_action_5", 0], ["depend_action_6", 0], ["depend_action_7", 0], ["depend_action_8", 0], ["depend_action_9", 0], ["description", "大幅度提升我方全體的行動速度，並且特大幅度提升物理攻擊力，大幅度提升物理暴擊率。同時對我方物理攻擊力最高的１名角色特大幅度提升物理攻擊力，大幅度提升物理暴擊率，小幅度恢復我方全體ＴＰ。"], ["icon_type", 2003], ["name", "速度上升+"], ["skill_area_width", 0], ["skill_cast_time", 1.4], ["skill_id", 1059013], ["skill_type", 0]]
+        ]
+      }
+    },
+    "skill_action": {
+      "data_changes": {
+        "added": [
+          [["action_detail_1", 60], ["action_detail_2", 1], ["action_detail_3", 0], ["action_id", 105901303], ["action_type", 10], ["action_value_1", 1.0], ["action_value_2", 100.0], ["action_value_3", 0.0], ["action_value_4", 18.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 1.0], ["class_id", 1], ["description", "使全體夥伴的物理暴擊提升{0}"], ["level_up_disp", ""], ["target_area", 3], ["target_assignment", 2], ["target_count", 99], ["target_number", 0], ["target_range", 2160], ["target_type", 3]],
+          [["action_detail_1", 60], ["action_detail_2", 1], ["action_detail_3", 0], ["action_id", 105901305], ["action_type", 10], ["action_value_1", 1.0], ["action_value_2", 100.0], ["action_value_3", 0.0], ["action_value_4", 18.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 1.0], ["class_id", 1], ["description", "提升一名夥伴的物理暴擊{0}"], ["level_up_disp", ""], ["target_area", 3], ["target_assignment", 2], ["target_count", 1], ["target_number", 0], ["target_range", 2160], ["target_type", 14]],
+          [["action_detail_1", 10], ["action_detail_2", 1], ["action_detail_3", 0], ["action_id", 105901302], ["action_type", 10], ["action_value_1", 1.0], ["action_value_2", 36.0], ["action_value_3", 36.0], ["action_value_4", 18.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 1.0], ["class_id", 1], ["description", "提升我方全體{0}的物理攻擊力"], ["level_up_disp", "物理攻擊力提升+{0}"], ["target_area", 3], ["target_assignment", 2], ["target_count", 99], ["target_number", 0], ["target_range", 2160], ["target_type", 3]],
+          [["action_detail_1", 1], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 105901306], ["action_type", 16], ["action_value_1", 50.0], ["action_value_2", 0.0], ["action_value_3", 0.0], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "回復我方全體{0}的TP"], ["level_up_disp", ""], ["target_area", 3], ["target_assignment", 2], ["target_count", 99], ["target_number", 0], ["target_range", 2160], ["target_type", 3]],
+          [["action_detail_1", 2], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 105901301], ["action_type", 8], ["action_value_1", 1.6], ["action_value_2", 0.0], ["action_value_3", 18.0], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "提升我方全體的行動速度"], ["level_up_disp", ""], ["target_area", 3], ["target_assignment", 2], ["target_count", 99], ["target_number", 0], ["target_range", 2160], ["target_type", 3]],
+          [["action_detail_1", 10], ["action_detail_2", 1], ["action_detail_3", 0], ["action_id", 105901304], ["action_type", 10], ["action_value_1", 1.0], ["action_value_2", 36.0], ["action_value_3", 36.0], ["action_value_4", 18.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 1.0], ["class_id", 1], ["description", "讓一名同伴的物理攻擊力提升{0}"], ["level_up_disp", "物理攻擊力提升+{0}"], ["target_area", 3], ["target_assignment", 2], ["target_count", 1], ["target_number", 0], ["target_range", 2160], ["target_type", 14]]
+        ]
+      }
+    }
+  }
+}
