@@ -1,0 +1,22 @@
+{
+  "tables": {
+    "only_in_old_db": [],
+    "only_in_new_db": []
+  },
+  "table_changes": {
+    "campaign_freegacha": {
+      "data_changes": {
+        "added": [
+          [["campaign_id", 38], ["end_time", "2025/05/05 04:59:59"], ["freegacha_1", 0], ["freegacha_10", 1], ["id", 38], ["relation_count", 0], ["relation_id", 0], ["start_time", "2025/04/22 05:00:00"], ["stock_10_flag", 2]]
+        ]
+      }
+    },
+    "campaign_freegacha_data": {
+      "data_changes": {
+        "added": [
+          [["campaign_id", 38], ["gacha_id", 30363], ["id", 123]]
+        ]
+      }
+    }
+  }
+}
