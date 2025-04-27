@@ -1,0 +1,97 @@
+{
+  "tables": {
+    "only_in_old_db": [],
+    "only_in_new_db": []
+  },
+  "table_changes": {
+    "v1_86c1d9141a7f695319127e16ece3fa15fa093555dc011f1e7efc23ccc98fb0f4": {
+      "data_changes": {
+        "modified": [
+          {
+            "id": 2203102,
+            "old": [["000beb0be44483e394636d3a89063e5ca1638d25929f99247838d311c4ac8346", 0], ["0675c96dadf3de619e2988199dfd0675d931f67dd67fb0c205e18f8d9b5dc5ce", 15064005], ["12f95f491f9ea295c90f0a8c45e92cddb7d35ca08d4f0f83d5bbe9d8a9aa4c2d", 5], ["3379128d85a8160a448dbff3ca68e5e1cb31e8b956e79bcd358261cc7f151d75", 8], ["3950ad4d813ab85837dc298fc6f4f8844bddf3b01cd2fb642a8b9032a471020e", 91002], ["41f475cc033d75db9e9a5472fc8db92b57e08a8f654ad19c0f9c7a2db908e3be", "好玩有趣的野餐♪"], ["4c05d30b6c7ed5a055c6820fc8fee67f94970d93651429c4e6674cdda735c3f2", 20], ["4e6574e8f511096a31a8cb64ad522715af9c37381a57405628ff681d01b2ebb8", 0], ["52d2797c2ae80b578ba255d2d4f6a688cccc5351f7c1e942b327336e1880df5c", "2025/04/30 11:00:00"], ["688d1b2a01e2217cd6ce4c13656f10408622d25469ea48a391276ec96a5eae70", "2099/12/31 23:59:59"], ["8adbf35b1e4271fa6cc6a38ffac04731af581307114b8a7a78e69d5d64afdf24", 2203102], ["8c282ae9c656c69e1837d8cd34841aaeba8cc2c0f42b53455fe9df76bcf8a768", 0], ["9baa27f5d00e663ccdfacb8578078c771e8c957e9972b8a0d098e1b4925ed7ec", 2203003], ["9c3148a2b01646d920c82a70419a701ba4142550dd43c94728ac0ad0c7a23aba", 1], ["c565753a4743735941b208b8b96402641957248e9e41cfe72d378d23881bc514", 0], ["df9fa1e0351b294826787bf9d6d9a8616a646c6736ddb34e936e1b17e61a4076", 0], ["dfd38423eca09f0c9fd81f789d735c2740465bd8729717befc558656654449a9", 0], ["e6767df3575c08eef40ae02d986c863235739d30a6f4dcef4278d57c00b5ee6d", 0], ["f03bc3c1883a7fa88576217df7ed8235a6d3951e304eafc5010823407b8d04d1", 8], ["f6ab3206c5cda34bc1cd5e89dad7a0e9d608d52013b5b1f1eb6b9c7b3981a773", "支线剧情Ⅸ"]],
+            "new": [["000beb0be44483e394636d3a89063e5ca1638d25929f99247838d311c4ac8346", 0], ["0675c96dadf3de619e2988199dfd0675d931f67dd67fb0c205e18f8d9b5dc5ce", 15064005], ["12f95f491f9ea295c90f0a8c45e92cddb7d35ca08d4f0f83d5bbe9d8a9aa4c2d", 5], ["3379128d85a8160a448dbff3ca68e5e1cb31e8b956e79bcd358261cc7f151d75", 8], ["3950ad4d813ab85837dc298fc6f4f8844bddf3b01cd2fb642a8b9032a471020e", 91002], ["41f475cc033d75db9e9a5472fc8db92b57e08a8f654ad19c0f9c7a2db908e3be", "欢乐郊游♪"], ["4c05d30b6c7ed5a055c6820fc8fee67f94970d93651429c4e6674cdda735c3f2", 20], ["4e6574e8f511096a31a8cb64ad522715af9c37381a57405628ff681d01b2ebb8", 0], ["52d2797c2ae80b578ba255d2d4f6a688cccc5351f7c1e942b327336e1880df5c", "2025/04/30 11:00:00"], ["688d1b2a01e2217cd6ce4c13656f10408622d25469ea48a391276ec96a5eae70", "2099/12/31 23:59:59"], ["8adbf35b1e4271fa6cc6a38ffac04731af581307114b8a7a78e69d5d64afdf24", 2203102], ["8c282ae9c656c69e1837d8cd34841aaeba8cc2c0f42b53455fe9df76bcf8a768", 0], ["9baa27f5d00e663ccdfacb8578078c771e8c957e9972b8a0d098e1b4925ed7ec", 2203003], ["9c3148a2b01646d920c82a70419a701ba4142550dd43c94728ac0ad0c7a23aba", 1], ["c565753a4743735941b208b8b96402641957248e9e41cfe72d378d23881bc514", 0], ["df9fa1e0351b294826787bf9d6d9a8616a646c6736ddb34e936e1b17e61a4076", 0], ["dfd38423eca09f0c9fd81f789d735c2740465bd8729717befc558656654449a9", 0], ["e6767df3575c08eef40ae02d986c863235739d30a6f4dcef4278d57c00b5ee6d", 0], ["f03bc3c1883a7fa88576217df7ed8235a6d3951e304eafc5010823407b8d04d1", 8], ["f6ab3206c5cda34bc1cd5e89dad7a0e9d608d52013b5b1f1eb6b9c7b3981a773", "支线剧情Ⅸ"]]
+          }
+        ]
+      }
+    },
+    "campaign_schedule": {
+      "data_changes": {
+        "modified": [
+          {
+            "id": 1811,
+            "old": [["beginner_id", 0], ["campaign_category", 34], ["campaign_type", 1], ["duplication_order", 0], ["end_time", "2025/05/15 04:59:59"], ["icon_image", 30], ["id", 1811], ["level_id", 0], ["lv_from", 1], ["lv_to", -1], ["shiori_group_id", 0], ["start_time", "2025/05/08 05:00:00"], ["system_id", 103], ["value", 2000.0]],
+            "new": [["beginner_id", 0], ["campaign_category", 34], ["campaign_type", 1], ["duplication_order", 0], ["end_time", "2025/05/15 04:59:59"], ["icon_image", 30], ["id", 1811], ["level_id", 0], ["lv_from", 1], ["lv_to", -1], ["shiori_group_id", 0], ["start_time", "2025/05/08 05:00:00"], ["system_id", 103], ["value", 4000.0]]
+          },
+          {
+            "id": 1812,
+            "old": [["beginner_id", 0], ["campaign_category", 44], ["campaign_type", 1], ["duplication_order", 0], ["end_time", "2025/05/15 04:59:59"], ["icon_image", 40], ["id", 1812], ["level_id", 0], ["lv_from", 1], ["lv_to", -1], ["shiori_group_id", 0], ["start_time", "2025/05/08 05:00:00"], ["system_id", 103], ["value", 2000.0]],
+            "new": [["beginner_id", 0], ["campaign_category", 44], ["campaign_type", 1], ["duplication_order", 0], ["end_time", "2025/05/15 04:59:59"], ["icon_image", 40], ["id", 1812], ["level_id", 0], ["lv_from", 1], ["lv_to", -1], ["shiori_group_id", 0], ["start_time", "2025/05/08 05:00:00"], ["system_id", 103], ["value", 4000.0]]
+          }
+        ]
+      }
+    },
+    "caravan_dish": {
+      "data_changes": {
+        "modified": [
+          {
+            "id": 52017,
+            "old": [["category", 1], ["description", "在空花众多的受虐狂幻想中，以她最近沉迷的\\n触手为主题制作的生食料理。\\n新鲜的章鱼触须会伴随着浓郁的鲜味缠紧，\\n能带来身心都被束缚一般的体验。"], ["disable_category", 1], ["dish_id", 52017], ["effect_description", "[FF7C4E,D62146]【不可覆盖】[-]下一回合不能吃下“移动类的料理”，但能立即获得2000里程。"], ["effect_times", 0], ["effect_turn", 2], ["effect_type", 2], ["effect_value", 1], ["name", "空花的紧缚触手生食"], ["new_line_name", "空花的紧缚\\n触手生食"], ["prefab_id", 3], ["recipe_id", 51017], ["sold_price", 500], ["sub_effect_description", "无"], ["sub_effect_type", 10], ["sub_effect_value", 5]],
+            "new": [["category", 1], ["description", "在空花众多的受虐狂幻想中，以她最近沉迷的\\n触手为主题制作的生食料理。\\n新鲜的章鱼触须会伴随着浓郁的鲜味缠紧，\\n能带来身心都被束缚一般的体验。"], ["disable_category", 1], ["dish_id", 52017], ["effect_description", "[FF7C4E,D62146]【不可覆盖】[-]下一回合无法食用“移动类的料理”，但能立即获得2000里程。"], ["effect_times", 0], ["effect_turn", 2], ["effect_type", 2], ["effect_value", 1], ["name", "空花的紧缚触手生食"], ["new_line_name", "空花的紧缚\\n触手生食"], ["prefab_id", 3], ["recipe_id", 51017], ["sold_price", 500], ["sub_effect_description", "无"], ["sub_effect_type", 10], ["sub_effect_value", 5]]
+          },
+          {
+            "id": 52010,
+            "old": [["category", 2], ["description", "绫音和胡桃两人一起准备的午餐篮。\\n里面装满了各式美味佳肴，体现出与同伴\\n去冒险的愉快心情，能够让途中遇见的各种事\\n都变得像是更加特别的经历。"], ["disable_category", 0], ["dish_id", 52010], ["effect_description", "地图上的“里程格子”、“宝藏格子” 、“商店格子”的品级上升一级。效果持续到停在对应格子两次为止。"], ["effect_times", 2], ["effect_turn", 0], ["effect_type", 6], ["effect_value", 1], ["name", "绫音和胡桃的蓝天郊游套餐"], ["new_line_name", "绫音和胡桃的\\n蓝天郊游套餐"], ["prefab_id", 3], ["recipe_id", 51010], ["sold_price", 500], ["sub_effect_description", "获得500里程。"], ["sub_effect_type", 10], ["sub_effect_value", 2]],
+            "new": [["category", 2], ["description", "绫音和胡桃两人一起准备的午餐篮。\\n里面装满了各式美味佳肴，体现出与同伴\\n去冒险的愉快心情，能够让途中遇见的各种事\\n都变得像是更加特别的经历。"], ["disable_category", 0], ["dish_id", 52010], ["effect_description", "地图上的“里程格子”、“宝藏格子”、“商店格子”的品级上升一级。效果持续到停在对应格子两次为止。"], ["effect_times", 2], ["effect_turn", 0], ["effect_type", 6], ["effect_value", 1], ["name", "绫音和胡桃的蓝天郊游套餐"], ["new_line_name", "绫音和胡桃的\\n蓝天郊游套餐"], ["prefab_id", 3], ["recipe_id", 51010], ["sold_price", 500], ["sub_effect_description", "获得500里程。"], ["sub_effect_type", 10], ["sub_effect_value", 2]]
+          }
+        ]
+      }
+    },
+    "caravan_buff_disp": {
+      "data_changes": {
+        "modified": [
+          {
+            "id": 28,
+            "old": [["category", 3], ["count_from", 0], ["count_to", 0], ["description", "【事件】跳过对下一个回合的计数"], ["effect_id", 98012], ["icon_id", 2], ["id", 28], ["type", 2]],
+            "new": [["category", 3], ["count_from", 0], ["count_to", 0], ["description", "【事件】跳过下一个回合的计数"], ["effect_id", 98012], ["icon_id", 2], ["id", 28], ["type", 2]]
+          },
+          {
+            "id": 24,
+            "old": [["category", 1], ["count_from", 0], ["count_to", 0], ["description", "【料理】不能吃下移动类的料理。"], ["effect_id", 52017], ["icon_id", 9], ["id", 24], ["type", 1]],
+            "new": [["category", 1], ["count_from", 0], ["count_to", 0], ["description", "【料理】无法食用移动类的料理。"], ["effect_id", 52017], ["icon_id", 9], ["id", 24], ["type", 1]]
+          },
+          {
+            "id": 11001,
+            "old": [["category", 1], ["count_from", 0], ["count_to", 0], ["description", "【同伴】打开最多50％折扣确定的\\n商店\\n（1件商品100％折扣）"], ["effect_id", 1001], ["icon_id", 126501], ["id", 11001], ["type", 3]],
+            "new": [["category", 1], ["count_from", 0], ["count_to", 0], ["description", "【同伴】必定开启最多50％\\n折扣的商店\\n（1件商品100％折扣）"], ["effect_id", 1001], ["icon_id", 126501], ["id", 11001], ["type", 3]]
+          },
+          {
+            "id": 9,
+            "old": [["category", 3], ["count_from", 0], ["count_to", 0], ["description", "【事件】跳过对下一个回合的计数"], ["effect_id", 4], ["icon_id", 2], ["id", 9], ["type", 2]],
+            "new": [["category", 3], ["count_from", 0], ["count_to", 0], ["description", "【事件】跳过下一个回合的计数"], ["effect_id", 4], ["icon_id", 2], ["id", 9], ["type", 2]]
+          },
+          {
+            "id": 27,
+            "old": [["category", 3], ["count_from", 0], ["count_to", 0], ["description", "【事件】跳过对下一个回合的计数"], ["effect_id", 98011], ["icon_id", 2], ["id", 27], ["type", 2]],
+            "new": [["category", 3], ["count_from", 0], ["count_to", 0], ["description", "【事件】跳过下一个回合的计数"], ["effect_id", 98011], ["icon_id", 2], ["id", 27], ["type", 2]]
+          },
+          {
+            "id": 3,
+            "old": [["category", 3], ["count_from", 0], ["count_to", 0], ["description", "【料理】跳过对下一个回合的计数"], ["effect_id", 52002], ["icon_id", 2], ["id", 3], ["type", 1]],
+            "new": [["category", 3], ["count_from", 0], ["count_to", 0], ["description", "【料理】跳过下一个回合的计数"], ["effect_id", 52002], ["icon_id", 2], ["id", 3], ["type", 1]]
+          },
+          {
+            "id": 11,
+            "old": [["category", 2], ["count_from", 0], ["count_to", 0], ["description", "【事件】小游戏里活得的里程提升100%"], ["effect_id", 6], ["icon_id", 5], ["id", 11], ["type", 2]],
+            "new": [["category", 2], ["count_from", 0], ["count_to", 0], ["description", "【事件】小游戏获得的里程提升100%"], ["effect_id", 6], ["icon_id", 5], ["id", 11], ["type", 2]]
+          },
+          {
+            "id": 12,
+            "old": [["category", 3], ["count_from", 0], ["count_to", 0], ["description", "【事件】里程商店里所有商品均有20%以上的折扣"], ["effect_id", 7], ["icon_id", 4], ["id", 12], ["type", 2]],
+            "new": [["category", 3], ["count_from", 0], ["count_to", 0], ["description", "【事件】里程商店里所有商品享有20%以上的折扣"], ["effect_id", 7], ["icon_id", 4], ["id", 12], ["type", 2]]
+          }
+        ]
+      }
+    }
+  }
+}
