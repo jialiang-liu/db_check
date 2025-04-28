@@ -1,0 +1,45 @@
+{
+  "tables": {
+    "only_in_old_db": [],
+    "only_in_new_db": []
+  },
+  "table_changes": {
+    "room_unit_comments": {
+      "data_changes": {
+        "modified": [
+          {
+            "id": 126201,
+            "old": [["beloved_step", 1], ["description", "身为吸血鬼，\\n妾身穿上这身衣服\\n应该很合适吧。接下来\\n只需要鲜血作为点缀了……"], ["face_id", 1], ["id", 7300], ["insert_word_type", 0], ["time", 0], ["trigger", 2], ["unit_id", 126201], ["voice_id", 3]],
+            "new": [["beloved_step", 1], ["description", "今天就让妾身\\n来准备晚餐，\\n等他回来吧。\\n做些什么菜好呢……"], ["face_id", 1], ["id", 7294], ["insert_word_type", 0], ["time", 0], ["trigger", 1], ["unit_id", 126201], ["voice_id", 4]]
+          },
+          {
+            "id": 126701,
+            "old": [["beloved_step", 4], ["description", "您……那个……\\n一直盯着我的话，\\n我会害羞的……"], ["face_id", 1], ["id", 7379], ["insert_word_type", 0], ["time", 0], ["trigger", 2], ["unit_id", 126701], ["voice_id", 101]],
+            "new": [["beloved_step", 1], ["description", "只有线香烟花，\\n还是少了点感觉呢，\\n来点更壮观的……"], ["face_id", 1], ["id", 7372], ["insert_word_type", 0], ["time", 0], ["trigger", 1], ["unit_id", 126701], ["voice_id", 5]]
+          },
+          {
+            "id": 126801,
+            "old": [["beloved_step", 8], ["description", "我觉得和你一起的话，\\n就算不喝麦酒，\\n也能度过一个\\n最棒的夏日假期♪"], ["face_id", 1], ["id", 7436], ["insert_word_type", 0], ["time", 0], ["trigger", 2], ["unit_id", 126801], ["voice_id", 102]],
+            "new": [["beloved_step", 1], ["description", "嗯，为了洗去\\n一天的疲劳……\\n小～酌一杯吧！"], ["face_id", 1], ["id", 7439], ["insert_word_type", 0], ["time", 3], ["trigger", 2], ["unit_id", 126801], ["voice_id", 3]]
+          },
+          {
+            "id": 126301,
+            "old": [["beloved_step", 4], ["description", "现在的我\\n一碰到杯子就会弄坏，\\n所以，你来\\n喂我喝红茶吧。"], ["face_id", 1], ["id", 7329], ["insert_word_type", 0], ["time", 0], ["trigger", 2], ["unit_id", 126301], ["voice_id", 101]],
+            "new": [["beloved_step", 1], ["description", "足以魅惑世人的\\n魔性香气……\\n非常适合我呢♪"], ["face_id", 1], ["id", 7337], ["insert_word_type", 0], ["time", 0], ["trigger", 3], ["unit_id", 126301], ["voice_id", 4]]
+          }
+        ]
+      }
+    },
+    "hatsune_emblem_mission": {
+      "data_changes": {
+        "modified": [
+          {
+            "id": 99001249,
+            "old": [["category_icon", 601], ["condition_num", 1], ["condition_value_1", 0], ["condition_value_2", 0], ["condition_value_3", 0], ["description", "看完雪的审美会的所有剧情"], ["disp_group", 15], ["end_time", "2099/12/31 23:59:59"], ["event_id", 10120], ["mission_condition", 0], ["mission_id", 99001249], ["mission_reward_id", 99001249], ["start_time", "2025/04/30 11:00:00"], ["system_id", 6001], ["visible_flag", 1]],
+            "new": [["category_icon", 601], ["condition_num", 1], ["condition_value_1", 0], ["condition_value_2", 0], ["condition_value_3", 0], ["description", "看完雪的审美会的所有剧情"], ["disp_group", 15], ["end_time", "2099/12/31 23:59:59"], ["event_id", 10120], ["mission_condition", 0], ["mission_id", 99001249], ["mission_reward_id", 99001249], ["start_time", "2098/04/30 11:00:00"], ["system_id", 6001], ["visible_flag", 1]]
+          }
+        ]
+      }
+    }
+  }
+}
