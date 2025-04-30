@@ -1,0 +1,285 @@
+{
+  "tables": {
+    "only_in_old_db": [],
+    "only_in_new_db": []
+  },
+  "table_changes": {
+    "story_detail": {
+      "data_changes": {
+        "added": [
+          [["can_bookmark", 0], ["end_time", "2030/12/17 14:59:59"], ["force_unlock_time", "2030/12/17 14:59:59"], ["force_unlock_time_2", "2030/12/17 14:59:59"], ["lock_all_text", 0], ["love_level", 0], ["pre_story_id", 0], ["pre_story_id_2", 0], ["read_process_flag", 1], ["requirement_id", 0], ["reward_id_1", 31023], ["reward_id_2", 0], ["reward_id_3", 0], ["reward_type_1", 2], ["reward_type_2", 0], ["reward_type_3", 0], ["reward_value_1", 10], ["reward_value_2", 0], ["reward_value_3", 0], ["start_time", "2025/05/10 05:00:00"], ["story_end", 0], ["story_group_id", 4010], ["story_id", 4010088], ["story_quest_id", 0], ["sub_title", "5月10日的劇情2"], ["title", ""], ["unlock_quest_id", 0], ["visible_type", 2]],
+          [["can_bookmark", 0], ["end_time", "2030/12/17 14:59:59"], ["force_unlock_time", "2030/12/17 14:59:59"], ["force_unlock_time_2", "2030/12/17 14:59:59"], ["lock_all_text", 0], ["love_level", 0], ["pre_story_id", 0], ["pre_story_id_2", 0], ["read_process_flag", 1], ["requirement_id", 0], ["reward_id_1", 31059], ["reward_id_2", 0], ["reward_id_3", 0], ["reward_type_1", 2], ["reward_type_2", 0], ["reward_type_3", 0], ["reward_value_1", 10], ["reward_value_2", 0], ["reward_value_3", 0], ["start_time", "2025/05/11 05:00:00"], ["story_end", 0], ["story_group_id", 4010], ["story_id", 4010089], ["story_quest_id", 0], ["sub_title", "5月11日的劇情2"], ["title", ""], ["unlock_quest_id", 0], ["visible_type", 2]],
+          [["can_bookmark", 0], ["end_time", "2030/12/17 14:59:59"], ["force_unlock_time", "2030/12/17 14:59:59"], ["force_unlock_time_2", "2030/12/17 14:59:59"], ["lock_all_text", 0], ["love_level", 0], ["pre_story_id", 0], ["pre_story_id_2", 0], ["read_process_flag", 1], ["requirement_id", 0], ["reward_id_1", 31044], ["reward_id_2", 0], ["reward_id_3", 0], ["reward_type_1", 2], ["reward_type_2", 0], ["reward_type_3", 0], ["reward_value_1", 10], ["reward_value_2", 0], ["reward_value_3", 0], ["start_time", "2025/05/05 05:00:00"], ["story_end", 0], ["story_group_id", 4010], ["story_id", 4010087], ["story_quest_id", 0], ["sub_title", "5月5日的劇情2"], ["title", ""], ["unlock_quest_id", 0], ["visible_type", 2]]
+        ]
+      }
+    },
+    "unit_skill_data": {
+      "data_changes": {
+        "modified": [
+          {
+            "id": 680801,
+            "old": [["ex_skill_1", 1808501], ["ex_skill_2", 0], ["ex_skill_3", 0], ["ex_skill_4", 0], ["ex_skill_5", 0], ["ex_skill_evolution_1", 1808511], ["ex_skill_evolution_2", 0], ["ex_skill_evolution_3", 0], ["ex_skill_evolution_4", 0], ["ex_skill_evolution_5", 0], ["main_skill_1", 1808002], ["main_skill_10", 0], ["main_skill_2", 1808003], ["main_skill_3", 0], ["main_skill_4", 0], ["main_skill_5", 0], ["main_skill_6", 0], ["main_skill_7", 0], ["main_skill_8", 0], ["main_skill_9", 0], ["main_skill_evolution_1", 0], ["main_skill_evolution_2", 0], ["sp_skill_1", 0], ["sp_skill_2", 0], ["sp_skill_3", 0], ["sp_skill_4", 0], ["sp_skill_5", 0], ["sp_skill_evolution_1", 0], ["sp_skill_evolution_2", 0], ["sp_union_burst", 0], ["union_burst", 1808001], ["union_burst_evolution", 0], ["unit_id", 680801]],
+            "new": [["ex_skill_1", 1808501], ["ex_skill_2", 0], ["ex_skill_3", 0], ["ex_skill_4", 0], ["ex_skill_5", 0], ["ex_skill_evolution_1", 1808511], ["ex_skill_evolution_2", 0], ["ex_skill_evolution_3", 0], ["ex_skill_evolution_4", 0], ["ex_skill_evolution_5", 0], ["main_skill_1", 1808002], ["main_skill_10", 0], ["main_skill_2", 1808003], ["main_skill_3", 0], ["main_skill_4", 0], ["main_skill_5", 0], ["main_skill_6", 0], ["main_skill_7", 0], ["main_skill_8", 0], ["main_skill_9", 0], ["main_skill_evolution_1", 1808012], ["main_skill_evolution_2", 0], ["sp_skill_1", 0], ["sp_skill_2", 0], ["sp_skill_3", 0], ["sp_skill_4", 0], ["sp_skill_5", 0], ["sp_skill_evolution_1", 0], ["sp_skill_evolution_2", 0], ["sp_union_burst", 0], ["union_burst", 1808001], ["union_burst_evolution", 0], ["unit_id", 680801]]
+          },
+          {
+            "id": 180901,
+            "old": [["ex_skill_1", 1809501], ["ex_skill_2", 0], ["ex_skill_3", 0], ["ex_skill_4", 0], ["ex_skill_5", 0], ["ex_skill_evolution_1", 1809511], ["ex_skill_evolution_2", 0], ["ex_skill_evolution_3", 0], ["ex_skill_evolution_4", 0], ["ex_skill_evolution_5", 0], ["main_skill_1", 1809002], ["main_skill_10", 0], ["main_skill_2", 1809003], ["main_skill_3", 0], ["main_skill_4", 0], ["main_skill_5", 0], ["main_skill_6", 0], ["main_skill_7", 0], ["main_skill_8", 0], ["main_skill_9", 0], ["main_skill_evolution_1", 0], ["main_skill_evolution_2", 0], ["sp_skill_1", 0], ["sp_skill_2", 0], ["sp_skill_3", 0], ["sp_skill_4", 0], ["sp_skill_5", 0], ["sp_skill_evolution_1", 0], ["sp_skill_evolution_2", 0], ["sp_union_burst", 0], ["union_burst", 1809001], ["union_burst_evolution", 0], ["unit_id", 180901]],
+            "new": [["ex_skill_1", 1809501], ["ex_skill_2", 0], ["ex_skill_3", 0], ["ex_skill_4", 0], ["ex_skill_5", 0], ["ex_skill_evolution_1", 1809511], ["ex_skill_evolution_2", 0], ["ex_skill_evolution_3", 0], ["ex_skill_evolution_4", 0], ["ex_skill_evolution_5", 0], ["main_skill_1", 1809002], ["main_skill_10", 0], ["main_skill_2", 1809003], ["main_skill_3", 0], ["main_skill_4", 0], ["main_skill_5", 0], ["main_skill_6", 0], ["main_skill_7", 0], ["main_skill_8", 0], ["main_skill_9", 0], ["main_skill_evolution_1", 1809012], ["main_skill_evolution_2", 0], ["sp_skill_1", 0], ["sp_skill_2", 0], ["sp_skill_3", 0], ["sp_skill_4", 0], ["sp_skill_5", 0], ["sp_skill_evolution_1", 0], ["sp_skill_evolution_2", 0], ["sp_union_burst", 0], ["union_burst", 1809001], ["union_burst_evolution", 0], ["unit_id", 180901]]
+          }
+        ]
+      }
+    },
+    "login_bonus_message_data": {
+      "data_changes": {
+        "added": [
+          [["additional_param", ""], ["additional_type", 0], ["character_id", 0], ["character_name", ""], ["day_count", 0], ["id", 575], ["login_bonus_id", 60005], ["luck_pattern", 1], ["message", "今天的運勢是姬吉！　一直祈求的願望或許會實現也說不定！\\n如果是你的話，一定能抵達迎來幸福結局的未來"], ["rate", 1], ["type", 2], ["voice_id", 0]],
+          [["additional_param", ""], ["additional_type", 0], ["character_id", 0], ["character_name", ""], ["day_count", 0], ["id", 587], ["login_bonus_id", 60005], ["luck_pattern", 3], ["message", "今天的運勢是中吉！　好好注意健康，過個舒適的一年吧！\\n身體不適的時候就儘管說出來，我會幫你從頭到腳調查一遍的"], ["rate", 1], ["type", 2], ["voice_id", 0]],
+          [["additional_param", ""], ["additional_type", 0], ["character_id", 0], ["character_name", ""], ["day_count", 0], ["id", 590], ["login_bonus_id", 60005], ["luck_pattern", 3], ["message", "今天的運勢是中吉！　幸運道具是「發光之物」！　　　　　　　　要不要讓你看看小初音的「閃亮亮☆」魔法呢？"], ["rate", 2], ["type", 2], ["voice_id", 0]],
+          [["additional_param", ""], ["additional_type", 0], ["character_id", 0], ["character_name", ""], ["day_count", 0], ["id", 584], ["login_bonus_id", 60005], ["luck_pattern", 3], ["message", "您今天的運勢是中吉！　                                                             大部分的事，您只要硬著頭皮都能順利度過！                               幸運地點是電子遊戲場，玩玩拳擊機來抒發壓力吧！"], ["rate", 1], ["type", 2], ["voice_id", 0]],
+          [["additional_param", ""], ["additional_type", 0], ["character_id", 0], ["character_name", ""], ["day_count", 0], ["id", 602], ["login_bonus_id", 60006], ["luck_pattern", 1], ["message", "今天的運勢是姬吉！感覺無論什麼危機都能輕易跨越！\\n能有個好結果真是太好了。那麼，等待之人的部分是……呵呵。"], ["rate", 2], ["type", 2], ["voice_id", 0]],
+          [["additional_param", ""], ["additional_type", 0], ["character_id", 190804], ["character_name", "花凜"], ["day_count", 0], ["id", 598], ["login_bonus_id", 60005], ["luck_pattern", 0], ["message", "抽籤的結果如何呢？\\n嶄新的一天，希望對你來說\\n能變成很好的一天，\\n明天也要再來玩唷♪"], ["rate", 0], ["type", 3], ["voice_id", 2]],
+          [["additional_param", ""], ["additional_type", 0], ["character_id", 190804], ["character_name", "花凜"], ["day_count", 5], ["id", 612], ["login_bonus_id", 60006], ["luck_pattern", 0], ["message", "有好好享受抽籤的樂趣了嗎？\\n從心裡深深祈禱\\n你的新的一年，\\n能變得很美好。"], ["rate", 0], ["type", 3], ["voice_id", 3]],
+          [["additional_param", ""], ["additional_type", 0], ["character_id", 190804], ["character_name", "花凜"], ["day_count", 0], ["id", 600], ["login_bonus_id", 60006], ["luck_pattern", 0], ["message", "為了迎接新年，要不要在嶄新的一天\\n用抽籤占卜一下運勢呢？\\n運勢愈好，\\n就能得到愈多禮物唷♪"], ["rate", 1], ["type", 1], ["voice_id", 1]],
+          [["additional_param", ""], ["additional_type", 0], ["character_id", 0], ["character_name", ""], ["day_count", 0], ["id", 608], ["login_bonus_id", 60006], ["luck_pattern", 3], ["message", "今天的運勢是中吉！今天就待在家裡，悠哉休息吧。\\n準備好年糕湯。備妥橘子。來吧，在暖桌裡睡掉年假。你也要進來嗎？"], ["rate", 1], ["type", 2], ["voice_id", 0]],
+          [["additional_param", ""], ["additional_type", 0], ["character_id", 0], ["character_name", ""], ["day_count", 0], ["id", 585], ["login_bonus_id", 60005], ["luck_pattern", 3], ["message", "今天的運勢是中吉！　為他人盡心盡力或許也能得到幸福！\\n盡人事聽天命！　來，年初也要賣力工作喔♪"], ["rate", 1], ["type", 2], ["voice_id", 0]],
+          [["additional_param", ""], ["additional_type", 0], ["character_id", 0], ["character_name", ""], ["day_count", 0], ["id", 595], ["login_bonus_id", 60005], ["luck_pattern", 4], ["message", "今天的運勢是小吉！　可能會有人拜託你一些困難的事情！　　只要好好解決一定就能獲得成長，嘗試挑戰看看吧！"], ["rate", 1], ["type", 2], ["voice_id", 0]],
+          [["additional_param", ""], ["additional_type", 0], ["character_id", 0], ["character_name", ""], ["day_count", 0], ["id", 609], ["login_bonus_id", 60006], ["luck_pattern", 4], ["message", "今天的運勢是小吉！要留意突然受到驚嚇！\\n哎呀，你後面有位長頭髮的女幽靈──呵呵，開玩笑的，是我啦。"], ["rate", 2], ["type", 2], ["voice_id", 0]],
+          [["additional_param", ""], ["additional_type", 0], ["character_id", 0], ["character_name", ""], ["day_count", 0], ["id", 604], ["login_bonus_id", 60006], ["luck_pattern", 2], ["message", "今天的運勢是大吉！似乎能與身邊的友人加深羈絆……？\\n騎士先生，想與誰締結友誼呢？我很在意……"], ["rate", 1], ["type", 2], ["voice_id", 0]],
+          [["additional_param", ""], ["additional_type", 0], ["character_id", 0], ["character_name", ""], ["day_count", 0], ["id", 596], ["login_bonus_id", 60005], ["luck_pattern", 4], ["message", "今天的運勢是小吉！　眺望天空，心情就會爽快舒暢！　　　　　　不要只是眺望，乾脆非起來如何啊♪"], ["rate", 2], ["type", 2], ["voice_id", 0]],
+          [["additional_param", ""], ["additional_type", 0], ["character_id", 0], ["character_name", ""], ["day_count", 0], ["id", 605], ["login_bonus_id", 60006], ["luck_pattern", 2], ["message", "今天的運勢是大吉！幸運物是「蛇的脫皮」！\\n居然能有機會看到我……你還真是幸運呢♪"], ["rate", 2], ["type", 2], ["voice_id", 0]],
+          [["additional_param", ""], ["additional_type", 0], ["character_id", 0], ["character_name", ""], ["day_count", 0], ["id", 607], ["login_bonus_id", 60006], ["luck_pattern", 3], ["message", "今天的運勢是中吉！變回小孩子，盡情玩一整天吧！\\n用壓歲錢來買劍玉！姑丈，做一萬次皿上來回給我看！"], ["rate", 2], ["type", 2], ["voice_id", 0]],
+          [["additional_param", ""], ["additional_type", 0], ["character_id", 0], ["character_name", ""], ["day_count", 0], ["id", 574], ["login_bonus_id", 60005], ["luck_pattern", 1], ["message", "今天的運勢是姬吉！　要做的事都會達到頂峰！                            太讚了吧☆　幸運物是飯糰！                                                     肚子飽飽的幸福就會持續下去吧！"], ["rate", 1], ["type", 2], ["voice_id", 0]],
+          [["additional_param", ""], ["additional_type", 0], ["character_id", 0], ["character_name", ""], ["day_count", 0], ["id", 580], ["login_bonus_id", 60005], ["luck_pattern", 2], ["message", "今天的運勢是大吉！　　　　　　　　　　　　　　　　　　　　　這可是有喜歡裁縫的女孩子掛保證！　　　　　　　　　　　　　　或許會被想要照顧人的妹妹特別寵愛一翻！？"], ["rate", 1], ["type", 2], ["voice_id", 0]],
+          [["additional_param", ""], ["additional_type", 0], ["character_id", 0], ["character_name", ""], ["day_count", 0], ["id", 597], ["login_bonus_id", 60005], ["luck_pattern", 4], ["message", "今天的運勢是小吉！　進行掃除感覺會帶來好運！　　　　　　　　「哇，好麻煩！」「烏爾姆！新年一開始就偷懶可是不行的喔！」"], ["rate", 2], ["type", 2], ["voice_id", 0]],
+          [["additional_param", ""], ["additional_type", 0], ["character_id", 0], ["character_name", ""], ["day_count", 0], ["id", 603], ["login_bonus_id", 60006], ["luck_pattern", 1], ["message", "今天的運勢是姬吉！說不定能與那個人……重修舊好！？\\n唉……我怎麼可能會對你的運勢有興趣呢？"], ["rate", 2], ["type", 2], ["voice_id", 0]],
+          [["additional_param", ""], ["additional_type", 0], ["character_id", 0], ["character_name", ""], ["day_count", 0], ["id", 593], ["login_bonus_id", 60005], ["luck_pattern", 4], ["message", "今天的運勢是小吉！                                                                  在外頭悠閒度過的話運氣會上升！                                               幸運地點是牧場。可能會有有趣的相遇♪"], ["rate", 1], ["type", 2], ["voice_id", 0]],
+          [["additional_param", ""], ["additional_type", 0], ["character_id", 0], ["character_name", ""], ["day_count", 0], ["id", 589], ["login_bonus_id", 60005], ["luck_pattern", 3], ["message", "今天的運勢是中吉！　競爭將會獲勝，但不可疏忽大意！　　　　　不過，如果是和我在一起，前進之處都會所向披靡喔！"], ["rate", 2], ["type", 2], ["voice_id", 0]],
+          [["additional_param", ""], ["additional_type", 0], ["character_id", 0], ["character_name", ""], ["day_count", 0], ["id", 579], ["login_bonus_id", 60005], ["luck_pattern", 2], ["message", "今天的運勢是大吉！　你的興趣或許會更加拓展開來！\\n而且也能獲得口愛～～～的正太～還有小騎士～嗯呵呵～♪"], ["rate", 1], ["type", 2], ["voice_id", 0]],
+          [["additional_param", ""], ["additional_type", 0], ["character_id", 190804], ["character_name", "花凜"], ["day_count", 0], ["id", 573], ["login_bonus_id", 60005], ["luck_pattern", 0], ["message", "為了迎接新年，要不要在嶄新的一天\\n用抽籤占卜一下運勢呢？\\n運勢愈好，\\n就能得到愈多禮物唷♪"], ["rate", 1], ["type", 1], ["voice_id", 1]],
+          [["additional_param", ""], ["additional_type", 0], ["character_id", 0], ["character_name", ""], ["day_count", 0], ["id", 586], ["login_bonus_id", 60005], ["luck_pattern", 3], ["message", "今天的運勢是中吉！　哼首歌來呼喚好運吧！\\n雖然不知道能不能變得幸運，不過……我們一起來唱歌吧？"], ["rate", 1], ["type", 2], ["voice_id", 0]],
+          [["additional_param", ""], ["additional_type", 0], ["character_id", 0], ["character_name", ""], ["day_count", 0], ["id", 588], ["login_bonus_id", 60005], ["luck_pattern", 3], ["message", "今天的運勢是中吉！                                                                  旅行運迅速上升中♪                                                                   說不定，就連那個「真步真步王國」也能到的了♪"], ["rate", 1], ["type", 2], ["voice_id", 0]],
+          [["additional_param", ""], ["additional_type", 0], ["character_id", 0], ["character_name", ""], ["day_count", 0], ["id", 581], ["login_bonus_id", 60005], ["luck_pattern", 2], ["message", "今天的運勢是大吉！　每日努力結出成果，萬事都朝好方向發展！　要向這樣的弟弟，送上姐姐的乖～寶寶擁抱♪"], ["rate", 1], ["type", 2], ["voice_id", 0]],
+          [["additional_param", ""], ["additional_type", 0], ["character_id", 0], ["character_name", ""], ["day_count", 0], ["id", 594], ["login_bonus_id", 60005], ["luck_pattern", 4], ["message", "今天的運勢是小吉！　　　　　　　　　　　　　　　　　　　　　似乎會是事件四起的一天！　　　　　　　　　　　　　　　　　　好好地觀察狀況吧！　就像是偵探那樣！"], ["rate", 1], ["type", 2], ["voice_id", 0]],
+          [["additional_param", ""], ["additional_type", 0], ["character_id", 190804], ["character_name", "花凜"], ["day_count", 7], ["id", 599], ["login_bonus_id", 60005], ["luck_pattern", 0], ["message", "有好好享受抽籤的樂趣了嗎？\\n從心裡深深祈禱\\n你的新的一年，\\n能變得很美好。"], ["rate", 0], ["type", 3], ["voice_id", 3]],
+          [["additional_param", ""], ["additional_type", 0], ["character_id", 0], ["character_name", ""], ["day_count", 0], ["id", 577], ["login_bonus_id", 60005], ["luck_pattern", 1], ["message", "今天的運勢是姬吉！　適合旅遊，去哪裡都可以！　　　　　　　　新年的起始也和兄長大人一起♪　出發～去冒險吧♪"], ["rate", 2], ["type", 2], ["voice_id", 0]],
+          [["additional_param", ""], ["additional_type", 0], ["character_id", 0], ["character_name", ""], ["day_count", 0], ["id", 601], ["login_bonus_id", 60006], ["luck_pattern", 1], ["message", "今天的運勢是姬吉！鼓起勇氣，挑戰新事物吧！\\n真是個好兆頭呢少年！希望今年也會是不錯的一年。"], ["rate", 2], ["type", 2], ["voice_id", 0]],
+          [["additional_param", ""], ["additional_type", 0], ["character_id", 0], ["character_name", ""], ["day_count", 0], ["id", 582], ["login_bonus_id", 60005], ["luck_pattern", 2], ["message", "今天的運勢是大吉！　出門的話說不定會有好事？　　　　　　　　再一起偷偷出去約會吧……騎士♪"], ["rate", 2], ["type", 2], ["voice_id", 0]],
+          [["additional_param", ""], ["additional_type", 0], ["character_id", 0], ["character_name", ""], ["day_count", 0], ["id", 578], ["login_bonus_id", 60005], ["luck_pattern", 1], ["message", "今天的運勢是姬吉！　只要一日三餐就會提高健康運！　　　　　　年菜、年糕湯，哥，再多吃一點吧。"], ["rate", 2], ["type", 2], ["voice_id", 0]],
+          [["additional_param", ""], ["additional_type", 0], ["character_id", 0], ["character_name", ""], ["day_count", 0], ["id", 583], ["login_bonus_id", 60005], ["luck_pattern", 2], ["message", "今天的運勢是大吉！　要搬家的話，選擇溫暖的地方為佳！　　　　就算是煉獄之世，能居之處就是城市，放寬心過來吧……♪"], ["rate", 2], ["type", 2], ["voice_id", 0]],
+          [["additional_param", ""], ["additional_type", 0], ["character_id", 0], ["character_name", ""], ["day_count", 0], ["id", 591], ["login_bonus_id", 60005], ["luck_pattern", 4], ["message", "今天的運勢是小吉！　應該會是安穩又平靜一天吧！　　　　　　　惠理子會解決妨礙您的一切事物哦，嘻嘻♪"], ["rate", 1], ["type", 2], ["voice_id", 0]],
+          [["additional_param", ""], ["additional_type", 0], ["character_id", 0], ["character_name", ""], ["day_count", 0], ["id", 592], ["login_bonus_id", 60005], ["luck_pattern", 4], ["message", "今天的運勢是小吉！　帶著小小的勇氣踏出的一步非常重要！\\n光是在遠處看著是不行的。今天我會試著稍微靠近一點！"], ["rate", 1], ["type", 2], ["voice_id", 0]],
+          [["additional_param", ""], ["additional_type", 0], ["character_id", 0], ["character_name", ""], ["day_count", 0], ["id", 606], ["login_bonus_id", 60006], ["luck_pattern", 3], ["message", "今天的運勢是中吉！或許能遇見你在意的那個人！？\\n用「讓新年初夢成真的枕頭」來跟你見面……我、我什麼都沒說！"], ["rate", 2], ["type", 2], ["voice_id", 0]],
+          [["additional_param", ""], ["additional_type", 0], ["character_id", 0], ["character_name", ""], ["day_count", 0], ["id", 576], ["login_bonus_id", 60005], ["luck_pattern", 1], ["message", "今天的運勢是姬吉！　只要走在路上就會帶來好運，最棒的吉日！　不愧是兄長大人，擁有十全十美、無與倫比的好運呢。"], ["rate", 2], ["type", 2], ["voice_id", 0]],
+          [["additional_param", ""], ["additional_type", 0], ["character_id", 0], ["character_name", ""], ["day_count", 0], ["id", 610], ["login_bonus_id", 60006], ["luck_pattern", 4], ["message", "今天的運勢是小吉！無須慌張，幸運必定會到來。\\n運勢要靠自己親手抓住──皇女曾經這麼說過。不過，要怎麼抓啊？"], ["rate", 2], ["type", 2], ["voice_id", 0]],
+          [["additional_param", ""], ["additional_type", 0], ["character_id", 190804], ["character_name", "花凜"], ["day_count", 0], ["id", 611], ["login_bonus_id", 60006], ["luck_pattern", 0], ["message", "抽籤的結果如何呢？\\n嶄新的一天，希望對你來說\\n能變成很好的一天，\\n明天也要再來玩唷♪"], ["rate", 0], ["type", 3], ["voice_id", 2]]
+        ]
+      }
+    },
+    "chara_e_ticket_data": {
+      "data_changes": {
+        "added": [
+          [["end_time", "2025/05/25 23:59:59"], ["icon_id", 27012], ["jewel_store_id", 674], ["start_time", "2025/05/01 00:00:00"], ["ticket_id", 27018]]
+        ]
+      }
+    },
+    "unique_equipment_data": {
+      "data_changes": {
+        "added": [
+          [["accuracy", 0.0], ["atk", 85.0], ["craft_flg", 1], ["def", 0.0], ["description", "秋乃跟咲戀兩人的心情合而為一\\n而出現的，高貴的髮飾。\\n時而競爭時而合作，\\n讓彼此成長的關係才是最好的勁敵。"], ["dodge", 0.0], ["enable_donation", 0], ["energy_recovery_rate", 1.0], ["energy_reduce_rate", 0.0], ["equipment_enhance_point", 0], ["equipment_id", 138091], ["equipment_name", "勁敵間的光輝"], ["hp", 0.0], ["hp_recovery_rate", 0.0], ["life_steal", 0.0], ["magic_critical", 0.0], ["magic_def", 0.0], ["magic_penetrate", 0], ["magic_str", 0.0], ["physical_critical", 20.0], ["physical_penetrate", 0.0], ["promotion_level", 98], ["require_level", 1], ["sale_price", 0.0], ["wave_energy_recovery", 0.0], ["wave_hp_recovery", 0.0]]
+        ]
+      }
+    },
+    "unit_data": {
+      "data_changes": {
+        "added": [
+          [["atk_type", 1], ["comment", "【物理】位於前衛，元旦也充滿活力地嬉鬧的軍人少女。\\n用依照造成的傷害強化追加效果的ＵＢ，以及每次發動\\n會成長的強化自身技能，來將擾亂秩序的人轉得頭暈眼花。"], ["cutin1_star6", 133201], ["cutin2_star6", 0], ["cutin_1", 133201], ["cutin_2", 0], ["end_time", "2030/12/31 15:00:00"], ["exskill_display", 0], ["guild_id", 0], ["is_limited", 1], ["kana", "莫妮卡（新年）"], ["motion_type", 22], ["move_speed", 450], ["normal_atk_cast_time", 2.09], ["only_disp_owned", 1], ["original_unit_id", 0], ["prefab_id", 133201], ["prefab_id_battle", 0], ["rarity", 1], ["se_type", 4], ["search_area_width", 296], ["start_time", "2025/05/01 16:00:00"], ["unit_id", 133201], ["unit_name", "莫妮卡（新年）"]],
+          [["atk_type", 0], ["comment", ""], ["cutin1_star6", 0], ["cutin2_star6", 0], ["cutin_1", 0], ["cutin_2", 0], ["end_time", "2030/12/31 15:00:00"], ["exskill_display", 0], ["guild_id", 0], ["is_limited", 0], ["kana", "咲戀（新年）"], ["motion_type", 22], ["move_speed", 0], ["normal_atk_cast_time", 0.0], ["only_disp_owned", 0], ["original_unit_id", 0], ["prefab_id", 133501], ["prefab_id_battle", 0], ["rarity", 1], ["se_type", 1], ["search_area_width", 0], ["start_time", "2015/04/01 15:00:00"], ["unit_id", 133501], ["unit_name", "咲戀（新年）"]],
+          [["atk_type", 0], ["comment", ""], ["cutin1_star6", 0], ["cutin2_star6", 0], ["cutin_1", 0], ["cutin_2", 0], ["end_time", "2030/12/31 15:00:00"], ["exskill_display", 0], ["guild_id", 0], ["is_limited", 0], ["kana", "梅杜莎"], ["motion_type", 1], ["move_speed", 0], ["normal_atk_cast_time", 0.0], ["only_disp_owned", 0], ["original_unit_id", 0], ["prefab_id", 136601], ["prefab_id_battle", 0], ["rarity", 1], ["se_type", 1], ["search_area_width", 0], ["start_time", "2015/04/01 15:00:00"], ["unit_id", 136601], ["unit_name", "梅杜莎"]]
+        ]
+      }
+    },
+    "skill_data": {
+      "data_changes": {
+        "added": [
+          [["action_1", 180901201], ["action_10", 0], ["action_2", 180901202], ["action_3", 180901203], ["action_4", 180901204], ["action_5", 180901205], ["action_6", 180901206], ["action_7", 180901207], ["action_8", 180901208], ["action_9", 0], ["boss_ub_cool_time", 0.0], ["depend_action_1", 0], ["depend_action_10", 0], ["depend_action_2", 0], ["depend_action_3", 0], ["depend_action_4", 0], ["depend_action_5", 0], ["depend_action_6", 0], ["depend_action_7", 0], ["depend_action_8", 0], ["depend_action_9", 0], ["description", "特大幅度提升我方全體的物理攻擊力，大幅度提升物理暴擊率，小幅度提升物理攻擊暴擊時的傷害。同時，特大幅度提升自身的物理攻擊力與物理暴擊率，中幅度提升物理攻擊暴擊時的傷害，小幅度恢復ＨＰ，大幅度恢復ＴＰ。"], ["icon_type", 2003], ["name", "火焰增幅+"], ["skill_area_width", 0], ["skill_cast_time", 0.59], ["skill_id", 1809012], ["skill_type", 0]]
+        ]
+      }
+    },
+    "v1_f5503d4b534d6c7d14b80e619fe62489f16aae677568735f8dec7f63c9932c2f": {
+      "data_changes": {
+        "added": [
+          [["1de3797dbe5e2996c4976f39f949ef01adb2529e11722f17246907516b3d4752", 2], ["39ff37f9b655f9b87adbd4c9e8f4a5e0ada6a3eb895fa9db4334bdaece5f2d5b", 0], ["3e44778fb366527e1d9939553df83d9f7dc715e586ae0a79ab3ada008f59aa1b", 0], ["459952444bbc2c50a5a4d1c86fcd145ccfdc7f9c422db6c4f7c79d7ed3e2aeec", "2030/08/01 14:59:59"], ["5abd0cc0358424621544f5a8b9452500d00c9c22923b8831512bcaed10233d1b", 106501], ["5dbcaabf14fed7ee77f0091f92e9f1e764fbb5c852966c2977b6a2698d2062bc", 50], ["6027e9b8eef43102f71ab78031fe9d0d051a19f1ff43fc8544a1df11d889e1b7", 59], ["654d75c8613b81b478854b8efcae2eefed0e3bc1a404447bda6f89b14583562b", 31065], ["965323fa8fd280d2b9bc165e49c22bdf03328fbc18f952a73acadcc06d69ef3c", 0], ["aabac6711fb515b234f5f6ff1036807eb9db8f88935a8ecac81db11a2125bd35", 0], ["b55ff0d32a8667945dd2d947c84a04c275df5dc25c90629cf9f67f2f0ffe46d7", 0], ["dc1aafc6882ab88a2f29bc380df6fad2e9cbe5c239f2b49def96965b3682f949", 28029], ["de6d8ee3cebe677ace4054da58de61365b604887cce6b7d518ca105e6a4699df", "2025/05/01 00:00:00"], ["dee081d29232be5a6682c3194fe6253daa608505ad1368bf3679c6ab71dd1095", 0]],
+          [["1de3797dbe5e2996c4976f39f949ef01adb2529e11722f17246907516b3d4752", 2], ["39ff37f9b655f9b87adbd4c9e8f4a5e0ada6a3eb895fa9db4334bdaece5f2d5b", 0], ["3e44778fb366527e1d9939553df83d9f7dc715e586ae0a79ab3ada008f59aa1b", 0], ["459952444bbc2c50a5a4d1c86fcd145ccfdc7f9c422db6c4f7c79d7ed3e2aeec", "2030/08/01 14:59:59"], ["5abd0cc0358424621544f5a8b9452500d00c9c22923b8831512bcaed10233d1b", 100501], ["5dbcaabf14fed7ee77f0091f92e9f1e764fbb5c852966c2977b6a2698d2062bc", 50], ["6027e9b8eef43102f71ab78031fe9d0d051a19f1ff43fc8544a1df11d889e1b7", 5], ["654d75c8613b81b478854b8efcae2eefed0e3bc1a404447bda6f89b14583562b", 32005], ["965323fa8fd280d2b9bc165e49c22bdf03328fbc18f952a73acadcc06d69ef3c", 0], ["aabac6711fb515b234f5f6ff1036807eb9db8f88935a8ecac81db11a2125bd35", 0], ["b55ff0d32a8667945dd2d947c84a04c275df5dc25c90629cf9f67f2f0ffe46d7", 0], ["dc1aafc6882ab88a2f29bc380df6fad2e9cbe5c239f2b49def96965b3682f949", 28030], ["de6d8ee3cebe677ace4054da58de61365b604887cce6b7d518ca105e6a4699df", "2025/05/01 00:00:00"], ["dee081d29232be5a6682c3194fe6253daa608505ad1368bf3679c6ab71dd1095", 0]]
+        ],
+        "modified": [
+          {
+            "id": 28025,
+            "old": [["1de3797dbe5e2996c4976f39f949ef01adb2529e11722f17246907516b3d4752", 2], ["39ff37f9b655f9b87adbd4c9e8f4a5e0ada6a3eb895fa9db4334bdaece5f2d5b", 0], ["3e44778fb366527e1d9939553df83d9f7dc715e586ae0a79ab3ada008f59aa1b", 0], ["459952444bbc2c50a5a4d1c86fcd145ccfdc7f9c422db6c4f7c79d7ed3e2aeec", "2030/08/01 14:59:59"], ["5abd0cc0358424621544f5a8b9452500d00c9c22923b8831512bcaed10233d1b", 105201], ["5dbcaabf14fed7ee77f0091f92e9f1e764fbb5c852966c2977b6a2698d2062bc", 50], ["6027e9b8eef43102f71ab78031fe9d0d051a19f1ff43fc8544a1df11d889e1b7", 47], ["654d75c8613b81b478854b8efcae2eefed0e3bc1a404447bda6f89b14583562b", 31052], ["965323fa8fd280d2b9bc165e49c22bdf03328fbc18f952a73acadcc06d69ef3c", 0], ["aabac6711fb515b234f5f6ff1036807eb9db8f88935a8ecac81db11a2125bd35", 0], ["b55ff0d32a8667945dd2d947c84a04c275df5dc25c90629cf9f67f2f0ffe46d7", 0], ["dc1aafc6882ab88a2f29bc380df6fad2e9cbe5c239f2b49def96965b3682f949", 28025], ["de6d8ee3cebe677ace4054da58de61365b604887cce6b7d518ca105e6a4699df", "2024/10/01"], ["dee081d29232be5a6682c3194fe6253daa608505ad1368bf3679c6ab71dd1095", 0]],
+            "new": [["1de3797dbe5e2996c4976f39f949ef01adb2529e11722f17246907516b3d4752", 2], ["39ff37f9b655f9b87adbd4c9e8f4a5e0ada6a3eb895fa9db4334bdaece5f2d5b", 0], ["3e44778fb366527e1d9939553df83d9f7dc715e586ae0a79ab3ada008f59aa1b", 0], ["459952444bbc2c50a5a4d1c86fcd145ccfdc7f9c422db6c4f7c79d7ed3e2aeec", "2030/08/01 14:59:59"], ["5abd0cc0358424621544f5a8b9452500d00c9c22923b8831512bcaed10233d1b", 105501], ["5dbcaabf14fed7ee77f0091f92e9f1e764fbb5c852966c2977b6a2698d2062bc", 50], ["6027e9b8eef43102f71ab78031fe9d0d051a19f1ff43fc8544a1df11d889e1b7", 50], ["654d75c8613b81b478854b8efcae2eefed0e3bc1a404447bda6f89b14583562b", 31055], ["965323fa8fd280d2b9bc165e49c22bdf03328fbc18f952a73acadcc06d69ef3c", 0], ["aabac6711fb515b234f5f6ff1036807eb9db8f88935a8ecac81db11a2125bd35", 0], ["b55ff0d32a8667945dd2d947c84a04c275df5dc25c90629cf9f67f2f0ffe46d7", 0], ["dc1aafc6882ab88a2f29bc380df6fad2e9cbe5c239f2b49def96965b3682f949", 28025], ["de6d8ee3cebe677ace4054da58de61365b604887cce6b7d518ca105e6a4699df", "2024/10/01 00:00:00"], ["dee081d29232be5a6682c3194fe6253daa608505ad1368bf3679c6ab71dd1095", 0]]
+          },
+          {
+            "id": 28027,
+            "old": [["1de3797dbe5e2996c4976f39f949ef01adb2529e11722f17246907516b3d4752", 2], ["39ff37f9b655f9b87adbd4c9e8f4a5e0ada6a3eb895fa9db4334bdaece5f2d5b", 0], ["3e44778fb366527e1d9939553df83d9f7dc715e586ae0a79ab3ada008f59aa1b", 0], ["459952444bbc2c50a5a4d1c86fcd145ccfdc7f9c422db6c4f7c79d7ed3e2aeec", "2030/08/01 14:59:59"], ["5abd0cc0358424621544f5a8b9452500d00c9c22923b8831512bcaed10233d1b", 105201], ["5dbcaabf14fed7ee77f0091f92e9f1e764fbb5c852966c2977b6a2698d2062bc", 50], ["6027e9b8eef43102f71ab78031fe9d0d051a19f1ff43fc8544a1df11d889e1b7", 47], ["654d75c8613b81b478854b8efcae2eefed0e3bc1a404447bda6f89b14583562b", 31052], ["965323fa8fd280d2b9bc165e49c22bdf03328fbc18f952a73acadcc06d69ef3c", 0], ["aabac6711fb515b234f5f6ff1036807eb9db8f88935a8ecac81db11a2125bd35", 0], ["b55ff0d32a8667945dd2d947c84a04c275df5dc25c90629cf9f67f2f0ffe46d7", 0], ["dc1aafc6882ab88a2f29bc380df6fad2e9cbe5c239f2b49def96965b3682f949", 28027], ["de6d8ee3cebe677ace4054da58de61365b604887cce6b7d518ca105e6a4699df", "2025/02/01"], ["dee081d29232be5a6682c3194fe6253daa608505ad1368bf3679c6ab71dd1095", 0]],
+            "new": [["1de3797dbe5e2996c4976f39f949ef01adb2529e11722f17246907516b3d4752", 2], ["39ff37f9b655f9b87adbd4c9e8f4a5e0ada6a3eb895fa9db4334bdaece5f2d5b", 0], ["3e44778fb366527e1d9939553df83d9f7dc715e586ae0a79ab3ada008f59aa1b", 0], ["459952444bbc2c50a5a4d1c86fcd145ccfdc7f9c422db6c4f7c79d7ed3e2aeec", "2030/08/01 14:59:59"], ["5abd0cc0358424621544f5a8b9452500d00c9c22923b8831512bcaed10233d1b", 103101], ["5dbcaabf14fed7ee77f0091f92e9f1e764fbb5c852966c2977b6a2698d2062bc", 50], ["6027e9b8eef43102f71ab78031fe9d0d051a19f1ff43fc8544a1df11d889e1b7", 29], ["654d75c8613b81b478854b8efcae2eefed0e3bc1a404447bda6f89b14583562b", 31031], ["965323fa8fd280d2b9bc165e49c22bdf03328fbc18f952a73acadcc06d69ef3c", 0], ["aabac6711fb515b234f5f6ff1036807eb9db8f88935a8ecac81db11a2125bd35", 0], ["b55ff0d32a8667945dd2d947c84a04c275df5dc25c90629cf9f67f2f0ffe46d7", 0], ["dc1aafc6882ab88a2f29bc380df6fad2e9cbe5c239f2b49def96965b3682f949", 28027], ["de6d8ee3cebe677ace4054da58de61365b604887cce6b7d518ca105e6a4699df", "2025/02/01 00:00:00"], ["dee081d29232be5a6682c3194fe6253daa608505ad1368bf3679c6ab71dd1095", 0]]
+          },
+          {
+            "id": 28028,
+            "old": [["1de3797dbe5e2996c4976f39f949ef01adb2529e11722f17246907516b3d4752", 2], ["39ff37f9b655f9b87adbd4c9e8f4a5e0ada6a3eb895fa9db4334bdaece5f2d5b", 0], ["3e44778fb366527e1d9939553df83d9f7dc715e586ae0a79ab3ada008f59aa1b", 0], ["459952444bbc2c50a5a4d1c86fcd145ccfdc7f9c422db6c4f7c79d7ed3e2aeec", "2030/08/01 14:59:59"], ["5abd0cc0358424621544f5a8b9452500d00c9c22923b8831512bcaed10233d1b", 101501], ["5dbcaabf14fed7ee77f0091f92e9f1e764fbb5c852966c2977b6a2698d2062bc", 50], ["6027e9b8eef43102f71ab78031fe9d0d051a19f1ff43fc8544a1df11d889e1b7", 15], ["654d75c8613b81b478854b8efcae2eefed0e3bc1a404447bda6f89b14583562b", 32015], ["965323fa8fd280d2b9bc165e49c22bdf03328fbc18f952a73acadcc06d69ef3c", 0], ["aabac6711fb515b234f5f6ff1036807eb9db8f88935a8ecac81db11a2125bd35", 0], ["b55ff0d32a8667945dd2d947c84a04c275df5dc25c90629cf9f67f2f0ffe46d7", 0], ["dc1aafc6882ab88a2f29bc380df6fad2e9cbe5c239f2b49def96965b3682f949", 28028], ["de6d8ee3cebe677ace4054da58de61365b604887cce6b7d518ca105e6a4699df", "2025/02/01"], ["dee081d29232be5a6682c3194fe6253daa608505ad1368bf3679c6ab71dd1095", 0]],
+            "new": [["1de3797dbe5e2996c4976f39f949ef01adb2529e11722f17246907516b3d4752", 2], ["39ff37f9b655f9b87adbd4c9e8f4a5e0ada6a3eb895fa9db4334bdaece5f2d5b", 0], ["3e44778fb366527e1d9939553df83d9f7dc715e586ae0a79ab3ada008f59aa1b", 0], ["459952444bbc2c50a5a4d1c86fcd145ccfdc7f9c422db6c4f7c79d7ed3e2aeec", "2030/08/01 14:59:59"], ["5abd0cc0358424621544f5a8b9452500d00c9c22923b8831512bcaed10233d1b", 105601], ["5dbcaabf14fed7ee77f0091f92e9f1e764fbb5c852966c2977b6a2698d2062bc", 50], ["6027e9b8eef43102f71ab78031fe9d0d051a19f1ff43fc8544a1df11d889e1b7", 51], ["654d75c8613b81b478854b8efcae2eefed0e3bc1a404447bda6f89b14583562b", 32056], ["965323fa8fd280d2b9bc165e49c22bdf03328fbc18f952a73acadcc06d69ef3c", 0], ["aabac6711fb515b234f5f6ff1036807eb9db8f88935a8ecac81db11a2125bd35", 0], ["b55ff0d32a8667945dd2d947c84a04c275df5dc25c90629cf9f67f2f0ffe46d7", 0], ["dc1aafc6882ab88a2f29bc380df6fad2e9cbe5c239f2b49def96965b3682f949", 28028], ["de6d8ee3cebe677ace4054da58de61365b604887cce6b7d518ca105e6a4699df", "2025/02/01 00:00:00"], ["dee081d29232be5a6682c3194fe6253daa608505ad1368bf3679c6ab71dd1095", 0]]
+          },
+          {
+            "id": 28026,
+            "old": [["1de3797dbe5e2996c4976f39f949ef01adb2529e11722f17246907516b3d4752", 2], ["39ff37f9b655f9b87adbd4c9e8f4a5e0ada6a3eb895fa9db4334bdaece5f2d5b", 0], ["3e44778fb366527e1d9939553df83d9f7dc715e586ae0a79ab3ada008f59aa1b", 0], ["459952444bbc2c50a5a4d1c86fcd145ccfdc7f9c422db6c4f7c79d7ed3e2aeec", "2030/08/01 14:59:59"], ["5abd0cc0358424621544f5a8b9452500d00c9c22923b8831512bcaed10233d1b", 101601], ["5dbcaabf14fed7ee77f0091f92e9f1e764fbb5c852966c2977b6a2698d2062bc", 50], ["6027e9b8eef43102f71ab78031fe9d0d051a19f1ff43fc8544a1df11d889e1b7", 16], ["654d75c8613b81b478854b8efcae2eefed0e3bc1a404447bda6f89b14583562b", 32016], ["965323fa8fd280d2b9bc165e49c22bdf03328fbc18f952a73acadcc06d69ef3c", 0], ["aabac6711fb515b234f5f6ff1036807eb9db8f88935a8ecac81db11a2125bd35", 0], ["b55ff0d32a8667945dd2d947c84a04c275df5dc25c90629cf9f67f2f0ffe46d7", 0], ["dc1aafc6882ab88a2f29bc380df6fad2e9cbe5c239f2b49def96965b3682f949", 28026], ["de6d8ee3cebe677ace4054da58de61365b604887cce6b7d518ca105e6a4699df", "2024/10/01"], ["dee081d29232be5a6682c3194fe6253daa608505ad1368bf3679c6ab71dd1095", 0]],
+            "new": [["1de3797dbe5e2996c4976f39f949ef01adb2529e11722f17246907516b3d4752", 2], ["39ff37f9b655f9b87adbd4c9e8f4a5e0ada6a3eb895fa9db4334bdaece5f2d5b", 0], ["3e44778fb366527e1d9939553df83d9f7dc715e586ae0a79ab3ada008f59aa1b", 0], ["459952444bbc2c50a5a4d1c86fcd145ccfdc7f9c422db6c4f7c79d7ed3e2aeec", "2030/08/01 14:59:59"], ["5abd0cc0358424621544f5a8b9452500d00c9c22923b8831512bcaed10233d1b", 102501], ["5dbcaabf14fed7ee77f0091f92e9f1e764fbb5c852966c2977b6a2698d2062bc", 50], ["6027e9b8eef43102f71ab78031fe9d0d051a19f1ff43fc8544a1df11d889e1b7", 23], ["654d75c8613b81b478854b8efcae2eefed0e3bc1a404447bda6f89b14583562b", 32025], ["965323fa8fd280d2b9bc165e49c22bdf03328fbc18f952a73acadcc06d69ef3c", 0], ["aabac6711fb515b234f5f6ff1036807eb9db8f88935a8ecac81db11a2125bd35", 0], ["b55ff0d32a8667945dd2d947c84a04c275df5dc25c90629cf9f67f2f0ffe46d7", 0], ["dc1aafc6882ab88a2f29bc380df6fad2e9cbe5c239f2b49def96965b3682f949", 28026], ["de6d8ee3cebe677ace4054da58de61365b604887cce6b7d518ca105e6a4699df", "2024/10/01 00:00:00"], ["dee081d29232be5a6682c3194fe6253daa608505ad1368bf3679c6ab71dd1095", 0]]
+          }
+        ]
+      }
+    },
+    "fbs_schedule": {
+      "data_changes": {
+        "added": [
+          [["end_time", "2025/05/12 04:59:59"], ["fbs_id", 89], ["start_time", "2025/05/11 05:00:00"], ["story_id", 4010089]],
+          [["end_time", "2025/05/11 04:59:59"], ["fbs_id", 88], ["start_time", "2025/05/10 05:00:00"], ["story_id", 4010088]],
+          [["end_time", "2025/05/06 04:59:59"], ["fbs_id", 87], ["start_time", "2025/05/05 05:00:00"], ["story_id", 4010087]]
+        ]
+      }
+    },
+    "season_pack": {
+      "data_changes": {
+        "added": [
+          [["add_num_1", 0], ["after_text", ""], ["b95592134127539b3210abddc126c4617863a61ad43917e83e9839b516d06898", 0], ["category_icon", 0], ["condition_flg", 0], ["d298bd75d33b156618212298bd09e9bc81fcda01419982327ec0ab55833271fe", 0], ["disp_order", 8], ["gift_message_id", 9436], ["group_id", 0], ["id", 678], ["item_record_id", 158], ["mission_id", 0], ["pack_type", 6], ["receive_text", ""], ["repurchase_day", 0], ["reward_rate_1", 0], ["system_id_1", 0], ["term", 0]],
+          [["add_num_1", 0], ["after_text", ""], ["b95592134127539b3210abddc126c4617863a61ad43917e83e9839b516d06898", 0], ["category_icon", 0], ["condition_flg", 0], ["d298bd75d33b156618212298bd09e9bc81fcda01419982327ec0ab55833271fe", 0], ["disp_order", 10], ["gift_message_id", 9436], ["group_id", 0], ["id", 682], ["item_record_id", 143], ["mission_id", 0], ["pack_type", 6], ["receive_text", ""], ["repurchase_day", 0], ["reward_rate_1", 0], ["system_id_1", 0], ["term", 0]],
+          [["add_num_1", 0], ["after_text", ""], ["b95592134127539b3210abddc126c4617863a61ad43917e83e9839b516d06898", 0], ["category_icon", 0], ["condition_flg", 0], ["d298bd75d33b156618212298bd09e9bc81fcda01419982327ec0ab55833271fe", 0], ["disp_order", 5], ["gift_message_id", 9437], ["group_id", 0], ["id", 677], ["item_record_id", 157], ["mission_id", 0], ["pack_type", 6], ["receive_text", ""], ["repurchase_day", 0], ["reward_rate_1", 0], ["system_id_1", 0], ["term", 0]],
+          [["add_num_1", 0], ["after_text", ""], ["b95592134127539b3210abddc126c4617863a61ad43917e83e9839b516d06898", 0], ["category_icon", 0], ["condition_flg", 0], ["d298bd75d33b156618212298bd09e9bc81fcda01419982327ec0ab55833271fe", 0], ["disp_order", 9], ["gift_message_id", 9436], ["group_id", 0], ["id", 681], ["item_record_id", 142], ["mission_id", 0], ["pack_type", 6], ["receive_text", ""], ["repurchase_day", 0], ["reward_rate_1", 0], ["system_id_1", 0], ["term", 0]],
+          [["add_num_1", 0], ["after_text", ""], ["b95592134127539b3210abddc126c4617863a61ad43917e83e9839b516d06898", 0], ["category_icon", 0], ["condition_flg", 0], ["d298bd75d33b156618212298bd09e9bc81fcda01419982327ec0ab55833271fe", 0], ["disp_order", 6], ["gift_message_id", 9436], ["group_id", 0], ["id", 680], ["item_record_id", 160], ["mission_id", 0], ["pack_type", 6], ["receive_text", ""], ["repurchase_day", 0], ["reward_rate_1", 0], ["system_id_1", 0], ["term", 0]],
+          [["add_num_1", 0], ["after_text", ""], ["b95592134127539b3210abddc126c4617863a61ad43917e83e9839b516d06898", 0], ["category_icon", 0], ["condition_flg", 0], ["d298bd75d33b156618212298bd09e9bc81fcda01419982327ec0ab55833271fe", 0], ["disp_order", 4], ["gift_message_id", 9434], ["group_id", 0], ["id", 676], ["item_record_id", 156], ["mission_id", 0], ["pack_type", 6], ["receive_text", ""], ["repurchase_day", 0], ["reward_rate_1", 0], ["system_id_1", 0], ["term", 0]],
+          [["add_num_1", 0], ["after_text", ""], ["b95592134127539b3210abddc126c4617863a61ad43917e83e9839b516d06898", 0], ["category_icon", 0], ["condition_flg", 0], ["d298bd75d33b156618212298bd09e9bc81fcda01419982327ec0ab55833271fe", 0], ["disp_order", 14], ["gift_message_id", 9438], ["group_id", 0], ["id", 673], ["item_record_id", 154], ["mission_id", 0], ["pack_type", 6], ["receive_text", ""], ["repurchase_day", 0], ["reward_rate_1", 0], ["system_id_1", 0], ["term", 0]],
+          [["add_num_1", 0], ["after_text", ""], ["b95592134127539b3210abddc126c4617863a61ad43917e83e9839b516d06898", 0], ["category_icon", 0], ["condition_flg", 0], ["d298bd75d33b156618212298bd09e9bc81fcda01419982327ec0ab55833271fe", 0], ["disp_order", 1], ["gift_message_id", 9319], ["group_id", 0], ["id", 674], ["item_record_id", 155], ["mission_id", 0], ["pack_type", 5], ["receive_text", ""], ["repurchase_day", 0], ["reward_rate_1", 0], ["system_id_1", 908], ["term", 30]],
+          [["add_num_1", 0], ["after_text", ""], ["b95592134127539b3210abddc126c4617863a61ad43917e83e9839b516d06898", 0], ["category_icon", 0], ["condition_flg", 0], ["d298bd75d33b156618212298bd09e9bc81fcda01419982327ec0ab55833271fe", 0], ["disp_order", 11], ["gift_message_id", 9436], ["group_id", 0], ["id", 683], ["item_record_id", 144], ["mission_id", 0], ["pack_type", 6], ["receive_text", ""], ["repurchase_day", 0], ["reward_rate_1", 0], ["system_id_1", 0], ["term", 0]],
+          [["add_num_1", 0], ["after_text", ""], ["b95592134127539b3210abddc126c4617863a61ad43917e83e9839b516d06898", 0], ["category_icon", 0], ["condition_flg", 0], ["d298bd75d33b156618212298bd09e9bc81fcda01419982327ec0ab55833271fe", 0], ["disp_order", 13], ["gift_message_id", 9436], ["group_id", 0], ["id", 685], ["item_record_id", 146], ["mission_id", 0], ["pack_type", 6], ["receive_text", ""], ["repurchase_day", 0], ["reward_rate_1", 0], ["system_id_1", 0], ["term", 0]],
+          [["add_num_1", 0], ["after_text", ""], ["b95592134127539b3210abddc126c4617863a61ad43917e83e9839b516d06898", 0], ["category_icon", 0], ["condition_flg", 0], ["d298bd75d33b156618212298bd09e9bc81fcda01419982327ec0ab55833271fe", 0], ["disp_order", 3], ["gift_message_id", 99677], ["group_id", 0], ["id", 675], ["item_record_id", 139], ["mission_id", 0], ["pack_type", 6], ["receive_text", ""], ["repurchase_day", 0], ["reward_rate_1", 0], ["system_id_1", 0], ["term", 0]],
+          [["add_num_1", 0], ["after_text", ""], ["b95592134127539b3210abddc126c4617863a61ad43917e83e9839b516d06898", 0], ["category_icon", 0], ["condition_flg", 0], ["d298bd75d33b156618212298bd09e9bc81fcda01419982327ec0ab55833271fe", 0], ["disp_order", 12], ["gift_message_id", 9436], ["group_id", 0], ["id", 684], ["item_record_id", 145], ["mission_id", 0], ["pack_type", 6], ["receive_text", ""], ["repurchase_day", 0], ["reward_rate_1", 0], ["system_id_1", 0], ["term", 0]],
+          [["add_num_1", 0], ["after_text", ""], ["b95592134127539b3210abddc126c4617863a61ad43917e83e9839b516d06898", 0], ["category_icon", 0], ["condition_flg", 0], ["d298bd75d33b156618212298bd09e9bc81fcda01419982327ec0ab55833271fe", 0], ["disp_order", 7], ["gift_message_id", 9436], ["group_id", 0], ["id", 679], ["item_record_id", 159], ["mission_id", 0], ["pack_type", 6], ["receive_text", ""], ["repurchase_day", 0], ["reward_rate_1", 0], ["system_id_1", 0], ["term", 0]]
+        ]
+      }
+    },
+    "campaign_schedule": {
+      "data_changes": {
+        "added": [
+          [["beginner_id", 0], ["campaign_category", 37], ["campaign_type", 1], ["duplication_order", 0], ["end_time", "2025/05/07 04:59:59"], ["icon_image", 30], ["id", 2265], ["level_id", 0], ["lv_from", 1], ["lv_to", -1], ["shiori_group_id", 0], ["start_time", "2025/05/01 05:00:00"], ["system_id", 109], ["value", 2000.0]],
+          [["beginner_id", 0], ["campaign_category", 152], ["campaign_type", 1], ["duplication_order", 0], ["end_time", "2025/05/15 15:59:59"], ["icon_image", 80], ["id", 2270], ["level_id", 0], ["lv_from", 1], ["lv_to", -1], ["shiori_group_id", 0], ["start_time", "2025/05/01 16:00:00"], ["system_id", 6005], ["value", 1500.0]],
+          [["beginner_id", 0], ["campaign_category", 44], ["campaign_type", 1], ["duplication_order", 0], ["end_time", "2025/05/04 04:59:59"], ["icon_image", 40], ["id", 2268], ["level_id", 0], ["lv_from", 1], ["lv_to", -1], ["shiori_group_id", 0], ["start_time", "2025/05/01 05:00:00"], ["system_id", 103], ["value", 2000.0]],
+          [["beginner_id", 0], ["campaign_category", 45], ["campaign_type", 1], ["duplication_order", 0], ["end_time", "2025/05/18 04:59:59"], ["icon_image", 40], ["id", 2264], ["level_id", 0], ["lv_from", 1], ["lv_to", -1], ["shiori_group_id", 0], ["start_time", "2025/05/01 05:00:00"], ["system_id", 104], ["value", 2000.0]],
+          [["beginner_id", 0], ["campaign_category", 151], ["campaign_type", 1], ["duplication_order", 0], ["end_time", "2025/05/15 15:59:59"], ["icon_image", 80], ["id", 2269], ["level_id", 0], ["lv_from", 1], ["lv_to", -1], ["shiori_group_id", 0], ["start_time", "2025/05/01 16:00:00"], ["system_id", 6004], ["value", 1500.0]],
+          [["beginner_id", 0], ["campaign_category", 34], ["campaign_type", 1], ["duplication_order", 0], ["end_time", "2025/05/04 04:59:59"], ["icon_image", 30], ["id", 2267], ["level_id", 0], ["lv_from", 1], ["lv_to", -1], ["shiori_group_id", 0], ["start_time", "2025/05/01 05:00:00"], ["system_id", 103], ["value", 2000.0]],
+          [["beginner_id", 0], ["campaign_category", 38], ["campaign_type", 1], ["duplication_order", 0], ["end_time", "2025/05/07 04:59:59"], ["icon_image", 30], ["id", 2266], ["level_id", 0], ["lv_from", 1], ["lv_to", -1], ["shiori_group_id", 0], ["start_time", "2025/05/01 05:00:00"], ["system_id", 112], ["value", 2000.0]]
+        ]
+      }
+    },
+    "login_bonus_adv": {
+      "data_changes": {
+        "added": [
+          [["adv_id", 441], ["count_key", 1], ["end_time", "0"], ["id", 150], ["login_bonus_id", 70013], ["read_process_flag", 0], ["start_time", "0"]]
+        ]
+      }
+    },
+    "login_bonus_detail": {
+      "data_changes": {
+        "added": [
+          [["bg_id", 0], ["character_id", 0], ["character_name", ""], ["count", 1], ["description", ""], ["id", 493], ["login_bonus_id", 70013], ["reward_id", 91002], ["reward_num", 1000], ["reward_type", 8], ["voice_id", 0]]
+        ]
+      }
+    },
+    "banner": {
+      "data_changes": {
+        "added": [
+          [["banner_id", 20059], ["condition_id", 676], ["end_date", "2025/05/15 23:59:59"], ["gacha_id", 0], ["is_show_room", 0], ["priority", 23], ["start_date", "2025/05/01 00:00:00"], ["sub_banner_id_1", 0], ["system_id", 0], ["type", 5]],
+          [["banner_id", 20064], ["condition_id", 673], ["end_date", "2025/10/01 23:59:59"], ["gacha_id", 0], ["is_show_room", 0], ["priority", 29], ["start_date", "2025/05/01 00:00:00"], ["sub_banner_id_1", 0], ["system_id", 0], ["type", 5]],
+          [["banner_id", 20062], ["condition_id", 678], ["end_date", "2025/05/15 23:59:59"], ["gacha_id", 0], ["is_show_room", 0], ["priority", 26], ["start_date", "2025/05/01 00:00:00"], ["sub_banner_id_1", 0], ["system_id", 0], ["type", 5]],
+          [["banner_id", 20058], ["condition_id", 675], ["end_date", "2025/05/15 23:59:59"], ["gacha_id", 0], ["is_show_room", 0], ["priority", 21], ["start_date", "2025/05/01 00:00:00"], ["sub_banner_id_1", 0], ["system_id", 0], ["type", 5]],
+          [["banner_id", 20057], ["condition_id", 0], ["end_date", "2025/05/15 23:59:59"], ["gacha_id", 0], ["is_show_room", 0], ["priority", 2], ["start_date", "2025/05/01 00:00:00"], ["sub_banner_id_1", 0], ["system_id", 908], ["type", 4]],
+          [["banner_id", 20060], ["condition_id", 677], ["end_date", "2025/05/15 23:59:59"], ["gacha_id", 0], ["is_show_room", 0], ["priority", 24], ["start_date", "2025/05/01 00:00:00"], ["sub_banner_id_1", 0], ["system_id", 0], ["type", 5]],
+          [["banner_id", 20063], ["condition_id", 681], ["end_date", "2025/05/15 23:59:59"], ["gacha_id", 0], ["is_show_room", 0], ["priority", 27], ["start_date", "2025/05/01 00:00:00"], ["sub_banner_id_1", 0], ["system_id", 0], ["type", 5]],
+          [["banner_id", 20061], ["condition_id", 679], ["end_date", "2025/05/15 23:59:59"], ["gacha_id", 0], ["is_show_room", 0], ["priority", 25], ["start_date", "2025/05/01 00:00:00"], ["sub_banner_id_1", 0], ["system_id", 0], ["type", 5]]
+        ],
+        "modified": [
+          {
+            "id": 20055,
+            "old": [["banner_id", 20055], ["condition_id", 662], ["end_date", "2030/03/01 14:59:59"], ["gacha_id", 0], ["is_show_room", 0], ["priority", 29], ["start_date", "2025/02/01 00:00:00"], ["sub_banner_id_1", 0], ["system_id", 0], ["type", 5]],
+            "new": [["banner_id", 20055], ["condition_id", 662], ["end_date", "2030/03/01 14:59:59"], ["gacha_id", 0], ["is_show_room", 0], ["priority", 30], ["start_date", "2025/02/01 00:00:00"], ["sub_banner_id_1", 0], ["system_id", 0], ["type", 5]]
+          },
+          {
+            "id": 20000,
+            "old": [["banner_id", 20000], ["condition_id", 0], ["end_date", "2030/01/01 23:59:59"], ["gacha_id", 0], ["is_show_room", 0], ["priority", 29], ["start_date", "2018/01/01 15:00:00"], ["sub_banner_id_1", 0], ["system_id", 101], ["type", 2]],
+            "new": [["banner_id", 20000], ["condition_id", 0], ["end_date", "2030/01/01 23:59:59"], ["gacha_id", 0], ["is_show_room", 0], ["priority", 35], ["start_date", "2018/01/01 15:00:00"], ["sub_banner_id_1", 0], ["system_id", 101], ["type", 2]]
+          },
+          {
+            "id": 20056,
+            "old": [["banner_id", 20056], ["condition_id", 672], ["end_date", "2030/03/01 14:59:59"], ["gacha_id", 0], ["is_show_room", 0], ["priority", 30], ["start_date", "2025/02/15 16:00:00"], ["sub_banner_id_1", 0], ["system_id", 0], ["type", 5]],
+            "new": [["banner_id", 20056], ["condition_id", 672], ["end_date", "2030/03/01 14:59:59"], ["gacha_id", 0], ["is_show_room", 0], ["priority", 28], ["start_date", "2025/02/15 16:00:00"], ["sub_banner_id_1", 0], ["system_id", 0], ["type", 5]]
+          }
+        ]
+      }
+    },
+    "skill_action": {
+      "data_changes": {
+        "added": [
+          [["action_detail_1", 110], ["action_detail_2", 1], ["action_detail_3", 1], ["action_id", 180901206], ["action_type", 10], ["action_value_1", 2.0], ["action_value_2", 24.0], ["action_value_3", 0.0], ["action_value_4", 12.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 1.0], ["class_id", 1], ["description", "提升自己物理攻擊暴擊時的傷害{0}%"], ["level_up_disp", ""], ["target_area", 3], ["target_assignment", 2], ["target_count", 1], ["target_number", 0], ["target_range", 2160], ["target_type", 7]],
+          [["action_detail_1", 60], ["action_detail_2", 1], ["action_detail_3", 0], ["action_id", 180901205], ["action_type", 10], ["action_value_1", 1.0], ["action_value_2", 200.0], ["action_value_3", 0.0], ["action_value_4", 12.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "自身物理暴擊提升{0}"], ["level_up_disp", ""], ["target_area", 3], ["target_assignment", 2], ["target_count", 1], ["target_number", 0], ["target_range", 2160], ["target_type", 7]],
+          [["action_detail_1", 10], ["action_detail_2", 1], ["action_detail_3", 0], ["action_id", 180901204], ["action_type", 10], ["action_value_1", 1.0], ["action_value_2", 100.0], ["action_value_3", 100.0], ["action_value_4", 12.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "提升自身{0}的物理攻擊力"], ["level_up_disp", "物理攻擊力提升+{0}"], ["target_area", 3], ["target_assignment", 2], ["target_count", 1], ["target_number", 0], ["target_range", 2160], ["target_type", 7]],
+          [["action_detail_1", 1], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 180901207], ["action_type", 16], ["action_value_1", 280.0], ["action_value_2", 0.0], ["action_value_3", 0.0], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "回復自身{0}的TP"], ["level_up_disp", ""], ["target_area", 3], ["target_assignment", 2], ["target_count", 1], ["target_number", 0], ["target_range", 2160], ["target_type", 7]],
+          [["action_detail_1", 60], ["action_detail_2", 1], ["action_detail_3", 0], ["action_id", 180901202], ["action_type", 10], ["action_value_1", 1.0], ["action_value_2", 100.0], ["action_value_3", 0.0], ["action_value_4", 12.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "使全體夥伴的物理暴擊提升{0}"], ["level_up_disp", ""], ["target_area", 3], ["target_assignment", 2], ["target_count", 99], ["target_number", 0], ["target_range", 2160], ["target_type", 3]],
+          [["action_detail_1", 1], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 180901208], ["action_type", 4], ["action_value_1", 1.0], ["action_value_2", 1.0], ["action_value_3", 1.0], ["action_value_4", 0.1], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "回復自身{0}的HP"], ["level_up_disp", "HP回復量+{0}"], ["target_area", 3], ["target_assignment", 2], ["target_count", 1], ["target_number", 0], ["target_range", 2160], ["target_type", 7]],
+          [["action_detail_1", 10], ["action_detail_2", 1], ["action_detail_3", 0], ["action_id", 180901201], ["action_type", 10], ["action_value_1", 1.0], ["action_value_2", 50.0], ["action_value_3", 50.0], ["action_value_4", 12.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "提升我方全體{0}的物理攻擊力"], ["level_up_disp", "物理攻擊力提升+{0}"], ["target_area", 3], ["target_assignment", 2], ["target_count", 99], ["target_number", 0], ["target_range", 2160], ["target_type", 3]],
+          [["action_detail_1", 110], ["action_detail_2", 1], ["action_detail_3", 1], ["action_id", 180901203], ["action_type", 10], ["action_value_1", 2.0], ["action_value_2", 12.0], ["action_value_3", 0.0], ["action_value_4", 12.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 1.0], ["class_id", 1], ["description", "提升我方全體物理攻擊暴擊時的傷害{0}%"], ["level_up_disp", ""], ["target_area", 3], ["target_assignment", 2], ["target_count", 99], ["target_number", 0], ["target_range", 2160], ["target_type", 3]]
+        ]
+      }
+    },
+    "login_bonus_data": {
+      "data_changes": {
+        "added": [
+          [["adv_play_type", 2], ["bg_id", 500160], ["count_num", 1], ["count_type", 0], ["end_time", "2025/05/05 04:59:59"], ["login_bonus_id", 70013], ["login_bonus_type", 7], ["name", "勞動節限定特別登入獎勵"], ["odds_group_id", 0], ["stamp_id", 0], ["start_time", "2025/05/01 05:00:00"]],
+          [["adv_play_type", 0], ["bg_id", 500553], ["count_num", 5], ["count_type", 0], ["end_time", "2025/05/11 04:59:59"], ["login_bonus_id", 60006], ["login_bonus_type", 6], ["name", "謹賀新年 新年登入獎勵"], ["odds_group_id", 1], ["stamp_id", 0], ["start_time", "2025/05/01 05:00:00"]]
+        ]
+      }
+    },
+    "item_data": {
+      "data_changes": {
+        "added": [
+          [["description", "能夠交換特定角色純淨記憶碎片的交換券。"], ["end_time", "2030/08/01 14:59:59"], ["gojuon_order", 0], ["item_id", 28030], ["item_name", "春夏特賣純淨記憶碎片交換券"], ["item_type", 17], ["limit_num", 999], ["price", 0], ["promotion_level", 1], ["sell_check_disp", 0], ["start_time", "2025/05/01 00:00:00"], ["value", 0]],
+          [["description", "能夠交換特定角色記憶碎片的交換券。"], ["end_time", "2030/08/01 14:59:59"], ["gojuon_order", 0], ["item_id", 28029], ["item_name", "春夏特賣記憶碎片交換券"], ["item_type", 17], ["limit_num", 999], ["price", 0], ["promotion_level", 1], ["sell_check_disp", 0], ["start_time", "2025/05/01 00:00:00"], ["value", 0]],
+          [["description", "可以交換特定角色的券。"], ["end_time", "2030/08/01 14:59:59"], ["gojuon_order", 0], ["item_id", 27018], ["item_name", "特別交換券（限定+）"], ["item_type", 17], ["limit_num", 999], ["price", 0], ["promotion_level", 1], ["sell_check_disp", 0], ["start_time", "2025/05/01 00:00:00"], ["value", 0]]
+        ]
+      }
+    },
+    "unique_equipment_craft": {
+      "data_changes": {
+        "added": [
+          [["consume_num_1", 50], ["consume_num_10", 0], ["consume_num_2", 3], ["consume_num_3", 0], ["consume_num_4", 0], ["consume_num_5", 0], ["consume_num_6", 0], ["consume_num_7", 0], ["consume_num_8", 0], ["consume_num_9", 0], ["crafted_cost", 1000000], ["equip_id", 138091], ["item_id_1", 31809], ["item_id_10", 0], ["item_id_2", 140000], ["item_id_3", 0], ["item_id_4", 0], ["item_id_5", 0], ["item_id_6", 0], ["item_id_7", 0], ["item_id_8", 0], ["item_id_9", 0], ["reward_type_1", 2], ["reward_type_10", 0], ["reward_type_2", 4], ["reward_type_3", 0], ["reward_type_4", 0], ["reward_type_5", 0], ["reward_type_6", 0], ["reward_type_7", 0], ["reward_type_8", 0], ["reward_type_9", 0]]
+        ]
+      }
+    },
+    "unique_equipment_rankup": {
+      "data_changes": {
+        "added": [
+          [["consume_num_1", 15], ["consume_num_10", 0], ["consume_num_2", 10], ["consume_num_3", 0], ["consume_num_4", 0], ["consume_num_5", 0], ["consume_num_6", 0], ["consume_num_7", 0], ["consume_num_8", 0], ["consume_num_9", 0], ["crafted_cost", 600000], ["equip_id", 138091], ["item_id_1", 31809], ["item_id_10", 0], ["item_id_2", 140001], ["item_id_3", 0], ["item_id_4", 0], ["item_id_5", 0], ["item_id_6", 0], ["item_id_7", 0], ["item_id_8", 0], ["item_id_9", 0], ["reward_type_1", 2], ["reward_type_10", 0], ["reward_type_2", 4], ["reward_type_3", 0], ["reward_type_4", 0], ["reward_type_5", 0], ["reward_type_6", 0], ["reward_type_7", 0], ["reward_type_8", 0], ["reward_type_9", 0], ["unique_equip_rank", 13], ["unit_level", 200]]
+        ]
+      }
+    },
+    "unit_unique_equipment": {
+      "data_changes": {
+        "added": [
+          [["equip_id", 138091], ["equip_slot", 1], ["unit_id", 180901]]
+        ]
+      }
+    },
+    "unique_equip_enhance_rate": {
+      "data_changes": {
+        "added": [
+          [["accuracy", 0.0], ["atk", 4.25], ["def", 0.0], ["dodge", 0.0], ["energy_recovery_rate", 0.05], ["energy_reduce_rate", 0.0], ["equipment_id", 138091], ["hp", 0.0], ["hp_recovery_rate", 0.0], ["id", 1380910], ["life_steal", 0.0], ["magic_critical", 0.0], ["magic_def", 0.0], ["magic_penetrate", 0.0], ["magic_str", 0.0], ["max_lv", 260], ["min_lv", 2], ["physical_critical", 1.0], ["physical_penetrate", 0.0], ["wave_energy_recovery", 0.0], ["wave_hp_recovery", 0.0]],
+          [["accuracy", 0.0], ["atk", 4.5], ["def", 0.0], ["dodge", 0.0], ["energy_recovery_rate", 0.0], ["energy_reduce_rate", 0.0], ["equipment_id", 138091], ["hp", 0.0], ["hp_recovery_rate", 0.0], ["id", 1380911], ["life_steal", 0.0], ["magic_critical", 0.0], ["magic_def", 0.0], ["magic_penetrate", 0.0], ["magic_str", 0.0], ["max_lv", -1], ["min_lv", 261], ["physical_critical", 1.0], ["physical_penetrate", 0.0], ["wave_energy_recovery", 0.0], ["wave_hp_recovery", 0.0]]
+        ]
+      }
+    }
+  }
+}
