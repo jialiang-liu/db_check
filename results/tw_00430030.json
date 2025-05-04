@@ -1,0 +1,511 @@
+{
+  "tables": {
+    "only_in_old_db": [],
+    "only_in_new_db": []
+  },
+  "table_changes": {
+    "campaign_freegacha_data": {
+      "data_changes": {
+        "added": [
+          [["campaign_id", 38], ["gacha_id", 30366], ["id", 126]]
+        ]
+      }
+    },
+    "emblem_mission_reward_data": {
+      "data_changes": {
+        "added": [
+          [["icon_type", 1002], ["id", 1485], ["mission_reward_id", 56011936], ["reward_id", 10201936], ["reward_num", 1], ["reward_type", 15]],
+          [["icon_type", 1003], ["id", 1486], ["mission_reward_id", 56011937], ["reward_id", 10201937], ["reward_num", 1], ["reward_type", 15]],
+          [["icon_type", 1001], ["id", 1484], ["mission_reward_id", 56011935], ["reward_id", 10201935], ["reward_num", 1], ["reward_type", 15]],
+          [["icon_type", 0], ["id", 1487], ["mission_reward_id", 56011937], ["reward_id", 91002], ["reward_num", 50], ["reward_type", 8]]
+        ]
+      }
+    },
+    "room_unit_comments": {
+      "data_changes": {
+        "added": [
+          [["beloved_step", 1], ["description", "孩子們親手\\n做了風箏來玩喔。\\n真了不起呢，大家……"], ["face_id", 1], ["id", 8818], ["insert_word_type", 0], ["time", 0], ["trigger", 1], ["unit_id", 133501], ["voice_id", 4]]
+        ]
+      }
+    },
+    "story_detail": {
+      "data_changes": {
+        "added": [
+          [["can_bookmark", 1], ["end_time", "2030/12/17 14:59:59"], ["force_unlock_time", "2030/12/17 14:59:59"], ["force_unlock_time_2", "2030/12/17 14:59:59"], ["lock_all_text", 0], ["love_level", 0], ["pre_story_id", 0], ["pre_story_id_2", 0], ["read_process_flag", 1], ["requirement_id", 133501], ["reward_id_1", 91002], ["reward_id_2", 0], ["reward_id_3", 0], ["reward_type_1", 8], ["reward_type_2", 0], ["reward_type_3", 0], ["reward_value_1", 20], ["reward_value_2", 0], ["reward_value_3", 0], ["start_time", "2015/04/01 15:00:00"], ["story_end", 0], ["story_group_id", 1335], ["story_id", 1335001], ["story_quest_id", 0], ["sub_title", "大掃除暗藏的陷阱"], ["title", "咲戀（新年） 第1話"], ["unlock_quest_id", 0], ["visible_type", 0]],
+          [["can_bookmark", 1], ["end_time", "2030/12/17 14:59:59"], ["force_unlock_time", "2030/12/17 14:59:59"], ["force_unlock_time_2", "2030/12/17 14:59:59"], ["lock_all_text", 0], ["love_level", 5], ["pre_story_id", 1335002], ["pre_story_id_2", 0], ["read_process_flag", 1], ["requirement_id", 133501], ["reward_id_1", 91002], ["reward_id_2", 0], ["reward_id_3", 0], ["reward_type_1", 8], ["reward_type_2", 0], ["reward_type_3", 0], ["reward_value_1", 20], ["reward_value_2", 0], ["reward_value_3", 0], ["start_time", "2015/04/01 15:00:00"], ["story_end", 0], ["story_group_id", 1335], ["story_id", 1335003], ["story_quest_id", 0], ["sub_title", "旅行總會波瀾不斷？"], ["title", "咲戀（新年） 第3話"], ["unlock_quest_id", 0], ["visible_type", 0]],
+          [["can_bookmark", 1], ["end_time", "2030/12/17 14:59:59"], ["force_unlock_time", "2030/12/17 14:59:59"], ["force_unlock_time_2", "2025/05/15 16:00:00"], ["lock_all_text", 0], ["love_level", 4], ["pre_story_id", 1335001], ["pre_story_id_2", 5160007], ["read_process_flag", 1], ["requirement_id", 133501], ["reward_id_1", 91002], ["reward_id_2", 0], ["reward_id_3", 0], ["reward_type_1", 8], ["reward_type_2", 0], ["reward_type_3", 0], ["reward_value_1", 20], ["reward_value_2", 0], ["reward_value_3", 0], ["start_time", "2015/04/01 15:00:00"], ["story_end", 0], ["story_group_id", 1335], ["story_id", 1335002], ["story_quest_id", 0], ["sub_title", "為誰追求的光榮"], ["title", "咲戀（新年） 第2話"], ["unlock_quest_id", 0], ["visible_type", 0]],
+          [["can_bookmark", 1], ["end_time", "2030/12/17 14:59:59"], ["force_unlock_time", "2030/12/17 14:59:59"], ["force_unlock_time_2", "2030/12/17 14:59:59"], ["lock_all_text", 0], ["love_level", 8], ["pre_story_id", 1335003], ["pre_story_id_2", 0], ["read_process_flag", 1], ["requirement_id", 133501], ["reward_id_1", 91002], ["reward_id_2", 0], ["reward_id_3", 0], ["reward_type_1", 8], ["reward_type_2", 0], ["reward_type_3", 0], ["reward_value_1", 50], ["reward_value_2", 0], ["reward_value_3", 0], ["start_time", "2015/04/01 15:00:00"], ["story_end", 0], ["story_group_id", 1335], ["story_id", 1335004], ["story_quest_id", 0], ["sub_title", "遠離喧囂"], ["title", "咲戀（新年） 第4話"], ["unlock_quest_id", 0], ["visible_type", 0]]
+        ]
+      }
+    },
+    "chara_identity": {
+      "data_changes": {
+        "added": [
+          [["chara_type", 28], ["chara_type_2", 0], ["chara_type_3", 0], ["unit_id", 133501]]
+        ]
+      }
+    },
+    "v1_dd37ee7632aaf484e1ffe30ca71e3b9d9f220caa8f5c64d2162e80a098fca71f": {
+      "data_changes": {
+        "added": [
+          [["2672fdcac2681ee06c7eb66f3b21359f7969fe0eab6ca0d646804d68f17e6205", 2.0], ["c06a35b85a392ac2d7c696edc66c53ea81ec5edc877bf5501c7981a06b29a6e9", 133531]]
+        ]
+      }
+    },
+    "unit_data": {
+      "data_changes": {
+        "modified": [
+          {
+            "id": 133501,
+            "old": [["atk_type", 0], ["comment", ""], ["cutin1_star6", 0], ["cutin2_star6", 0], ["cutin_1", 0], ["cutin_2", 0], ["end_time", "2030/12/31 15:00:00"], ["exskill_display", 0], ["guild_id", 0], ["is_limited", 0], ["kana", "咲戀（新年）"], ["motion_type", 22], ["move_speed", 0], ["normal_atk_cast_time", 0.0], ["only_disp_owned", 0], ["original_unit_id", 0], ["prefab_id", 133501], ["prefab_id_battle", 0], ["rarity", 1], ["se_type", 1], ["search_area_width", 0], ["start_time", "2015/04/01 15:00:00"], ["unit_id", 133501], ["unit_name", "咲戀（新年）"]],
+            "new": [["atk_type", 2], ["comment", "【魔法】於後衛，心意相通伴身旁的新年和服育幼院院長。\\n對我方角色進行恢復ＴＰ支援，我方角色每次發動ＵＢ時\\n會提升傷害的技能，一同度過難關。"], ["cutin1_star6", 133501], ["cutin2_star6", 0], ["cutin_1", 133501], ["cutin_2", 0], ["end_time", "2025/05/16 15:59:59"], ["exskill_display", 0], ["guild_id", 0], ["is_limited", 1], ["kana", "咲戀（新年）"], ["motion_type", 22], ["move_speed", 450], ["normal_atk_cast_time", 2.09], ["only_disp_owned", 0], ["original_unit_id", 0], ["prefab_id", 133501], ["prefab_id_battle", 0], ["rarity", 3], ["se_type", 4], ["search_area_width", 718], ["start_time", "2025/05/04 16:00:00"], ["unit_id", 133501], ["unit_name", "咲戀（新年）"]]
+          }
+        ]
+      }
+    },
+    "banner": {
+      "data_changes": {
+        "added": [
+          [["banner_id", 10320], ["condition_id", 0], ["end_date", "2025/05/16 15:59:59"], ["gacha_id", 30366], ["is_show_room", 0], ["priority", 16], ["start_date", "2025/05/04 16:00:00"], ["sub_banner_id_1", 0], ["system_id", 302], ["type", 1]]
+        ]
+      }
+    },
+    "voice_group_chara": {
+      "data_changes": {
+        "added": [
+          [["group_unit_id", 333501001], ["group_unit_id_comment", "咲戀（新年）（花凜對話用）"], ["unit_id_01", 133501], ["unit_id_02", 0], ["unit_id_03", 0], ["unit_id_04", 0], ["unit_id_05", 0], ["unit_id_06", 0], ["unit_id_07", 0], ["unit_id_08", 0], ["unit_id_09", 0], ["unit_id_10", 0]]
+        ],
+        "modified": [
+          {
+            "id": 102801001,
+            "old": [["group_unit_id", 102801001], ["group_unit_id_comment", "咲戀育幼院（咲戀）"], ["unit_id_01", 102801], ["unit_id_02", 110301], ["unit_id_03", 114501], ["unit_id_04", 127501], ["unit_id_05", 0], ["unit_id_06", 0], ["unit_id_07", 0], ["unit_id_08", 0], ["unit_id_09", 0], ["unit_id_10", 0]],
+            "new": [["group_unit_id", 102801001], ["group_unit_id_comment", "咲戀育幼院（咲戀）"], ["unit_id_01", 102801], ["unit_id_02", 110301], ["unit_id_03", 114501], ["unit_id_04", 127501], ["unit_id_05", 133501], ["unit_id_06", 0], ["unit_id_07", 0], ["unit_id_08", 0], ["unit_id_09", 0], ["unit_id_10", 0]]
+          }
+        ]
+      }
+    },
+    "hatsune_boss_extra_effect": {
+      "data_changes": {
+        "added": [
+          [["boss_id", 1016006], ["detail", "戰鬥開始90秒內，\\n我方全體特大幅度提升魔法攻擊力"], ["icon_id", 3003], ["id", 10160011], ["start_time", "2025/05/04 16:00:00"], ["unit_id", 133501]],
+          [["boss_id", 1016006], ["detail", "戰鬥開始後，大幅恢復我方全體的ＴＰ"], ["icon_id", 3014], ["id", 10160012], ["start_time", "2025/05/04 16:00:00"], ["unit_id", 133501]]
+        ]
+      }
+    },
+    "unit_background": {
+      "data_changes": {
+        "added": [
+          [["bg_id", 501470], ["bg_name", "蘭德索爾_鬧區_新年_白天"], ["face_type", 2], ["position", 0.0], ["unit_id", 133501], ["unit_name", "咲戀（新年）"]]
+        ]
+      }
+    },
+    "emblem_mission_data": {
+      "data_changes": {
+        "added": [
+          [["category_icon", 301], ["condition_num", 1], ["condition_value_1", 133501], ["condition_value_2", 0], ["condition_value_3", 0], ["description", "讓咲戀（新年）成為夥伴"], ["disp_group", 201288], ["end_time", "2030/04/01 14:59:59"], ["mission_condition", 6011], ["mission_id", 56011935], ["mission_reward_id", 56011935], ["start_time", "2025/05/04 16:00:00"], ["system_id", 501], ["visible_flag", 1]],
+          [["category_icon", 301], ["condition_num", 3], ["condition_value_1", 133501], ["condition_value_2", 0], ["condition_value_3", 0], ["description", "將咲戀（新年）升到★3"], ["disp_group", 201288], ["end_time", "2030/04/01 14:59:59"], ["mission_condition", 6011], ["mission_id", 56011936], ["mission_reward_id", 56011936], ["start_time", "2025/05/04 16:00:00"], ["system_id", 501], ["visible_flag", 1]],
+          [["category_icon", 301], ["condition_num", 5], ["condition_value_1", 133501], ["condition_value_2", 0], ["condition_value_3", 0], ["description", "將咲戀（新年）升到★5"], ["disp_group", 201288], ["end_time", "2030/04/01 14:59:59"], ["mission_condition", 6011], ["mission_id", 56011937], ["mission_reward_id", 56011937], ["start_time", "2025/05/04 16:00:00"], ["system_id", 501], ["visible_flag", 1]]
+        ]
+      }
+    },
+    "unit_rarity": {
+      "data_changes": {
+        "added": [
+          [["accuracy", 0.0], ["accuracy_growth", 0.0], ["atk", 0.0], ["atk_growth", 0.0], ["consume_gold", 10000], ["consume_num", 15], ["def", 2.28], ["def_growth", 0.25], ["dodge", 0.0], ["dodge_growth", 0.0], ["energy_recovery_rate", 0.0], ["energy_recovery_rate_growth", 0.0], ["energy_reduce_rate", 0.0], ["energy_reduce_rate_growth", 0.0], ["hp", 286.3], ["hp_growth", 31.81], ["hp_recovery_rate", 0.0], ["hp_recovery_rate_growth", 0.0], ["life_steal", 0.0], ["life_steal_growth", 0.0], ["magic_critical", 0.0], ["magic_critical_growth", 0.0], ["magic_def", 1.82], ["magic_def_growth", 0.2], ["magic_penetrate", 0.0], ["magic_penetrate_growth", 0.0], ["magic_str", 46.14], ["magic_str_growth", 5.13], ["physical_critical", 0.0], ["physical_critical_growth", 0.0], ["physical_penetrate", 0.0], ["physical_penetrate_growth", 0.0], ["rarity", 1], ["unit_id", 133501], ["unit_material_id", 31335], ["wave_energy_recovery", 0.0], ["wave_energy_recovery_growth", 0.0], ["wave_hp_recovery", 0.0], ["wave_hp_recovery_growth", 0.0]]
+        ]
+      }
+    },
+    "actual_unit_background": {
+      "data_changes": {
+        "added": [
+          [["bg_id", 510103], ["face_type", 4], ["unit_id", 133531], ["unit_name", "佐佐木 咲戀"]]
+        ]
+      }
+    },
+    "unit_introduction": {
+      "data_changes": {
+        "added": [
+          [["end_time", "2025/05/16 15:59:59"], ["gacha_id", 30366], ["id", 358], ["introduction_number", 1], ["maximum_chunk_size_1", 380000], ["maximum_chunk_size_2", 0], ["maximum_chunk_size_3", 0], ["maximum_chunk_size_loop_1", 380000], ["maximum_chunk_size_loop_2", 0], ["maximum_chunk_size_loop_3", 0], ["start_time", "2025/05/04 16:00:00"]]
+        ]
+      }
+    },
+    "skill_action": {
+      "data_changes": {
+        "added": [
+          [["action_detail_1", 4], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 216901609], ["action_type", 16], ["action_value_1", 500.0], ["action_value_2", 0.0], ["action_value_3", 0.0], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 2.0], ["class_id", 1], ["description", ""], ["level_up_disp", ""], ["target_area", 3], ["target_assignment", 1], ["target_count", 1], ["target_number", 0], ["target_range", 3000], ["target_type", 3]],
+          [["action_detail_1", 141], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 133500207], ["action_type", 10], ["action_value_1", 1.0], ["action_value_2", 5.0], ["action_value_3", 0.0], ["action_value_4", 12.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "當自身的火鳥達10個以上時，使敵方單體的被暴擊傷害提升{0}%"], ["level_up_disp", ""], ["target_area", 1], ["target_assignment", 1], ["target_count", 1], ["target_number", 0], ["target_range", 2160], ["target_type", 3]],
+          [["action_detail_1", 6199], ["action_detail_2", 133500207], ["action_detail_3", 0], ["action_id", 133500206], ["action_type", 28], ["action_value_1", 1.0], ["action_value_2", 2.0], ["action_value_3", 10.0], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", ""], ["level_up_disp", ""], ["target_area", 2], ["target_assignment", 2], ["target_count", 1], ["target_number", 0], ["target_range", 2160], ["target_type", 7]],
+          [["action_detail_1", 720], ["action_detail_2", 216901608], ["action_detail_3", 0], ["action_id", 216901607], ["action_type", 28], ["action_value_1", 0.0], ["action_value_2", 0.0], ["action_value_3", 133501.0], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", ""], ["level_up_disp", ""], ["target_area", 3], ["target_assignment", 1], ["target_count", 99], ["target_number", 0], ["target_range", 3000], ["target_type", 3]],
+          [["action_detail_1", 133500101], ["action_detail_2", 3], ["action_detail_3", 0], ["action_id", 133500104], ["action_type", 26], ["action_value_1", 2199.0], ["action_value_2", 0.09], ["action_value_3", 0.0], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", ""], ["level_up_disp", ""], ["target_area", 2], ["target_assignment", 2], ["target_count", 1], ["target_number", 0], ["target_range", 2160], ["target_type", 7]],
+          [["action_detail_1", 4], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 133551101], ["action_type", 90], ["action_value_1", 1.0], ["action_value_2", 240.0], ["action_value_3", 15.0], ["action_value_4", 1.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "提升自身{0}的魔法攻擊力"], ["level_up_disp", "魔法攻擊力提升+{0}"], ["target_area", 0], ["target_assignment", 0], ["target_count", 0], ["target_number", 0], ["target_range", 0], ["target_type", 0]],
+          [["action_detail_1", 2], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 133500205], ["action_type", 1], ["action_value_1", 26.25], ["action_value_2", 26.25], ["action_value_3", 2.1], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "當自身的火鳥達10個以上時，對敵方單體造成{0}的魔法傷害"], ["level_up_disp", "魔法傷害+{0}"], ["target_area", 1], ["target_assignment", 1], ["target_count", 1], ["target_number", 0], ["target_range", 2160], ["target_type", 3]],
+          [["action_detail_1", 70], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 133500303], ["action_type", 10], ["action_value_1", 1.0], ["action_value_2", 100.0], ["action_value_3", 0.0], ["action_value_4", 18.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "提升自己{0}的魔法暴擊"], ["level_up_disp", ""], ["target_area", 2], ["target_assignment", 2], ["target_count", 1], ["target_number", 0], ["target_range", 2160], ["target_type", 7]],
+          [["action_detail_1", 30], ["action_detail_2", 1], ["action_detail_3", 0], ["action_id", 216901608], ["action_type", 10], ["action_value_1", 1.0], ["action_value_2", 100000.0], ["action_value_3", 0.0], ["action_value_4", 120.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 2.0], ["class_id", 1], ["description", ""], ["level_up_disp", ""], ["target_area", 3], ["target_assignment", 1], ["target_count", 99], ["target_number", 0], ["target_range", 3000], ["target_type", 3]],
+          [["action_detail_1", 1], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 133500203], ["action_type", 16], ["action_value_1", 250.0], ["action_value_2", 0.0], ["action_value_3", 0.0], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "回復自身{0}的TP"], ["level_up_disp", ""], ["target_area", 3], ["target_assignment", 2], ["target_count", 1], ["target_number", 0], ["target_range", 2160], ["target_type", 7]],
+          [["action_detail_1", 1], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 133500305], ["action_type", 16], ["action_value_1", 250.0], ["action_value_2", 0.0], ["action_value_3", 0.0], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "回復自身{0}的TP"], ["level_up_disp", ""], ["target_area", 2], ["target_assignment", 2], ["target_count", 1], ["target_number", 0], ["target_range", 2160], ["target_type", 7]],
+          [["action_detail_1", 133500102], ["action_detail_2", 3], ["action_detail_3", 0], ["action_id", 133500105], ["action_type", 26], ["action_value_1", 2199.0], ["action_value_2", 0.09], ["action_value_3", 0.0], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", ""], ["level_up_disp", ""], ["target_area", 2], ["target_assignment", 2], ["target_count", 1], ["target_number", 0], ["target_range", 2160], ["target_type", 7]],
+          [["action_detail_1", 30], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 133500302], ["action_type", 10], ["action_value_1", 1.0], ["action_value_2", 21.0], ["action_value_3", 21.0], ["action_value_4", 18.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "讓自身以外的我方全體提升{0}的魔法攻擊力"], ["level_up_disp", "魔法攻擊力提升+{0}"], ["target_area", 2], ["target_assignment", 2], ["target_count", 99], ["target_number", 0], ["target_range", 2160], ["target_type", 34]],
+          [["action_detail_1", 2], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 133500101], ["action_type", 1], ["action_value_1", 52.5], ["action_value_2", 52.5], ["action_value_3", 4.2], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "對敵方單體造成{0}的魔法傷害"], ["level_up_disp", "魔法傷害+{0}"], ["target_area", 1], ["target_assignment", 1], ["target_count", 1], ["target_number", 0], ["target_range", 2160], ["target_type", 3]],
+          [["action_detail_1", 41], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 133500202], ["action_type", 10], ["action_value_1", 1.0], ["action_value_2", 0.3], ["action_value_3", 0.3], ["action_value_4", 12.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "降低敵方單體{0}的魔法防禦力"], ["level_up_disp", "魔法防禦力降低+{0}"], ["target_area", 1], ["target_assignment", 1], ["target_count", 1], ["target_number", 0], ["target_range", 2160], ["target_type", 3]],
+          [["action_detail_1", 1], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 133500306], ["action_type", 16], ["action_value_1", 150.0], ["action_value_2", 0.0], ["action_value_3", 0.0], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "使自身以外的我方全體的TP恢復{0}"], ["level_up_disp", ""], ["target_area", 2], ["target_assignment", 2], ["target_count", 99], ["target_number", 0], ["target_range", 2160], ["target_type", 34]],
+          [["action_detail_1", 133500205], ["action_detail_2", 3], ["action_detail_3", 0], ["action_id", 133500209], ["action_type", 26], ["action_value_1", 2199.0], ["action_value_2", 0.045], ["action_value_3", 0.0], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", ""], ["level_up_disp", ""], ["target_area", 2], ["target_assignment", 2], ["target_count", 1], ["target_number", 0], ["target_range", 2160], ["target_type", 7]],
+          [["action_detail_1", 30], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 133500301], ["action_type", 10], ["action_value_1", 1.0], ["action_value_2", 35.0], ["action_value_3", 35.0], ["action_value_4", 18.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "提升自身{0}的魔法攻擊力"], ["level_up_disp", "魔法攻擊力提升+{0}"], ["target_area", 2], ["target_assignment", 2], ["target_count", 1], ["target_number", 0], ["target_range", 2160], ["target_type", 7]],
+          [["action_detail_1", 6199], ["action_detail_2", 133500205], ["action_detail_3", 0], ["action_id", 133500204], ["action_type", 28], ["action_value_1", 1.0], ["action_value_2", 2.0], ["action_value_3", 10.0], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", ""], ["level_up_disp", ""], ["target_area", 2], ["target_assignment", 2], ["target_count", 1], ["target_number", 0], ["target_range", 2160], ["target_type", 7]],
+          [["action_detail_1", 4], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 133550101], ["action_type", 90], ["action_value_1", 1.0], ["action_value_2", 15.0], ["action_value_3", 15.0], ["action_value_4", 1.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "提升自身{0}的魔法攻擊力"], ["level_up_disp", "魔法攻擊力提升+{0}"], ["target_area", 0], ["target_assignment", 0], ["target_count", 0], ["target_number", 0], ["target_range", 0], ["target_type", 0]],
+          [["action_detail_1", 2], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 133500201], ["action_type", 1], ["action_value_1", 26.25], ["action_value_2", 26.25], ["action_value_3", 2.1], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "對敵方單體造成{0}的魔法傷害"], ["level_up_disp", "魔法傷害+{0}"], ["target_area", 1], ["target_assignment", 1], ["target_count", 1], ["target_number", 0], ["target_range", 2160], ["target_type", 3]],
+          [["action_detail_1", 4], ["action_detail_2", 1], ["action_detail_3", 0], ["action_id", 133500308], ["action_type", 77], ["action_value_1", 20.0], ["action_value_2", 199.0], ["action_value_3", 180.0], ["action_value_4", 0.0], ["action_value_5", 180.0], ["action_value_6", 0.0], ["action_value_7", 1.0], ["class_id", 1], ["description", "初次使用時，每當我方使用ＵＢ時，使自身進入施加１個火鳥的狀態"], ["level_up_disp", ""], ["target_area", 2], ["target_assignment", 2], ["target_count", 1], ["target_number", 0], ["target_range", 2160], ["target_type", 7]],
+          [["action_detail_1", 2], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 133500102], ["action_type", 1], ["action_value_1", 52.5], ["action_value_2", 52.5], ["action_value_3", 4.2], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "對敵方單體造成{0}的魔法傷害"], ["level_up_disp", "魔法傷害+{0}"], ["target_area", 1], ["target_assignment", 1], ["target_count", 1], ["target_number", 0], ["target_range", 2160], ["target_type", 3]],
+          [["action_detail_1", 1], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 133500309], ["action_type", 45], ["action_value_1", 1.0], ["action_value_2", 0.0], ["action_value_3", 0.0], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", ""], ["level_up_disp", ""], ["target_area", 2], ["target_assignment", 2], ["target_count", 1], ["target_number", 0], ["target_range", 2160], ["target_type", 7]],
+          [["action_detail_1", 70], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 133500304], ["action_type", 10], ["action_value_1", 1.0], ["action_value_2", 60.0], ["action_value_3", 0.0], ["action_value_4", 18.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "讓自身以外的我方全體提升{0}的魔法暴擊率"], ["level_up_disp", ""], ["target_area", 2], ["target_assignment", 2], ["target_count", 99], ["target_number", 0], ["target_range", 2160], ["target_type", 34]],
+          [["action_detail_1", 133500201], ["action_detail_2", 3], ["action_detail_3", 0], ["action_id", 133500208], ["action_type", 26], ["action_value_1", 2199.0], ["action_value_2", 0.045], ["action_value_3", 0.0], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", ""], ["level_up_disp", ""], ["target_area", 2], ["target_assignment", 2], ["target_count", 1], ["target_number", 0], ["target_range", 2160], ["target_type", 7]],
+          [["action_detail_1", 30], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 133500103], ["action_type", 10], ["action_value_1", 1.0], ["action_value_2", 35.0], ["action_value_3", 35.0], ["action_value_4", 18.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "提升自身{0}的魔法攻擊力"], ["level_up_disp", "魔法攻擊力提升+{0}"], ["target_area", 3], ["target_assignment", 2], ["target_count", 1], ["target_number", 0], ["target_range", 2160], ["target_type", 7]],
+          [["action_detail_1", 1211], ["action_detail_2", 0], ["action_detail_3", 133500308], ["action_id", 133500307], ["action_type", 28], ["action_value_1", 1.0], ["action_value_2", 2.0], ["action_value_3", 0.0], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", ""], ["level_up_disp", ""], ["target_area", 2], ["target_assignment", 2], ["target_count", 1], ["target_number", 0], ["target_range", 2160], ["target_type", 7]]
+        ]
+      }
+    },
+    "skill_data": {
+      "data_changes": {
+        "added": [
+          [["action_1", 133500101], ["action_10", 0], ["action_2", 133500102], ["action_3", 133500103], ["action_4", 133500104], ["action_5", 133500105], ["action_6", 0], ["action_7", 0], ["action_8", 0], ["action_9", 0], ["boss_ub_cool_time", 0.0], ["depend_action_1", 0], ["depend_action_10", 0], ["depend_action_2", 0], ["depend_action_3", 0], ["depend_action_4", 0], ["depend_action_5", 0], ["depend_action_6", 0], ["depend_action_7", 0], ["depend_action_8", 0], ["depend_action_9", 0], ["description", "對面前的１名敵人造成２次特大幅度的魔法傷害，特大幅度提升自身的魔法攻擊力。此技能的傷害會隨著【火鳥】的數量增加。"], ["icon_type", 1002], ["name", "日昇不死鳥"], ["skill_area_width", 0], ["skill_cast_time", 0.0], ["skill_id", 1335001], ["skill_type", 0]],
+          [["action_1", 133551101], ["action_10", 0], ["action_2", 0], ["action_3", 0], ["action_4", 0], ["action_5", 0], ["action_6", 0], ["action_7", 0], ["action_8", 0], ["action_9", 0], ["boss_ub_cool_time", 0.0], ["depend_action_1", 0], ["depend_action_10", 0], ["depend_action_2", 0], ["depend_action_3", 0], ["depend_action_4", 0], ["depend_action_5", 0], ["depend_action_6", 0], ["depend_action_7", 0], ["depend_action_8", 0], ["depend_action_9", 0], ["description", "戰鬥開始時，大幅度提升自己的魔法攻擊力。"], ["icon_type", 3003], ["name", "高貴新年+"], ["skill_area_width", 0], ["skill_cast_time", 0.0], ["skill_id", 1335511], ["skill_type", 0]],
+          [["action_1", 133500201], ["action_10", 0], ["action_2", 133500202], ["action_3", 133500203], ["action_4", 133500204], ["action_5", 133500205], ["action_6", 133500206], ["action_7", 133500207], ["action_8", 133500208], ["action_9", 133500209], ["boss_ub_cool_time", 0.0], ["depend_action_1", 0], ["depend_action_10", 0], ["depend_action_2", 133500201], ["depend_action_3", 0], ["depend_action_4", 0], ["depend_action_5", 0], ["depend_action_6", 0], ["depend_action_7", 133500205], ["depend_action_8", 0], ["depend_action_9", 0], ["description", "對面前的１名敵人造成大幅度的魔法傷害，小幅度降低其魔法防禦力。並中幅度恢復自身的ＴＰ。當【火鳥】數量達10個以上時，再對面前的１名敵人造成大幅度的魔法追加傷害，並小幅度提升其受到暴擊時的傷害。此技能的傷害會隨著【火鳥】的數量而增加。"], ["icon_type", 2002], ["name", "輕羽呼喚"], ["skill_area_width", 0], ["skill_cast_time", 1.05], ["skill_id", 1335002], ["skill_type", 0]],
+          [["action_1", 133500301], ["action_10", 0], ["action_2", 133500302], ["action_3", 133500303], ["action_4", 133500304], ["action_5", 133500305], ["action_6", 133500306], ["action_7", 133500307], ["action_8", 133500308], ["action_9", 133500309], ["boss_ub_cool_time", 0.0], ["depend_action_1", 0], ["depend_action_10", 0], ["depend_action_2", 0], ["depend_action_3", 0], ["depend_action_4", 0], ["depend_action_5", 0], ["depend_action_6", 0], ["depend_action_7", 0], ["depend_action_8", 0], ["depend_action_9", 0], ["description", "戰鬥開始後，第一次使用此技能時對自身賦予狀態，每當我方使用ＵＢ時，對自身追加１個【火鳥】。【火鳥】最多累積到20個。特大幅度提升我方全體的魔法攻擊力，並中幅度提升魔法暴擊率，中幅度恢復ＴＰ。此效果僅對自身將會提升效果量。"], ["icon_type", 2003], ["name", "冥想之舞"], ["skill_area_width", 0], ["skill_cast_time", 1.05], ["skill_id", 1335003], ["skill_type", 0]],
+          [["action_1", 133550101], ["action_10", 0], ["action_2", 0], ["action_3", 0], ["action_4", 0], ["action_5", 0], ["action_6", 0], ["action_7", 0], ["action_8", 0], ["action_9", 0], ["boss_ub_cool_time", 0.0], ["depend_action_1", 0], ["depend_action_10", 0], ["depend_action_2", 0], ["depend_action_3", 0], ["depend_action_4", 0], ["depend_action_5", 0], ["depend_action_6", 0], ["depend_action_7", 0], ["depend_action_8", 0], ["depend_action_9", 0], ["description", "戰鬥開始時，中幅度提升自己的魔法攻擊力。"], ["icon_type", 3003], ["name", "高貴新年"], ["skill_area_width", 0], ["skill_cast_time", 0.0], ["skill_id", 1335501], ["skill_type", 0]]
+        ],
+        "modified": [
+          {
+            "id": 2169016,
+            "old": [["action_1", 216901601], ["action_10", 0], ["action_2", 216901602], ["action_3", 216901603], ["action_4", 216901604], ["action_5", 216901605], ["action_6", 216901606], ["action_7", 0], ["action_8", 0], ["action_9", 0], ["boss_ub_cool_time", 0.0], ["depend_action_1", 0], ["depend_action_10", 0], ["depend_action_2", 0], ["depend_action_3", 216901602], ["depend_action_4", 0], ["depend_action_5", 0], ["depend_action_6", 216901605], ["depend_action_7", 0], ["depend_action_8", 0], ["depend_action_9", 0], ["description", ""], ["icon_type", 1001], ["name", ""], ["skill_area_width", 0], ["skill_cast_time", 0.0], ["skill_id", 2169016], ["skill_type", 0]],
+            "new": [["action_1", 216901601], ["action_10", 0], ["action_2", 216901602], ["action_3", 216901603], ["action_4", 216901604], ["action_5", 216901605], ["action_6", 216901606], ["action_7", 216901607], ["action_8", 216901608], ["action_9", 216901609], ["boss_ub_cool_time", 0.0], ["depend_action_1", 0], ["depend_action_10", 0], ["depend_action_2", 0], ["depend_action_3", 216901602], ["depend_action_4", 0], ["depend_action_5", 0], ["depend_action_6", 216901605], ["depend_action_7", 0], ["depend_action_8", 0], ["depend_action_9", 216901608], ["description", ""], ["icon_type", 1001], ["name", ""], ["skill_area_width", 0], ["skill_cast_time", 0.0], ["skill_id", 2169016], ["skill_type", 0]]
+          }
+        ]
+      }
+    },
+    "album_production_list": {
+      "data_changes": {
+        "added": [
+          [["description", ""], ["id", 13350102], ["title", "羈絆Rank表演1"], ["type", 101], ["unit_id", 133501]],
+          [["description", ""], ["id", 13350103], ["title", "羈絆Rank表演2"], ["type", 102], ["unit_id", 133501]],
+          [["description", ""], ["id", 13350101], ["title", "解放表演1"], ["type", 201], ["unit_id", 133501]],
+          [["description", ""], ["id", 13350104], ["title", "羈絆Rank表演3"], ["type", 103], ["unit_id", 133501]],
+          [["description", ""], ["id", 13350108], ["title", "羈絆Rank表演7"], ["type", 107], ["unit_id", 133501]],
+          [["description", ""], ["id", 13350106], ["title", "羈絆Rank表演5"], ["type", 105], ["unit_id", 133501]],
+          [["description", ""], ["id", 13350105], ["title", "羈絆Rank表演4"], ["type", 104], ["unit_id", 133501]],
+          [["description", ""], ["id", 13350107], ["title", "羈絆Rank表演6"], ["type", 106], ["unit_id", 133501]]
+        ]
+      }
+    },
+    "emblem_data": {
+      "data_changes": {
+        "added": [
+          [["description_mission_id", 56011936], ["disp_oder", 201930], ["emblem_id", 10201936], ["emblem_name", "與咲戀（新年）的羈絆"], ["end_time", "2030/01/01 23:59:59"], ["event_emblem", 0], ["start_time", "2025/05/04 16:00:00"], ["type", 2]],
+          [["description_mission_id", 56011937], ["disp_oder", 201931], ["emblem_id", 10201937], ["emblem_name", "永結同心"], ["end_time", "2030/01/01 23:59:59"], ["event_emblem", 0], ["start_time", "2025/05/04 16:00:00"], ["type", 2]],
+          [["description_mission_id", 56011935], ["disp_oder", 201929], ["emblem_id", 10201935], ["emblem_name", "咲戀（新年）"], ["end_time", "2030/01/01 23:59:59"], ["event_emblem", 0], ["start_time", "2025/05/04 16:00:00"], ["type", 2]]
+        ]
+      }
+    },
+    "unit_ex_equipment_slot": {
+      "data_changes": {
+        "added": [
+          [["slot_category_1", 109], ["slot_category_2", 204], ["slot_category_3", 304], ["unit_id", 133501]]
+        ]
+      }
+    },
+    "voice_group": {
+      "data_changes": {
+        "added": [
+          [["group_id", 30235], ["group_id_comment", "咲戀（新年）（花凜對話用）"], ["group_unit_id_01", 118501001], ["group_unit_id_02", 333501001], ["group_unit_id_03", 0], ["group_unit_id_04", 0], ["group_unit_id_05", 0]]
+        ]
+      }
+    },
+    "unit_profile": {
+      "data_changes": {
+        "added": [
+          [["age", "17"], ["birth_day", "4"], ["birth_month", "10"], ["blood_type", "A"], ["catch_copy", "經營育幼院的庶民派溫柔大小姐"], ["favorite", "經營、茶會"], ["guild", "咲戀育幼院"], ["guild_id", "9"], ["height", "156"], ["race", "精靈族"], ["self_text", "吝嗇？　不是的，\\n我只是秉持著「不浪費」的精神\\n過每一天喔！"], ["unit_id", 133501], ["unit_name", "咲戀（新年）"], ["voice", "堀江由衣"], ["voice_id", 0], ["weight", "43"]]
+        ]
+      }
+    },
+    "unit_promotion_status": {
+      "data_changes": {
+        "added": [
+          [["accuracy", 0.0], ["atk", 0.0], ["def", 131.0], ["dodge", 0.0], ["energy_recovery_rate", 22.0], ["energy_reduce_rate", 17.0], ["hp", 4950.0], ["hp_recovery_rate", 45.0], ["life_steal", 6.0], ["magic_critical", 2077.0], ["magic_def", 264.0], ["magic_penetrate", 0.0], ["magic_str", 37669.0], ["physical_critical", 0.0], ["physical_penetrate", 0.0], ["promotion_level", 34], ["unit_id", 133501], ["wave_energy_recovery", 372.0], ["wave_hp_recovery", 1280.0]]
+        ]
+      }
+    },
+    "unit_motion_list": {
+      "data_changes": {
+        "added": [
+          [["sp_motion", 1], ["unit_id", 133501]]
+        ]
+      }
+    },
+    "gacha_data": {
+      "data_changes": {
+        "added": [
+          [["b445862d0ab66dcf0d21148e77310f8e2f88e53c87861cd1b30c6271489741b7", 0], ["chara_odds_star1", "0"], ["chara_odds_star2", "0"], ["chara_odds_star3", "0"], ["description", "取得道具獎勵或記憶碎片吧！"], ["description_2", ""], ["description_sp", ""], ["discount_price", 0], ["end_time", "2025/05/16 15:59:59"], ["exchange_id", 0], ["ff12a2d323be4140b5b5f0e3db8f93c207d4d0594eff84913f280ebb8f5fbfcd", 0], ["free_gacha_count", 10], ["free_gacha_interval_time", 0], ["free_gacha_type", 1], ["gacha10_special_odds_star1", "0"], ["gacha10_special_odds_star2", "0"], ["gacha10_special_odds_star3", "0"], ["gacha_bonus_id", 0], ["gacha_cost_type", 3], ["gacha_detail", 1], ["gacha_id", 10366], ["gacha_name", "一般轉蛋"], ["gacha_odds", "10366"], ["gacha_odds_star2", ""], ["gacha_times_limit10", 0], ["gacha_type", 0], ["movie_id", 0], ["parallel_id", 0], ["pick_up_chara_text", ""], ["pickup_badge", 0], ["pickup_id", 0], ["price", 0], ["prizegacha_id", 0], ["rarity_odds", "0"], ["special_id", 0], ["start_time", "2025/05/04 16:00:00"], ["tab_name", ""], ["ticket_id", 0], ["ticket_id_10", 0], ["title_id", 0]],
+          [["b445862d0ab66dcf0d21148e77310f8e2f88e53c87861cd1b30c6271489741b7", 0], ["chara_odds_star1", "30366_1"], ["chara_odds_star2", "30366_2"], ["chara_odds_star3", "30366_3"], ["description", "限定「咲戀（新年）」登場！\\n期間內出現率UP！"], ["description_2", "[3C404E]每次讓目標角色加入時[FFBB00,CE4F00][-]獲得[-]角色記憶碎片200個！"], ["description_sp", ""], ["discount_price", 50], ["end_time", "2025/05/16 15:59:59"], ["exchange_id", 366], ["ff12a2d323be4140b5b5f0e3db8f93c207d4d0594eff84913f280ebb8f5fbfcd", 0], ["free_gacha_count", 0], ["free_gacha_interval_time", 0], ["free_gacha_type", 0], ["gacha10_special_odds_star1", "0"], ["gacha10_special_odds_star2", "0"], ["gacha10_special_odds_star3", "0"], ["gacha_bonus_id", 1165], ["gacha_cost_type", 2], ["gacha_detail", 2], ["gacha_id", 30366], ["gacha_name", "精選轉蛋"], ["gacha_odds", "0"], ["gacha_odds_star2", "0"], ["gacha_times_limit10", 1], ["gacha_type", 1], ["movie_id", 300366], ["parallel_id", 0], ["pick_up_chara_text", "咲戀（新年）"], ["pickup_badge", 0], ["pickup_id", 0], ["price", 150], ["prizegacha_id", 0], ["rarity_odds", "300000"], ["special_id", 0], ["start_time", "2025/05/04 16:00:00"], ["tab_name", ""], ["ticket_id", 24001], ["ticket_id_10", 24004], ["title_id", 0]],
+          [["b445862d0ab66dcf0d21148e77310f8e2f88e53c87861cd1b30c6271489741b7", 0], ["chara_odds_star1", "20366_1"], ["chara_odds_star2", "20366_2"], ["chara_odds_star3", "20366_3"], ["description", "白金轉蛋僅會出現角色喔！"], ["description_2", ""], ["description_sp", ""], ["discount_price", 50], ["end_time", "2025/05/16 15:59:59"], ["exchange_id", 366], ["ff12a2d323be4140b5b5f0e3db8f93c207d4d0594eff84913f280ebb8f5fbfcd", 0], ["free_gacha_count", 0], ["free_gacha_interval_time", 0], ["free_gacha_type", 0], ["gacha10_special_odds_star1", "0"], ["gacha10_special_odds_star2", "0"], ["gacha10_special_odds_star3", "0"], ["gacha_bonus_id", 0], ["gacha_cost_type", 2], ["gacha_detail", 2], ["gacha_id", 20366], ["gacha_name", "白金轉蛋"], ["gacha_odds", "0"], ["gacha_odds_star2", "0"], ["gacha_times_limit10", 0], ["gacha_type", 1], ["movie_id", 200001], ["parallel_id", 0], ["pick_up_chara_text", "無精選角色"], ["pickup_badge", 0], ["pickup_id", 0], ["price", 150], ["prizegacha_id", 0], ["rarity_odds", "300000"], ["special_id", 0], ["start_time", "2025/05/04 16:00:00"], ["tab_name", ""], ["ticket_id", 24001], ["ticket_id_10", 24004], ["title_id", 0]]
+        ]
+      }
+    },
+    "unlock_unit_condition": {
+      "data_changes": {
+        "added": [
+          [["class_id", 1], ["condition_id_1", 31335], ["condition_id_2", 0], ["condition_id_3", 0], ["condition_id_4", 0], ["condition_id_5", 0], ["condition_type_1", 1], ["condition_type_2", 0], ["condition_type_3", 0], ["condition_type_4", 0], ["condition_type_5", 0], ["condition_type_detail_1", 2], ["condition_type_detail_2", 0], ["condition_type_detail_3", 0], ["condition_type_detail_4", 0], ["condition_type_detail_5", 0], ["count_1", 145], ["count_2", 0], ["count_3", 0], ["count_4", 0], ["count_5", 0], ["pre_unit_id", 0], ["release_effect_type", 2], ["unit_id", 133501], ["unit_name", "咲戀（新年）"]]
+        ]
+      }
+    },
+    "guild": {
+      "data_changes": {
+        "modified": [
+          {
+            "id": 9,
+            "old": [["description", "雖然是孤兒院，但買賣的範圍也做得相當廣。身為王宮護衛時的每一天，自覺找不出其價值的咲戀，為了想幫助他人，於是帶著這樣的心情組成了公會。"], ["guild_id", 9], ["guild_master", 1028], ["guild_name", "咲戀育幼院"], ["member1", 1028], ["member10", 1145], ["member11", 1213], ["member12", 1809], ["member13", 1232], ["member14", 1275], ["member15", 1308], ["member16", 0], ["member17", 0], ["member18", 0], ["member19", 0], ["member2", 1025], ["member20", 0], ["member21", 0], ["member22", 0], ["member23", 0], ["member24", 0], ["member25", 0], ["member26", 0], ["member27", 0], ["member28", 0], ["member29", 0], ["member3", 1023], ["member30", 0], ["member4", 1021], ["member5", 1077], ["member6", 1086], ["member7", 1085], ["member8", 1103], ["member9", 1121]],
+            "new": [["description", "雖然是孤兒院，但買賣的範圍也做得相當廣。身為王宮護衛時的每一天，自覺找不出其價值的咲戀，為了想幫助他人，於是帶著這樣的心情組成了公會。"], ["guild_id", 9], ["guild_master", 1028], ["guild_name", "咲戀育幼院"], ["member1", 1028], ["member10", 1145], ["member11", 1213], ["member12", 1809], ["member13", 1232], ["member14", 1275], ["member15", 1308], ["member16", 1335], ["member17", 0], ["member18", 0], ["member19", 0], ["member2", 1025], ["member20", 0], ["member21", 0], ["member22", 0], ["member23", 0], ["member24", 0], ["member25", 0], ["member26", 0], ["member27", 0], ["member28", 0], ["member29", 0], ["member3", 1023], ["member30", 0], ["member4", 1021], ["member5", 1077], ["member6", 1086], ["member7", 1085], ["member8", 1103], ["member9", 1121]]
+          }
+        ]
+      }
+    },
+    "unit_enemy_data": {
+      "data_changes": {
+        "added": [
+          [["atk_type", 2], ["comment", "有著咲戀（新年）樣貌的特殊魔物"], ["cutin", 0], ["cutin_star6", 0], ["motion_type", 22], ["move_speed", 450], ["normal_atk_cast_time", 2.09], ["prefab_id", 133501], ["se_type", 4], ["search_area_width", 718], ["unit_id", 633501], ["unit_name", "咲戀（新年）的闇影"], ["visual_change_flag", 1]]
+        ]
+      }
+    },
+    "chara_story_status": {
+      "data_changes": {
+        "added": [
+          [["chara_id_1", 1335], ["chara_id_10", 0], ["chara_id_11", 0], ["chara_id_12", 0], ["chara_id_13", 0], ["chara_id_14", 0], ["chara_id_15", 0], ["chara_id_16", 0], ["chara_id_17", 0], ["chara_id_18", 0], ["chara_id_19", 0], ["chara_id_2", 1275], ["chara_id_20", 0], ["chara_id_3", 1028], ["chara_id_4", 1145], ["chara_id_5", 1103], ["chara_id_6", 1809], ["chara_id_7", 0], ["chara_id_8", 0], ["chara_id_9", 0], ["status_rate_1", 600], ["status_rate_2", 0], ["status_rate_3", 0], ["status_rate_4", 0], ["status_rate_5", 0], ["status_type_1", 1], ["status_type_2", 0], ["status_type_3", 0], ["status_type_4", 0], ["status_type_5", 0], ["story_id", 1335004], ["unlock_story_name", "咲戀（新年）のエピソード第4話"]],
+          [["chara_id_1", 1335], ["chara_id_10", 0], ["chara_id_11", 0], ["chara_id_12", 0], ["chara_id_13", 0], ["chara_id_14", 0], ["chara_id_15", 0], ["chara_id_16", 0], ["chara_id_17", 0], ["chara_id_18", 0], ["chara_id_19", 0], ["chara_id_2", 1275], ["chara_id_20", 0], ["chara_id_3", 1028], ["chara_id_4", 1145], ["chara_id_5", 1103], ["chara_id_6", 1809], ["chara_id_7", 0], ["chara_id_8", 0], ["chara_id_9", 0], ["status_rate_1", 500], ["status_rate_2", 0], ["status_rate_3", 0], ["status_rate_4", 0], ["status_rate_5", 0], ["status_type_1", 1], ["status_type_2", 0], ["status_type_3", 0], ["status_type_4", 0], ["status_type_5", 0], ["story_id", 1335003], ["unlock_story_name", "咲戀（新年）のエピソード第3話"]],
+          [["chara_id_1", 1335], ["chara_id_10", 0], ["chara_id_11", 0], ["chara_id_12", 0], ["chara_id_13", 0], ["chara_id_14", 0], ["chara_id_15", 0], ["chara_id_16", 0], ["chara_id_17", 0], ["chara_id_18", 0], ["chara_id_19", 0], ["chara_id_2", 1275], ["chara_id_20", 0], ["chara_id_3", 1028], ["chara_id_4", 1145], ["chara_id_5", 1103], ["chara_id_6", 1809], ["chara_id_7", 0], ["chara_id_8", 0], ["chara_id_9", 0], ["status_rate_1", 400], ["status_rate_2", 0], ["status_rate_3", 0], ["status_rate_4", 0], ["status_rate_5", 0], ["status_type_1", 1], ["status_type_2", 0], ["status_type_3", 0], ["status_type_4", 0], ["status_type_5", 0], ["story_id", 1335002], ["unlock_story_name", "咲戀（新年）のエピソード第2話"]]
+        ],
+        "modified": [
+          {
+            "id": 1028012,
+            "old": [["chara_id_1", 1028], ["chara_id_10", 0], ["chara_id_11", 0], ["chara_id_12", 0], ["chara_id_13", 0], ["chara_id_14", 0], ["chara_id_15", 0], ["chara_id_16", 0], ["chara_id_17", 0], ["chara_id_18", 0], ["chara_id_19", 0], ["chara_id_2", 1103], ["chara_id_20", 0], ["chara_id_3", 1145], ["chara_id_4", 1809], ["chara_id_5", 1275], ["chara_id_6", 0], ["chara_id_7", 0], ["chara_id_8", 0], ["chara_id_9", 0], ["status_rate_1", 200], ["status_rate_2", 60], ["status_rate_3", 0], ["status_rate_4", 0], ["status_rate_5", 0], ["status_type_1", 2], ["status_type_2", 6], ["status_type_3", 0], ["status_type_4", 0], ["status_type_5", 0], ["story_id", 1028012], ["unlock_story_name", "咲戀のエピソード第12話"]],
+            "new": [["chara_id_1", 1028], ["chara_id_10", 0], ["chara_id_11", 0], ["chara_id_12", 0], ["chara_id_13", 0], ["chara_id_14", 0], ["chara_id_15", 0], ["chara_id_16", 0], ["chara_id_17", 0], ["chara_id_18", 0], ["chara_id_19", 0], ["chara_id_2", 1103], ["chara_id_20", 0], ["chara_id_3", 1145], ["chara_id_4", 1809], ["chara_id_5", 1275], ["chara_id_6", 1335], ["chara_id_7", 0], ["chara_id_8", 0], ["chara_id_9", 0], ["status_rate_1", 200], ["status_rate_2", 60], ["status_rate_3", 0], ["status_rate_4", 0], ["status_rate_5", 0], ["status_type_1", 2], ["status_type_2", 6], ["status_type_3", 0], ["status_type_4", 0], ["status_type_5", 0], ["story_id", 1028012], ["unlock_story_name", "咲戀のエピソード第12話"]]
+          },
+          {
+            "id": 1145002,
+            "old": [["chara_id_1", 1145], ["chara_id_10", 0], ["chara_id_11", 0], ["chara_id_12", 0], ["chara_id_13", 0], ["chara_id_14", 0], ["chara_id_15", 0], ["chara_id_16", 0], ["chara_id_17", 0], ["chara_id_18", 0], ["chara_id_19", 0], ["chara_id_2", 1028], ["chara_id_20", 0], ["chara_id_3", 1103], ["chara_id_4", 1809], ["chara_id_5", 1275], ["chara_id_6", 0], ["chara_id_7", 0], ["chara_id_8", 0], ["chara_id_9", 0], ["status_rate_1", 10], ["status_rate_2", 0], ["status_rate_3", 0], ["status_rate_4", 0], ["status_rate_5", 0], ["status_type_1", 2], ["status_type_2", 0], ["status_type_3", 0], ["status_type_4", 0], ["status_type_5", 0], ["story_id", 1145002], ["unlock_story_name", "咲戀（聖誕節）のエピソード第2話"]],
+            "new": [["chara_id_1", 1145], ["chara_id_10", 0], ["chara_id_11", 0], ["chara_id_12", 0], ["chara_id_13", 0], ["chara_id_14", 0], ["chara_id_15", 0], ["chara_id_16", 0], ["chara_id_17", 0], ["chara_id_18", 0], ["chara_id_19", 0], ["chara_id_2", 1028], ["chara_id_20", 0], ["chara_id_3", 1103], ["chara_id_4", 1809], ["chara_id_5", 1275], ["chara_id_6", 1335], ["chara_id_7", 0], ["chara_id_8", 0], ["chara_id_9", 0], ["status_rate_1", 10], ["status_rate_2", 0], ["status_rate_3", 0], ["status_rate_4", 0], ["status_rate_5", 0], ["status_type_1", 2], ["status_type_2", 0], ["status_type_3", 0], ["status_type_4", 0], ["status_type_5", 0], ["story_id", 1145002], ["unlock_story_name", "咲戀（聖誕節）のエピソード第2話"]]
+          },
+          {
+            "id": 1809004,
+            "old": [["chara_id_1", 1809], ["chara_id_10", 0], ["chara_id_11", 0], ["chara_id_12", 0], ["chara_id_13", 0], ["chara_id_14", 0], ["chara_id_15", 0], ["chara_id_16", 0], ["chara_id_17", 0], ["chara_id_18", 0], ["chara_id_19", 0], ["chara_id_2", 1032], ["chara_id_20", 0], ["chara_id_3", 1144], ["chara_id_4", 1028], ["chara_id_5", 1103], ["chara_id_6", 1145], ["chara_id_7", 1267], ["chara_id_8", 1275], ["chara_id_9", 0], ["status_rate_1", 50], ["status_rate_2", 0], ["status_rate_3", 0], ["status_rate_4", 0], ["status_rate_5", 0], ["status_type_1", 2], ["status_type_2", 0], ["status_type_3", 0], ["status_type_4", 0], ["status_type_5", 0], ["story_id", 1809004], ["unlock_story_name", "秋乃&咲戀のエピソード第4話"]],
+            "new": [["chara_id_1", 1809], ["chara_id_10", 0], ["chara_id_11", 0], ["chara_id_12", 0], ["chara_id_13", 0], ["chara_id_14", 0], ["chara_id_15", 0], ["chara_id_16", 0], ["chara_id_17", 0], ["chara_id_18", 0], ["chara_id_19", 0], ["chara_id_2", 1032], ["chara_id_20", 0], ["chara_id_3", 1144], ["chara_id_4", 1028], ["chara_id_5", 1103], ["chara_id_6", 1145], ["chara_id_7", 1267], ["chara_id_8", 1275], ["chara_id_9", 1335], ["status_rate_1", 50], ["status_rate_2", 0], ["status_rate_3", 0], ["status_rate_4", 0], ["status_rate_5", 0], ["status_type_1", 2], ["status_type_2", 0], ["status_type_3", 0], ["status_type_4", 0], ["status_type_5", 0], ["story_id", 1809004], ["unlock_story_name", "秋乃&咲戀のエピソード第4話"]]
+          },
+          {
+            "id": 1028011,
+            "old": [["chara_id_1", 1028], ["chara_id_10", 0], ["chara_id_11", 0], ["chara_id_12", 0], ["chara_id_13", 0], ["chara_id_14", 0], ["chara_id_15", 0], ["chara_id_16", 0], ["chara_id_17", 0], ["chara_id_18", 0], ["chara_id_19", 0], ["chara_id_2", 1103], ["chara_id_20", 0], ["chara_id_3", 1145], ["chara_id_4", 1809], ["chara_id_5", 1275], ["chara_id_6", 0], ["chara_id_7", 0], ["chara_id_8", 0], ["chara_id_9", 0], ["status_rate_1", 80], ["status_rate_2", 40], ["status_rate_3", 0], ["status_rate_4", 0], ["status_rate_5", 0], ["status_type_1", 2], ["status_type_2", 6], ["status_type_3", 0], ["status_type_4", 0], ["status_type_5", 0], ["story_id", 1028011], ["unlock_story_name", "咲戀のエピソード第11話"]],
+            "new": [["chara_id_1", 1028], ["chara_id_10", 0], ["chara_id_11", 0], ["chara_id_12", 0], ["chara_id_13", 0], ["chara_id_14", 0], ["chara_id_15", 0], ["chara_id_16", 0], ["chara_id_17", 0], ["chara_id_18", 0], ["chara_id_19", 0], ["chara_id_2", 1103], ["chara_id_20", 0], ["chara_id_3", 1145], ["chara_id_4", 1809], ["chara_id_5", 1275], ["chara_id_6", 1335], ["chara_id_7", 0], ["chara_id_8", 0], ["chara_id_9", 0], ["status_rate_1", 80], ["status_rate_2", 40], ["status_rate_3", 0], ["status_rate_4", 0], ["status_rate_5", 0], ["status_type_1", 2], ["status_type_2", 6], ["status_type_3", 0], ["status_type_4", 0], ["status_type_5", 0], ["story_id", 1028011], ["unlock_story_name", "咲戀のエピソード第11話"]]
+          },
+          {
+            "id": 1103004,
+            "old": [["chara_id_1", 1103], ["chara_id_10", 0], ["chara_id_11", 0], ["chara_id_12", 0], ["chara_id_13", 0], ["chara_id_14", 0], ["chara_id_15", 0], ["chara_id_16", 0], ["chara_id_17", 0], ["chara_id_18", 0], ["chara_id_19", 0], ["chara_id_2", 1028], ["chara_id_20", 0], ["chara_id_3", 1145], ["chara_id_4", 1809], ["chara_id_5", 1275], ["chara_id_6", 0], ["chara_id_7", 0], ["chara_id_8", 0], ["chara_id_9", 0], ["status_rate_1", 50], ["status_rate_2", 0], ["status_rate_3", 0], ["status_rate_4", 0], ["status_rate_5", 0], ["status_type_1", 2], ["status_type_2", 0], ["status_type_3", 0], ["status_type_4", 0], ["status_type_5", 0], ["story_id", 1103004], ["unlock_story_name", "サレン（サマー）のエピソード第4話"]],
+            "new": [["chara_id_1", 1103], ["chara_id_10", 0], ["chara_id_11", 0], ["chara_id_12", 0], ["chara_id_13", 0], ["chara_id_14", 0], ["chara_id_15", 0], ["chara_id_16", 0], ["chara_id_17", 0], ["chara_id_18", 0], ["chara_id_19", 0], ["chara_id_2", 1028], ["chara_id_20", 0], ["chara_id_3", 1145], ["chara_id_4", 1809], ["chara_id_5", 1275], ["chara_id_6", 1335], ["chara_id_7", 0], ["chara_id_8", 0], ["chara_id_9", 0], ["status_rate_1", 50], ["status_rate_2", 0], ["status_rate_3", 0], ["status_rate_4", 0], ["status_rate_5", 0], ["status_type_1", 2], ["status_type_2", 0], ["status_type_3", 0], ["status_type_4", 0], ["status_type_5", 0], ["story_id", 1103004], ["unlock_story_name", "サレン（サマー）のエピソード第4話"]]
+          },
+          {
+            "id": 1028007,
+            "old": [["chara_id_1", 1028], ["chara_id_10", 0], ["chara_id_11", 0], ["chara_id_12", 0], ["chara_id_13", 0], ["chara_id_14", 0], ["chara_id_15", 0], ["chara_id_16", 0], ["chara_id_17", 0], ["chara_id_18", 0], ["chara_id_19", 0], ["chara_id_2", 1103], ["chara_id_20", 0], ["chara_id_3", 1145], ["chara_id_4", 1809], ["chara_id_5", 1275], ["chara_id_6", 0], ["chara_id_7", 0], ["chara_id_8", 0], ["chara_id_9", 0], ["status_rate_1", 60], ["status_rate_2", 0], ["status_rate_3", 0], ["status_rate_4", 0], ["status_rate_5", 0], ["status_type_1", 2], ["status_type_2", 0], ["status_type_3", 0], ["status_type_4", 0], ["status_type_5", 0], ["story_id", 1028007], ["unlock_story_name", "咲戀のエピソード第7話"]],
+            "new": [["chara_id_1", 1028], ["chara_id_10", 0], ["chara_id_11", 0], ["chara_id_12", 0], ["chara_id_13", 0], ["chara_id_14", 0], ["chara_id_15", 0], ["chara_id_16", 0], ["chara_id_17", 0], ["chara_id_18", 0], ["chara_id_19", 0], ["chara_id_2", 1103], ["chara_id_20", 0], ["chara_id_3", 1145], ["chara_id_4", 1809], ["chara_id_5", 1275], ["chara_id_6", 1335], ["chara_id_7", 0], ["chara_id_8", 0], ["chara_id_9", 0], ["status_rate_1", 60], ["status_rate_2", 0], ["status_rate_3", 0], ["status_rate_4", 0], ["status_rate_5", 0], ["status_type_1", 2], ["status_type_2", 0], ["status_type_3", 0], ["status_type_4", 0], ["status_type_5", 0], ["story_id", 1028007], ["unlock_story_name", "咲戀のエピソード第7話"]]
+          },
+          {
+            "id": 1275003,
+            "old": [["chara_id_1", 1275], ["chara_id_10", 0], ["chara_id_11", 0], ["chara_id_12", 0], ["chara_id_13", 0], ["chara_id_14", 0], ["chara_id_15", 0], ["chara_id_16", 0], ["chara_id_17", 0], ["chara_id_18", 0], ["chara_id_19", 0], ["chara_id_2", 1028], ["chara_id_20", 0], ["chara_id_3", 1145], ["chara_id_4", 1103], ["chara_id_5", 1809], ["chara_id_6", 0], ["chara_id_7", 0], ["chara_id_8", 0], ["chara_id_9", 0], ["status_rate_1", 30], ["status_rate_2", 0], ["status_rate_3", 0], ["status_rate_4", 0], ["status_rate_5", 0], ["status_type_1", 2], ["status_type_2", 0], ["status_type_3", 0], ["status_type_4", 0], ["status_type_5", 0], ["story_id", 1275003], ["unlock_story_name", "咲戀（薩拉薩利亞）のエピソード第3話"]],
+            "new": [["chara_id_1", 1275], ["chara_id_10", 0], ["chara_id_11", 0], ["chara_id_12", 0], ["chara_id_13", 0], ["chara_id_14", 0], ["chara_id_15", 0], ["chara_id_16", 0], ["chara_id_17", 0], ["chara_id_18", 0], ["chara_id_19", 0], ["chara_id_2", 1028], ["chara_id_20", 0], ["chara_id_3", 1145], ["chara_id_4", 1103], ["chara_id_5", 1809], ["chara_id_6", 1335], ["chara_id_7", 0], ["chara_id_8", 0], ["chara_id_9", 0], ["status_rate_1", 30], ["status_rate_2", 0], ["status_rate_3", 0], ["status_rate_4", 0], ["status_rate_5", 0], ["status_type_1", 2], ["status_type_2", 0], ["status_type_3", 0], ["status_type_4", 0], ["status_type_5", 0], ["story_id", 1275003], ["unlock_story_name", "咲戀（薩拉薩利亞）のエピソード第3話"]]
+          },
+          {
+            "id": 1028003,
+            "old": [["chara_id_1", 1028], ["chara_id_10", 0], ["chara_id_11", 0], ["chara_id_12", 0], ["chara_id_13", 0], ["chara_id_14", 0], ["chara_id_15", 0], ["chara_id_16", 0], ["chara_id_17", 0], ["chara_id_18", 0], ["chara_id_19", 0], ["chara_id_2", 1103], ["chara_id_20", 0], ["chara_id_3", 1145], ["chara_id_4", 1809], ["chara_id_5", 1275], ["chara_id_6", 0], ["chara_id_7", 0], ["chara_id_8", 0], ["chara_id_9", 0], ["status_rate_1", 15], ["status_rate_2", 0], ["status_rate_3", 0], ["status_rate_4", 0], ["status_rate_5", 0], ["status_type_1", 2], ["status_type_2", 0], ["status_type_3", 0], ["status_type_4", 0], ["status_type_5", 0], ["story_id", 1028003], ["unlock_story_name", "咲戀のエピソード第3話"]],
+            "new": [["chara_id_1", 1028], ["chara_id_10", 0], ["chara_id_11", 0], ["chara_id_12", 0], ["chara_id_13", 0], ["chara_id_14", 0], ["chara_id_15", 0], ["chara_id_16", 0], ["chara_id_17", 0], ["chara_id_18", 0], ["chara_id_19", 0], ["chara_id_2", 1103], ["chara_id_20", 0], ["chara_id_3", 1145], ["chara_id_4", 1809], ["chara_id_5", 1275], ["chara_id_6", 1335], ["chara_id_7", 0], ["chara_id_8", 0], ["chara_id_9", 0], ["status_rate_1", 15], ["status_rate_2", 0], ["status_rate_3", 0], ["status_rate_4", 0], ["status_rate_5", 0], ["status_type_1", 2], ["status_type_2", 0], ["status_type_3", 0], ["status_type_4", 0], ["status_type_5", 0], ["story_id", 1028003], ["unlock_story_name", "咲戀のエピソード第3話"]]
+          },
+          {
+            "id": 1028002,
+            "old": [["chara_id_1", 1028], ["chara_id_10", 0], ["chara_id_11", 0], ["chara_id_12", 0], ["chara_id_13", 0], ["chara_id_14", 0], ["chara_id_15", 0], ["chara_id_16", 0], ["chara_id_17", 0], ["chara_id_18", 0], ["chara_id_19", 0], ["chara_id_2", 1103], ["chara_id_20", 0], ["chara_id_3", 1145], ["chara_id_4", 1809], ["chara_id_5", 1275], ["chara_id_6", 0], ["chara_id_7", 0], ["chara_id_8", 0], ["chara_id_9", 0], ["status_rate_1", 15], ["status_rate_2", 0], ["status_rate_3", 0], ["status_rate_4", 0], ["status_rate_5", 0], ["status_type_1", 2], ["status_type_2", 0], ["status_type_3", 0], ["status_type_4", 0], ["status_type_5", 0], ["story_id", 1028002], ["unlock_story_name", "咲戀のエピソード第2話"]],
+            "new": [["chara_id_1", 1028], ["chara_id_10", 0], ["chara_id_11", 0], ["chara_id_12", 0], ["chara_id_13", 0], ["chara_id_14", 0], ["chara_id_15", 0], ["chara_id_16", 0], ["chara_id_17", 0], ["chara_id_18", 0], ["chara_id_19", 0], ["chara_id_2", 1103], ["chara_id_20", 0], ["chara_id_3", 1145], ["chara_id_4", 1809], ["chara_id_5", 1275], ["chara_id_6", 1335], ["chara_id_7", 0], ["chara_id_8", 0], ["chara_id_9", 0], ["status_rate_1", 15], ["status_rate_2", 0], ["status_rate_3", 0], ["status_rate_4", 0], ["status_rate_5", 0], ["status_type_1", 2], ["status_type_2", 0], ["status_type_3", 0], ["status_type_4", 0], ["status_type_5", 0], ["story_id", 1028002], ["unlock_story_name", "咲戀のエピソード第2話"]]
+          },
+          {
+            "id": 1145003,
+            "old": [["chara_id_1", 1145], ["chara_id_10", 0], ["chara_id_11", 0], ["chara_id_12", 0], ["chara_id_13", 0], ["chara_id_14", 0], ["chara_id_15", 0], ["chara_id_16", 0], ["chara_id_17", 0], ["chara_id_18", 0], ["chara_id_19", 0], ["chara_id_2", 1028], ["chara_id_20", 0], ["chara_id_3", 1103], ["chara_id_4", 1809], ["chara_id_5", 1275], ["chara_id_6", 0], ["chara_id_7", 0], ["chara_id_8", 0], ["chara_id_9", 0], ["status_rate_1", 30], ["status_rate_2", 0], ["status_rate_3", 0], ["status_rate_4", 0], ["status_rate_5", 0], ["status_type_1", 2], ["status_type_2", 0], ["status_type_3", 0], ["status_type_4", 0], ["status_type_5", 0], ["story_id", 1145003], ["unlock_story_name", "咲戀（聖誕節）のエピソード第3話"]],
+            "new": [["chara_id_1", 1145], ["chara_id_10", 0], ["chara_id_11", 0], ["chara_id_12", 0], ["chara_id_13", 0], ["chara_id_14", 0], ["chara_id_15", 0], ["chara_id_16", 0], ["chara_id_17", 0], ["chara_id_18", 0], ["chara_id_19", 0], ["chara_id_2", 1028], ["chara_id_20", 0], ["chara_id_3", 1103], ["chara_id_4", 1809], ["chara_id_5", 1275], ["chara_id_6", 1335], ["chara_id_7", 0], ["chara_id_8", 0], ["chara_id_9", 0], ["status_rate_1", 30], ["status_rate_2", 0], ["status_rate_3", 0], ["status_rate_4", 0], ["status_rate_5", 0], ["status_type_1", 2], ["status_type_2", 0], ["status_type_3", 0], ["status_type_4", 0], ["status_type_5", 0], ["story_id", 1145003], ["unlock_story_name", "咲戀（聖誕節）のエピソード第3話"]]
+          },
+          {
+            "id": 1103002,
+            "old": [["chara_id_1", 1103], ["chara_id_10", 0], ["chara_id_11", 0], ["chara_id_12", 0], ["chara_id_13", 0], ["chara_id_14", 0], ["chara_id_15", 0], ["chara_id_16", 0], ["chara_id_17", 0], ["chara_id_18", 0], ["chara_id_19", 0], ["chara_id_2", 1028], ["chara_id_20", 0], ["chara_id_3", 1145], ["chara_id_4", 1809], ["chara_id_5", 1275], ["chara_id_6", 0], ["chara_id_7", 0], ["chara_id_8", 0], ["chara_id_9", 0], ["status_rate_1", 10], ["status_rate_2", 0], ["status_rate_3", 0], ["status_rate_4", 0], ["status_rate_5", 0], ["status_type_1", 2], ["status_type_2", 0], ["status_type_3", 0], ["status_type_4", 0], ["status_type_5", 0], ["story_id", 1103002], ["unlock_story_name", "サレン（サマー）のエピソード第2話"]],
+            "new": [["chara_id_1", 1103], ["chara_id_10", 0], ["chara_id_11", 0], ["chara_id_12", 0], ["chara_id_13", 0], ["chara_id_14", 0], ["chara_id_15", 0], ["chara_id_16", 0], ["chara_id_17", 0], ["chara_id_18", 0], ["chara_id_19", 0], ["chara_id_2", 1028], ["chara_id_20", 0], ["chara_id_3", 1145], ["chara_id_4", 1809], ["chara_id_5", 1275], ["chara_id_6", 1335], ["chara_id_7", 0], ["chara_id_8", 0], ["chara_id_9", 0], ["status_rate_1", 10], ["status_rate_2", 0], ["status_rate_3", 0], ["status_rate_4", 0], ["status_rate_5", 0], ["status_type_1", 2], ["status_type_2", 0], ["status_type_3", 0], ["status_type_4", 0], ["status_type_5", 0], ["story_id", 1103002], ["unlock_story_name", "サレン（サマー）のエピソード第2話"]]
+          },
+          {
+            "id": 1809003,
+            "old": [["chara_id_1", 1809], ["chara_id_10", 0], ["chara_id_11", 0], ["chara_id_12", 0], ["chara_id_13", 0], ["chara_id_14", 0], ["chara_id_15", 0], ["chara_id_16", 0], ["chara_id_17", 0], ["chara_id_18", 0], ["chara_id_19", 0], ["chara_id_2", 1032], ["chara_id_20", 0], ["chara_id_3", 1144], ["chara_id_4", 1028], ["chara_id_5", 1103], ["chara_id_6", 1145], ["chara_id_7", 1267], ["chara_id_8", 1275], ["chara_id_9", 0], ["status_rate_1", 30], ["status_rate_2", 0], ["status_rate_3", 0], ["status_rate_4", 0], ["status_rate_5", 0], ["status_type_1", 2], ["status_type_2", 0], ["status_type_3", 0], ["status_type_4", 0], ["status_type_5", 0], ["story_id", 1809003], ["unlock_story_name", "秋乃&咲戀のエピソード第3話"]],
+            "new": [["chara_id_1", 1809], ["chara_id_10", 0], ["chara_id_11", 0], ["chara_id_12", 0], ["chara_id_13", 0], ["chara_id_14", 0], ["chara_id_15", 0], ["chara_id_16", 0], ["chara_id_17", 0], ["chara_id_18", 0], ["chara_id_19", 0], ["chara_id_2", 1032], ["chara_id_20", 0], ["chara_id_3", 1144], ["chara_id_4", 1028], ["chara_id_5", 1103], ["chara_id_6", 1145], ["chara_id_7", 1267], ["chara_id_8", 1275], ["chara_id_9", 1335], ["status_rate_1", 30], ["status_rate_2", 0], ["status_rate_3", 0], ["status_rate_4", 0], ["status_rate_5", 0], ["status_type_1", 2], ["status_type_2", 0], ["status_type_3", 0], ["status_type_4", 0], ["status_type_5", 0], ["story_id", 1809003], ["unlock_story_name", "秋乃&咲戀のエピソード第3話"]]
+          },
+          {
+            "id": 1809002,
+            "old": [["chara_id_1", 1809], ["chara_id_10", 0], ["chara_id_11", 0], ["chara_id_12", 0], ["chara_id_13", 0], ["chara_id_14", 0], ["chara_id_15", 0], ["chara_id_16", 0], ["chara_id_17", 0], ["chara_id_18", 0], ["chara_id_19", 0], ["chara_id_2", 1032], ["chara_id_20", 0], ["chara_id_3", 1144], ["chara_id_4", 1028], ["chara_id_5", 1103], ["chara_id_6", 1145], ["chara_id_7", 1267], ["chara_id_8", 1275], ["chara_id_9", 0], ["status_rate_1", 10], ["status_rate_2", 0], ["status_rate_3", 0], ["status_rate_4", 0], ["status_rate_5", 0], ["status_type_1", 2], ["status_type_2", 0], ["status_type_3", 0], ["status_type_4", 0], ["status_type_5", 0], ["story_id", 1809002], ["unlock_story_name", "秋乃&咲戀のエピソード第2話"]],
+            "new": [["chara_id_1", 1809], ["chara_id_10", 0], ["chara_id_11", 0], ["chara_id_12", 0], ["chara_id_13", 0], ["chara_id_14", 0], ["chara_id_15", 0], ["chara_id_16", 0], ["chara_id_17", 0], ["chara_id_18", 0], ["chara_id_19", 0], ["chara_id_2", 1032], ["chara_id_20", 0], ["chara_id_3", 1144], ["chara_id_4", 1028], ["chara_id_5", 1103], ["chara_id_6", 1145], ["chara_id_7", 1267], ["chara_id_8", 1275], ["chara_id_9", 1335], ["status_rate_1", 10], ["status_rate_2", 0], ["status_rate_3", 0], ["status_rate_4", 0], ["status_rate_5", 0], ["status_type_1", 2], ["status_type_2", 0], ["status_type_3", 0], ["status_type_4", 0], ["status_type_5", 0], ["story_id", 1809002], ["unlock_story_name", "秋乃&咲戀のエピソード第2話"]]
+          },
+          {
+            "id": 1028004,
+            "old": [["chara_id_1", 1028], ["chara_id_10", 0], ["chara_id_11", 0], ["chara_id_12", 0], ["chara_id_13", 0], ["chara_id_14", 0], ["chara_id_15", 0], ["chara_id_16", 0], ["chara_id_17", 0], ["chara_id_18", 0], ["chara_id_19", 0], ["chara_id_2", 1103], ["chara_id_20", 0], ["chara_id_3", 1145], ["chara_id_4", 1809], ["chara_id_5", 1275], ["chara_id_6", 0], ["chara_id_7", 0], ["chara_id_8", 0], ["chara_id_9", 0], ["status_rate_1", 30], ["status_rate_2", 0], ["status_rate_3", 0], ["status_rate_4", 0], ["status_rate_5", 0], ["status_type_1", 2], ["status_type_2", 0], ["status_type_3", 0], ["status_type_4", 0], ["status_type_5", 0], ["story_id", 1028004], ["unlock_story_name", "咲戀のエピソード第4話"]],
+            "new": [["chara_id_1", 1028], ["chara_id_10", 0], ["chara_id_11", 0], ["chara_id_12", 0], ["chara_id_13", 0], ["chara_id_14", 0], ["chara_id_15", 0], ["chara_id_16", 0], ["chara_id_17", 0], ["chara_id_18", 0], ["chara_id_19", 0], ["chara_id_2", 1103], ["chara_id_20", 0], ["chara_id_3", 1145], ["chara_id_4", 1809], ["chara_id_5", 1275], ["chara_id_6", 1335], ["chara_id_7", 0], ["chara_id_8", 0], ["chara_id_9", 0], ["status_rate_1", 30], ["status_rate_2", 0], ["status_rate_3", 0], ["status_rate_4", 0], ["status_rate_5", 0], ["status_type_1", 2], ["status_type_2", 0], ["status_type_3", 0], ["status_type_4", 0], ["status_type_5", 0], ["story_id", 1028004], ["unlock_story_name", "咲戀のエピソード第4話"]]
+          },
+          {
+            "id": 1028008,
+            "old": [["chara_id_1", 1028], ["chara_id_10", 0], ["chara_id_11", 0], ["chara_id_12", 0], ["chara_id_13", 0], ["chara_id_14", 0], ["chara_id_15", 0], ["chara_id_16", 0], ["chara_id_17", 0], ["chara_id_18", 0], ["chara_id_19", 0], ["chara_id_2", 1103], ["chara_id_20", 0], ["chara_id_3", 1145], ["chara_id_4", 1809], ["chara_id_5", 1275], ["chara_id_6", 0], ["chara_id_7", 0], ["chara_id_8", 0], ["chara_id_9", 0], ["status_rate_1", 90], ["status_rate_2", 10], ["status_rate_3", 0], ["status_rate_4", 0], ["status_rate_5", 0], ["status_type_1", 2], ["status_type_2", 6], ["status_type_3", 0], ["status_type_4", 0], ["status_type_5", 0], ["story_id", 1028008], ["unlock_story_name", "咲戀のエピソード第8話"]],
+            "new": [["chara_id_1", 1028], ["chara_id_10", 0], ["chara_id_11", 0], ["chara_id_12", 0], ["chara_id_13", 0], ["chara_id_14", 0], ["chara_id_15", 0], ["chara_id_16", 0], ["chara_id_17", 0], ["chara_id_18", 0], ["chara_id_19", 0], ["chara_id_2", 1103], ["chara_id_20", 0], ["chara_id_3", 1145], ["chara_id_4", 1809], ["chara_id_5", 1275], ["chara_id_6", 1335], ["chara_id_7", 0], ["chara_id_8", 0], ["chara_id_9", 0], ["status_rate_1", 90], ["status_rate_2", 10], ["status_rate_3", 0], ["status_rate_4", 0], ["status_rate_5", 0], ["status_type_1", 2], ["status_type_2", 6], ["status_type_3", 0], ["status_type_4", 0], ["status_type_5", 0], ["story_id", 1028008], ["unlock_story_name", "咲戀のエピソード第8話"]]
+          },
+          {
+            "id": 1103003,
+            "old": [["chara_id_1", 1103], ["chara_id_10", 0], ["chara_id_11", 0], ["chara_id_12", 0], ["chara_id_13", 0], ["chara_id_14", 0], ["chara_id_15", 0], ["chara_id_16", 0], ["chara_id_17", 0], ["chara_id_18", 0], ["chara_id_19", 0], ["chara_id_2", 1028], ["chara_id_20", 0], ["chara_id_3", 1145], ["chara_id_4", 1809], ["chara_id_5", 1275], ["chara_id_6", 0], ["chara_id_7", 0], ["chara_id_8", 0], ["chara_id_9", 0], ["status_rate_1", 30], ["status_rate_2", 0], ["status_rate_3", 0], ["status_rate_4", 0], ["status_rate_5", 0], ["status_type_1", 2], ["status_type_2", 0], ["status_type_3", 0], ["status_type_4", 0], ["status_type_5", 0], ["story_id", 1103003], ["unlock_story_name", "サレン（サマー）のエピソード第3話"]],
+            "new": [["chara_id_1", 1103], ["chara_id_10", 0], ["chara_id_11", 0], ["chara_id_12", 0], ["chara_id_13", 0], ["chara_id_14", 0], ["chara_id_15", 0], ["chara_id_16", 0], ["chara_id_17", 0], ["chara_id_18", 0], ["chara_id_19", 0], ["chara_id_2", 1028], ["chara_id_20", 0], ["chara_id_3", 1145], ["chara_id_4", 1809], ["chara_id_5", 1275], ["chara_id_6", 1335], ["chara_id_7", 0], ["chara_id_8", 0], ["chara_id_9", 0], ["status_rate_1", 30], ["status_rate_2", 0], ["status_rate_3", 0], ["status_rate_4", 0], ["status_rate_5", 0], ["status_type_1", 2], ["status_type_2", 0], ["status_type_3", 0], ["status_type_4", 0], ["status_type_5", 0], ["story_id", 1103003], ["unlock_story_name", "サレン（サマー）のエピソード第3話"]]
+          },
+          {
+            "id": 1028010,
+            "old": [["chara_id_1", 1028], ["chara_id_10", 0], ["chara_id_11", 0], ["chara_id_12", 0], ["chara_id_13", 0], ["chara_id_14", 0], ["chara_id_15", 0], ["chara_id_16", 0], ["chara_id_17", 0], ["chara_id_18", 0], ["chara_id_19", 0], ["chara_id_2", 1103], ["chara_id_20", 0], ["chara_id_3", 1145], ["chara_id_4", 1809], ["chara_id_5", 1275], ["chara_id_6", 0], ["chara_id_7", 0], ["chara_id_8", 0], ["chara_id_9", 0], ["status_rate_1", 80], ["status_rate_2", 40], ["status_rate_3", 0], ["status_rate_4", 0], ["status_rate_5", 0], ["status_type_1", 2], ["status_type_2", 6], ["status_type_3", 0], ["status_type_4", 0], ["status_type_5", 0], ["story_id", 1028010], ["unlock_story_name", "咲戀のエピソード第10話"]],
+            "new": [["chara_id_1", 1028], ["chara_id_10", 0], ["chara_id_11", 0], ["chara_id_12", 0], ["chara_id_13", 0], ["chara_id_14", 0], ["chara_id_15", 0], ["chara_id_16", 0], ["chara_id_17", 0], ["chara_id_18", 0], ["chara_id_19", 0], ["chara_id_2", 1103], ["chara_id_20", 0], ["chara_id_3", 1145], ["chara_id_4", 1809], ["chara_id_5", 1275], ["chara_id_6", 1335], ["chara_id_7", 0], ["chara_id_8", 0], ["chara_id_9", 0], ["status_rate_1", 80], ["status_rate_2", 40], ["status_rate_3", 0], ["status_rate_4", 0], ["status_rate_5", 0], ["status_type_1", 2], ["status_type_2", 6], ["status_type_3", 0], ["status_type_4", 0], ["status_type_5", 0], ["story_id", 1028010], ["unlock_story_name", "咲戀のエピソード第10話"]]
+          },
+          {
+            "id": 1275004,
+            "old": [["chara_id_1", 1275], ["chara_id_10", 0], ["chara_id_11", 0], ["chara_id_12", 0], ["chara_id_13", 0], ["chara_id_14", 0], ["chara_id_15", 0], ["chara_id_16", 0], ["chara_id_17", 0], ["chara_id_18", 0], ["chara_id_19", 0], ["chara_id_2", 1028], ["chara_id_20", 0], ["chara_id_3", 1145], ["chara_id_4", 1103], ["chara_id_5", 1809], ["chara_id_6", 0], ["chara_id_7", 0], ["chara_id_8", 0], ["chara_id_9", 0], ["status_rate_1", 50], ["status_rate_2", 0], ["status_rate_3", 0], ["status_rate_4", 0], ["status_rate_5", 0], ["status_type_1", 2], ["status_type_2", 0], ["status_type_3", 0], ["status_type_4", 0], ["status_type_5", 0], ["story_id", 1275004], ["unlock_story_name", "咲戀（薩拉薩利亞）のエピソード第4話"]],
+            "new": [["chara_id_1", 1275], ["chara_id_10", 0], ["chara_id_11", 0], ["chara_id_12", 0], ["chara_id_13", 0], ["chara_id_14", 0], ["chara_id_15", 0], ["chara_id_16", 0], ["chara_id_17", 0], ["chara_id_18", 0], ["chara_id_19", 0], ["chara_id_2", 1028], ["chara_id_20", 0], ["chara_id_3", 1145], ["chara_id_4", 1103], ["chara_id_5", 1809], ["chara_id_6", 1335], ["chara_id_7", 0], ["chara_id_8", 0], ["chara_id_9", 0], ["status_rate_1", 50], ["status_rate_2", 0], ["status_rate_3", 0], ["status_rate_4", 0], ["status_rate_5", 0], ["status_type_1", 2], ["status_type_2", 0], ["status_type_3", 0], ["status_type_4", 0], ["status_type_5", 0], ["story_id", 1275004], ["unlock_story_name", "咲戀（薩拉薩利亞）のエピソード第4話"]]
+          },
+          {
+            "id": 1028006,
+            "old": [["chara_id_1", 1028], ["chara_id_10", 0], ["chara_id_11", 0], ["chara_id_12", 0], ["chara_id_13", 0], ["chara_id_14", 0], ["chara_id_15", 0], ["chara_id_16", 0], ["chara_id_17", 0], ["chara_id_18", 0], ["chara_id_19", 0], ["chara_id_2", 1103], ["chara_id_20", 0], ["chara_id_3", 1145], ["chara_id_4", 1809], ["chara_id_5", 1275], ["chara_id_6", 0], ["chara_id_7", 0], ["chara_id_8", 0], ["chara_id_9", 0], ["status_rate_1", 60], ["status_rate_2", 0], ["status_rate_3", 0], ["status_rate_4", 0], ["status_rate_5", 0], ["status_type_1", 2], ["status_type_2", 0], ["status_type_3", 0], ["status_type_4", 0], ["status_type_5", 0], ["story_id", 1028006], ["unlock_story_name", "咲戀のエピソード第6話"]],
+            "new": [["chara_id_1", 1028], ["chara_id_10", 0], ["chara_id_11", 0], ["chara_id_12", 0], ["chara_id_13", 0], ["chara_id_14", 0], ["chara_id_15", 0], ["chara_id_16", 0], ["chara_id_17", 0], ["chara_id_18", 0], ["chara_id_19", 0], ["chara_id_2", 1103], ["chara_id_20", 0], ["chara_id_3", 1145], ["chara_id_4", 1809], ["chara_id_5", 1275], ["chara_id_6", 1335], ["chara_id_7", 0], ["chara_id_8", 0], ["chara_id_9", 0], ["status_rate_1", 60], ["status_rate_2", 0], ["status_rate_3", 0], ["status_rate_4", 0], ["status_rate_5", 0], ["status_type_1", 2], ["status_type_2", 0], ["status_type_3", 0], ["status_type_4", 0], ["status_type_5", 0], ["story_id", 1028006], ["unlock_story_name", "咲戀のエピソード第6話"]]
+          },
+          {
+            "id": 1145004,
+            "old": [["chara_id_1", 1145], ["chara_id_10", 0], ["chara_id_11", 0], ["chara_id_12", 0], ["chara_id_13", 0], ["chara_id_14", 0], ["chara_id_15", 0], ["chara_id_16", 0], ["chara_id_17", 0], ["chara_id_18", 0], ["chara_id_19", 0], ["chara_id_2", 1028], ["chara_id_20", 0], ["chara_id_3", 1103], ["chara_id_4", 1809], ["chara_id_5", 1275], ["chara_id_6", 0], ["chara_id_7", 0], ["chara_id_8", 0], ["chara_id_9", 0], ["status_rate_1", 50], ["status_rate_2", 0], ["status_rate_3", 0], ["status_rate_4", 0], ["status_rate_5", 0], ["status_type_1", 2], ["status_type_2", 0], ["status_type_3", 0], ["status_type_4", 0], ["status_type_5", 0], ["story_id", 1145004], ["unlock_story_name", "咲戀（聖誕節）のエピソード第4話"]],
+            "new": [["chara_id_1", 1145], ["chara_id_10", 0], ["chara_id_11", 0], ["chara_id_12", 0], ["chara_id_13", 0], ["chara_id_14", 0], ["chara_id_15", 0], ["chara_id_16", 0], ["chara_id_17", 0], ["chara_id_18", 0], ["chara_id_19", 0], ["chara_id_2", 1028], ["chara_id_20", 0], ["chara_id_3", 1103], ["chara_id_4", 1809], ["chara_id_5", 1275], ["chara_id_6", 1335], ["chara_id_7", 0], ["chara_id_8", 0], ["chara_id_9", 0], ["status_rate_1", 50], ["status_rate_2", 0], ["status_rate_3", 0], ["status_rate_4", 0], ["status_rate_5", 0], ["status_type_1", 2], ["status_type_2", 0], ["status_type_3", 0], ["status_type_4", 0], ["status_type_5", 0], ["story_id", 1145004], ["unlock_story_name", "咲戀（聖誕節）のエピソード第4話"]]
+          },
+          {
+            "id": 1028009,
+            "old": [["chara_id_1", 1028], ["chara_id_10", 0], ["chara_id_11", 0], ["chara_id_12", 0], ["chara_id_13", 0], ["chara_id_14", 0], ["chara_id_15", 0], ["chara_id_16", 0], ["chara_id_17", 0], ["chara_id_18", 0], ["chara_id_19", 0], ["chara_id_2", 1103], ["chara_id_20", 0], ["chara_id_3", 1145], ["chara_id_4", 1809], ["chara_id_5", 1275], ["chara_id_6", 0], ["chara_id_7", 0], ["chara_id_8", 0], ["chara_id_9", 0], ["status_rate_1", 80], ["status_rate_2", 0], ["status_rate_3", 0], ["status_rate_4", 0], ["status_rate_5", 0], ["status_type_1", 2], ["status_type_2", 0], ["status_type_3", 0], ["status_type_4", 0], ["status_type_5", 0], ["story_id", 1028009], ["unlock_story_name", "咲戀のエピソード第9話"]],
+            "new": [["chara_id_1", 1028], ["chara_id_10", 0], ["chara_id_11", 0], ["chara_id_12", 0], ["chara_id_13", 0], ["chara_id_14", 0], ["chara_id_15", 0], ["chara_id_16", 0], ["chara_id_17", 0], ["chara_id_18", 0], ["chara_id_19", 0], ["chara_id_2", 1103], ["chara_id_20", 0], ["chara_id_3", 1145], ["chara_id_4", 1809], ["chara_id_5", 1275], ["chara_id_6", 1335], ["chara_id_7", 0], ["chara_id_8", 0], ["chara_id_9", 0], ["status_rate_1", 80], ["status_rate_2", 0], ["status_rate_3", 0], ["status_rate_4", 0], ["status_rate_5", 0], ["status_type_1", 2], ["status_type_2", 0], ["status_type_3", 0], ["status_type_4", 0], ["status_type_5", 0], ["story_id", 1028009], ["unlock_story_name", "咲戀のエピソード第9話"]]
+          },
+          {
+            "id": 1028005,
+            "old": [["chara_id_1", 1028], ["chara_id_10", 0], ["chara_id_11", 0], ["chara_id_12", 0], ["chara_id_13", 0], ["chara_id_14", 0], ["chara_id_15", 0], ["chara_id_16", 0], ["chara_id_17", 0], ["chara_id_18", 0], ["chara_id_19", 0], ["chara_id_2", 1103], ["chara_id_20", 0], ["chara_id_3", 1145], ["chara_id_4", 1809], ["chara_id_5", 1275], ["chara_id_6", 0], ["chara_id_7", 0], ["chara_id_8", 0], ["chara_id_9", 0], ["status_rate_1", 40], ["status_rate_2", 0], ["status_rate_3", 0], ["status_rate_4", 0], ["status_rate_5", 0], ["status_type_1", 2], ["status_type_2", 0], ["status_type_3", 0], ["status_type_4", 0], ["status_type_5", 0], ["story_id", 1028005], ["unlock_story_name", "咲戀のエピソード第5話"]],
+            "new": [["chara_id_1", 1028], ["chara_id_10", 0], ["chara_id_11", 0], ["chara_id_12", 0], ["chara_id_13", 0], ["chara_id_14", 0], ["chara_id_15", 0], ["chara_id_16", 0], ["chara_id_17", 0], ["chara_id_18", 0], ["chara_id_19", 0], ["chara_id_2", 1103], ["chara_id_20", 0], ["chara_id_3", 1145], ["chara_id_4", 1809], ["chara_id_5", 1275], ["chara_id_6", 1335], ["chara_id_7", 0], ["chara_id_8", 0], ["chara_id_9", 0], ["status_rate_1", 40], ["status_rate_2", 0], ["status_rate_3", 0], ["status_rate_4", 0], ["status_rate_5", 0], ["status_type_1", 2], ["status_type_2", 0], ["status_type_3", 0], ["status_type_4", 0], ["status_type_5", 0], ["story_id", 1028005], ["unlock_story_name", "咲戀のエピソード第5話"]]
+          },
+          {
+            "id": 1275002,
+            "old": [["chara_id_1", 1275], ["chara_id_10", 0], ["chara_id_11", 0], ["chara_id_12", 0], ["chara_id_13", 0], ["chara_id_14", 0], ["chara_id_15", 0], ["chara_id_16", 0], ["chara_id_17", 0], ["chara_id_18", 0], ["chara_id_19", 0], ["chara_id_2", 1028], ["chara_id_20", 0], ["chara_id_3", 1145], ["chara_id_4", 1103], ["chara_id_5", 1809], ["chara_id_6", 0], ["chara_id_7", 0], ["chara_id_8", 0], ["chara_id_9", 0], ["status_rate_1", 10], ["status_rate_2", 0], ["status_rate_3", 0], ["status_rate_4", 0], ["status_rate_5", 0], ["status_type_1", 2], ["status_type_2", 0], ["status_type_3", 0], ["status_type_4", 0], ["status_type_5", 0], ["story_id", 1275002], ["unlock_story_name", "咲戀（薩拉薩利亞）のエピソード第2話"]],
+            "new": [["chara_id_1", 1275], ["chara_id_10", 0], ["chara_id_11", 0], ["chara_id_12", 0], ["chara_id_13", 0], ["chara_id_14", 0], ["chara_id_15", 0], ["chara_id_16", 0], ["chara_id_17", 0], ["chara_id_18", 0], ["chara_id_19", 0], ["chara_id_2", 1028], ["chara_id_20", 0], ["chara_id_3", 1145], ["chara_id_4", 1103], ["chara_id_5", 1809], ["chara_id_6", 1335], ["chara_id_7", 0], ["chara_id_8", 0], ["chara_id_9", 0], ["status_rate_1", 10], ["status_rate_2", 0], ["status_rate_3", 0], ["status_rate_4", 0], ["status_rate_5", 0], ["status_type_1", 2], ["status_type_2", 0], ["status_type_3", 0], ["status_type_4", 0], ["status_type_5", 0], ["story_id", 1275002], ["unlock_story_name", "咲戀（薩拉薩利亞）のエピソード第2話"]]
+          }
+        ]
+      }
+    },
+    "unit_skill_data": {
+      "data_changes": {
+        "added": [
+          [["ex_skill_1", 1335501], ["ex_skill_2", 0], ["ex_skill_3", 0], ["ex_skill_4", 0], ["ex_skill_5", 0], ["ex_skill_evolution_1", 1335511], ["ex_skill_evolution_2", 0], ["ex_skill_evolution_3", 0], ["ex_skill_evolution_4", 0], ["ex_skill_evolution_5", 0], ["main_skill_1", 1335002], ["main_skill_10", 0], ["main_skill_2", 1335003], ["main_skill_3", 0], ["main_skill_4", 0], ["main_skill_5", 0], ["main_skill_6", 0], ["main_skill_7", 0], ["main_skill_8", 0], ["main_skill_9", 0], ["main_skill_evolution_1", 0], ["main_skill_evolution_2", 0], ["sp_skill_1", 0], ["sp_skill_2", 0], ["sp_skill_3", 0], ["sp_skill_4", 0], ["sp_skill_5", 0], ["sp_skill_evolution_1", 0], ["sp_skill_evolution_2", 0], ["sp_union_burst", 0], ["union_burst", 1335001], ["union_burst_evolution", 0], ["unit_id", 133501]]
+        ]
+      }
+    },
+    "extra_effect_unit_group": {
+      "data_changes": {
+        "added": [
+          [["group_id", 6101601], ["target_id", 234], ["unit_id", 133501]]
+        ]
+      }
+    },
+    "v1_618f7171286f4d1240445cce08365274934c00754f561b12d1a80d472f746141": {
+      "data_changes": {
+        "added": [
+          [["0ee7e03de6e5657b56c8d87e9b1448b86d3bc68291ea3748a75f46de5a6e33f4", 1], ["1ef6db7e6f332ca685eb40946e20826a5bd68084a78be1fe33d45e9b249000e3", 1335], ["2156ffb26cf7c572b2676ced1e793bb18f9816f544da04c0a0a12129f0124aeb", "2015/04/01 15:00:00"], ["2a82da593e1c5874a1373f07ae485e7d8eff75d9840cc9b63c28785a23342e8b", "2030/12/17 14:59:59"], ["7258d45a08385b2ecd19f1165bb1e357bda8952e3177b66c618ba4b15b3c2df4", 104], ["742a3d5dd21fe0062c6eededbc4c035a462bbc2be9d13470e99f6035424f0714", 208315], ["952dce5602bb8fdd0603cecf55a5dd1937afe3ae2877035c6a4fddf3716e939c", 0], ["cbc6cd13545acdb8c860fd363a36ce18795dd72a002e17c4a9ac9e1aadcec608", "咲戀（新年）"], ["ccdb442c67323c546f0d03543b4ddbcbd4d2601b3e4eaefab4adc68069d6fddf", 0], ["d48921e4ed078b90e20319ae076a27768fcb6c2a402a20a1e70f47c92bf3bf22", 0], ["dcdc807500470fcae7440780ae361c078f8d6d4c9c2418907b71722fdf1c0044", 1335]]
+        ]
+      }
+    },
+    "unit_comments": {
+      "data_changes": {
+        "added": [
+          [["all_comments_flag", 0], ["change_face", 9], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 7.6], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "要好好重視節日才行呢。\\n尤其對小孩子來說，\\n節日是很特別的時光。\\n遠比大人所想的還要特別喔。"], ["face_id", 2], ["face_id_2", 0], ["face_id_3", 0], ["id", 1335002], ["target_unit_id", 0], ["unit_id", 133501], ["use_type", 1], ["voice_id", 2]],
+          [["all_comments_flag", 0], ["change_face", 1], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 0.0], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "這股味道……是溫泉嗎？\\n因為不太習慣，\\n所以才能實際體會到\\n我們現在正出來旅行呢。"], ["face_id", 1], ["face_id_2", 0], ["face_id_3", 0], ["id", 1335008], ["target_unit_id", 0], ["unit_id", 133531], ["use_type", 1], ["voice_id", 3]],
+          [["all_comments_flag", 0], ["change_face", 1], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 0.0], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "從這裡能看見的庭園非常美麗喔。\\n呵呵♪雖然有點沒規矩，\\n但趁現在好好欣賞一下吧。\\n來，你也一起♪"], ["face_id", 1], ["face_id_2", 0], ["face_id_3", 0], ["id", 1335007], ["target_unit_id", 0], ["unit_id", 133531], ["use_type", 1], ["voice_id", 2]],
+          [["all_comments_flag", 0], ["change_face", 2], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 0.0], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "生日快樂！\\n嗯，表情不錯喔。\\n相信往後的一年\\n一定也會有好事發生的♪"], ["face_id", 2], ["face_id_2", 0], ["face_id_3", 0], ["id", 1335011], ["target_unit_id", 0], ["unit_id", 133501], ["use_type", 2], ["voice_id", 6]],
+          [["all_comments_flag", 0], ["change_face", 1], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 0.0], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "你接下來\\n想過怎樣的一年？\\n要是有任何想法，\\n我也會幫你一把喔。"], ["face_id", 1], ["face_id_2", 0], ["face_id_3", 0], ["id", 1335004], ["target_unit_id", 0], ["unit_id", 133501], ["use_type", 1], ["voice_id", 4]],
+          [["all_comments_flag", 0], ["change_face", 2], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 0.0], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "新年的娛樂就包在我身上♪\\n我小時候家裡很窮，\\n所以會花心思\\n下各種功夫來玩喔。"], ["face_id", 2], ["face_id_2", 0], ["face_id_3", 0], ["id", 1335003], ["target_unit_id", 0], ["unit_id", 133501], ["use_type", 1], ["voice_id", 3]],
+          [["all_comments_flag", 0], ["change_face", 1], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 0.0], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "這是不是代表\\n我是你特地選來陪你\\n一起度過生日的對象呢？\\n呵呵，謝謝你……"], ["face_id", 1], ["face_id_2", 0], ["face_id_3", 0], ["id", 1335012], ["target_unit_id", 0], ["unit_id", 133531], ["use_type", 2], ["voice_id", 6]],
+          [["all_comments_flag", 0], ["change_face", 1], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 0.0], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "像這樣悠哉懶散度過的時光，\\n真的好幸福呢。能獨佔著你，\\n就是最棒最奢侈的新年了……\\n我說笑的呦？"], ["face_id", 1], ["face_id_2", 0], ["face_id_3", 0], ["id", 1335010], ["target_unit_id", 0], ["unit_id", 133531], ["use_type", 1], ["voice_id", 5]],
+          [["all_comments_flag", 0], ["change_face", 1], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 0.0], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "呼……\\n雖然平常很難實現，\\n但躺下來休息\\n果然很舒服呢……"], ["face_id", 1], ["face_id_2", 0], ["face_id_3", 0], ["id", 1335006], ["target_unit_id", 0], ["unit_id", 133531], ["use_type", 1], ["voice_id", 1]],
+          [["all_comments_flag", 0], ["change_face", 2], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 6.1], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "先來決定新年的目標吧。\\n至於我，我想想……\\n能和你一起快樂度過\\n就再好不過了吧，呵呵♪"], ["face_id", 1], ["face_id_2", 0], ["face_id_3", 0], ["id", 1335005], ["target_unit_id", 0], ["unit_id", 133501], ["use_type", 1], ["voice_id", 5]],
+          [["all_comments_flag", 0], ["change_face", 2], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 5.1], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "像這樣穿上和服，\\n總讓人會想要抬頭挺胸呢。\\n俗話說一年之計在於元旦，\\n就算踏入新年也想保持得體呀。"], ["face_id", 1], ["face_id_2", 0], ["face_id_3", 0], ["id", 1335001], ["target_unit_id", 0], ["unit_id", 133501], ["use_type", 1], ["voice_id", 1]],
+          [["all_comments_flag", 0], ["change_face", 1], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 0.0], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "兩人獨處的時光啊……\\n你想想，平常就算待在一起，\\n也很難得能像現在這樣對吧。\\n所以……再讓我體驗一下。"], ["face_id", 1], ["face_id_2", 0], ["face_id_3", 0], ["id", 1335009], ["target_unit_id", 0], ["unit_id", 133531], ["use_type", 1], ["voice_id", 4]]
+        ]
+      }
+    },
+    "unit_promotion": {
+      "data_changes": {
+        "added": [
+          [["equip_slot_1", 103252], ["equip_slot_2", 103221], ["equip_slot_3", 103521], ["equip_slot_4", 103521], ["equip_slot_5", 102613], ["equip_slot_6", 102613], ["promotion_level", 4], ["unit_id", 133501]]
+        ]
+      }
+    },
+    "gacha_exchange_lineup": {
+      "data_changes": {
+        "added": [
+          [["end_time", "2025/05/16 15:59:59"], ["exchange_id", 366], ["gacha_bonus_id", 1165], ["id", 978], ["pickup_gacha_id", 30366], ["rarity", 3], ["start_time", "2025/05/04 16:00:00"], ["unit_id", 133501]]
+        ]
+      }
+    },
+    "still": {
+      "data_changes": {
+        "added": [
+          [["album_ignore", 0], ["facial_id", 1], ["my_page_flag", 1], ["position_y", 0], ["scroll_direction", 0], ["still_group_id", 1335004], ["still_id", 133500401], ["story_group_id", 1335], ["story_id", 1335004], ["unit_id_1", 102832], ["unit_id_10", 0], ["unit_id_2", 0], ["unit_id_3", 0], ["unit_id_4", 0], ["unit_id_5", 0], ["unit_id_6", 0], ["unit_id_7", 0], ["unit_id_8", 0], ["unit_id_9", 0], ["vertical_still_flg", 0]],
+          [["album_ignore", 0], ["facial_id", 1], ["my_page_flag", 1], ["position_y", 0], ["scroll_direction", 0], ["still_group_id", 1335003], ["still_id", 133500302], ["story_group_id", 1335], ["story_id", 1335003], ["unit_id_1", 133512], ["unit_id_10", 0], ["unit_id_2", 0], ["unit_id_3", 0], ["unit_id_4", 0], ["unit_id_5", 0], ["unit_id_6", 0], ["unit_id_7", 0], ["unit_id_8", 0], ["unit_id_9", 0], ["vertical_still_flg", 0]],
+          [["album_ignore", 0], ["facial_id", 1], ["my_page_flag", 1], ["position_y", 0], ["scroll_direction", 0], ["still_group_id", 1335003], ["still_id", 133500303], ["story_group_id", 1335], ["story_id", 1335003], ["unit_id_1", 133512], ["unit_id_10", 0], ["unit_id_2", 0], ["unit_id_3", 0], ["unit_id_4", 0], ["unit_id_5", 0], ["unit_id_6", 0], ["unit_id_7", 0], ["unit_id_8", 0], ["unit_id_9", 0], ["vertical_still_flg", 0]],
+          [["album_ignore", 0], ["facial_id", 1], ["my_page_flag", 1], ["position_y", 0], ["scroll_direction", 0], ["still_group_id", 1335003], ["still_id", 133500301], ["story_group_id", 1335], ["story_id", 1335003], ["unit_id_1", 133512], ["unit_id_10", 0], ["unit_id_2", 0], ["unit_id_3", 0], ["unit_id_4", 0], ["unit_id_5", 0], ["unit_id_6", 0], ["unit_id_7", 0], ["unit_id_8", 0], ["unit_id_9", 0], ["vertical_still_flg", 0]],
+          [["album_ignore", 0], ["facial_id", 1], ["my_page_flag", 1], ["position_y", 0], ["scroll_direction", 0], ["still_group_id", 1335004], ["still_id", 133500403], ["story_group_id", 1335], ["story_id", 1335004], ["unit_id_1", 102832], ["unit_id_10", 0], ["unit_id_2", 0], ["unit_id_3", 0], ["unit_id_4", 0], ["unit_id_5", 0], ["unit_id_6", 0], ["unit_id_7", 0], ["unit_id_8", 0], ["unit_id_9", 0], ["vertical_still_flg", 0]],
+          [["album_ignore", 0], ["facial_id", 1], ["my_page_flag", 1], ["position_y", 0], ["scroll_direction", 0], ["still_group_id", 1335004], ["still_id", 133500402], ["story_group_id", 1335], ["story_id", 1335004], ["unit_id_1", 102832], ["unit_id_10", 0], ["unit_id_2", 0], ["unit_id_3", 0], ["unit_id_4", 0], ["unit_id_5", 0], ["unit_id_6", 0], ["unit_id_7", 0], ["unit_id_8", 0], ["unit_id_9", 0], ["vertical_still_flg", 0]]
+        ]
+      }
+    },
+    "unit_attack_pattern": {
+      "data_changes": {
+        "added": [
+          [["atk_pattern_1", 1002], ["atk_pattern_10", 0], ["atk_pattern_11", 1001], ["atk_pattern_12", 1], ["atk_pattern_13", 0], ["atk_pattern_14", 0], ["atk_pattern_15", 0], ["atk_pattern_16", 0], ["atk_pattern_17", 0], ["atk_pattern_18", 0], ["atk_pattern_19", 0], ["atk_pattern_2", 1001], ["atk_pattern_20", 0], ["atk_pattern_3", 1], ["atk_pattern_4", 1002], ["atk_pattern_5", 1002], ["atk_pattern_6", 1], ["atk_pattern_7", 1001], ["atk_pattern_8", 1], ["atk_pattern_9", 1001], ["loop_end", 11], ["loop_start", 5], ["pattern_id", 13350101], ["unit_id", 133501]]
+        ]
+      }
+    },
+    "exceed_level_unit": {
+      "data_changes": {
+        "added": [
+          [["consume_num_1", 40], ["consume_num_2", 30000000], ["consume_num_3", 0], ["consume_num_4", 0], ["consume_num_5", 0], ["exceed_item_id", 41335], ["exceed_stage", 1], ["id", 1133501], ["item_id_1", 31335], ["item_id_2", 94000], ["item_id_3", 0], ["item_id_4", 0], ["item_id_5", 0], ["reward_type_1", 2], ["reward_type_2", 12], ["reward_type_3", 0], ["reward_type_4", 0], ["reward_type_5", 0], ["unit_id", 133501]]
+        ]
+      }
+    },
+    "unit_talent": {
+      "data_changes": {
+        "added": [
+          [["setting_id", 13350101], ["talent_id", 4], ["unit_id", 133501]]
+        ]
+      }
+    },
+    "item_data": {
+      "data_changes": {
+        "added": [
+          [["description", "據說能使咲戀（新年）突破力量極限並更為提升的戒指。裝備後能使角色Lv突破極限並超越主角Lv。"], ["end_time", "2030/08/01 14:59:00"], ["gojuon_order", 0], ["item_id", 41335], ["item_name", "咲戀（新年）專用戒指"], ["item_type", 22], ["limit_num", 9999], ["price", 0], ["promotion_level", 1], ["sell_check_disp", 0], ["start_time", "2015/12/17 15:00:00"], ["value", 0]],
+          [["description", "封印有咲戀（新年）的記憶碎片的道具。收集一定數量，則可以解放角色深藏的力量。"], ["end_time", "2030/08/01 14:59:59"], ["gojuon_order", 2083152], ["item_id", 31335], ["item_name", "咲戀（新年）的記憶碎片"], ["item_type", 11], ["limit_num", 9999], ["price", 0], ["promotion_level", 1], ["sell_check_disp", 0], ["start_time", "2015/12/17 15:00:00"], ["value", 31335]]
+        ]
+      }
+    },
+    "unlock_rarity_6": {
+      "data_changes": {
+        "added": [
+          [["accuracy", 0], ["atk", 0], ["consume_gold", 0], ["def", 0], ["dodge", 0], ["energy_recovery_rate", 0], ["energy_reduce_rate", 0], ["hp", 0], ["hp_recovery_rate", 0], ["life_steal", 0], ["magic_critical", 0], ["magic_def", 0], ["magic_penetrate", 0], ["magic_str", 0], ["material_count", 0], ["material_id", 0], ["material_type", 0], ["physical_critical", 0], ["physical_penetrate", 0], ["slot_id", 2], ["unit_id", 133501], ["unlock_flag", 0], ["unlock_level", 0], ["wave_energy_recovery", 0], ["wave_hp_recovery", 0]]
+        ]
+      }
+    },
+    "promotion_bonus": {
+      "data_changes": {
+        "added": [
+          [["accuracy", 0.0], ["atk", 0.0], ["def", 0.0], ["dodge", 0.0], ["energy_recovery_rate", 10.0], ["energy_reduce_rate", 2500.0], ["hp", 0.0], ["hp_recovery_rate", 0.0], ["life_steal", 0.0], ["magic_critical", 0.0], ["magic_def", 0.0], ["magic_penetrate", 0.0], ["magic_str", 0.0], ["physical_critical", 0.0], ["physical_penetrate", 0.0], ["promotion_level", 35], ["unit_id", 133501], ["wave_energy_recovery", 0.0], ["wave_hp_recovery", 0.0]]
+        ]
+      }
+    }
+  }
+}
