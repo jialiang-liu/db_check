@@ -1,0 +1,49 @@
+{
+  "tables": {
+    "only_in_old_db": [],
+    "only_in_new_db": []
+  },
+  "table_changes": {
+    "skill_data": {
+      "data_changes": {
+        "modified": [
+          {
+            "id": 1068001,
+            "old": [["action_1", 106800101], ["action_10", 0], ["action_2", 106800102], ["action_3", 106800103], ["action_4", 106800104], ["action_5", 0], ["action_6", 0], ["action_7", 0], ["action_8", 0], ["action_9", 0], ["boss_ub_cool_time", 0.0], ["depend_action_1", 0], ["depend_action_10", 0], ["depend_action_2", 0], ["depend_action_3", 0], ["depend_action_4", 0], ["depend_action_5", 0], ["depend_action_6", 0], ["depend_action_7", 0], ["depend_action_8", 0], ["depend_action_9", 0], ["description", "特大幅度提升自身的物理攻擊力和物理暴擊。並解放七冠的權能，小幅度提升我方物理攻擊暴擊時造成的傷害。"], ["icon_type", 1017], ["name", "物件創造"], ["skill_area_width", 0], ["skill_cast_time", 0.0], ["skill_id", 1068001], ["skill_type", 1]],
+            "new": [["action_1", 106800101], ["action_10", 0], ["action_2", 106800102], ["action_3", 106800103], ["action_4", 106800104], ["action_5", 0], ["action_6", 0], ["action_7", 0], ["action_8", 0], ["action_9", 0], ["boss_ub_cool_time", 0.0], ["depend_action_1", 0], ["depend_action_10", 0], ["depend_action_2", 0], ["depend_action_3", 0], ["depend_action_4", 0], ["depend_action_5", 0], ["depend_action_6", 0], ["depend_action_7", 0], ["depend_action_8", 0], ["depend_action_9", 0], ["description", "特大幅度提升自身的物理攻擊力和物理暴擊。並解放七冠的權能，小幅度提升我方物理攻擊暴擊時造成的傷害。"], ["icon_type", 1017], ["name", "迷宮生成"], ["skill_area_width", 0], ["skill_cast_time", 0.0], ["skill_id", 1068001], ["skill_type", 1]]
+          }
+        ]
+      }
+    },
+    "custom_mypage": {
+      "data_changes": {
+        "modified": [
+          {
+            "id": 9000233,
+            "old": [["group_id", 20007], ["mypage_type", 1], ["scroll_direction", 0], ["still_group_id", 0], ["still_id", 9000233], ["still_name", "「I Wish　緊握的這雙手」主視覺 自訂主頁面"], ["vertical_still_flg", 0]],
+            "new": [["group_id", 20007], ["mypage_type", 1], ["scroll_direction", 0], ["still_group_id", 0], ["still_id", 9000233], ["still_name", "「I Wish　緊握的這雙手」主視覺 自訂主頁"], ["vertical_still_flg", 0]]
+          }
+        ]
+      }
+    },
+    "ex_equipment_data": {
+      "data_changes": {
+        "modified": [
+          {
+            "id": 4203401,
+            "old": [["category", 203], ["clan_battle_equip_flag", 0], ["default_accuracy", 0], ["default_atk", 0], ["default_def", 0], ["default_dodge", 0], ["default_energy_recovery_rate", 0], ["default_energy_reduce_rate", 0], ["default_hp", 0], ["default_hp_recovery_rate", 0], ["default_life_steal", 0], ["default_magic_critical", 50], ["default_magic_def", 0], ["default_magic_penetrate", 0], ["default_magic_str", 117], ["default_physical_critical", 0], ["default_physical_penetrate", 0], ["default_wave_energy_recovery", 0], ["default_wave_hp_recovery", 0], ["description", "以幾千人對和平的祈禱所購成\\n的長袍。其純粹的願望之力帶來的\\n庇佑，可將祈禱的效果提升至極限。"], ["ex_equipment_id", 4203401], ["is_force_protected", 0], ["max_accuracy", 0], ["max_atk", 0], ["max_def", 0], ["max_dodge", 0], ["max_energy_recovery_rate", 0], ["max_energy_reduce_rate", 0], ["max_hp", 0], ["max_hp_recovery_rate", 0], ["max_life_steal", 0], ["max_magic_critical", 300], ["max_magic_def", 0], ["max_magic_penetrate", 0], ["max_magic_str", 700], ["max_physical_critical", 0], ["max_physical_penetrate", 0], ["max_rank_flag", 0], ["max_wave_energy_recovery", 0], ["max_wave_hp_recovery", 0], ["name", "福音裝純潔玩家"], ["passive_skill_id_1", 4203401], ["passive_skill_id_2", 0], ["passive_skill_power", 0], ["rarity", 4], ["restriction_id", 0]],
+            "new": [["category", 203], ["clan_battle_equip_flag", 0], ["default_accuracy", 0], ["default_atk", 0], ["default_def", 0], ["default_dodge", 0], ["default_energy_recovery_rate", 0], ["default_energy_reduce_rate", 0], ["default_hp", 0], ["default_hp_recovery_rate", 0], ["default_life_steal", 0], ["default_magic_critical", 50], ["default_magic_def", 0], ["default_magic_penetrate", 0], ["default_magic_str", 117], ["default_physical_critical", 0], ["default_physical_penetrate", 0], ["default_wave_energy_recovery", 0], ["default_wave_hp_recovery", 0], ["description", "以幾千人對和平的祈禱所購成\\n的長袍。其純粹的願望之力帶來的\\n庇佑，可將祈禱的效果提升至極限。"], ["ex_equipment_id", 4203401], ["is_force_protected", 0], ["max_accuracy", 0], ["max_atk", 0], ["max_def", 0], ["max_dodge", 0], ["max_energy_recovery_rate", 0], ["max_energy_reduce_rate", 0], ["max_hp", 0], ["max_hp_recovery_rate", 0], ["max_life_steal", 0], ["max_magic_critical", 300], ["max_magic_def", 0], ["max_magic_penetrate", 0], ["max_magic_str", 700], ["max_physical_critical", 0], ["max_physical_penetrate", 0], ["max_rank_flag", 0], ["max_wave_energy_recovery", 0], ["max_wave_hp_recovery", 0], ["name", "福音裝純潔祈禱師"], ["passive_skill_id_1", 4203401], ["passive_skill_id_2", 0], ["passive_skill_power", 0], ["rarity", 4], ["restriction_id", 0]]
+          }
+        ]
+      }
+    },
+    "campaign_schedule": {
+      "data_changes": {
+        "added": [
+          [["beginner_id", 0], ["campaign_category", 37], ["campaign_type", 1], ["duplication_order", 0], ["end_time", "2025/05/13 04:59:59"], ["icon_image", 30], ["id", 2273], ["level_id", 0], ["lv_from", 1], ["lv_to", -1], ["shiori_group_id", 0], ["start_time", "2025/05/07 05:00:00"], ["system_id", 109], ["value", 3000.0]],
+          [["beginner_id", 0], ["campaign_category", 38], ["campaign_type", 1], ["duplication_order", 0], ["end_time", "2025/05/13 04:59:59"], ["icon_image", 30], ["id", 2274], ["level_id", 0], ["lv_from", 1], ["lv_to", -1], ["shiori_group_id", 0], ["start_time", "2025/05/07 05:00:00"], ["system_id", 112], ["value", 3000.0]]
+        ]
+      }
+    }
+  }
+}
