@@ -1,0 +1,19 @@
+{
+  "tables": {
+    "only_in_old_db": [],
+    "only_in_new_db": []
+  },
+  "table_changes": {
+    "quest_condition_data": {
+      "data_changes": {
+        "modified": [
+          {
+            "id": 12001001,
+            "old": [["condition_quest_id_1", 99999999], ["condition_quest_id_2", 11002008], ["condition_quest_id_3", 0], ["condition_quest_id_4", 0], ["condition_quest_id_5", 0], ["quest_id", 12001001], ["release_quest_id_1", 12001002], ["release_quest_id_2", 0], ["release_quest_id_3", 0], ["release_quest_id_4", 0], ["release_quest_id_5", 0]],
+            "new": [["condition_quest_id_1", 0], ["condition_quest_id_2", 11002008], ["condition_quest_id_3", 0], ["condition_quest_id_4", 0], ["condition_quest_id_5", 0], ["quest_id", 12001001], ["release_quest_id_1", 12001002], ["release_quest_id_2", 0], ["release_quest_id_3", 0], ["release_quest_id_4", 0], ["release_quest_id_5", 0]]
+          }
+        ]
+      }
+    }
+  }
+}
