@@ -1,0 +1,369 @@
+{
+  "tables": {
+    "only_in_old_db": [],
+    "only_in_new_db": []
+  },
+  "table_changes": {
+    "unlock_unit_condition": {
+      "data_changes": {
+        "added": [
+          [["class_id", 1], ["condition_id_1", 31336], ["condition_id_2", 0], ["condition_id_3", 0], ["condition_id_4", 0], ["condition_id_5", 0], ["condition_type_1", 1], ["condition_type_2", 0], ["condition_type_3", 0], ["condition_type_4", 0], ["condition_type_5", 0], ["condition_type_detail_1", 2], ["condition_type_detail_2", 0], ["condition_type_detail_3", 0], ["condition_type_detail_4", 0], ["condition_type_detail_5", 0], ["count_1", 145], ["count_2", 0], ["count_3", 0], ["count_4", 0], ["count_5", 0], ["pre_unit_id", 0], ["release_effect_type", 2], ["unit_id", 133601], ["unit_name", "梅杜莎"]]
+        ]
+      }
+    },
+    "campaign_schedule": {
+      "data_changes": {
+        "added": [
+          [["beginner_id", 0], ["campaign_category", 32], ["campaign_type", 1], ["duplication_order", 0], ["end_time", "2025/06/01 04:59:59"], ["icon_image", 30], ["id", 2285], ["level_id", 0], ["lv_from", 291], ["lv_to", -1], ["shiori_group_id", 0], ["start_time", "2025/05/22 05:00:00"], ["system_id", 102], ["value", 2000.0]],
+          [["beginner_id", 0], ["campaign_category", 42], ["campaign_type", 1], ["duplication_order", 0], ["end_time", "2025/06/01 04:59:59"], ["icon_image", 40], ["id", 2286], ["level_id", 0], ["lv_from", 291], ["lv_to", -1], ["shiori_group_id", 0], ["start_time", "2025/05/22 05:00:00"], ["system_id", 102], ["value", 2000.0]]
+        ]
+      }
+    },
+    "unit_introduction": {
+      "data_changes": {
+        "added": [
+          [["end_time", "2025/06/01 15:59:59"], ["gacha_id", 30369], ["id", 361], ["introduction_number", 1], ["maximum_chunk_size_1", 380000], ["maximum_chunk_size_2", 0], ["maximum_chunk_size_3", 0], ["maximum_chunk_size_loop_1", 380000], ["maximum_chunk_size_loop_2", 0], ["maximum_chunk_size_loop_3", 0], ["start_time", "2025/05/21 16:00:00"]]
+        ]
+      }
+    },
+    "unit_profile": {
+      "data_changes": {
+        "added": [
+          [["age", "14"], ["birth_day", "7"], ["birth_month", "12"], ["blood_type", "B"], ["catch_copy", "任性又固執的老么蛇女孩"], ["favorite", "和梅杜希亞娜一起在空中飛翔"], ["guild", "？？？"], ["guild_id", ""], ["height", "141"], ["race", "妖魔人"], ["self_text", ""], ["unit_id", 133601], ["unit_name", "梅杜莎"], ["voice", "水橋かおり"], ["voice_id", 0], ["weight", "??"]]
+        ]
+      }
+    },
+    "actual_unit_background": {
+      "data_changes": {
+        "added": [
+          [["bg_id", 510280], ["face_type", 2], ["unit_id", 133631], ["unit_name", "梅杜莎"]]
+        ]
+      }
+    },
+    "gacha_data": {
+      "data_changes": {
+        "added": [
+          [["b445862d0ab66dcf0d21148e77310f8e2f88e53c87861cd1b30c6271489741b7", 0], ["chara_odds_star1", "20369_1"], ["chara_odds_star2", "20369_2"], ["chara_odds_star3", "20369_3"], ["description", "白金轉蛋僅會出現角色喔！"], ["description_2", ""], ["description_sp", ""], ["discount_price", 50], ["end_time", "2025/06/01 15:59:59"], ["exchange_id", 369], ["ff12a2d323be4140b5b5f0e3db8f93c207d4d0594eff84913f280ebb8f5fbfcd", 0], ["free_gacha_count", 0], ["free_gacha_interval_time", 0], ["free_gacha_type", 0], ["gacha10_special_odds_star1", "0"], ["gacha10_special_odds_star2", "0"], ["gacha10_special_odds_star3", "0"], ["gacha_bonus_id", 0], ["gacha_cost_type", 2], ["gacha_detail", 2], ["gacha_id", 20369], ["gacha_name", "白金轉蛋"], ["gacha_odds", "0"], ["gacha_odds_star2", "0"], ["gacha_times_limit10", 0], ["gacha_type", 1], ["movie_id", 200001], ["parallel_id", 0], ["pick_up_chara_text", "無精選角色"], ["pickup_badge", 0], ["pickup_id", 0], ["price", 150], ["prizegacha_id", 0], ["rarity_odds", "300000"], ["special_id", 0], ["start_time", "2025/05/21 16:00:00"], ["tab_name", ""], ["ticket_id", 24001], ["ticket_id_10", 24004], ["title_id", 0]],
+          [["b445862d0ab66dcf0d21148e77310f8e2f88e53c87861cd1b30c6271489741b7", 0], ["chara_odds_star1", "0"], ["chara_odds_star2", "0"], ["chara_odds_star3", "0"], ["description", "取得道具獎勵或記憶碎片吧！"], ["description_2", ""], ["description_sp", ""], ["discount_price", 0], ["end_time", "2025/06/01 15:59:59"], ["exchange_id", 0], ["ff12a2d323be4140b5b5f0e3db8f93c207d4d0594eff84913f280ebb8f5fbfcd", 0], ["free_gacha_count", 10], ["free_gacha_interval_time", 0], ["free_gacha_type", 1], ["gacha10_special_odds_star1", "0"], ["gacha10_special_odds_star2", "0"], ["gacha10_special_odds_star3", "0"], ["gacha_bonus_id", 0], ["gacha_cost_type", 3], ["gacha_detail", 1], ["gacha_id", 10369], ["gacha_name", "一般轉蛋"], ["gacha_odds", "10369"], ["gacha_odds_star2", ""], ["gacha_times_limit10", 0], ["gacha_type", 0], ["movie_id", 0], ["parallel_id", 0], ["pick_up_chara_text", ""], ["pickup_badge", 0], ["pickup_id", 0], ["price", 0], ["prizegacha_id", 0], ["rarity_odds", "0"], ["special_id", 0], ["start_time", "2025/05/21 16:00:00"], ["tab_name", ""], ["ticket_id", 0], ["ticket_id_10", 0], ["title_id", 0]],
+          [["b445862d0ab66dcf0d21148e77310f8e2f88e53c87861cd1b30c6271489741b7", 0], ["chara_odds_star1", "30369_1"], ["chara_odds_star2", "30369_2"], ["chara_odds_star3", "30369_3"], ["description", "限定「梅杜莎」登場！\\n期間內出現率UP！"], ["description_2", "[3C404E]每次讓目標角色加入時[FFBB00,CE4F00][-]獲得[-]角色記憶碎片200個！"], ["description_sp", ""], ["discount_price", 50], ["end_time", "2025/06/01 15:59:59"], ["exchange_id", 369], ["ff12a2d323be4140b5b5f0e3db8f93c207d4d0594eff84913f280ebb8f5fbfcd", 0], ["free_gacha_count", 0], ["free_gacha_interval_time", 0], ["free_gacha_type", 0], ["gacha10_special_odds_star1", "0"], ["gacha10_special_odds_star2", "0"], ["gacha10_special_odds_star3", "0"], ["gacha_bonus_id", 1166], ["gacha_cost_type", 2], ["gacha_detail", 2], ["gacha_id", 30369], ["gacha_name", "精選轉蛋"], ["gacha_odds", "0"], ["gacha_odds_star2", "0"], ["gacha_times_limit10", 1], ["gacha_type", 1], ["movie_id", 300369], ["parallel_id", 0], ["pick_up_chara_text", "梅杜莎"], ["pickup_badge", 0], ["pickup_id", 0], ["price", 150], ["prizegacha_id", 0], ["rarity_odds", "300000"], ["special_id", 0], ["start_time", "2025/05/21 16:00:00"], ["tab_name", ""], ["ticket_id", 24001], ["ticket_id_10", 24004], ["title_id", 0]],
+          [["b445862d0ab66dcf0d21148e77310f8e2f88e53c87861cd1b30c6271489741b7", 2], ["chara_odds_star1", "110020_1"], ["chara_odds_star2", "110020_2"], ["chara_odds_star3", "110020_3"], ["description", "有償寶石限定\\n舉辦★3確定白金轉蛋！"], ["description_2", "[3C404E]第10位角色[FFBB00,CE4F00]必定出現★3角色！[-] 可以取得大師碎片×1！[-]"], ["description_sp", ""], ["discount_price", 50], ["end_time", "2025/06/01 15:59:59"], ["exchange_id", 369], ["ff12a2d323be4140b5b5f0e3db8f93c207d4d0594eff84913f280ebb8f5fbfcd", 1], ["free_gacha_count", 0], ["free_gacha_interval_time", 0], ["free_gacha_type", 0], ["gacha10_special_odds_star1", "111020_1"], ["gacha10_special_odds_star2", "111020_2"], ["gacha10_special_odds_star3", "111020_3"], ["gacha_bonus_id", 1166], ["gacha_cost_type", 2], ["gacha_detail", 2], ["gacha_id", 110020], ["gacha_name", "★3確定白金轉蛋"], ["gacha_odds", "0"], ["gacha_odds_star2", "0"], ["gacha_times_limit10", 0], ["gacha_type", 1], ["movie_id", 700091], ["parallel_id", 0], ["pick_up_chara_text", "無精選角色"], ["pickup_badge", 0], ["pickup_id", 0], ["price", 1500], ["prizegacha_id", 0], ["rarity_odds", "300000"], ["special_id", 110020], ["start_time", "2025/05/21 16:00:00"], ["tab_name", ""], ["ticket_id", 24001], ["ticket_id_10", 0], ["title_id", 0]]
+        ]
+      }
+    },
+    "unit_talent": {
+      "data_changes": {
+        "added": [
+          [["setting_id", 13360101], ["talent_id", 5], ["unit_id", 133601]]
+        ]
+      }
+    },
+    "unit_rarity": {
+      "data_changes": {
+        "added": [
+          [["accuracy", 0.0], ["accuracy_growth", 0.0], ["atk", 46.37], ["atk_growth", 5.15], ["consume_gold", 10000], ["consume_num", 15], ["def", 2.62], ["def_growth", 0.29], ["dodge", 0.0], ["dodge_growth", 0.0], ["energy_recovery_rate", 0.0], ["energy_recovery_rate_growth", 0.0], ["energy_reduce_rate", 0.0], ["energy_reduce_rate_growth", 0.0], ["hp", 372.9], ["hp_growth", 41.43], ["hp_recovery_rate", 0.0], ["hp_recovery_rate_growth", 0.0], ["life_steal", 0.0], ["life_steal_growth", 0.0], ["magic_critical", 0.0], ["magic_critical_growth", 0.0], ["magic_def", 2.39], ["magic_def_growth", 0.27], ["magic_penetrate", 0.0], ["magic_penetrate_growth", 0.0], ["magic_str", 0.0], ["magic_str_growth", 0.0], ["physical_critical", 0.0], ["physical_critical_growth", 0.0], ["physical_penetrate", 0.0], ["physical_penetrate_growth", 0.0], ["rarity", 1], ["unit_id", 133601], ["unit_material_id", 31336], ["wave_energy_recovery", 0.0], ["wave_energy_recovery_growth", 0.0], ["wave_hp_recovery", 0.0], ["wave_hp_recovery_growth", 0.0]]
+        ]
+      }
+    },
+    "voice_group": {
+      "data_changes": {
+        "added": [
+          [["group_id", 20218], ["group_id_comment", "梅杜莎＆咲戀"], ["group_unit_id_01", 133601001], ["group_unit_id_02", 102801001], ["group_unit_id_03", 0], ["group_unit_id_04", 0], ["group_unit_id_05", 0]],
+          [["group_id", 20220], ["group_id_comment", "梅杜莎＆涅妃‧涅羅"], ["group_unit_id_01", 133601001], ["group_unit_id_02", 129701001], ["group_unit_id_03", 0], ["group_unit_id_04", 0], ["group_unit_id_05", 0]],
+          [["group_id", 20219], ["group_id_comment", "梅杜莎＆班比"], ["group_unit_id_01", 133601001], ["group_unit_id_02", 122301001], ["group_unit_id_03", 0], ["group_unit_id_04", 0], ["group_unit_id_05", 0]],
+          [["group_id", 20217], ["group_id_comment", "梅杜莎＆莫妮卡"], ["group_unit_id_01", 133601001], ["group_unit_id_02", 105301001], ["group_unit_id_03", 0], ["group_unit_id_04", 0], ["group_unit_id_05", 0]]
+        ]
+      }
+    },
+    "promotion_bonus": {
+      "data_changes": {
+        "added": [
+          [["accuracy", 34], ["atk", 0.0], ["def", 0.0], ["dodge", 0.0], ["energy_recovery_rate", 10.0], ["energy_reduce_rate", 2500.0], ["hp", 0.0], ["hp_recovery_rate", 0.0], ["life_steal", 0.0], ["magic_critical", 0.0], ["magic_def", 0.0], ["magic_penetrate", 0.0], ["magic_str", 0.0], ["physical_critical", 0.0], ["physical_penetrate", 0.0], ["promotion_level", 0.0], ["unit_id", 133601], ["wave_energy_recovery", 0.0], ["wave_hp_recovery", 0.0]]
+        ]
+      }
+    },
+    "chara_story_status": {
+      "data_changes": {
+        "added": [
+          [["chara_id_1", 1336], ["chara_id_10", 0], ["chara_id_11", 0], ["chara_id_12", 0], ["chara_id_13", 0], ["chara_id_14", 0], ["chara_id_15", 0], ["chara_id_16", 0], ["chara_id_17", 0], ["chara_id_18", 0], ["chara_id_19", 0], ["chara_id_2", 0], ["chara_id_20", 0], ["chara_id_3", 0], ["chara_id_4", 0], ["chara_id_5", 0], ["chara_id_6", 0], ["chara_id_7", 0], ["chara_id_8", 0], ["chara_id_9", 0], ["status_rate_1", 30], ["status_rate_2", 0], ["status_rate_3", 0], ["status_rate_4", 0], ["status_rate_5", 0], ["status_type_1", 2], ["status_type_2", 0], ["status_type_3", 0], ["status_type_4", 0], ["status_type_5", 0], ["story_id", 1336003], ["unlock_story_name", "梅杜莎のエピソード第3話"]],
+          [["chara_id_1", 1336], ["chara_id_10", 0], ["chara_id_11", 0], ["chara_id_12", 0], ["chara_id_13", 0], ["chara_id_14", 0], ["chara_id_15", 0], ["chara_id_16", 0], ["chara_id_17", 0], ["chara_id_18", 0], ["chara_id_19", 0], ["chara_id_2", 0], ["chara_id_20", 0], ["chara_id_3", 0], ["chara_id_4", 0], ["chara_id_5", 0], ["chara_id_6", 0], ["chara_id_7", 0], ["chara_id_8", 0], ["chara_id_9", 0], ["status_rate_1", 10], ["status_rate_2", 0], ["status_rate_3", 0], ["status_rate_4", 0], ["status_rate_5", 0], ["status_type_1", 2], ["status_type_2", 0], ["status_type_3", 0], ["status_type_4", 0], ["status_type_5", 0], ["story_id", 1336002], ["unlock_story_name", "梅杜莎のエピソード第2話"]],
+          [["chara_id_1", 1336], ["chara_id_10", 0], ["chara_id_11", 0], ["chara_id_12", 0], ["chara_id_13", 0], ["chara_id_14", 0], ["chara_id_15", 0], ["chara_id_16", 0], ["chara_id_17", 0], ["chara_id_18", 0], ["chara_id_19", 0], ["chara_id_2", 0], ["chara_id_20", 0], ["chara_id_3", 0], ["chara_id_4", 0], ["chara_id_5", 0], ["chara_id_6", 0], ["chara_id_7", 0], ["chara_id_8", 0], ["chara_id_9", 0], ["status_rate_1", 50], ["status_rate_2", 0], ["status_rate_3", 0], ["status_rate_4", 0], ["status_rate_5", 0], ["status_type_1", 2], ["status_type_2", 0], ["status_type_3", 0], ["status_type_4", 0], ["status_type_5", 0], ["story_id", 1336004], ["unlock_story_name", "梅杜莎のエピソード第4話"]]
+        ]
+      }
+    },
+    "emblem_mission_reward_data": {
+      "data_changes": {
+        "added": [
+          [["icon_type", 1001], ["id", 1488], ["mission_reward_id", 56011938], ["reward_id", 10201938], ["reward_num", 1], ["reward_type", 15]],
+          [["icon_type", 1003], ["id", 1490], ["mission_reward_id", 56011940], ["reward_id", 10201940], ["reward_num", 1], ["reward_type", 15]],
+          [["icon_type", 0], ["id", 1491], ["mission_reward_id", 56011940], ["reward_id", 91002], ["reward_num", 50], ["reward_type", 8]],
+          [["icon_type", 1002], ["id", 1489], ["mission_reward_id", 56011939], ["reward_id", 10201939], ["reward_num", 1], ["reward_type", 15]]
+        ]
+      }
+    },
+    "album_production_list": {
+      "data_changes": {
+        "added": [
+          [["description", ""], ["id", 13360107], ["title", "羈絆Rank表演6"], ["type", 106], ["unit_id", 133601]],
+          [["description", ""], ["id", 13360105], ["title", "羈絆Rank表演4"], ["type", 104], ["unit_id", 133601]],
+          [["description", ""], ["id", 13360102], ["title", "羈絆Rank表演1"], ["type", 101], ["unit_id", 133601]],
+          [["description", ""], ["id", 13360108], ["title", "羈絆Rank表演7"], ["type", 107], ["unit_id", 133601]],
+          [["description", ""], ["id", 13360101], ["title", "解放表演1"], ["type", 201], ["unit_id", 133601]],
+          [["description", ""], ["id", 13360104], ["title", "羈絆Rank表演3"], ["type", 103], ["unit_id", 133601]],
+          [["description", ""], ["id", 13360106], ["title", "羈絆Rank表演5"], ["type", 105], ["unit_id", 133601]],
+          [["description", ""], ["id", 13360103], ["title", "羈絆Rank表演2"], ["type", 102], ["unit_id", 133601]]
+        ]
+      }
+    },
+    "skill_data": {
+      "data_changes": {
+        "added": [
+          [["action_1", 133600201], ["action_10", 0], ["action_2", 133600202], ["action_3", 133600203], ["action_4", 133600204], ["action_5", 133600205], ["action_6", 133600206], ["action_7", 133600207], ["action_8", 133600208], ["action_9", 133600209], ["boss_ub_cool_time", 0.0], ["depend_action_1", 0], ["depend_action_10", 0], ["depend_action_2", 133600201], ["depend_action_3", 133600202], ["depend_action_4", 133600202], ["depend_action_5", 133600202], ["depend_action_6", 0], ["depend_action_7", 0], ["depend_action_8", 0], ["depend_action_9", 0], ["description", "以面前的１名敵人為中心，對範圍內的所有敵人造成大幅度的物理傷害，並大幅度降低物理攻擊力與魔法攻擊力，小幅度降低物理防禦力，此技能的效果量會隨著【魔眼】的數量上升。"], ["icon_type", 2001], ["name", "幻象鞭擊"], ["skill_area_width", 0], ["skill_cast_time", 1.05], ["skill_id", 1336002], ["skill_type", 0]],
+          [["action_1", 133600101], ["action_10", 0], ["action_2", 133600102], ["action_3", 133600103], ["action_4", 133600104], ["action_5", 133600105], ["action_6", 133600106], ["action_7", 0], ["action_8", 0], ["action_9", 0], ["boss_ub_cool_time", 0.0], ["depend_action_1", 0], ["depend_action_10", 0], ["depend_action_2", 133600101], ["depend_action_3", 133600102], ["depend_action_4", 133600102], ["depend_action_5", 133600102], ["depend_action_6", 0], ["depend_action_7", 0], ["depend_action_8", 0], ["depend_action_9", 0], ["description", "以面前的１名敵人為中心，對範圍內所有敵人造成特大幅度的物理傷害，中幅度降低物理防禦力，使其陷入猛毒與石化狀態。同時，賦予自身１個【魔眼】。【魔眼】最多只能累積３個。"], ["icon_type", 1001], ["name", "致命‧梅杜希亞娜"], ["skill_area_width", 0], ["skill_cast_time", 0.0], ["skill_id", 1336001], ["skill_type", 0]],
+          [["action_1", 133650101], ["action_10", 0], ["action_2", 0], ["action_3", 0], ["action_4", 0], ["action_5", 0], ["action_6", 0], ["action_7", 0], ["action_8", 0], ["action_9", 0], ["boss_ub_cool_time", 0.0], ["depend_action_1", 0], ["depend_action_10", 0], ["depend_action_2", 0], ["depend_action_3", 0], ["depend_action_4", 0], ["depend_action_5", 0], ["depend_action_6", 0], ["depend_action_7", 0], ["depend_action_8", 0], ["depend_action_9", 0], ["description", "戰鬥開始時，中幅度提升自己的物理攻擊力。"], ["icon_type", 3001], ["name", "戈爾貢的威嚴"], ["skill_area_width", 0], ["skill_cast_time", 0.0], ["skill_id", 1336501], ["skill_type", 0]],
+          [["action_1", 133600301], ["action_10", 0], ["action_2", 133600302], ["action_3", 133600303], ["action_4", 133600304], ["action_5", 133600305], ["action_6", 133600306], ["action_7", 133600307], ["action_8", 133600308], ["action_9", 0], ["boss_ub_cool_time", 0.0], ["depend_action_1", 0], ["depend_action_10", 0], ["depend_action_2", 0], ["depend_action_3", 0], ["depend_action_4", 0], ["depend_action_5", 0], ["depend_action_6", 0], ["depend_action_7", 0], ["depend_action_8", 0], ["depend_action_9", 0], ["description", "特大幅度提升我方全體的物理攻擊力，大幅度提升物理暴擊率，小幅度提升物理攻擊暴擊時的傷害。同時，小幅度恢復自身的ＴＰ。此技能的效果量會隨著【魔眼】的數量上升。"], ["icon_type", 2003], ["name", "強力魔眼"], ["skill_area_width", 0], ["skill_cast_time", 1.05], ["skill_id", 1336003], ["skill_type", 0]],
+          [["action_1", 133651101], ["action_10", 0], ["action_2", 0], ["action_3", 0], ["action_4", 0], ["action_5", 0], ["action_6", 0], ["action_7", 0], ["action_8", 0], ["action_9", 0], ["boss_ub_cool_time", 0.0], ["depend_action_1", 0], ["depend_action_10", 0], ["depend_action_2", 0], ["depend_action_3", 0], ["depend_action_4", 0], ["depend_action_5", 0], ["depend_action_6", 0], ["depend_action_7", 0], ["depend_action_8", 0], ["depend_action_9", 0], ["description", "戰鬥開始時，大幅度提升自己的物理攻擊力。"], ["icon_type", 3001], ["name", "戈爾貢的威嚴+"], ["skill_area_width", 0], ["skill_cast_time", 0.0], ["skill_id", 1336511], ["skill_type", 0]]
+        ]
+      }
+    },
+    "banner": {
+      "data_changes": {
+        "added": [
+          [["banner_id", 10323], ["condition_id", 0], ["end_date", "2025/06/01 15:59:59"], ["gacha_id", 30369], ["is_show_room", 0], ["priority", 1], ["start_date", "2025/05/21 16:00:00"], ["sub_banner_id_1", 0], ["system_id", 302], ["type", 1]]
+        ],
+        "modified": [
+          {
+            "id": 20032,
+            "old": [["banner_id", 20032], ["condition_id", 0], ["end_date", "2025/05/04 15:59:59"], ["gacha_id", 0], ["is_show_room", 0], ["priority", 60101], ["start_date", "2025/05/01 16:00:00"], ["sub_banner_id_1", 0], ["system_id", 305], ["type", 1]],
+            "new": [["banner_id", 20032], ["condition_id", 0], ["end_date", "2025/06/01 15:59:59"], ["gacha_id", 110020], ["is_show_room", 0], ["priority", 60101], ["start_date", "2025/05/21 16:00:00"], ["sub_banner_id_1", 0], ["system_id", 307], ["type", 1]]
+          }
+        ]
+      }
+    },
+    "exceed_level_unit": {
+      "data_changes": {
+        "added": [
+          [["consume_num_1", 40], ["consume_num_2", 30000000], ["consume_num_3", 0], ["consume_num_4", 0], ["consume_num_5", 0], ["exceed_item_id", 41336], ["exceed_stage", 1], ["id", 1133601], ["item_id_1", 31336], ["item_id_2", 94000], ["item_id_3", 0], ["item_id_4", 0], ["item_id_5", 0], ["reward_type_1", 2], ["reward_type_2", 12], ["reward_type_3", 0], ["reward_type_4", 0], ["reward_type_5", 0], ["unit_id", 133601]]
+        ]
+      }
+    },
+    "voice_group_chara": {
+      "data_changes": {
+        "added": [
+          [["group_unit_id", 133601001], ["group_unit_id_comment", "梅杜莎"], ["unit_id_01", 133601], ["unit_id_02", 0], ["unit_id_03", 0], ["unit_id_04", 0], ["unit_id_05", 0], ["unit_id_06", 0], ["unit_id_07", 0], ["unit_id_08", 0], ["unit_id_09", 0], ["unit_id_10", 0]]
+        ]
+      }
+    },
+    "unit_promotion_status": {
+      "data_changes": {
+        "added": [
+          [["accuracy", 55.0], ["atk", 21712.0], ["def", 285.0], ["dodge", 18.0], ["energy_recovery_rate", 37.0], ["energy_reduce_rate", 0.0], ["hp", 5020.0], ["hp_recovery_rate", 30.0], ["life_steal", 9.0], ["magic_critical", 0.0], ["magic_def", 226.0], ["magic_penetrate", 0.0], ["magic_str", 0.0], ["physical_critical", 1611.0], ["physical_penetrate", 0.0], ["promotion_level", 28], ["unit_id", 133601], ["wave_energy_recovery", 245.0], ["wave_hp_recovery", 2370.0]]
+        ]
+      }
+    },
+    "room_unit_comments": {
+      "data_changes": {
+        "added": [
+          [["beloved_step", 1], ["description", "既柔軟又溫暖，\\n令人忍不住\\n想蜷曲起來……"], ["face_id", 1], ["id", 8857], ["insert_word_type", 0], ["time", 0], ["trigger", 3], ["unit_id", 133601], ["voice_id", 2]]
+        ]
+      }
+    },
+    "gacha_exchange_lineup": {
+      "data_changes": {
+        "added": [
+          [["end_time", "2025/06/01 15:59:59"], ["exchange_id", 369], ["gacha_bonus_id", 1166], ["id", 993], ["pickup_gacha_id", 30369], ["rarity", 3], ["start_time", "2025/05/21 16:00:00"], ["unit_id", 133601]]
+        ]
+      }
+    },
+    "emblem_mission_data": {
+      "data_changes": {
+        "added": [
+          [["category_icon", 301], ["condition_num", 3], ["condition_value_1", 133601], ["condition_value_2", 0], ["condition_value_3", 0], ["description", "將梅杜莎升到★3"], ["disp_group", 201289], ["end_time", "2030/04/01 14:59:59"], ["mission_condition", 6011], ["mission_id", 56011939], ["mission_reward_id", 56011939], ["start_time", "2025/05/21 16:00:00"], ["system_id", 501], ["visible_flag", 1]],
+          [["category_icon", 301], ["condition_num", 5], ["condition_value_1", 133601], ["condition_value_2", 0], ["condition_value_3", 0], ["description", "將梅杜莎升到★5"], ["disp_group", 201289], ["end_time", "2030/04/01 14:59:59"], ["mission_condition", 6011], ["mission_id", 56011940], ["mission_reward_id", 56011940], ["start_time", "2025/05/21 16:00:00"], ["system_id", 501], ["visible_flag", 1]],
+          [["category_icon", 301], ["condition_num", 1], ["condition_value_1", 133601], ["condition_value_2", 0], ["condition_value_3", 0], ["description", "讓梅杜莎成為夥伴"], ["disp_group", 201289], ["end_time", "2030/04/01 14:59:59"], ["mission_condition", 6011], ["mission_id", 56011938], ["mission_reward_id", 56011938], ["start_time", "2025/05/21 16:00:00"], ["system_id", 501], ["visible_flag", 1]]
+        ]
+      }
+    },
+    "unit_data": {
+      "data_changes": {
+        "added": [
+          [["atk_type", 1], ["comment", "【物理】位於中衛，與眷屬合力戰鬥，胸懷榮耀的蛇少女。\\n用依照【魔眼】的數量提升效果量的技能傷害以及弱化，\\n將範圍內敵人逼至絕境，再用銳利的眼瞳使其石化。"], ["cutin1_star6", 133601], ["cutin2_star6", 0], ["cutin_1", 133601], ["cutin_2", 0], ["end_time", "2025/06/01 15:59:59"], ["exskill_display", 0], ["guild_id", 0], ["is_limited", 1], ["kana", "梅杜莎"], ["motion_type", 0], ["move_speed", 450], ["normal_atk_cast_time", 2.09], ["only_disp_owned", 0], ["original_unit_id", 0], ["prefab_id", 133601], ["prefab_id_battle", 0], ["rarity", 3], ["se_type", 0], ["search_area_width", 445], ["start_time", "2025/05/21 16:00:00"], ["unit_id", 133601], ["unit_name", "梅杜莎"]]
+        ]
+      }
+    },
+    "unit_motion_list": {
+      "data_changes": {
+        "added": [
+          [["sp_motion", 1], ["unit_id", 133601]]
+        ]
+      }
+    },
+    "unit_enemy_data": {
+      "data_changes": {
+        "added": [
+          [["atk_type", 1], ["comment", "有著梅杜莎樣貌的特殊魔物"], ["cutin", 0], ["cutin_star6", 0], ["motion_type", 0], ["move_speed", 450], ["normal_atk_cast_time", 2.09], ["prefab_id", 133601], ["se_type", 0], ["search_area_width", 445], ["unit_id", 633601], ["unit_name", "梅杜莎的闇影"], ["visual_change_flag", 1]]
+        ]
+      }
+    },
+    "unit_comments": {
+      "data_changes": {
+        "added": [
+          [["all_comments_flag", 0], ["change_face", 4], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 5.2], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "我也是偉大的\\n吉歐‧格黑納貴族……淑女喔！\\n雖然跟姐姐們相比\\n還不成氣候……"], ["face_id", 1], ["face_id_2", 0], ["face_id_3", 0], ["id", 1336002], ["target_unit_id", 0], ["unit_id", 133601], ["use_type", 1], ["voice_id", 2]],
+          [["all_comments_flag", 0], ["change_face", 1], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 0.0], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "你今天生日對吧？\\n送你蛇的蛻皮！\\n怎樣？很令人高興吧！\\n……你很高興對吧？"], ["face_id", 1], ["face_id_2", 0], ["face_id_3", 0], ["id", 1336012], ["target_unit_id", 0], ["unit_id", 133631], ["use_type", 2], ["voice_id", 6]],
+          [["all_comments_flag", 0], ["change_face", 1], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 5.7], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "你還算滿體貼的啦？\\n也很聽話嘛？\\n總之你要待在我身邊也行喔。\\n你可要感到光榮啊！"], ["face_id", 6], ["face_id_2", 0], ["face_id_3", 0], ["id", 1336005], ["target_unit_id", 0], ["unit_id", 133601], ["use_type", 1], ["voice_id", 5]],
+          [["all_comments_flag", 0], ["change_face", 7], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 6.2], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "梅杜希亞娜是我的眷屬！\\n牠既是好搭檔，\\n也是好朋友。\\n牠可是非常可靠的！"], ["face_id", 8], ["face_id_2", 0], ["face_id_3", 0], ["id", 1336003], ["target_unit_id", 0], ["unit_id", 133601], ["use_type", 1], ["voice_id", 3]],
+          [["all_comments_flag", 0], ["change_face", 8], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 4.5], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "被我的魔眼盯上，\\n大家全～都會變成石頭喔！\\n怎樣？很可怕吧？\\n知道的話就快下跪磕頭！"], ["face_id", 2], ["face_id_2", 0], ["face_id_3", 0], ["id", 1336001], ["target_unit_id", 0], ["unit_id", 133601], ["use_type", 1], ["voice_id", 1]],
+          [["all_comments_flag", 0], ["change_face", 2], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 2.5], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "生日？真拿你沒辦法～\\n就讓你騎梅杜希亞娜，\\n去環遊世界一圈吧！"], ["face_id", 6], ["face_id_2", 0], ["face_id_3", 0], ["id", 1336011], ["target_unit_id", 0], ["unit_id", 133601], ["use_type", 2], ["voice_id", 6]],
+          [["all_comments_flag", 0], ["change_face", 1], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 0.0], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "你可是被允許來幫忙我，\\n去找我姊姊她們的，\\n要感到榮幸喔！\\n要～感～到～榮～幸～喔～！"], ["face_id", 1], ["face_id_2", 0], ["face_id_3", 0], ["id", 1336007], ["target_unit_id", 0], ["unit_id", 133631], ["use_type", 1], ["voice_id", 2]],
+          [["all_comments_flag", 0], ["change_face", 1], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 0.0], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "我說你，以後也會\\n繼續討我歡心的吧？\\n敢爽約的話……\\n就把你變成石頭♪"], ["face_id", 1], ["face_id_2", 0], ["face_id_3", 0], ["id", 1336010], ["target_unit_id", 0], ["unit_id", 133631], ["use_type", 1], ["voice_id", 5]],
+          [["all_comments_flag", 0], ["change_face", 1], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 0.0], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "你的話……讓你騎騎看\\n梅杜希亞娜也行喔？\\n只、只是偶爾才讓你騎啦！"], ["face_id", 1], ["face_id_2", 0], ["face_id_3", 0], ["id", 1336009], ["target_unit_id", 0], ["unit_id", 133631], ["use_type", 1], ["voice_id", 4]],
+          [["all_comments_flag", 0], ["change_face", 1], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 0.0], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "姐姐……\\n我絕對會找到妳們的……！\\n在找到之前，\\n我會變得比現在更傑出！"], ["face_id", 1], ["face_id_2", 0], ["face_id_3", 0], ["id", 1336008], ["target_unit_id", 0], ["unit_id", 133631], ["use_type", 1], ["voice_id", 3]],
+          [["all_comments_flag", 0], ["change_face", 1], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 0.0], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "不管到了哪個世界，\\n我們都是無敵的！\\n衝得更高、更快──\\n我們上，梅杜希亞娜！"], ["face_id", 1], ["face_id_2", 0], ["face_id_3", 0], ["id", 1336006], ["target_unit_id", 0], ["unit_id", 133631], ["use_type", 1], ["voice_id", 1]],
+          [["all_comments_flag", 0], ["change_face", 5], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 4.9], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "姊姊她們……\\n去哪裡了呢……\\n啊！我、我剛剛\\n才沒有感到不安喔！"], ["face_id", 4], ["face_id_2", 0], ["face_id_3", 0], ["id", 1336004], ["target_unit_id", 0], ["unit_id", 133601], ["use_type", 1], ["voice_id", 4]]
+        ]
+      }
+    },
+    "item_data": {
+      "data_changes": {
+        "added": [
+          [["description", "-2146826273"], ["end_time", "2030/08/01 14:59:00"], ["gojuon_order", 0], ["item_id", 41336], ["item_name", "梅杜莎專用戒指"], ["item_type", 22], ["limit_num", 9999], ["price", 0], ["promotion_level", 1], ["sell_check_disp", 0], ["start_time", "2015/12/17 15:00:00"], ["value", 0]],
+          [["description", "封印有梅杜莎的記憶碎片的道具。收集一定數量，則可以解放角色深藏的力量。"], ["end_time", "2030/08/01 14:59:59"], ["gojuon_order", 6334002], ["item_id", 31336], ["item_name", "梅杜莎的記憶碎片"], ["item_type", 11], ["limit_num", 9999], ["price", 0], ["promotion_level", 1], ["sell_check_disp", 0], ["start_time", "2015/12/17 15:00:00"], ["value", 31336]]
+        ]
+      }
+    },
+    "unit_skill_data": {
+      "data_changes": {
+        "added": [
+          [["ex_skill_1", 1336501], ["ex_skill_2", 0], ["ex_skill_3", 0], ["ex_skill_4", 0], ["ex_skill_5", 0], ["ex_skill_evolution_1", 1336511], ["ex_skill_evolution_2", 0], ["ex_skill_evolution_3", 0], ["ex_skill_evolution_4", 0], ["ex_skill_evolution_5", 0], ["main_skill_1", 1336002], ["main_skill_10", 0], ["main_skill_2", 1336003], ["main_skill_3", 0], ["main_skill_4", 0], ["main_skill_5", 0], ["main_skill_6", 0], ["main_skill_7", 0], ["main_skill_8", 0], ["main_skill_9", 0], ["main_skill_evolution_1", 0], ["main_skill_evolution_2", 0], ["sp_skill_1", 0], ["sp_skill_2", 0], ["sp_skill_3", 0], ["sp_skill_4", 0], ["sp_skill_5", 0], ["sp_skill_evolution_1", 0], ["sp_skill_evolution_2", 0], ["sp_union_burst", 0], ["union_burst", 1336001], ["union_burst_evolution", 0], ["unit_id", 133601]]
+        ]
+      }
+    },
+    "app_icon": {
+      "data_changes": {
+        "added": [
+          [["id", 133631]]
+        ]
+      }
+    },
+    "tips": {
+      "data_changes": {
+        "added": [
+          [["id", 4133601], ["tips_index", 1], ["title", "魔眼之力"], ["value", 133601]]
+        ]
+      }
+    },
+    "skill_action": {
+      "data_changes": {
+        "added": [
+          [["action_detail_1", 2], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 133651101], ["action_type", 90], ["action_value_1", 1.0], ["action_value_2", 240.0], ["action_value_3", 15.0], ["action_value_4", 1.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "提升自身{0}的物理攻擊力"], ["level_up_disp", "物理攻擊力提升+{0}"], ["target_area", 0], ["target_assignment", 0], ["target_count", 0], ["target_number", 0], ["target_range", 0], ["target_type", 0]],
+          [["action_detail_1", 10], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 133600301], ["action_type", 10], ["action_value_1", 1.0], ["action_value_2", 24.0], ["action_value_3", 24.0], ["action_value_4", 18.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "提升我方全體{0}的物理攻擊力"], ["level_up_disp", "物理攻擊力提升+{0}"], ["target_area", 3], ["target_assignment", 2], ["target_count", 99], ["target_number", 0], ["target_range", 2160], ["target_type", 3]],
+          [["action_detail_1", 1], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 133600106], ["action_type", 35], ["action_value_1", 3.0], ["action_value_2", 200.0], ["action_value_3", 180.0], ["action_value_4", 1.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "對自身施加１個魔眼"], ["level_up_disp", ""], ["target_area", 2], ["target_assignment", 2], ["target_count", 1], ["target_number", 0], ["target_range", 2160], ["target_type", 7]],
+          [["action_detail_1", 1], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 133600201], ["action_type", 7], ["action_value_1", 0.0], ["action_value_2", 0.0], ["action_value_3", 0.0], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", ""], ["level_up_disp", ""], ["target_area", 1], ["target_assignment", 1], ["target_count", 1], ["target_number", 0], ["target_range", 2160], ["target_type", 3]],
+          [["action_detail_1", 21], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 133600103], ["action_type", 10], ["action_value_1", 1.0], ["action_value_2", 0.9], ["action_value_3", 0.9], ["action_value_4", 18.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "降低範圍內的敵人{0}的物理防禦力"], ["level_up_disp", "物理防禦力降低+{0}"], ["target_area", 2], ["target_assignment", 1], ["target_count", 99], ["target_number", 0], ["target_range", 300], ["target_type", 3]],
+          [["action_detail_1", 4], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 133600104], ["action_type", 9], ["action_value_1", 28.0], ["action_value_2", 28.0], ["action_value_3", 18.5], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "使其陷入會造成{0}傷害的猛毒狀態"], ["level_up_disp", "猛毒每秒所造成的傷害+{0}"], ["target_area", 2], ["target_assignment", 1], ["target_count", 99], ["target_number", 0], ["target_range", 300], ["target_type", 3]],
+          [["action_detail_1", 133600302], ["action_detail_2", 2], ["action_detail_3", 0], ["action_id", 133600306], ["action_type", 26], ["action_value_1", 2200.0], ["action_value_2", 20.0], ["action_value_3", 0.0], ["action_value_4", 60.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", ""], ["level_up_disp", ""], ["target_area", 2], ["target_assignment", 2], ["target_count", 1], ["target_number", 0], ["target_range", 2160], ["target_type", 7]],
+          [["action_detail_1", 110], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 133600303], ["action_type", 10], ["action_value_1", 1.0], ["action_value_2", 12.0], ["action_value_3", 0.0], ["action_value_4", 18.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "提升我方全體物理攻擊暴擊時的傷害{0}%"], ["level_up_disp", ""], ["target_area", 3], ["target_assignment", 2], ["target_count", 99], ["target_number", 0], ["target_range", 2160], ["target_type", 3]],
+          [["action_detail_1", 133600204], ["action_detail_2", 2], ["action_detail_3", 0], ["action_id", 133600208], ["action_type", 26], ["action_value_1", 2200.0], ["action_value_2", 3.0], ["action_value_3", 3.0], ["action_value_4", 9.0], ["action_value_5", 9.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", ""], ["level_up_disp", ""], ["target_area", 2], ["target_assignment", 2], ["target_count", 1], ["target_number", 0], ["target_range", 2160], ["target_type", 7]],
+          [["action_detail_1", 31], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 133600204], ["action_type", 10], ["action_value_1", 1.0], ["action_value_2", 18.0], ["action_value_3", 18.0], ["action_value_4", 12.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "使範圍內敵人的魔法攻擊力降低{0}"], ["level_up_disp", "魔法攻擊力下降+{0}"], ["target_area", 2], ["target_assignment", 1], ["target_count", 99], ["target_number", 0], ["target_range", 300], ["target_type", 3]],
+          [["action_detail_1", 133600301], ["action_detail_2", 2], ["action_detail_3", 0], ["action_id", 133600305], ["action_type", 26], ["action_value_1", 2200.0], ["action_value_2", 4.0], ["action_value_3", 4.0], ["action_value_4", 12.0], ["action_value_5", 12.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", ""], ["level_up_disp", ""], ["target_area", 2], ["target_assignment", 2], ["target_count", 1], ["target_number", 0], ["target_range", 2160], ["target_type", 7]],
+          [["action_detail_1", 8], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 133600105], ["action_type", 8], ["action_value_1", 0.0], ["action_value_2", 0.0], ["action_value_3", 4.5], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "使範圍內的敵人一段時間內無法行動"], ["level_up_disp", "造成石化的成功Ｌｖ+1"], ["target_area", 2], ["target_assignment", 1], ["target_count", 99], ["target_number", 0], ["target_range", 300], ["target_type", 3]],
+          [["action_detail_1", 1], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 133600101], ["action_type", 7], ["action_value_1", 0.0], ["action_value_2", 0.0], ["action_value_3", 0.0], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", ""], ["level_up_disp", ""], ["target_area", 1], ["target_assignment", 1], ["target_count", 1], ["target_number", 0], ["target_range", 2160], ["target_type", 3]],
+          [["action_detail_1", 133600303], ["action_detail_2", 2], ["action_detail_3", 0], ["action_id", 133600307], ["action_type", 26], ["action_value_1", 2200.0], ["action_value_2", 2.0], ["action_value_3", 0.0], ["action_value_4", 6.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", ""], ["level_up_disp", ""], ["target_area", 2], ["target_assignment", 2], ["target_count", 1], ["target_number", 0], ["target_range", 2160], ["target_type", 7]],
+          [["action_detail_1", 133600304], ["action_detail_2", 1], ["action_detail_3", 0], ["action_id", 133600308], ["action_type", 26], ["action_value_1", 2200.0], ["action_value_2", 20.0], ["action_value_3", 0.0], ["action_value_4", 60.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", ""], ["level_up_disp", ""], ["target_area", 2], ["target_assignment", 2], ["target_count", 1], ["target_number", 0], ["target_range", 2160], ["target_type", 7]],
+          [["action_detail_1", 1], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 133600304], ["action_type", 16], ["action_value_1", 120.0], ["action_value_2", 0.0], ["action_value_3", 0.0], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "回復自身{0}的TP"], ["level_up_disp", ""], ["target_area", 3], ["target_assignment", 2], ["target_count", 1], ["target_number", 0], ["target_range", 2160], ["target_type", 7]],
+          [["action_detail_1", 133600205], ["action_detail_2", 2], ["action_detail_3", 0], ["action_id", 133600209], ["action_type", 26], ["action_value_1", 2200.0], ["action_value_2", 0.05], ["action_value_3", 0.05], ["action_value_4", 0.15], ["action_value_5", 0.15], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", ""], ["level_up_disp", ""], ["target_area", 2], ["target_assignment", 2], ["target_count", 1], ["target_number", 0], ["target_range", 2160], ["target_type", 7]],
+          [["action_detail_1", 1], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 133600202], ["action_type", 1], ["action_value_1", 30.0], ["action_value_2", 30.0], ["action_value_3", 2.4], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "對範圍內的敵人造成{0}的物理傷害"], ["level_up_disp", "物理傷害+{0}"], ["target_area", 2], ["target_assignment", 1], ["target_count", 99], ["target_number", 0], ["target_range", 300], ["target_type", 3]],
+          [["action_detail_1", 1], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 133600102], ["action_type", 1], ["action_value_1", 50.0], ["action_value_2", 50.0], ["action_value_3", 4.0], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "對範圍內的敵人造成{0}的物理傷害"], ["level_up_disp", "物理傷害+{0}"], ["target_area", 2], ["target_assignment", 1], ["target_count", 99], ["target_number", 0], ["target_range", 300], ["target_type", 3]],
+          [["action_detail_1", 60], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 133600302], ["action_type", 10], ["action_value_1", 1.0], ["action_value_2", 120.0], ["action_value_3", 0.0], ["action_value_4", 18.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "使全體夥伴的物理暴擊提升{0}"], ["level_up_disp", ""], ["target_area", 3], ["target_assignment", 2], ["target_count", 99], ["target_number", 0], ["target_range", 2160], ["target_type", 3]],
+          [["action_detail_1", 11], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 133600203], ["action_type", 10], ["action_value_1", 1.0], ["action_value_2", 18.0], ["action_value_3", 18.0], ["action_value_4", 12.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "使範圍內敵人的物理攻擊力降低{0}"], ["level_up_disp", "物理攻擊力降低+{0}"], ["target_area", 2], ["target_assignment", 1], ["target_count", 99], ["target_number", 0], ["target_range", 300], ["target_type", 3]],
+          [["action_detail_1", 133600203], ["action_detail_2", 2], ["action_detail_3", 0], ["action_id", 133600207], ["action_type", 26], ["action_value_1", 2200.0], ["action_value_2", 3.0], ["action_value_3", 3.0], ["action_value_4", 9.0], ["action_value_5", 9.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", ""], ["level_up_disp", ""], ["target_area", 2], ["target_assignment", 2], ["target_count", 1], ["target_number", 0], ["target_range", 2160], ["target_type", 7]],
+          [["action_detail_1", 2], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 133650101], ["action_type", 90], ["action_value_1", 1.0], ["action_value_2", 15.0], ["action_value_3", 15.0], ["action_value_4", 1.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "提升自身{0}的物理攻擊力"], ["level_up_disp", "物理攻擊力提升+{0}"], ["target_area", 0], ["target_assignment", 0], ["target_count", 0], ["target_number", 0], ["target_range", 0], ["target_type", 0]],
+          [["action_detail_1", 21], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 133600205], ["action_type", 10], ["action_value_1", 1.0], ["action_value_2", 0.3], ["action_value_3", 0.3], ["action_value_4", 12.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "降低範圍內的敵人{0}的物理防禦力"], ["level_up_disp", "物理防禦力降低+{0}"], ["target_area", 2], ["target_assignment", 1], ["target_count", 99], ["target_number", 0], ["target_range", 300], ["target_type", 3]],
+          [["action_detail_1", 133600202], ["action_detail_2", 3], ["action_detail_3", 0], ["action_id", 133600206], ["action_type", 26], ["action_value_1", 2200.0], ["action_value_2", 0.4], ["action_value_3", 0.0], ["action_value_4", 1.2], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", ""], ["level_up_disp", ""], ["target_area", 2], ["target_assignment", 2], ["target_count", 1], ["target_number", 0], ["target_range", 2160], ["target_type", 7]]
+        ]
+      }
+    },
+    "emblem_data": {
+      "data_changes": {
+        "added": [
+          [["description_mission_id", 56011939], ["disp_oder", 201933], ["emblem_id", 10201939], ["emblem_name", "與梅杜莎的羈絆"], ["end_time", "2030/01/01 23:59:59"], ["event_emblem", 0], ["start_time", "2025/05/21 16:00:00"], ["type", 2]],
+          [["description_mission_id", 56011938], ["disp_oder", 201932], ["emblem_id", 10201938], ["emblem_name", "梅杜莎"], ["end_time", "2030/01/01 23:59:59"], ["event_emblem", 0], ["start_time", "2025/05/21 16:00:00"], ["type", 2]],
+          [["description_mission_id", 56011940], ["disp_oder", 201934], ["emblem_id", 10201940], ["emblem_name", "把你變成石頭！"], ["end_time", "2030/01/01 23:59:59"], ["event_emblem", 0], ["start_time", "2025/05/21 16:00:00"], ["type", 2]]
+        ]
+      }
+    },
+    "v1_7700a781c88fb85a0e93ff3f0545bb382e553194dc87394e79d73721e793929b": {
+      "data_changes": {
+        "added": [
+          [["2be3ea1af3489b94c541e42db5e6d9865b3ac9bbc78357da2a37b11540856e84", 2.0], ["32abdccd55cc1389d6a5604caf2b9345ab489f22d5df3dd200a63ac87b8b439d", 133631]]
+        ]
+      }
+    },
+    "chara_identity": {
+      "data_changes": {
+        "added": [
+          [["chara_type", 336], ["chara_type_2", 0], ["chara_type_3", 0], ["unit_id", 133601]]
+        ]
+      }
+    },
+    "story_detail": {
+      "data_changes": {
+        "added": [
+          [["can_bookmark", 1], ["end_time", "2030/12/17 14:59:59"], ["force_unlock_time", "2030/12/17 14:59:59"], ["force_unlock_time_2", "2030/12/17 14:59:59"], ["lock_all_text", 0], ["love_level", 5], ["pre_story_id", 1336002], ["pre_story_id_2", 0], ["read_process_flag", 1], ["requirement_id", 133601], ["reward_id_1", 91002], ["reward_id_2", 0], ["reward_id_3", 0], ["reward_type_1", 8], ["reward_type_2", 0], ["reward_type_3", 0], ["reward_value_1", 20], ["reward_value_2", 0], ["reward_value_3", 0], ["start_time", "2015/04/01 15:00:00"], ["story_end", 0], ["story_group_id", 1336], ["story_id", 1336003], ["story_quest_id", 0], ["sub_title", "信賴之眼"], ["title", "梅杜莎 第3話"], ["unlock_quest_id", 0], ["visible_type", 0]],
+          [["can_bookmark", 1], ["end_time", "2030/12/17 14:59:59"], ["force_unlock_time", "2030/12/17 14:59:59"], ["force_unlock_time_2", "2030/12/17 14:59:59"], ["lock_all_text", 0], ["love_level", 8], ["pre_story_id", 1336003], ["pre_story_id_2", 0], ["read_process_flag", 1], ["requirement_id", 133601], ["reward_id_1", 91002], ["reward_id_2", 0], ["reward_id_3", 0], ["reward_type_1", 8], ["reward_type_2", 0], ["reward_type_3", 0], ["reward_value_1", 50], ["reward_value_2", 0], ["reward_value_3", 0], ["start_time", "2015/04/01 15:00:00"], ["story_end", 0], ["story_group_id", 1336], ["story_id", 1336004], ["story_quest_id", 0], ["sub_title", "穿越之眼"], ["title", "梅杜莎 第4話"], ["unlock_quest_id", 0], ["visible_type", 0]],
+          [["can_bookmark", 1], ["end_time", "2030/12/17 14:59:59"], ["force_unlock_time", "2030/12/17 14:59:59"], ["force_unlock_time_2", "2030/12/17 14:59:59"], ["lock_all_text", 0], ["love_level", 4], ["pre_story_id", 1336001], ["pre_story_id_2", 0], ["read_process_flag", 1], ["requirement_id", 133601], ["reward_id_1", 91002], ["reward_id_2", 0], ["reward_id_3", 0], ["reward_type_1", 8], ["reward_type_2", 0], ["reward_type_3", 0], ["reward_value_1", 20], ["reward_value_2", 0], ["reward_value_3", 0], ["start_time", "2015/04/01 15:00:00"], ["story_end", 0], ["story_group_id", 1336], ["story_id", 1336002], ["story_quest_id", 0], ["sub_title", "畫布之眼"], ["title", "梅杜莎 第2話"], ["unlock_quest_id", 0], ["visible_type", 0]],
+          [["can_bookmark", 1], ["end_time", "2030/12/17 14:59:59"], ["force_unlock_time", "2030/12/17 14:59:59"], ["force_unlock_time_2", "2030/12/17 14:59:59"], ["lock_all_text", 0], ["love_level", 0], ["pre_story_id", 0], ["pre_story_id_2", 0], ["read_process_flag", 1], ["requirement_id", 133601], ["reward_id_1", 91002], ["reward_id_2", 0], ["reward_id_3", 0], ["reward_type_1", 8], ["reward_type_2", 0], ["reward_type_3", 0], ["reward_value_1", 20], ["reward_value_2", 0], ["reward_value_3", 0], ["start_time", "2015/04/01 15:00:00"], ["story_end", 0], ["story_group_id", 1336], ["story_id", 1336001], ["story_quest_id", 0], ["sub_title", "體驗之眼"], ["title", "梅杜莎 第1話"], ["unlock_quest_id", 0], ["visible_type", 0]]
+        ]
+      }
+    },
+    "unit_ex_equipment_slot": {
+      "data_changes": {
+        "added": [
+          [["slot_category_1", 107], ["slot_category_2", 201], ["slot_category_3", 303], ["unit_id", 133601]]
+        ]
+      }
+    },
+    "v1_11209abbbac7499e8441d7dc65b0fc060e15956791fefed140d3a50118fb4f9f": {
+      "data_changes": {
+        "added": [
+          [["273cd6610758967a2ab61ecca61ba2735941ae38e6bcb17b1bb67998e85b9d97", "梅杜莎"], ["3b5eb7fb62367fd94e4aebe0ac662207c964ee81c11d6c135db9bee96eb814b1", 0], ["553f43f54369fcb69a74d6c0629ecd4900e019044fba4a087be435ee6b7ca601", 0], ["93aa0043b813aa9d65634995c6b35ad3216f67da8318280629f1eaa88a52ff6b", 1336], ["944fecb870fbf22330ee6a5a6a4ca541d2a51522c62290c4e97914ae3b23b526", 633411], ["9ab6cf32d5f81d4ba9d911f9fe52db9b7366f8eabfbf430b588cf00fa67fb272", "2015/04/01 15:00:00"], ["ace414b95662d453779d4e3df022a3731c17698d1e1c3c479465596100c57a0c", 235], ["b06823859e213f43d0ec847dded1328f4773c8fda99c414e80987c5b8c7c78b3", 0], ["bafd9eb2dc33bed4bdb0bcc7434403e81b89f4cbd8c570edda6328b37aa6f97a", "2030/12/17 14:59:59"], ["eaff3719b84fc5a577fcfc346e4f503d450f66fad3b5686bdd44e9265b97787c", 1336], ["f93f1cb6891788c9698faaacbabaf5186b4b88db2ec586a83c6e19d6d8ac907d", 1]]
+        ]
+      }
+    },
+    "unit_background": {
+      "data_changes": {
+        "added": [
+          [["bg_id", 500110], ["bg_name", "咲戀育幼院_大廳_白天"], ["face_type", 2], ["position", 0.0], ["unit_id", 133601], ["unit_name", "梅杜莎"]]
+        ]
+      }
+    },
+    "still": {
+      "data_changes": {
+        "added": [
+          [["album_ignore", 0], ["facial_id", 1], ["my_page_flag", 1], ["position_y", 0], ["scroll_direction", 0], ["still_group_id", 0], ["still_id", 133600201], ["story_group_id", 1336], ["story_id", 1336002], ["unit_id_1", 133611], ["unit_id_10", 0], ["unit_id_2", 0], ["unit_id_3", 0], ["unit_id_4", 0], ["unit_id_5", 0], ["unit_id_6", 0], ["unit_id_7", 0], ["unit_id_8", 0], ["unit_id_9", 0], ["vertical_still_flg", 0]],
+          [["album_ignore", 0], ["facial_id", 1], ["my_page_flag", 1], ["position_y", 0], ["scroll_direction", 0], ["still_group_id", 0], ["still_id", 133600401], ["story_group_id", 1336], ["story_id", 1336004], ["unit_id_1", 133631], ["unit_id_10", 0], ["unit_id_2", 0], ["unit_id_3", 0], ["unit_id_4", 0], ["unit_id_5", 0], ["unit_id_6", 0], ["unit_id_7", 0], ["unit_id_8", 0], ["unit_id_9", 0], ["vertical_still_flg", 0]]
+        ]
+      }
+    },
+    "unit_attack_pattern": {
+      "data_changes": {
+        "added": [
+          [["atk_pattern_1", 1002], ["atk_pattern_10", 0], ["atk_pattern_11", 0], ["atk_pattern_12", 0], ["atk_pattern_13", 0], ["atk_pattern_14", 0], ["atk_pattern_15", 0], ["atk_pattern_16", 0], ["atk_pattern_17", 0], ["atk_pattern_18", 0], ["atk_pattern_19", 0], ["atk_pattern_2", 1001], ["atk_pattern_20", 1], ["atk_pattern_3", 1001], ["atk_pattern_4", 1002], ["atk_pattern_5", 1], ["atk_pattern_6", 1001], ["atk_pattern_7", 1], ["atk_pattern_8", 1001], ["atk_pattern_9", 0], ["loop_end", 9], ["loop_start", 5], ["pattern_id", 13360101], ["unit_id", 133601]]
+        ]
+      }
+    },
+    "unit_promotion": {
+      "data_changes": {
+        "added": [
+          [["equip_slot_1", 107102], ["equip_slot_2", 107101], ["equip_slot_3", 107281], ["equip_slot_4", 106103], ["equip_slot_5", 107551], ["equip_slot_6", 106553], ["promotion_level", 21], ["unit_id", 133601]]
+        ]
+      }
+    },
+    "unlock_rarity_6": {
+      "data_changes": {
+        "added": [
+          [["accuracy", 0], ["atk", 0], ["consume_gold", 0], ["def", 0], ["dodge", 0], ["energy_recovery_rate", 0], ["energy_reduce_rate", 0], ["hp", 0], ["hp_recovery_rate", 0], ["life_steal", 0], ["magic_critical", 0], ["magic_def", 0], ["magic_penetrate", 0], ["magic_str", 0], ["material_count", 0], ["material_id", 0], ["material_type", 0], ["physical_critical", 0], ["physical_penetrate", 0], ["slot_id", 1], ["unit_id", 133601], ["unlock_flag", 0], ["unlock_level", 0], ["wave_energy_recovery", 0], ["wave_hp_recovery", 0]]
+        ]
+      }
+    }
+  }
+}
