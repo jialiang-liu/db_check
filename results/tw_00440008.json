@@ -1,0 +1,26 @@
+{
+  "tables": {
+    "only_in_old_db": [],
+    "only_in_new_db": []
+  },
+  "table_changes": {
+    "campaign_schedule": {
+      "data_changes": {
+        "added": [
+          [["beginner_id", 0], ["campaign_category", 98], ["campaign_type", 1], ["duplication_order", 0], ["end_time", "2025/06/01 04:59:59"], ["icon_image", 100], ["id", 2307], ["level_id", 0], ["lv_from", 1], ["lv_to", -1], ["shiori_group_id", 0], ["start_time", "2025/05/26 05:00:00"], ["system_id", 7004], ["value", 2500.0]],
+          [["beginner_id", 0], ["campaign_category", 93], ["campaign_type", 1], ["duplication_order", 0], ["end_time", "2025/06/01 04:59:59"], ["icon_image", 100], ["id", 2300], ["level_id", 0], ["lv_from", 1], ["lv_to", -1], ["shiori_group_id", 0], ["start_time", "2025/05/26 05:00:00"], ["system_id", 111], ["value", 2500.0]],
+          [["beginner_id", 0], ["campaign_category", 91], ["campaign_type", 1], ["duplication_order", 0], ["end_time", "2025/06/01 04:59:59"], ["icon_image", 100], ["id", 2298], ["level_id", 0], ["lv_from", 1], ["lv_to", -1], ["shiori_group_id", 0], ["start_time", "2025/05/26 05:00:00"], ["system_id", 101], ["value", 2500.0]],
+          [["beginner_id", 0], ["campaign_category", 651], ["campaign_type", 1], ["duplication_order", 0], ["end_time", "2025/06/01 04:59:59"], ["icon_image", 100], ["id", 2309], ["level_id", 0], ["lv_from", 1], ["lv_to", -1], ["shiori_group_id", 0], ["start_time", "2025/05/26 05:00:00"], ["system_id", 130], ["value", 2500.0]],
+          [["beginner_id", 0], ["campaign_category", 96], ["campaign_type", 1], ["duplication_order", 0], ["end_time", "2025/06/01 04:59:59"], ["icon_image", 100], ["id", 2305], ["level_id", 0], ["lv_from", 1], ["lv_to", -1], ["shiori_group_id", 0], ["start_time", "2025/05/26 05:00:00"], ["system_id", 6004], ["value", 2500.0]],
+          [["beginner_id", 0], ["campaign_category", 101], ["campaign_type", 1], ["duplication_order", 0], ["end_time", "2025/06/01 04:59:59"], ["icon_image", 100], ["id", 2304], ["level_id", 0], ["lv_from", 1], ["lv_to", -1], ["shiori_group_id", 0], ["start_time", "2025/05/26 05:00:00"], ["system_id", 8005], ["value", 2500.0]],
+          [["beginner_id", 0], ["campaign_category", 92], ["campaign_type", 1], ["duplication_order", 0], ["end_time", "2025/06/01 04:59:59"], ["icon_image", 100], ["id", 2299], ["level_id", 0], ["lv_from", 1], ["lv_to", -1], ["shiori_group_id", 0], ["start_time", "2025/05/26 05:00:00"], ["system_id", 102], ["value", 2500.0]],
+          [["beginner_id", 0], ["campaign_category", 95], ["campaign_type", 1], ["duplication_order", 0], ["end_time", "2025/06/01 04:59:59"], ["icon_image", 100], ["id", 2302], ["level_id", 0], ["lv_from", 1], ["lv_to", -1], ["shiori_group_id", 0], ["start_time", "2025/05/26 05:00:00"], ["system_id", 112], ["value", 2500.0]],
+          [["beginner_id", 0], ["campaign_category", 99], ["campaign_type", 1], ["duplication_order", 0], ["end_time", "2025/06/01 04:59:59"], ["icon_image", 100], ["id", 2308], ["level_id", 0], ["lv_from", 1], ["lv_to", -1], ["shiori_group_id", 0], ["start_time", "2025/05/26 05:00:00"], ["system_id", 7005], ["value", 2500.0]],
+          [["beginner_id", 0], ["campaign_category", 94], ["campaign_type", 1], ["duplication_order", 0], ["end_time", "2025/06/01 04:59:59"], ["icon_image", 100], ["id", 2301], ["level_id", 0], ["lv_from", 1], ["lv_to", -1], ["shiori_group_id", 0], ["start_time", "2025/05/26 05:00:00"], ["system_id", 109], ["value", 2500.0]],
+          [["beginner_id", 0], ["campaign_category", 100], ["campaign_type", 1], ["duplication_order", 0], ["end_time", "2025/06/01 04:59:59"], ["icon_image", 100], ["id", 2303], ["level_id", 0], ["lv_from", 1], ["lv_to", -1], ["shiori_group_id", 0], ["start_time", "2025/05/26 05:00:00"], ["system_id", 8004], ["value", 2500.0]],
+          [["beginner_id", 0], ["campaign_category", 97], ["campaign_type", 1], ["duplication_order", 0], ["end_time", "2025/06/01 04:59:59"], ["icon_image", 100], ["id", 2306], ["level_id", 0], ["lv_from", 1], ["lv_to", -1], ["shiori_group_id", 0], ["start_time", "2025/05/26 05:00:00"], ["system_id", 6005], ["value", 2500.0]]
+        ]
+      }
+    }
+  }
+}
