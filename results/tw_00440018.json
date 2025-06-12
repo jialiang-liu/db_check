@@ -1,0 +1,505 @@
+{
+  "tables": {
+    "only_in_old_db": [],
+    "only_in_new_db": []
+  },
+  "table_changes": {
+    "skill_action": {
+      "data_changes": {
+        "added": [
+          [["action_detail_1", 110], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 133900303], ["action_type", 10], ["action_value_1", 1.0], ["action_value_2", 10.0], ["action_value_3", 0.0], ["action_value_4", 180.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "提升自己物理攻擊暴擊時的傷害{0}%"], ["level_up_disp", ""], ["target_area", 3], ["target_assignment", 2], ["target_count", 1], ["target_number", 0], ["target_range", 2160], ["target_type", 7]],
+          [["action_detail_1", 2], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 133951101], ["action_type", 90], ["action_value_1", 1.0], ["action_value_2", 240.0], ["action_value_3", 15.0], ["action_value_4", 1.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "提升自身{0}的物理攻擊力"], ["level_up_disp", "物理攻擊力提升+{0}"], ["target_area", 0], ["target_assignment", 0], ["target_count", 0], ["target_number", 0], ["target_range", 0], ["target_type", 0]],
+          [["action_detail_1", 3], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 133900108], ["action_type", 1], ["action_value_1", 90.0], ["action_value_2", 90.0], ["action_value_3", 7.2], ["action_value_4", 0.0], ["action_value_5", -1.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "擁有著虛數時，對敵方單體造成{0}的物理傷害"], ["level_up_disp", "物理傷害+{0}"], ["target_area", 3], ["target_assignment", 1], ["target_count", 1], ["target_number", 0], ["target_range", 2160], ["target_type", 45]],
+          [["action_detail_1", 21], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 133900103], ["action_type", 10], ["action_value_1", 1.0], ["action_value_2", 0.4], ["action_value_3", 0.4], ["action_value_4", 18.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "降低敵方全體{0}的物理防禦力"], ["level_up_disp", "物理防禦力降低+{0}"], ["target_area", 3], ["target_assignment", 1], ["target_count", 99], ["target_number", 0], ["target_range", 2160], ["target_type", 3]],
+          [["action_detail_1", 6201], ["action_detail_2", 133900205], ["action_detail_3", 0], ["action_id", 133900204], ["action_type", 28], ["action_value_1", 0.0], ["action_value_2", 0.0], ["action_value_3", 1.0], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", ""], ["level_up_disp", ""], ["target_area", 3], ["target_assignment", 2], ["target_count", 1], ["target_number", 0], ["target_range", 2160], ["target_type", 7]],
+          [["action_detail_1", 133900303], ["action_detail_2", 2], ["action_detail_3", 0], ["action_id", 133900307], ["action_type", 26], ["action_value_1", 4.0], ["action_value_2", 6.0], ["action_value_3", 0.0], ["action_value_4", 30.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", ""], ["level_up_disp", ""], ["target_area", 3], ["target_assignment", 2], ["target_count", 99], ["target_number", 0], ["target_range", 2160], ["target_type", 14005]],
+          [["action_detail_1", 2], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 133950101], ["action_type", 90], ["action_value_1", 1.0], ["action_value_2", 15.0], ["action_value_3", 15.0], ["action_value_4", 1.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "提升自身{0}的物理攻擊力"], ["level_up_disp", "物理攻擊力提升+{0}"], ["target_area", 0], ["target_assignment", 0], ["target_count", 0], ["target_number", 0], ["target_range", 0], ["target_type", 0]],
+          [["action_detail_1", 1], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 133900207], ["action_type", 16], ["action_value_1", 150.0], ["action_value_2", 0.0], ["action_value_3", 0.0], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "擁有著虛數時，恢復自身{0}的ＴＰ"], ["level_up_disp", ""], ["target_area", 3], ["target_assignment", 2], ["target_count", 1], ["target_number", 0], ["target_range", 2160], ["target_type", 7]],
+          [["action_detail_1", 133900302], ["action_detail_2", 2], ["action_detail_3", 0], ["action_id", 133900306], ["action_type", 26], ["action_value_1", 4.0], ["action_value_2", 36.0], ["action_value_3", 36.0], ["action_value_4", 180.0], ["action_value_5", 180.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", ""], ["level_up_disp", ""], ["target_area", 3], ["target_assignment", 2], ["target_count", 99], ["target_number", 0], ["target_range", 2160], ["target_type", 14005]],
+          [["action_detail_1", 3], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 133900205], ["action_type", 1], ["action_value_1", 45.0], ["action_value_2", 45.0], ["action_value_3", 3.6], ["action_value_4", 0.0], ["action_value_5", -1.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "擁有著虛數時，對敵方單體造成{0}的物理傷害"], ["level_up_disp", "物理傷害+{0}"], ["target_area", 1], ["target_assignment", 1], ["target_count", 1], ["target_number", 0], ["target_range", 2160], ["target_type", 45]],
+          [["action_detail_1", 3], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 133900105], ["action_type", 1], ["action_value_1", 30.0], ["action_value_2", 30.0], ["action_value_3", 2.4], ["action_value_4", 0.0], ["action_value_5", -1.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", ""], ["level_up_disp", ""], ["target_area", 3], ["target_assignment", 1], ["target_count", 99], ["target_number", 0], ["target_range", 2160], ["target_type", 3]],
+          [["action_detail_1", 80], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 133900304], ["action_type", 10], ["action_value_1", 1.0], ["action_value_2", 15.0], ["action_value_3", 0.0], ["action_value_4", 180.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "使自己的TP上升提升{0}"], ["level_up_disp", ""], ["target_area", 3], ["target_assignment", 2], ["target_count", 1], ["target_number", 0], ["target_range", 2160], ["target_type", 7]],
+          [["action_detail_1", 21], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 133900106], ["action_type", 10], ["action_value_1", 1.0], ["action_value_2", 0.4], ["action_value_3", 0.4], ["action_value_4", 18.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", ""], ["level_up_disp", ""], ["target_area", 3], ["target_assignment", 1], ["target_count", 99], ["target_number", 0], ["target_range", 2160], ["target_type", 3]],
+          [["action_detail_1", 6201], ["action_detail_2", 133900203], ["action_detail_3", 133900201], ["action_id", 133900202], ["action_type", 28], ["action_value_1", 0.0], ["action_value_2", 0.0], ["action_value_3", 1.0], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", ""], ["level_up_disp", ""], ["target_area", 3], ["target_assignment", 2], ["target_count", 1], ["target_number", 0], ["target_range", 2160], ["target_type", 7]],
+          [["action_detail_1", 10], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 133900101], ["action_type", 10], ["action_value_1", 1.0], ["action_value_2", 30.0], ["action_value_3", 30.0], ["action_value_4", 18.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "提升自身{0}的物理攻擊力"], ["level_up_disp", "物理攻擊力提升+{0}"], ["target_area", 3], ["target_assignment", 2], ["target_count", 1], ["target_number", 0], ["target_range", 2160], ["target_type", 7]],
+          [["action_detail_1", 1], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 133900102], ["action_type", 1], ["action_value_1", 30.0], ["action_value_2", 30.0], ["action_value_3", 2.4], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "對敵方全體造成{0}的物理傷害"], ["level_up_disp", "物理傷害+{0}"], ["target_area", 3], ["target_assignment", 1], ["target_count", 99], ["target_number", 0], ["target_range", 2160], ["target_type", 3]],
+          [["action_detail_1", 0], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 133900301], ["action_type", 35], ["action_value_1", 1.0], ["action_value_2", 201.0], ["action_value_3", 180.0], ["action_value_4", 1.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "對自身施加虛數"], ["level_up_disp", ""], ["target_area", 3], ["target_assignment", 2], ["target_count", 1], ["target_number", 0], ["target_range", 2160], ["target_type", 7]],
+          [["action_detail_1", 10], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 133900302], ["action_type", 10], ["action_value_1", 1.0], ["action_value_2", 60.0], ["action_value_3", 60.0], ["action_value_4", 180.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "提升自身{0}的物理攻擊力"], ["level_up_disp", "物理攻擊力提升+{0}"], ["target_area", 3], ["target_assignment", 2], ["target_count", 1], ["target_number", 0], ["target_range", 2160], ["target_type", 7]],
+          [["action_detail_1", 6201], ["action_detail_2", 133900207], ["action_detail_3", 0], ["action_id", 133900206], ["action_type", 28], ["action_value_1", 0.0], ["action_value_2", 0.0], ["action_value_3", 1.0], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", ""], ["level_up_disp", ""], ["target_area", 3], ["target_assignment", 2], ["target_count", 1], ["target_number", 0], ["target_range", 2160], ["target_type", 7]],
+          [["action_detail_1", 3], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 133900203], ["action_type", 1], ["action_value_1", 22.5], ["action_value_2", 22.5], ["action_value_3", 1.8], ["action_value_4", 0.0], ["action_value_5", -1.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", ""], ["level_up_disp", ""], ["target_area", 1], ["target_assignment", 1], ["target_count", 99], ["target_number", 0], ["target_range", 2160], ["target_type", 3]],
+          [["action_detail_1", 6201], ["action_detail_2", 133900108], ["action_detail_3", 0], ["action_id", 133900107], ["action_type", 28], ["action_value_1", 0.0], ["action_value_2", 0.0], ["action_value_3", 1.0], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", ""], ["level_up_disp", ""], ["target_area", 3], ["target_assignment", 2], ["target_count", 1], ["target_number", 0], ["target_range", 2160], ["target_type", 7]],
+          [["action_detail_1", 6201], ["action_detail_2", 133900105], ["action_detail_3", 133900102], ["action_id", 133900104], ["action_type", 28], ["action_value_1", 0.0], ["action_value_2", 0.0], ["action_value_3", 1.0], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", ""], ["level_up_disp", ""], ["target_area", 3], ["target_assignment", 2], ["target_count", 1], ["target_number", 0], ["target_range", 2160], ["target_type", 7]],
+          [["action_detail_1", 1], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 133900201], ["action_type", 1], ["action_value_1", 22.5], ["action_value_2", 22.5], ["action_value_3", 1.8], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "對範圍內的敵人造成{0}的物理傷害"], ["level_up_disp", "物理傷害+{0}"], ["target_area", 1], ["target_assignment", 1], ["target_count", 99], ["target_number", 0], ["target_range", 2160], ["target_type", 3]],
+          [["action_detail_1", 2], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 133900305], ["action_type", 21], ["action_value_1", 180.0], ["action_value_2", 0.0], ["action_value_3", 0.0], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "迴避所有物理攻擊"], ["level_up_disp", ""], ["target_area", 3], ["target_assignment", 2], ["target_count", 1], ["target_number", 0], ["target_range", 2160], ["target_type", 7]]
+        ]
+      }
+    },
+    "story_detail": {
+      "data_changes": {
+        "added": [
+          [["can_bookmark", 1], ["end_time", "2030/12/17 14:59:59"], ["force_unlock_time", "2025/06/24 05:00:00"], ["force_unlock_time_2", "2030/12/17 14:59:59"], ["lock_all_text", 0], ["love_level", 0], ["pre_story_id", 5201011], ["pre_story_id_2", 0], ["read_process_flag", 1], ["requirement_id", 133901], ["reward_id_1", 91002], ["reward_id_2", 0], ["reward_id_3", 0], ["reward_type_1", 8], ["reward_type_2", 0], ["reward_type_3", 0], ["reward_value_1", 20], ["reward_value_2", 0], ["reward_value_3", 0], ["start_time", "2015/04/01 15:00:00"], ["story_end", 0], ["story_group_id", 1339], ["story_id", 1339001], ["story_quest_id", 0], ["sub_title", "昔日，亦或是惡魔的始源"], ["title", "克莉絲提娜（始源） 第1話"], ["unlock_quest_id", 0], ["visible_type", 0]],
+          [["can_bookmark", 1], ["end_time", "2030/12/17 14:59:59"], ["force_unlock_time", "2030/12/17 14:59:59"], ["force_unlock_time_2", "2030/12/17 14:59:59"], ["lock_all_text", 0], ["love_level", 5], ["pre_story_id", 1339002], ["pre_story_id_2", 0], ["read_process_flag", 1], ["requirement_id", 133901], ["reward_id_1", 91002], ["reward_id_2", 0], ["reward_id_3", 0], ["reward_type_1", 8], ["reward_type_2", 0], ["reward_type_3", 0], ["reward_value_1", 20], ["reward_value_2", 0], ["reward_value_3", 0], ["start_time", "2015/04/01 15:00:00"], ["story_end", 0], ["story_group_id", 1339], ["story_id", 1339003], ["story_quest_id", 0], ["sub_title", "真假之差，敵我間的距離"], ["title", "克莉絲提娜（始源） 第3話"], ["unlock_quest_id", 0], ["visible_type", 0]],
+          [["can_bookmark", 1], ["end_time", "2030/12/17 14:59:59"], ["force_unlock_time", "2030/12/17 14:59:59"], ["force_unlock_time_2", "2030/12/17 14:59:59"], ["lock_all_text", 0], ["love_level", 8], ["pre_story_id", 1339003], ["pre_story_id_2", 0], ["read_process_flag", 1], ["requirement_id", 133901], ["reward_id_1", 91002], ["reward_id_2", 0], ["reward_id_3", 0], ["reward_type_1", 8], ["reward_type_2", 0], ["reward_type_3", 0], ["reward_value_1", 50], ["reward_value_2", 0], ["reward_value_3", 0], ["start_time", "2015/04/01 15:00:00"], ["story_end", 0], ["story_group_id", 1339], ["story_id", 1339004], ["story_quest_id", 0], ["sub_title", "立足大地，厭惡無趣的女君"], ["title", "克莉絲提娜（始源） 第4話"], ["unlock_quest_id", 0], ["visible_type", 0]],
+          [["can_bookmark", 1], ["end_time", "2030/12/17 14:59:59"], ["force_unlock_time", "2030/12/17 14:59:59"], ["force_unlock_time_2", "2030/12/17 14:59:59"], ["lock_all_text", 0], ["love_level", 4], ["pre_story_id", 1339001], ["pre_story_id_2", 0], ["read_process_flag", 1], ["requirement_id", 133901], ["reward_id_1", 91002], ["reward_id_2", 0], ["reward_id_3", 0], ["reward_type_1", 8], ["reward_type_2", 0], ["reward_type_3", 0], ["reward_value_1", 20], ["reward_value_2", 0], ["reward_value_3", 0], ["start_time", "2015/04/01 15:00:00"], ["story_end", 0], ["story_group_id", 1339], ["story_id", 1339002], ["story_quest_id", 0], ["sub_title", "女君於日落下回憶"], ["title", "克莉絲提娜（始源） 第2話"], ["unlock_quest_id", 0], ["visible_type", 0]]
+        ]
+      }
+    },
+    "gacha_pickup": {
+      "data_changes": {
+        "added": [
+          [["id", 31], ["name", "日和（星素）"], ["priority", 3], ["reward_id", 128701], ["reward_type", 1]]
+        ]
+      }
+    },
+    "extra_effect_unit_group": {
+      "data_changes": {
+        "added": [
+          [["group_id", 6101620], ["target_id", 246], ["unit_id", 133901]]
+        ]
+      }
+    },
+    "unit_attack_pattern": {
+      "data_changes": {
+        "added": [
+          [["atk_pattern_1", 1001], ["atk_pattern_10", 1001], ["atk_pattern_11", 1001], ["atk_pattern_12", 1], ["atk_pattern_13", 0], ["atk_pattern_14", 0], ["atk_pattern_15", 0], ["atk_pattern_16", 0], ["atk_pattern_17", 0], ["atk_pattern_18", 0], ["atk_pattern_19", 0], ["atk_pattern_2", 1], ["atk_pattern_20", 1001], ["atk_pattern_3", 1001], ["atk_pattern_4", 1], ["atk_pattern_5", 1001], ["atk_pattern_6", 1], ["atk_pattern_7", 1001], ["atk_pattern_8", 1], ["atk_pattern_9", 1002], ["loop_end", 13], ["loop_start", 11], ["pattern_id", 13390101], ["unit_id", 133901]]
+        ]
+      }
+    },
+    "v1_e27dba30441946f453ee4714b5802e4c353b3edbd6b091ec5ba5e79a9ee10497": {
+      "data_changes": {
+        "added": [
+          [["0b15055930c86fdb2479e651739850c470846162a8cf8fcc5bb1cde0bcbbb75d", "戰鬥開始90秒內，\\n特大幅度提升ＴＰ上升。"], ["5cf7dbc17fe4dc35df76d9a29577f4471594f9f8fac4a09814d69f4369f2b742", 10201551], ["617107450e288186457b7c9e4864f594525427fe21b10f6055ddfe9f02bf6f41", "2025/06/12 16:00:00"], ["87cffb5084c493fac3d239516997f8ecc0265744785469b1b715f9227783b657", 3010], ["c0a65d2e8b2734e181c050d23d6b578cf752ab92f88ba229da80522b60643e51", 10201042], ["d016b74c77736a132ad6d81962b7c9f642e88204be4170e92247fdecfd5a217d", 133901]],
+          [["0b15055930c86fdb2479e651739850c470846162a8cf8fcc5bb1cde0bcbbb75d", "戰鬥開始90秒內，\\n特大幅度提升ＴＰ上升。"], ["5cf7dbc17fe4dc35df76d9a29577f4471594f9f8fac4a09814d69f4369f2b742", 10201501], ["617107450e288186457b7c9e4864f594525427fe21b10f6055ddfe9f02bf6f41", "2025/06/12 16:00:00"], ["87cffb5084c493fac3d239516997f8ecc0265744785469b1b715f9227783b657", 3010], ["c0a65d2e8b2734e181c050d23d6b578cf752ab92f88ba229da80522b60643e51", 10201016], ["d016b74c77736a132ad6d81962b7c9f642e88204be4170e92247fdecfd5a217d", 133901]],
+          [["0b15055930c86fdb2479e651739850c470846162a8cf8fcc5bb1cde0bcbbb75d", "戰鬥開始90秒內，\\n極大幅度提升物理攻擊力。"], ["5cf7dbc17fe4dc35df76d9a29577f4471594f9f8fac4a09814d69f4369f2b742", 10201551], ["617107450e288186457b7c9e4864f594525427fe21b10f6055ddfe9f02bf6f41", "2025/06/12 16:00:00"], ["87cffb5084c493fac3d239516997f8ecc0265744785469b1b715f9227783b657", 3001], ["c0a65d2e8b2734e181c050d23d6b578cf752ab92f88ba229da80522b60643e51", 10201041], ["d016b74c77736a132ad6d81962b7c9f642e88204be4170e92247fdecfd5a217d", 133901]],
+          [["0b15055930c86fdb2479e651739850c470846162a8cf8fcc5bb1cde0bcbbb75d", "戰鬥開始90秒內，\\n極大幅度提升物理攻擊力。"], ["5cf7dbc17fe4dc35df76d9a29577f4471594f9f8fac4a09814d69f4369f2b742", 10201501], ["617107450e288186457b7c9e4864f594525427fe21b10f6055ddfe9f02bf6f41", "2025/06/12 16:00:00"], ["87cffb5084c493fac3d239516997f8ecc0265744785469b1b715f9227783b657", 3001], ["c0a65d2e8b2734e181c050d23d6b578cf752ab92f88ba229da80522b60643e51", 10201015], ["d016b74c77736a132ad6d81962b7c9f642e88204be4170e92247fdecfd5a217d", 133901]]
+        ]
+      }
+    },
+    "promotion_bonus": {
+      "data_changes": {
+        "added": [
+          [["accuracy", 35], ["atk", 0.0], ["def", 0.0], ["dodge", 0.0], ["energy_recovery_rate", 10.0], ["energy_reduce_rate", 2500.0], ["hp", 0.0], ["hp_recovery_rate", 0.0], ["life_steal", 0.0], ["magic_critical", 0.0], ["magic_def", 0.0], ["magic_penetrate", 0.0], ["magic_str", 0.0], ["physical_critical", 0.0], ["physical_penetrate", 0.0], ["promotion_level", 0.0], ["unit_id", 133901], ["wave_energy_recovery", 0.0], ["wave_hp_recovery", 0.0]]
+        ]
+      }
+    },
+    "emblem_data": {
+      "data_changes": {
+        "added": [
+          [["description_mission_id", 56011946], ["disp_oder", 201940], ["emblem_id", 10201946], ["emblem_name", "幻魔女君"], ["end_time", "2030/01/01 23:59:59"], ["event_emblem", 0], ["start_time", "2025/06/12 16:00:00"], ["type", 2]],
+          [["description_mission_id", 56011945], ["disp_oder", 201939], ["emblem_id", 10201945], ["emblem_name", "與克莉絲提娜（始源）的羈絆"], ["end_time", "2030/01/01 23:59:59"], ["event_emblem", 0], ["start_time", "2025/06/12 16:00:00"], ["type", 2]],
+          [["description_mission_id", 56011944], ["disp_oder", 201938], ["emblem_id", 10201944], ["emblem_name", "克莉絲提娜（始源）"], ["end_time", "2030/01/01 23:59:59"], ["event_emblem", 0], ["start_time", "2025/06/12 16:00:00"], ["type", 2]]
+        ]
+      }
+    },
+    "emblem_mission_reward_data": {
+      "data_changes": {
+        "added": [
+          [["icon_type", 1001], ["id", 1496], ["mission_reward_id", 56011944], ["reward_id", 10201944], ["reward_num", 1], ["reward_type", 15]],
+          [["icon_type", 0], ["id", 1499], ["mission_reward_id", 56011946], ["reward_id", 91002], ["reward_num", 50], ["reward_type", 8]],
+          [["icon_type", 1003], ["id", 1498], ["mission_reward_id", 56011946], ["reward_id", 10201946], ["reward_num", 1], ["reward_type", 15]],
+          [["icon_type", 1002], ["id", 1497], ["mission_reward_id", 56011945], ["reward_id", 10201945], ["reward_num", 1], ["reward_type", 15]]
+        ]
+      }
+    },
+    "voice_group_chara": {
+      "data_changes": {
+        "added": [
+          [["group_unit_id", 333901001], ["group_unit_id_comment", "克莉絲提娜（始源）（花凜對話用）"], ["unit_id_01", 133901], ["unit_id_02", 0], ["unit_id_03", 0], ["unit_id_04", 0], ["unit_id_05", 0], ["unit_id_06", 0], ["unit_id_07", 0], ["unit_id_08", 0], ["unit_id_09", 0], ["unit_id_10", 0]]
+        ],
+        "modified": [
+          {
+            "id": 107101001,
+            "old": [["group_unit_id", 107101001], ["group_unit_id_comment", "王宮騎士團（克莉絲提娜）"], ["unit_id_01", 107101], ["unit_id_02", 111501], ["unit_id_03", 123801], ["unit_id_04", 0], ["unit_id_05", 0], ["unit_id_06", 0], ["unit_id_07", 0], ["unit_id_08", 0], ["unit_id_09", 0], ["unit_id_10", 0]],
+            "new": [["group_unit_id", 107101001], ["group_unit_id_comment", "王宮騎士團（克莉絲提娜）"], ["unit_id_01", 107101], ["unit_id_02", 111501], ["unit_id_03", 123801], ["unit_id_04", 133901], ["unit_id_05", 0], ["unit_id_06", 0], ["unit_id_07", 0], ["unit_id_08", 0], ["unit_id_09", 0], ["unit_id_10", 0]]
+          }
+        ]
+      }
+    },
+    "banner": {
+      "data_changes": {
+        "added": [
+          [["banner_id", 10325], ["condition_id", 0], ["end_date", "2025/06/17 15:59:59"], ["gacha_id", 30371], ["is_show_room", 0], ["priority", 50101], ["start_date", "2025/06/12 16:00:00"], ["sub_banner_id_1", 0], ["system_id", 302], ["type", 1]],
+          [["banner_id", 10326], ["condition_id", 0], ["end_date", "2025/06/22 15:59:59"], ["gacha_id", 40013], ["is_show_room", 0], ["priority", 50102], ["start_date", "2025/06/12 16:00:00"], ["sub_banner_id_1", 0], ["system_id", 302], ["type", 1]]
+        ],
+        "modified": [
+          {
+            "id": 20032,
+            "old": [["banner_id", 20032], ["condition_id", 0], ["end_date", "2025/06/01 15:59:59"], ["gacha_id", 110020], ["is_show_room", 0], ["priority", 60101], ["start_date", "2025/05/21 16:00:00"], ["sub_banner_id_1", 0], ["system_id", 307], ["type", 1]],
+            "new": [["banner_id", 20032], ["condition_id", 0], ["end_date", "2025/06/22 15:59:59"], ["gacha_id", 0], ["is_show_room", 0], ["priority", 60101], ["start_date", "2025/06/12 16:00:00"], ["sub_banner_id_1", 0], ["system_id", 305], ["type", 1]]
+          }
+        ]
+      }
+    },
+    "unit_promotion": {
+      "data_changes": {
+        "added": [
+          [["equip_slot_1", 104163], ["equip_slot_2", 104192], ["equip_slot_3", 104432], ["equip_slot_4", 104491], ["equip_slot_5", 104581], ["equip_slot_6", 103553], ["promotion_level", 8], ["unit_id", 133901]]
+        ]
+      }
+    },
+    "actual_unit_background": {
+      "data_changes": {
+        "added": [
+          [["bg_id", 510201], ["face_type", 4], ["unit_id", 133931], ["unit_name", "克莉絲提娜‧摩根"]]
+        ]
+      }
+    },
+    "unit_talent": {
+      "data_changes": {
+        "added": [
+          [["setting_id", 13390101], ["talent_id", 5], ["unit_id", 133901]]
+        ]
+      }
+    },
+    "unit_skill_data": {
+      "data_changes": {
+        "added": [
+          [["ex_skill_1", 1339501], ["ex_skill_2", 0], ["ex_skill_3", 0], ["ex_skill_4", 0], ["ex_skill_5", 0], ["ex_skill_evolution_1", 1339511], ["ex_skill_evolution_2", 0], ["ex_skill_evolution_3", 0], ["ex_skill_evolution_4", 0], ["ex_skill_evolution_5", 0], ["main_skill_1", 1339002], ["main_skill_10", 0], ["main_skill_2", 1339003], ["main_skill_3", 0], ["main_skill_4", 0], ["main_skill_5", 0], ["main_skill_6", 0], ["main_skill_7", 0], ["main_skill_8", 0], ["main_skill_9", 0], ["main_skill_evolution_1", 0], ["main_skill_evolution_2", 0], ["sp_skill_1", 0], ["sp_skill_2", 0], ["sp_skill_3", 0], ["sp_skill_4", 0], ["sp_skill_5", 0], ["sp_skill_evolution_1", 0], ["sp_skill_evolution_2", 0], ["sp_union_burst", 0], ["union_burst", 1339001], ["union_burst_evolution", 0], ["unit_id", 133901]]
+        ]
+      }
+    },
+    "gacha_data": {
+      "data_changes": {
+        "added": [
+          [["b445862d0ab66dcf0d21148e77310f8e2f88e53c87861cd1b30c6271489741b7", 2], ["chara_odds_star1", "70129_1"], ["chara_odds_star2", "70129_2"], ["chara_odds_star3", "70129_3"], ["description", "有償寶石限定\\n舉辦★3確定白金轉蛋！"], ["description_2", "[3C404E]第10位角色[FFBB00,CE4F00]必定出現★3角色！[-] 可以取得大師碎片×1！[-]"], ["description_sp", ""], ["discount_price", 50], ["end_time", "2025/06/22 15:59:59"], ["exchange_id", 372], ["ff12a2d323be4140b5b5f0e3db8f93c207d4d0594eff84913f280ebb8f5fbfcd", 1], ["free_gacha_count", 0], ["free_gacha_interval_time", 0], ["free_gacha_type", 0], ["gacha10_special_odds_star1", "0"], ["gacha10_special_odds_star2", "0"], ["gacha10_special_odds_star3", "0"], ["gacha_bonus_id", 1168], ["gacha_cost_type", 2], ["gacha_detail", 2], ["gacha_id", 70129], ["gacha_name", "★3確定白金轉蛋"], ["gacha_odds", "0"], ["gacha_odds_star2", "0"], ["gacha_times_limit10", 0], ["gacha_type", 1], ["movie_id", 700120], ["parallel_id", 0], ["pick_up_chara_text", "無精選角色"], ["pickup_badge", 0], ["pickup_id", 0], ["price", 1500], ["prizegacha_id", 0], ["rarity_odds", "300000"], ["special_id", 70128], ["start_time", "2025/06/17 16:00:00"], ["tab_name", ""], ["ticket_id", 24001], ["ticket_id_10", 0], ["title_id", 0]],
+          [["b445862d0ab66dcf0d21148e77310f8e2f88e53c87861cd1b30c6271489741b7", 2], ["chara_odds_star1", "70128_1"], ["chara_odds_star2", "70128_2"], ["chara_odds_star3", "70128_3"], ["description", "有償寶石限定\\n舉辦★3確定白金轉蛋！"], ["description_2", "[3C404E]第10位角色[FFBB00,CE4F00]必定出現★3角色！[-] 可以取得大師碎片×1！[-]"], ["description_sp", ""], ["discount_price", 50], ["end_time", "2025/06/17 15:59:59"], ["exchange_id", 372], ["ff12a2d323be4140b5b5f0e3db8f93c207d4d0594eff84913f280ebb8f5fbfcd", 1], ["free_gacha_count", 0], ["free_gacha_interval_time", 0], ["free_gacha_type", 0], ["gacha10_special_odds_star1", "0"], ["gacha10_special_odds_star2", "0"], ["gacha10_special_odds_star3", "0"], ["gacha_bonus_id", 1168], ["gacha_cost_type", 2], ["gacha_detail", 2], ["gacha_id", 70128], ["gacha_name", "★3確定白金轉蛋"], ["gacha_odds", "0"], ["gacha_odds_star2", "0"], ["gacha_times_limit10", 0], ["gacha_type", 1], ["movie_id", 700120], ["parallel_id", 0], ["pick_up_chara_text", "無精選角色"], ["pickup_badge", 0], ["pickup_id", 0], ["price", 1500], ["prizegacha_id", 0], ["rarity_odds", "300000"], ["special_id", 70128], ["start_time", "2025/06/12 16:00:00"], ["tab_name", ""], ["ticket_id", 24001], ["ticket_id_10", 0], ["title_id", 0]],
+          [["b445862d0ab66dcf0d21148e77310f8e2f88e53c87861cd1b30c6271489741b7", 0], ["chara_odds_star1", "0"], ["chara_odds_star2", "0"], ["chara_odds_star3", "0"], ["description", "取得道具獎勵或記憶碎片吧！"], ["description_2", ""], ["description_sp", ""], ["discount_price", 0], ["end_time", "2025/06/22 15:59:59"], ["exchange_id", 0], ["ff12a2d323be4140b5b5f0e3db8f93c207d4d0594eff84913f280ebb8f5fbfcd", 0], ["free_gacha_count", 10], ["free_gacha_interval_time", 0], ["free_gacha_type", 1], ["gacha10_special_odds_star1", "0"], ["gacha10_special_odds_star2", "0"], ["gacha10_special_odds_star3", "0"], ["gacha_bonus_id", 0], ["gacha_cost_type", 3], ["gacha_detail", 1], ["gacha_id", 10372], ["gacha_name", "一般轉蛋"], ["gacha_odds", "10372"], ["gacha_odds_star2", ""], ["gacha_times_limit10", 0], ["gacha_type", 0], ["movie_id", 0], ["parallel_id", 0], ["pick_up_chara_text", ""], ["pickup_badge", 0], ["pickup_id", 0], ["price", 0], ["prizegacha_id", 0], ["rarity_odds", "0"], ["special_id", 0], ["start_time", "2025/06/17 16:00:00"], ["tab_name", ""], ["ticket_id", 0], ["ticket_id_10", 0], ["title_id", 0]],
+          [["b445862d0ab66dcf0d21148e77310f8e2f88e53c87861cd1b30c6271489741b7", 0], ["chara_odds_star1", "0"], ["chara_odds_star2", "0"], ["chara_odds_star3", "0"], ["description", "取得道具獎勵或記憶碎片吧！"], ["description_2", ""], ["description_sp", ""], ["discount_price", 0], ["end_time", "2025/06/17 15:59:59"], ["exchange_id", 0], ["ff12a2d323be4140b5b5f0e3db8f93c207d4d0594eff84913f280ebb8f5fbfcd", 0], ["free_gacha_count", 10], ["free_gacha_interval_time", 0], ["free_gacha_type", 1], ["gacha10_special_odds_star1", "0"], ["gacha10_special_odds_star2", "0"], ["gacha10_special_odds_star3", "0"], ["gacha_bonus_id", 0], ["gacha_cost_type", 3], ["gacha_detail", 1], ["gacha_id", 10371], ["gacha_name", "一般轉蛋"], ["gacha_odds", "10371"], ["gacha_odds_star2", ""], ["gacha_times_limit10", 0], ["gacha_type", 0], ["movie_id", 0], ["parallel_id", 0], ["pick_up_chara_text", ""], ["pickup_badge", 0], ["pickup_id", 0], ["price", 0], ["prizegacha_id", 0], ["rarity_odds", "0"], ["special_id", 0], ["start_time", "2025/06/12 16:00:00"], ["tab_name", ""], ["ticket_id", 0], ["ticket_id_10", 0], ["title_id", 0]],
+          [["b445862d0ab66dcf0d21148e77310f8e2f88e53c87861cd1b30c6271489741b7", 0], ["chara_odds_star1", "20372_1"], ["chara_odds_star2", "20372_2"], ["chara_odds_star3", "20372_3"], ["description", "白金轉蛋僅會出現角色喔！"], ["description_2", ""], ["description_sp", ""], ["discount_price", 50], ["end_time", "2025/06/22 15:59:59"], ["exchange_id", 372], ["ff12a2d323be4140b5b5f0e3db8f93c207d4d0594eff84913f280ebb8f5fbfcd", 0], ["free_gacha_count", 0], ["free_gacha_interval_time", 0], ["free_gacha_type", 0], ["gacha10_special_odds_star1", "0"], ["gacha10_special_odds_star2", "0"], ["gacha10_special_odds_star3", "0"], ["gacha_bonus_id", 0], ["gacha_cost_type", 2], ["gacha_detail", 2], ["gacha_id", 20372], ["gacha_name", "白金轉蛋"], ["gacha_odds", "0"], ["gacha_odds_star2", "0"], ["gacha_times_limit10", 0], ["gacha_type", 1], ["movie_id", 200001], ["parallel_id", 0], ["pick_up_chara_text", "無精選角色"], ["pickup_badge", 0], ["pickup_id", 0], ["price", 150], ["prizegacha_id", 0], ["rarity_odds", "300000"], ["special_id", 0], ["start_time", "2025/06/17 16:00:00"], ["tab_name", ""], ["ticket_id", 24001], ["ticket_id_10", 24004], ["title_id", 0]],
+          [["b445862d0ab66dcf0d21148e77310f8e2f88e53c87861cd1b30c6271489741b7", 0], ["chara_odds_star1", "20371_1"], ["chara_odds_star2", "20371_2"], ["chara_odds_star3", "20371_3"], ["description", "白金轉蛋僅會出現角色喔！"], ["description_2", ""], ["description_sp", ""], ["discount_price", 50], ["end_time", "2025/06/17 15:59:59"], ["exchange_id", 372], ["ff12a2d323be4140b5b5f0e3db8f93c207d4d0594eff84913f280ebb8f5fbfcd", 0], ["free_gacha_count", 0], ["free_gacha_interval_time", 0], ["free_gacha_type", 0], ["gacha10_special_odds_star1", "0"], ["gacha10_special_odds_star2", "0"], ["gacha10_special_odds_star3", "0"], ["gacha_bonus_id", 0], ["gacha_cost_type", 2], ["gacha_detail", 2], ["gacha_id", 20371], ["gacha_name", "白金轉蛋"], ["gacha_odds", "0"], ["gacha_odds_star2", "0"], ["gacha_times_limit10", 0], ["gacha_type", 1], ["movie_id", 200001], ["parallel_id", 0], ["pick_up_chara_text", "無精選角色"], ["pickup_badge", 0], ["pickup_id", 0], ["price", 150], ["prizegacha_id", 0], ["rarity_odds", "300000"], ["special_id", 0], ["start_time", "2025/06/12 16:00:00"], ["tab_name", ""], ["ticket_id", 24001], ["ticket_id_10", 24004], ["title_id", 0]],
+          [["b445862d0ab66dcf0d21148e77310f8e2f88e53c87861cd1b30c6271489741b7", 0], ["chara_odds_star1", "40013_1"], ["chara_odds_star2", "40013_2"], ["chara_odds_star3", "40013_3"], ["description", "★3角色出現率2倍\\n限定「克莉絲提娜（始源）」登場！期間內出現率UP！"], ["description_2", "[3C404E]每次讓目標角色加入時[FFBB00,CE4F00][-]獲得[-]角色記憶碎片200個！"], ["description_sp", ""], ["discount_price", 50], ["end_time", "2025/06/22 15:59:59"], ["exchange_id", 372], ["ff12a2d323be4140b5b5f0e3db8f93c207d4d0594eff84913f280ebb8f5fbfcd", 0], ["free_gacha_count", 0], ["free_gacha_interval_time", 0], ["free_gacha_type", 0], ["gacha10_special_odds_star1", "0"], ["gacha10_special_odds_star2", "0"], ["gacha10_special_odds_star3", "0"], ["gacha_bonus_id", 1168], ["gacha_cost_type", 2], ["gacha_detail", 2], ["gacha_id", 40013], ["gacha_name", "日版7周年轉蛋"], ["gacha_odds", "0"], ["gacha_odds_star2", "0"], ["gacha_times_limit10", 1], ["gacha_type", 1], ["movie_id", 400013], ["parallel_id", 0], ["pick_up_chara_text", "克莉絲提娜（始源）"], ["pickup_badge", 0], ["pickup_id", 0], ["price", 150], ["prizegacha_id", 0], ["rarity_odds", "600000"], ["special_id", 0], ["start_time", "2025/06/12 16:00:00"], ["tab_name", ""], ["ticket_id", 24001], ["ticket_id_10", 24004], ["title_id", 0]],
+          [["b445862d0ab66dcf0d21148e77310f8e2f88e53c87861cd1b30c6271489741b7", 0], ["chara_odds_star1", "30371_1"], ["chara_odds_star2", "30371_2"], ["chara_odds_star3", "30371_3"], ["description", "可自選精選角色！\\n『10 連轉蛋』確定有1個5等以上！"], ["description_2", ""], ["description_sp", ""], ["discount_price", 50], ["end_time", "2025/06/17 15:59:59"], ["exchange_id", 371], ["ff12a2d323be4140b5b5f0e3db8f93c207d4d0594eff84913f280ebb8f5fbfcd", 0], ["free_gacha_count", 0], ["free_gacha_interval_time", 0], ["free_gacha_type", 0], ["gacha10_special_odds_star1", "0"], ["gacha10_special_odds_star2", "0"], ["gacha10_special_odds_star3", "0"], ["gacha_bonus_id", 0], ["gacha_cost_type", 2], ["gacha_detail", 2], ["gacha_id", 30371], ["gacha_name", "可自選的獎勵轉蛋"], ["gacha_odds", "0"], ["gacha_odds_star2", "0"], ["gacha_times_limit10", 0], ["gacha_type", 1], ["movie_id", 300371], ["parallel_id", 0], ["pick_up_chara_text", "愛梅斯（夏日）\\n優衣（星素）\\n日和（星素）"], ["pickup_badge", 0], ["pickup_id", 31], ["price", 150], ["prizegacha_id", 100156], ["rarity_odds", "300000"], ["special_id", 0], ["start_time", "2025/06/12 16:00:00"], ["tab_name", ""], ["ticket_id", 24001], ["ticket_id_10", 24004], ["title_id", 1]]
+        ]
+      }
+    },
+    "unit_promotion_status": {
+      "data_changes": {
+        "added": [
+          [["accuracy", 0.0], ["atk", 153.0], ["def", 19.0], ["dodge", 1.0], ["energy_recovery_rate", 0.0], ["energy_reduce_rate", 0.0], ["hp", 590.0], ["hp_recovery_rate", 0.0], ["life_steal", 0.0], ["magic_critical", 0.0], ["magic_def", 3.0], ["magic_penetrate", 0.0], ["magic_str", 0.0], ["physical_critical", 0.0], ["physical_penetrate", 0.0], ["promotion_level", 4], ["unit_id", 133901], ["wave_energy_recovery", 0.0], ["wave_hp_recovery", 125.0]]
+        ]
+      }
+    },
+    "voice_group": {
+      "data_changes": {
+        "added": [
+          [["group_id", 30237], ["group_id_comment", "克莉絲提娜（始源）（花凜對話用）"], ["group_unit_id_01", 118501001], ["group_unit_id_02", 333901001], ["group_unit_id_03", 0], ["group_unit_id_04", 0], ["group_unit_id_05", 0]]
+        ]
+      }
+    },
+    "v1_7700a781c88fb85a0e93ff3f0545bb382e553194dc87394e79d73721e793929b": {
+      "data_changes": {
+        "added": [
+          [["2be3ea1af3489b94c541e42db5e6d9865b3ac9bbc78357da2a37b11540856e84", 2.0], ["32abdccd55cc1389d6a5604caf2b9345ab489f22d5df3dd200a63ac87b8b439d", 133931]]
+        ]
+      }
+    },
+    "unlock_rarity_6": {
+      "data_changes": {
+        "added": [
+          [["accuracy", 0], ["atk", 0], ["consume_gold", 0], ["def", 0], ["dodge", 0], ["energy_recovery_rate", 0], ["energy_reduce_rate", 0], ["hp", 0], ["hp_recovery_rate", 0], ["life_steal", 0], ["magic_critical", 0], ["magic_def", 0], ["magic_penetrate", 0], ["magic_str", 0], ["material_count", 0], ["material_id", 0], ["material_type", 0], ["physical_critical", 0], ["physical_penetrate", 0], ["slot_id", 1], ["unit_id", 133901], ["unlock_flag", 0], ["unlock_level", 0], ["wave_energy_recovery", 0], ["wave_hp_recovery", 0]]
+        ]
+      }
+    },
+    "skill_data": {
+      "data_changes": {
+        "added": [
+          [["action_1", 133951101], ["action_10", 0], ["action_2", 0], ["action_3", 0], ["action_4", 0], ["action_5", 0], ["action_6", 0], ["action_7", 0], ["action_8", 0], ["action_9", 0], ["boss_ub_cool_time", 0.0], ["depend_action_1", 0], ["depend_action_10", 0], ["depend_action_2", 0], ["depend_action_3", 0], ["depend_action_4", 0], ["depend_action_5", 0], ["depend_action_6", 0], ["depend_action_7", 0], ["depend_action_8", 0], ["depend_action_9", 0], ["description", "戰鬥開始時，大幅度提升自己的物理攻擊力。"], ["icon_type", 3001], ["name", "惡魔初始化+"], ["skill_area_width", 0], ["skill_cast_time", 0.0], ["skill_id", 1339511], ["skill_type", 0]],
+          [["action_1", 133900201], ["action_10", 0], ["action_2", 133900202], ["action_3", 133900203], ["action_4", 133900204], ["action_5", 133900205], ["action_6", 133900206], ["action_7", 133900207], ["action_8", 0], ["action_9", 0], ["boss_ub_cool_time", 0.0], ["depend_action_1", 0], ["depend_action_10", 0], ["depend_action_2", 0], ["depend_action_3", 0], ["depend_action_4", 0], ["depend_action_5", 0], ["depend_action_6", 0], ["depend_action_7", 0], ["depend_action_8", 0], ["depend_action_9", 0], ["description", "對前方的敵方全體造成中幅度的物理傷害。當自身被施加【虛數】時，再對前方的敵人當中物理防禦力最低的１名敵方造成大幅度物理傷害，並中幅度恢復自身的ＴＰ。"], ["icon_type", 2001], ["name", "惡魔刺擊"], ["skill_area_width", 0], ["skill_cast_time", 1.05], ["skill_id", 1339002], ["skill_type", 0]],
+          [["action_1", 133900101], ["action_10", 0], ["action_2", 133900102], ["action_3", 133900103], ["action_4", 133900104], ["action_5", 133900105], ["action_6", 133900106], ["action_7", 133900107], ["action_8", 133900108], ["action_9", 0], ["boss_ub_cool_time", 0.0], ["depend_action_1", 0], ["depend_action_10", 0], ["depend_action_2", 0], ["depend_action_3", 133900102], ["depend_action_4", 0], ["depend_action_5", 0], ["depend_action_6", 133900105], ["depend_action_7", 0], ["depend_action_8", 0], ["depend_action_9", 0], ["description", "大幅度提升自身的物理攻擊力，對敵方全體造成大幅度的物理傷害，小幅度降低其物理防禦力。當自身被施加【虛數】時，對物理防禦力最低的１名敵方造成特大幅度的物理傷害。"], ["icon_type", 1001], ["name", "虛數魔境"], ["skill_area_width", 0], ["skill_cast_time", 0.0], ["skill_id", 1339001], ["skill_type", 0]],
+          [["action_1", 133900301], ["action_10", 0], ["action_2", 133900302], ["action_3", 133900303], ["action_4", 133900304], ["action_5", 133900305], ["action_6", 133900306], ["action_7", 133900307], ["action_8", 0], ["action_9", 0], ["boss_ub_cool_time", 0.0], ["depend_action_1", 0], ["depend_action_10", 0], ["depend_action_2", 0], ["depend_action_3", 0], ["depend_action_4", 0], ["depend_action_5", 0], ["depend_action_6", 0], ["depend_action_7", 0], ["depend_action_8", 0], ["depend_action_9", 0], ["description", "對自身施加【虛數】，特大幅度提升物理攻擊力，小幅度提升物理攻擊暴擊時的傷害與ＴＰ上升，迴避所有物理攻擊。依照我方闇屬性的角色數量，物理攻擊力與物理攻擊暴擊時的傷害提升的數值最多增加到４倍。被施加【虛數】時，該角色的必殺技與技能的傷害必定命中，必定暴擊。"], ["icon_type", 2017], ["name", "絕對唯一"], ["skill_area_width", 0], ["skill_cast_time", 0.0], ["skill_id", 1339003], ["skill_type", 0]],
+          [["action_1", 133950101], ["action_10", 0], ["action_2", 0], ["action_3", 0], ["action_4", 0], ["action_5", 0], ["action_6", 0], ["action_7", 0], ["action_8", 0], ["action_9", 0], ["boss_ub_cool_time", 0.0], ["depend_action_1", 0], ["depend_action_10", 0], ["depend_action_2", 0], ["depend_action_3", 0], ["depend_action_4", 0], ["depend_action_5", 0], ["depend_action_6", 0], ["depend_action_7", 0], ["depend_action_8", 0], ["depend_action_9", 0], ["description", "戰鬥開始時，中幅度提升自己的物理攻擊力。"], ["icon_type", 3001], ["name", "惡魔初始化"], ["skill_area_width", 0], ["skill_cast_time", 0.0], ["skill_id", 1339501], ["skill_type", 0]]
+        ]
+      }
+    },
+    "album_production_list": {
+      "data_changes": {
+        "added": [
+          [["description", ""], ["id", 13390103], ["title", "羈絆Rank表演2"], ["type", 102], ["unit_id", 133901]],
+          [["description", ""], ["id", 13390101], ["title", "解放表演1"], ["type", 201], ["unit_id", 133901]],
+          [["description", ""], ["id", 13390108], ["title", "羈絆Rank表演7"], ["type", 107], ["unit_id", 133901]],
+          [["description", ""], ["id", 13390105], ["title", "羈絆Rank表演4"], ["type", 104], ["unit_id", 133901]],
+          [["description", ""], ["id", 13390107], ["title", "羈絆Rank表演6"], ["type", 106], ["unit_id", 133901]],
+          [["description", ""], ["id", 13390102], ["title", "羈絆Rank表演1"], ["type", 101], ["unit_id", 133901]],
+          [["description", ""], ["id", 13390104], ["title", "羈絆Rank表演3"], ["type", 103], ["unit_id", 133901]],
+          [["description", ""], ["id", 13390106], ["title", "羈絆Rank表演5"], ["type", 105], ["unit_id", 133901]]
+        ]
+      }
+    },
+    "unit_enemy_data": {
+      "data_changes": {
+        "added": [
+          [["atk_type", 1], ["comment", "有著克莉絲提娜（始源）樣貌的特殊魔物"], ["cutin", 0], ["cutin_star6", 0], ["motion_type", 0], ["move_speed", 450], ["normal_atk_cast_time", 2.09], ["prefab_id", 133901], ["se_type", 6], ["search_area_width", 228], ["unit_id", 633901], ["unit_name", "克莉絲提娜（始源）的闇影"], ["visual_change_flag", 1]]
+        ]
+      }
+    },
+    "v1_e853ea3b75459a0c086582b4151e6420b2175601e68c59359d3fbbbce53935f0": {
+      "data_changes": {
+        "added": [
+          [["019fd57ac80e1b51351971b57b4e2a4d7c20ed7320b8fad96564ce13cfdc889d", 0], ["0e4026db6508fd3db052b3ef0e60a91af17ccfd6681dda06dbbc9c7898b20ff3", 10], ["1323b7a7a8b6ff4a8992f74447362c84caf14d600b803fe382040f1968e37297", 0], ["13426b01af5bc3716ebc68601f8b5e7e5d4adea11408001dd64b1f32a04b46a7", 0], ["14e04a6a056c6f2d12aec2e1246d5d51939897777d09d4264a54a5720b9a6a77", 0], ["1c87bf6d7ef7bbf0432143ab3b3f1c088f6800616c969b8e801ee0b2a86c8cb0", 0], ["22e3f3eb24b7988a6179e7e91d6420e9c10e52c239b6a45e398bf6cc3c684b9b", 0], ["2509fa94c4ab2ccb28b61f8f0c3a4d22ef1a31aa47302415de5373df0c80932c", 5], ["39e73210215f659fa7e33bc6bcbf8c8f8b2282fb640adaf5df82ec7286e99c74", 0], ["3a4262db1b59a1077a3e3802df9f028b22c5147ff1ef34737347897847fc58aa", 0], ["41c7b1e921f7b56818d461b982d2cc5dcb906731a83abfcdbffb1a2de1ad09b6", 0], ["4d8372ed62373add79e9125e1a41745527211de4e379d59324038d1e408d26b6", 1], ["4eb6d1fe5cc6dcc2c2a0a87193603342572a21285a2a495d57ed24adefdde27a", 0], ["4fbd61246c9df2ba2bc0259c82f3261b65ecd8f78b72e8cf2b5d59f8858e8637", 0], ["51b69793a4881eb13744bddeb2c1638efcac0240103c2cd5449311a82598c927", 0], ["591698bbdb9fdc327947348ee66adef2de164dbae65f74605c22f6159e67903e", 0], ["5f10d221e26a783633dc005a8a804156ff2f8fbc070615c89905460a59183990", 0], ["63b9fd6e19c0bc4e32bd45ddc36148fd10ff0cc0352ffa09a1aaf21892677bdf", 5], ["68fa41ab13b1a5668930f8bfad51ff6f2677c0e41276596283e8a731ecfaa1f2", 31287], ["6f3c480f84df7e5561fa5d2dce5da3d213cd962af978ede2c2c1959e09fe9dd8", 0], ["720dcdf70f14cab272dd967c4490aa40ad76be6a990c34a8e48c250a4d377f21", 0], ["73c5e8eacb768e84179102f3e9b133f3464d0561476eeaa249acdb75105121b1", 31289], ["78b72f402a13867f8065d85054ad4e204dbe7ef8aeadc19d629d9a41b22cfbee", 100156], ["7dbfb9bdae1d1b0df15e32c66f046be48793c47fb22ae8cd0bc1133a86c317a8", 1], ["827b7dd2e5f65060dcdb57083b55da09fcd1d901936ddccb27f0d609b013cf0e", 0], ["8de5f670429ce103f7e4ef4686334d6780d4cd1830eff88543edcb025a9a6ad7", 0], ["8f0972db1316663d552505134438eb82868065c04de75362f8e2da3f6b1cf376", 0], ["93f11f3e5e7fd3c637b6085169049c1fafec77ea79c344d097416d16922bfeb5", 100000], ["999dcf6960391121ec7f76a7251f1877ccf0f70673d8087cc94c38b05d69b91d", 0], ["a9c6a6aa54262d64599f2739fb544f603e356fc91f33ab22d3115f96fde8ab2e", 31317], ["ab37ab284963d7b1c47a70e9d78ef3f9f6214b261df417133063855a746e64ca", 0], ["b02726a94325a724012fb9e067f313e4e5fafcbfaf21e0993697591d916f9ca9", 0], ["b559ab8c2e7a95b979d6bd21c6b876eb1e6e650541b52c212fce2a809ab47cb7", 0], ["bd09d4bbd26868d533d6951b8cc3f6a4059945829c8e32808cecb7346c857c38", 0], ["c07a2940078955eb326ce3a0b33f9f2ef3fa42862df8bf55816cf04d6c041c05", 0], ["c82c483b0b839630aaf31113b96add947a6d013025a2358ae4c1c5959f716405", 0], ["ccc3e6242d77032714847fc00272041b0206b5254d1e8b29fa0dadaa88727656", 0], ["d1a088bb46ca73a7a0ff4f025628e68800e7fd98f93014102438eaba4159a637", 0], ["d6135f771a350e74d094b20017ca8d2a1da095f42d100319d0f4ef0a9fd17210", 0], ["e982d5774d1103fea1a4d80aba24bdaa0dbce61404656dc180730cf5330661e3", 0], ["effe78b816f7105b2c8b61e05b87b60d44c07ef302495265163906cb34cbe6a2", 0], ["f2297993a60cd909f7fe7a38559584ea1c76c466efe12abcf9f338e9ea4cf3b5", 0], ["fc74ea7d170d84a76de07d59ab094d60c879cc55084ca2c5917712f5c1c1a7c7", 0], ["fd8a436c3fbddc13c7ff9a20c4f3db7e08ceb3095eb4091492c348ebe41e82d8", 0], ["fdf5dd3eff66751a59929d24416f913bee978d75315bac691d03d36ae4f4a0a3", 0], ["fe7bf16e6918a3ec95095a2888e16a570bcc5507f45e00080f62cc27d619456f", 0], ["ff02cdc82928a3c60c9de37340630262242861a109a55f62bca9056c7124e64e", 0]]
+        ]
+      }
+    },
+    "still": {
+      "data_changes": {
+        "added": [
+          [["album_ignore", 0], ["facial_id", 1], ["my_page_flag", 1], ["position_y", 0], ["scroll_direction", 0], ["still_group_id", 1339004], ["still_id", 133900402], ["story_group_id", 1339], ["story_id", 1339004], ["unit_id_1", 133912], ["unit_id_10", 0], ["unit_id_2", 0], ["unit_id_3", 0], ["unit_id_4", 0], ["unit_id_5", 0], ["unit_id_6", 0], ["unit_id_7", 0], ["unit_id_8", 0], ["unit_id_9", 0], ["vertical_still_flg", 0]],
+          [["album_ignore", 0], ["facial_id", 1], ["my_page_flag", 1], ["position_y", 0], ["scroll_direction", 0], ["still_group_id", 1339004], ["still_id", 133900401], ["story_group_id", 1339], ["story_id", 1339004], ["unit_id_1", 133912], ["unit_id_10", 0], ["unit_id_2", 0], ["unit_id_3", 0], ["unit_id_4", 0], ["unit_id_5", 0], ["unit_id_6", 0], ["unit_id_7", 0], ["unit_id_8", 0], ["unit_id_9", 0], ["vertical_still_flg", 0]],
+          [["album_ignore", 0], ["facial_id", 1], ["my_page_flag", 1], ["position_y", 0], ["scroll_direction", 0], ["still_group_id", 0], ["still_id", 133900201], ["story_group_id", 1339], ["story_id", 1339002], ["unit_id_1", 107131], ["unit_id_10", 0], ["unit_id_2", 8031], ["unit_id_3", 0], ["unit_id_4", 0], ["unit_id_5", 0], ["unit_id_6", 0], ["unit_id_7", 0], ["unit_id_8", 0], ["unit_id_9", 0], ["vertical_still_flg", 0]]
+        ]
+      }
+    },
+    "unlock_unit_condition": {
+      "data_changes": {
+        "added": [
+          [["class_id", 1], ["condition_id_1", 31339], ["condition_id_2", 0], ["condition_id_3", 0], ["condition_id_4", 0], ["condition_id_5", 0], ["condition_type_1", 1], ["condition_type_2", 0], ["condition_type_3", 0], ["condition_type_4", 0], ["condition_type_5", 0], ["condition_type_detail_1", 2], ["condition_type_detail_2", 0], ["condition_type_detail_3", 0], ["condition_type_detail_4", 0], ["condition_type_detail_5", 0], ["count_1", 145], ["count_2", 0], ["count_3", 0], ["count_4", 0], ["count_5", 0], ["pre_unit_id", 0], ["release_effect_type", 2], ["unit_id", 133901], ["unit_name", "克莉絲提娜（始源）"]]
+        ]
+      }
+    },
+    "unit_rarity": {
+      "data_changes": {
+        "added": [
+          [["accuracy", 0.0], ["accuracy_growth", 0.0], ["atk", 99.45], ["atk_growth", 18.42], ["consume_gold", 50000], ["consume_num", 150], ["def", 4.72], ["def_growth", 0.87], ["dodge", 0.0], ["dodge_growth", 0.0], ["energy_recovery_rate", 0.0], ["energy_recovery_rate_growth", 0.0], ["energy_reduce_rate", 0.0], ["energy_reduce_rate_growth", 0.0], ["hp", 639.2], ["hp_growth", 118.4], ["hp_recovery_rate", 0.0], ["hp_recovery_rate_growth", 0.0], ["life_steal", 0.0], ["life_steal_growth", 0.0], ["magic_critical", 0.0], ["magic_critical_growth", 0.0], ["magic_def", 4.3], ["magic_def_growth", 0.81], ["magic_penetrate", 0.0], ["magic_penetrate_growth", 0.0], ["magic_str", 0.0], ["magic_str_growth", 0.0], ["physical_critical", 0.0], ["physical_critical_growth", 0.0], ["physical_penetrate", 0.0], ["physical_penetrate_growth", 0.0], ["rarity", 5], ["unit_id", 133901], ["unit_material_id", 31339], ["wave_energy_recovery", 0.0], ["wave_energy_recovery_growth", 0.0], ["wave_hp_recovery", 0.0], ["wave_hp_recovery_growth", 0.0]]
+        ]
+      }
+    },
+    "gacha_exchange_lineup": {
+      "data_changes": {
+        "added": [
+          [["end_time", "2025/06/17 15:59:59"], ["exchange_id", 371], ["gacha_bonus_id", 0], ["id", 996], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2025/06/12 16:00:00"], ["unit_id", 128901]],
+          [["end_time", "2025/06/22 15:59:59"], ["exchange_id", 372], ["gacha_bonus_id", 1168], ["id", 998], ["pickup_gacha_id", 40013], ["rarity", 3], ["start_time", "2025/06/12 16:00:00"], ["unit_id", 133901]],
+          [["end_time", "2025/06/17 15:59:59"], ["exchange_id", 371], ["gacha_bonus_id", 0], ["id", 995], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2025/06/12 16:00:00"], ["unit_id", 131701]],
+          [["end_time", "2025/06/17 15:59:59"], ["exchange_id", 371], ["gacha_bonus_id", 0], ["id", 997], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2025/06/12 16:00:00"], ["unit_id", 128701]]
+        ]
+      }
+    },
+    "chara_identity": {
+      "data_changes": {
+        "added": [
+          [["chara_type", 71], ["chara_type_2", 0], ["chara_type_3", 0], ["unit_id", 133901]]
+        ]
+      }
+    },
+    "v1_11209abbbac7499e8441d7dc65b0fc060e15956791fefed140d3a50118fb4f9f": {
+      "data_changes": {
+        "added": [
+          [["273cd6610758967a2ab61ecca61ba2735941ae38e6bcb17b1bb67998e85b9d97", "克莉絲提娜（始源）"], ["3b5eb7fb62367fd94e4aebe0ac662207c964ee81c11d6c135db9bee96eb814b1", 0], ["553f43f54369fcb69a74d6c0629ecd4900e019044fba4a087be435ee6b7ca601", 0], ["93aa0043b813aa9d65634995c6b35ad3216f67da8318280629f1eaa88a52ff6b", 1339], ["944fecb870fbf22330ee6a5a6a4ca541d2a51522c62290c4e97914ae3b23b526", 128122], ["9ab6cf32d5f81d4ba9d911f9fe52db9b7366f8eabfbf430b588cf00fa67fb272", "2015/04/01 15:00:00"], ["ace414b95662d453779d4e3df022a3731c17698d1e1c3c479465596100c57a0c", 80], ["b06823859e213f43d0ec847dded1328f4773c8fda99c414e80987c5b8c7c78b3", 0], ["bafd9eb2dc33bed4bdb0bcc7434403e81b89f4cbd8c570edda6328b37aa6f97a", "2030/12/17 14:59:59"], ["eaff3719b84fc5a577fcfc346e4f503d450f66fad3b5686bdd44e9265b97787c", 1339], ["f93f1cb6891788c9698faaacbabaf5186b4b88db2ec586a83c6e19d6d8ac907d", 1]]
+        ],
+        "modified": [
+          {
+            "id": 1115,
+            "old": [["273cd6610758967a2ab61ecca61ba2735941ae38e6bcb17b1bb67998e85b9d97", "克莉絲提娜（聖誕節）"], ["3b5eb7fb62367fd94e4aebe0ac662207c964ee81c11d6c135db9bee96eb814b1", 0], ["553f43f54369fcb69a74d6c0629ecd4900e019044fba4a087be435ee6b7ca601", 0], ["93aa0043b813aa9d65634995c6b35ad3216f67da8318280629f1eaa88a52ff6b", 1115], ["944fecb870fbf22330ee6a5a6a4ca541d2a51522c62290c4e97914ae3b23b526", 128122], ["9ab6cf32d5f81d4ba9d911f9fe52db9b7366f8eabfbf430b588cf00fa67fb272", "2020/04/01 16:00:00"], ["ace414b95662d453779d4e3df022a3731c17698d1e1c3c479465596100c57a0c", 1029], ["b06823859e213f43d0ec847dded1328f4773c8fda99c414e80987c5b8c7c78b3", 0], ["bafd9eb2dc33bed4bdb0bcc7434403e81b89f4cbd8c570edda6328b37aa6f97a", "2030/12/17 14:59:59"], ["eaff3719b84fc5a577fcfc346e4f503d450f66fad3b5686bdd44e9265b97787c", 1115], ["f93f1cb6891788c9698faaacbabaf5186b4b88db2ec586a83c6e19d6d8ac907d", 1]],
+            "new": [["273cd6610758967a2ab61ecca61ba2735941ae38e6bcb17b1bb67998e85b9d97", "克莉絲提娜（聖誕節）"], ["3b5eb7fb62367fd94e4aebe0ac662207c964ee81c11d6c135db9bee96eb814b1", 0], ["553f43f54369fcb69a74d6c0629ecd4900e019044fba4a087be435ee6b7ca601", 0], ["93aa0043b813aa9d65634995c6b35ad3216f67da8318280629f1eaa88a52ff6b", 1115], ["944fecb870fbf22330ee6a5a6a4ca541d2a51522c62290c4e97914ae3b23b526", 128123], ["9ab6cf32d5f81d4ba9d911f9fe52db9b7366f8eabfbf430b588cf00fa67fb272", "2020/04/01 16:00:00"], ["ace414b95662d453779d4e3df022a3731c17698d1e1c3c479465596100c57a0c", 1029], ["b06823859e213f43d0ec847dded1328f4773c8fda99c414e80987c5b8c7c78b3", 0], ["bafd9eb2dc33bed4bdb0bcc7434403e81b89f4cbd8c570edda6328b37aa6f97a", "2030/12/17 14:59:59"], ["eaff3719b84fc5a577fcfc346e4f503d450f66fad3b5686bdd44e9265b97787c", 1115], ["f93f1cb6891788c9698faaacbabaf5186b4b88db2ec586a83c6e19d6d8ac907d", 1]]
+          },
+          {
+            "id": 1238,
+            "old": [["273cd6610758967a2ab61ecca61ba2735941ae38e6bcb17b1bb67998e85b9d97", "克莉絲提娜（狂野）"], ["3b5eb7fb62367fd94e4aebe0ac662207c964ee81c11d6c135db9bee96eb814b1", 0], ["553f43f54369fcb69a74d6c0629ecd4900e019044fba4a087be435ee6b7ca601", 0], ["93aa0043b813aa9d65634995c6b35ad3216f67da8318280629f1eaa88a52ff6b", 1238], ["944fecb870fbf22330ee6a5a6a4ca541d2a51522c62290c4e97914ae3b23b526", 128123], ["9ab6cf32d5f81d4ba9d911f9fe52db9b7366f8eabfbf430b588cf00fa67fb272", "2015/04/01 15:00:00"], ["ace414b95662d453779d4e3df022a3731c17698d1e1c3c479465596100c57a0c", 1076], ["b06823859e213f43d0ec847dded1328f4773c8fda99c414e80987c5b8c7c78b3", 0], ["bafd9eb2dc33bed4bdb0bcc7434403e81b89f4cbd8c570edda6328b37aa6f97a", "2030/12/17 14:59:59"], ["eaff3719b84fc5a577fcfc346e4f503d450f66fad3b5686bdd44e9265b97787c", 1238], ["f93f1cb6891788c9698faaacbabaf5186b4b88db2ec586a83c6e19d6d8ac907d", 1]],
+            "new": [["273cd6610758967a2ab61ecca61ba2735941ae38e6bcb17b1bb67998e85b9d97", "克莉絲提娜（狂野）"], ["3b5eb7fb62367fd94e4aebe0ac662207c964ee81c11d6c135db9bee96eb814b1", 0], ["553f43f54369fcb69a74d6c0629ecd4900e019044fba4a087be435ee6b7ca601", 0], ["93aa0043b813aa9d65634995c6b35ad3216f67da8318280629f1eaa88a52ff6b", 1238], ["944fecb870fbf22330ee6a5a6a4ca541d2a51522c62290c4e97914ae3b23b526", 128124], ["9ab6cf32d5f81d4ba9d911f9fe52db9b7366f8eabfbf430b588cf00fa67fb272", "2015/04/01 15:00:00"], ["ace414b95662d453779d4e3df022a3731c17698d1e1c3c479465596100c57a0c", 1076], ["b06823859e213f43d0ec847dded1328f4773c8fda99c414e80987c5b8c7c78b3", 0], ["bafd9eb2dc33bed4bdb0bcc7434403e81b89f4cbd8c570edda6328b37aa6f97a", "2030/12/17 14:59:59"], ["eaff3719b84fc5a577fcfc346e4f503d450f66fad3b5686bdd44e9265b97787c", 1238], ["f93f1cb6891788c9698faaacbabaf5186b4b88db2ec586a83c6e19d6d8ac907d", 1]]
+          }
+        ]
+      }
+    },
+    "unit_profile": {
+      "data_changes": {
+        "added": [
+          [["age", "27"], ["birth_day", "7"], ["birth_month", "2"], ["blood_type", "O"], ["catch_copy", "自視甚高的王宮騎士團副團長"], ["favorite", "和強敵之間的競爭"], ["guild", "王宮騎士團"], ["guild_id", "8"], ["height", "165"], ["race", "人族"], ["self_text", ""], ["unit_id", 133901], ["unit_name", "克莉絲提娜（始源）"], ["voice", "たかはし智秋"], ["voice_id", 0], ["weight", "??"]]
+        ]
+      }
+    },
+    "campaign_freegacha_data": {
+      "data_changes": {
+        "added": [
+          [["campaign_id", 39], ["gacha_id", 40013], ["id", 128]]
+        ]
+      }
+    },
+    "unit_introduction": {
+      "data_changes": {
+        "added": [
+          [["end_time", "2025/06/22 15:59:59"], ["gacha_id", 40013], ["id", 363], ["introduction_number", 1], ["maximum_chunk_size_1", 380000], ["maximum_chunk_size_2", 0], ["maximum_chunk_size_3", 0], ["maximum_chunk_size_loop_1", 380000], ["maximum_chunk_size_loop_2", 0], ["maximum_chunk_size_loop_3", 0], ["start_time", "2025/06/12 16:00:00"]],
+          [["end_time", "2025/06/17 15:59:59"], ["gacha_id", 30371], ["id", 364], ["introduction_number", 1], ["maximum_chunk_size_1", 380000], ["maximum_chunk_size_2", 0], ["maximum_chunk_size_3", 0], ["maximum_chunk_size_loop_1", 380000], ["maximum_chunk_size_loop_2", 0], ["maximum_chunk_size_loop_3", 0], ["start_time", "2025/06/12 16:00:00"]]
+        ]
+      }
+    },
+    "unit_comments": {
+      "data_changes": {
+        "added": [
+          [["all_comments_flag", 0], ["change_face", 1], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 0.0], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "惡魔是邪惡的化身，\\n但它們的契約似乎絕不許違背。\\n讓人不禁產生了親近感呢☆"], ["face_id", 1], ["face_id_2", 0], ["face_id_3", 0], ["id", 1339003], ["target_unit_id", 0], ["unit_id", 133901], ["use_type", 1], ["voice_id", 3]],
+          [["all_comments_flag", 0], ["change_face", 1], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 0.0], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "為了避免無聊，\\n要先散布幾個火種嗎？\\n若能把氣氛炒熱成祭典，\\n那應該會很有趣吧☆"], ["face_id", 1], ["face_id_2", 0], ["face_id_3", 0], ["id", 1339008], ["target_unit_id", 0], ["unit_id", 133931], ["use_type", 1], ["voice_id", 3]],
+          [["all_comments_flag", 0], ["change_face", 1], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 0.0], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "生日快樂！\\n生日派對就包在我身上，\\n我會送你一個絕對不無聊的一天\\n當作生日禮物喔☆"], ["face_id", 1], ["face_id_2", 0], ["face_id_3", 0], ["id", 1339012], ["target_unit_id", 0], ["unit_id", 133931], ["use_type", 2], ["voice_id", 6]],
+          [["all_comments_flag", 0], ["change_face", 1], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 5.8], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "想了解我的往事嗎？\\n你有興趣的話就告訴你。\\n說點睡前小故事也不壞♪"], ["face_id", 6], ["face_id_2", 0], ["face_id_3", 0], ["id", 1339005], ["target_unit_id", 0], ["unit_id", 133901], ["use_type", 1], ["voice_id", 5]],
+          [["all_comments_flag", 0], ["change_face", 1], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 0.0], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "戰鬥是越氣派越好☆\\n負荷稍微超載就開始哀號的警報，\\n那種玩意還是快點丟了吧！"], ["face_id", 1], ["face_id_2", 0], ["face_id_3", 0], ["id", 1339007], ["target_unit_id", 0], ["unit_id", 133931], ["use_type", 1], ["voice_id", 2]],
+          [["all_comments_flag", 0], ["change_face", 1], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 6.7], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "在許多對我投來的咒罵中，\\n最常聽到的詞彙\\n就是「惡魔」呢。\\n呵呵，跟我很搭吧？"], ["face_id", 6], ["face_id_2", 0], ["face_id_3", 0], ["id", 1339002], ["target_unit_id", 0], ["unit_id", 133901], ["use_type", 1], ["voice_id", 2]],
+          [["all_comments_flag", 0], ["change_face", 1], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 0.0], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "所謂惡魔的誘惑，\\n似乎令人難以輕易違抗喔。\\n呵呵，要試試被我誘惑嗎，小子？"], ["face_id", 1], ["face_id_2", 0], ["face_id_3", 0], ["id", 1339009], ["target_unit_id", 0], ["unit_id", 133931], ["use_type", 1], ["voice_id", 4]],
+          [["all_comments_flag", 0], ["change_face", 1], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 0.0], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "這份力量強大到\\n若使用不當甚至會自取滅亡！\\n這樣我除了保護小子之外，\\n還能順勢連世界都保護吧☆"], ["face_id", 1], ["face_id_2", 0], ["face_id_3", 0], ["id", 1339010], ["target_unit_id", 0], ["unit_id", 133931], ["use_type", 1], ["voice_id", 5]],
+          [["all_comments_flag", 0], ["change_face", 2], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 4.5], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "作夢都沒想到會有\\n再變成這副模樣的一天！\\n來，在泡沫般的夢境消失之前，\\n讓我盡情享受吧☆"], ["face_id", 1], ["face_id_2", 0], ["face_id_3", 0], ["id", 1339001], ["target_unit_id", 0], ["unit_id", 133901], ["use_type", 1], ["voice_id", 1]],
+          [["all_comments_flag", 0], ["change_face", 1], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 5.2], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "喂喂，戒心別那麼重嘛。\\n我不會把你大卸八塊的，\\n還是說你喜歡被生吞活剝呢？"], ["face_id", 2], ["face_id_2", 0], ["face_id_3", 0], ["id", 1339004], ["target_unit_id", 0], ["unit_id", 133901], ["use_type", 1], ["voice_id", 4]],
+          [["all_comments_flag", 0], ["change_face", 1], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 0.0], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "靠理智是無法上戰場的！\\n來，跟我一起沉醉一場\\n瘋狂的舞會吧，小子☆"], ["face_id", 1], ["face_id_2", 0], ["face_id_3", 0], ["id", 1339006], ["target_unit_id", 0], ["unit_id", 133931], ["use_type", 1], ["voice_id", 1]],
+          [["all_comments_flag", 0], ["change_face", 2], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 2.6], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "今天是你的生日嗎？\\n好，就做個蛋糕給你吃吧☆\\n味道方面你大可好好期待喔！"], ["face_id", 1], ["face_id_2", 0], ["face_id_3", 0], ["id", 1339011], ["target_unit_id", 0], ["unit_id", 133901], ["use_type", 2], ["voice_id", 6]]
+        ]
+      }
+    },
+    "unit_data": {
+      "data_changes": {
+        "added": [
+          [["atk_type", 1], ["comment", "【物理】位於前衛，使用始源冠裝之力的「誓約女君」。\\n在第10次行動時會大幅度提升攻擊力，並獲得能讓技能\\n產生追擊效果的【虛數】，以隔絕之力將反抗的敵人消除。"], ["cutin1_star6", 133901], ["cutin2_star6", 0], ["cutin_1", 133901], ["cutin_2", 0], ["end_time", "2025/06/22 15:59:59"], ["exskill_display", 0], ["guild_id", 0], ["is_limited", 1], ["kana", "克莉絲提娜（始源）"], ["motion_type", 0], ["move_speed", 450], ["normal_atk_cast_time", 2.09], ["only_disp_owned", 0], ["original_unit_id", 0], ["prefab_id", 133901], ["prefab_id_battle", 0], ["rarity", 3], ["se_type", 6], ["search_area_width", 228], ["start_time", "2025/06/12 16:00:00"], ["unit_id", 133901], ["unit_name", "克莉絲提娜（始源）"]]
+        ],
+        "modified": [
+          {
+            "id": 128701,
+            "old": [["atk_type", 1], ["comment", "【物理】位於前衛，煌炎附體並散播希望的覺醒元氣少女。\\n施放火炎弱化敵人的攻守兩面，同時鼓舞我方。\\n利用兩種ＴＰ恢復效果進行連續攻勢，呼喚勝利。"], ["cutin1_star6", 128701], ["cutin2_star6", 0], ["cutin_1", 128701], ["cutin_2", 0], ["end_time", "2024/12/16 15:59:59"], ["exskill_display", 0], ["guild_id", 0], ["is_limited", 1], ["kana", "日和（星素）"], ["motion_type", 0], ["move_speed", 450], ["normal_atk_cast_time", 2.09], ["only_disp_owned", 0], ["original_unit_id", 0], ["prefab_id", 128701], ["prefab_id_battle", 0], ["rarity", 3], ["se_type", 1], ["search_area_width", 226], ["start_time", "2024/12/13 16:00:00"], ["unit_id", 128701], ["unit_name", "日和（星素）"]],
+            "new": [["atk_type", 1], ["comment", "【物理】位於前衛，煌炎附體並散播希望的覺醒元氣少女。\\n施放火炎弱化敵人的攻守兩面，同時鼓舞我方。\\n利用兩種ＴＰ恢復效果進行連續攻勢，呼喚勝利。"], ["cutin1_star6", 128701], ["cutin2_star6", 0], ["cutin_1", 128701], ["cutin_2", 0], ["end_time", "2025/06/17 15:59:59"], ["exskill_display", 0], ["guild_id", 0], ["is_limited", 1], ["kana", "日和（星素）"], ["motion_type", 0], ["move_speed", 450], ["normal_atk_cast_time", 2.09], ["only_disp_owned", 0], ["original_unit_id", 0], ["prefab_id", 128701], ["prefab_id_battle", 0], ["rarity", 3], ["se_type", 1], ["search_area_width", 226], ["start_time", "2025/06/12 16:00:00"], ["unit_id", 128701], ["unit_name", "日和（星素）"]]
+          },
+          {
+            "id": 128901,
+            "old": [["atk_type", 2], ["comment", "【魔法】位於後衛，化心願為力量施放極光的覺醒魔法士。\\n強化自身的同時不斷用高火力魔法猛烈攻擊，\\n並以護盾為起點對我方施展支援攻擊技能，獲得勝利。"], ["cutin1_star6", 128901], ["cutin2_star6", 0], ["cutin_1", 128901], ["cutin_2", 0], ["end_time", "2024/12/16 15:59:59"], ["exskill_display", 0], ["guild_id", 0], ["is_limited", 1], ["kana", "優衣（星素）"], ["motion_type", 0], ["move_speed", 450], ["normal_atk_cast_time", 2.09], ["only_disp_owned", 0], ["original_unit_id", 0], ["prefab_id", 128901], ["prefab_id_battle", 0], ["rarity", 3], ["se_type", 7], ["search_area_width", 772], ["start_time", "2024/12/13 16:00:00"], ["unit_id", 128901], ["unit_name", "優衣（星素）"]],
+            "new": [["atk_type", 2], ["comment", "【魔法】位於後衛，化心願為力量施放極光的覺醒魔法士。\\n強化自身的同時不斷用高火力魔法猛烈攻擊，\\n並以護盾為起點對我方施展支援攻擊技能，獲得勝利。"], ["cutin1_star6", 128901], ["cutin2_star6", 0], ["cutin_1", 128901], ["cutin_2", 0], ["end_time", "2025/06/17 15:59:59"], ["exskill_display", 0], ["guild_id", 0], ["is_limited", 1], ["kana", "優衣（星素）"], ["motion_type", 0], ["move_speed", 450], ["normal_atk_cast_time", 2.09], ["only_disp_owned", 0], ["original_unit_id", 0], ["prefab_id", 128901], ["prefab_id_battle", 0], ["rarity", 3], ["se_type", 7], ["search_area_width", 772], ["start_time", "2025/06/12 16:00:00"], ["unit_id", 128901], ["unit_name", "優衣（星素）"]]
+          },
+          {
+            "id": 131701,
+            "old": [["atk_type", 2], ["comment", "【魔法】位於後衛，降臨於黃昏水面上的泳裝妖精。\\n施展以行動速度提升與ＴＰ輔助為首的許多支援，\\n並以ＵＢ的弱化攻防清爽地引導隊伍邁向勝利。"], ["cutin1_star6", 131701], ["cutin2_star6", 0], ["cutin_1", 131701], ["cutin_2", 0], ["end_time", "2024/12/13 15:59:59"], ["exskill_display", 0], ["guild_id", 0], ["is_limited", 1], ["kana", "愛梅斯（夏日）"], ["motion_type", 53], ["move_speed", 450], ["normal_atk_cast_time", 1.92], ["only_disp_owned", 0], ["original_unit_id", 0], ["prefab_id", 131701], ["prefab_id_battle", 0], ["rarity", 3], ["se_type", 44], ["search_area_width", 743], ["start_time", "2024/12/01 16:00:00"], ["unit_id", 131701], ["unit_name", "愛梅斯（夏日）"]],
+            "new": [["atk_type", 2], ["comment", "【魔法】位於後衛，降臨於黃昏水面上的泳裝妖精。\\n施展以行動速度提升與ＴＰ輔助為首的許多支援，\\n並以ＵＢ的弱化攻防清爽地引導隊伍邁向勝利。"], ["cutin1_star6", 131701], ["cutin2_star6", 0], ["cutin_1", 131701], ["cutin_2", 0], ["end_time", "2025/06/17 15:59:59"], ["exskill_display", 0], ["guild_id", 0], ["is_limited", 1], ["kana", "愛梅斯（夏日）"], ["motion_type", 53], ["move_speed", 450], ["normal_atk_cast_time", 1.92], ["only_disp_owned", 0], ["original_unit_id", 0], ["prefab_id", 131701], ["prefab_id_battle", 0], ["rarity", 3], ["se_type", 44], ["search_area_width", 743], ["start_time", "2025/06/12 16:00:00"], ["unit_id", 131701], ["unit_name", "愛梅斯（夏日）"]]
+          }
+        ]
+      }
+    },
+    "unit_motion_list": {
+      "data_changes": {
+        "added": [
+          [["sp_motion", 1], ["unit_id", 133901]]
+        ]
+      }
+    },
+    "emblem_mission_data": {
+      "data_changes": {
+        "added": [
+          [["category_icon", 301], ["condition_num", 3], ["condition_value_1", 133901], ["condition_value_2", 0], ["condition_value_3", 0], ["description", "將克莉絲提娜（始源）升到★3"], ["disp_group", 201291], ["end_time", "2030/04/01 14:59:59"], ["mission_condition", 6011], ["mission_id", 56011945], ["mission_reward_id", 56011945], ["start_time", "2025/06/12 16:00:00"], ["system_id", 501], ["visible_flag", 1]],
+          [["category_icon", 301], ["condition_num", 5], ["condition_value_1", 133901], ["condition_value_2", 0], ["condition_value_3", 0], ["description", "將克莉絲提娜（始源）升到★5"], ["disp_group", 201291], ["end_time", "2030/04/01 14:59:59"], ["mission_condition", 6011], ["mission_id", 56011946], ["mission_reward_id", 56011946], ["start_time", "2025/06/12 16:00:00"], ["system_id", 501], ["visible_flag", 1]],
+          [["category_icon", 301], ["condition_num", 1], ["condition_value_1", 133901], ["condition_value_2", 0], ["condition_value_3", 0], ["description", "讓克莉絲提娜（始源）成為夥伴"], ["disp_group", 201291], ["end_time", "2030/04/01 14:59:59"], ["mission_condition", 6011], ["mission_id", 56011944], ["mission_reward_id", 56011944], ["start_time", "2025/06/12 16:00:00"], ["system_id", 501], ["visible_flag", 1]]
+        ]
+      }
+    },
+    "exceed_level_unit": {
+      "data_changes": {
+        "added": [
+          [["consume_num_1", 40], ["consume_num_2", 30000000], ["consume_num_3", 0], ["consume_num_4", 0], ["consume_num_5", 0], ["exceed_item_id", 41339], ["exceed_stage", 1], ["id", 1133901], ["item_id_1", 31339], ["item_id_2", 94000], ["item_id_3", 0], ["item_id_4", 0], ["item_id_5", 0], ["reward_type_1", 2], ["reward_type_2", 12], ["reward_type_3", 0], ["reward_type_4", 0], ["reward_type_5", 0], ["unit_id", 133901]]
+        ]
+      }
+    },
+    "guild": {
+      "data_changes": {
+        "modified": [
+          {
+            "id": 8,
+            "old": [["description", "身為蘭德索爾的國軍，其活動目的為保護「王宮」及皇族，以及完成所接受到的聖令。另一身為守護街上治安的警察組織的身分也十分強悍。"], ["guild_id", 8], ["guild_master", 1047], ["guild_name", "王宮騎士團（NIGHTMARE）"], ["member1", 1047], ["member10", 1238], ["member11", 1239], ["member12", 1242], ["member13", 0], ["member14", 0], ["member15", 0], ["member16", 0], ["member17", 0], ["member18", 0], ["member19", 0], ["member2", 1071], ["member20", 0], ["member21", 0], ["member22", 0], ["member23", 0], ["member24", 0], ["member25", 0], ["member26", 0], ["member27", 0], ["member28", 0], ["member29", 0], ["member3", 1037], ["member30", 0], ["member4", 1005], ["member5", 1115], ["member6", 1136], ["member7", 1141], ["member8", 1143], ["member9", 1236]],
+            "new": [["description", "身為蘭德索爾的國軍，其活動目的為保護「王宮」及皇族，以及完成所接受到的聖令。另一身為守護街上治安的警察組織的身分也十分強悍。"], ["guild_id", 8], ["guild_master", 1047], ["guild_name", "王宮騎士團（NIGHTMARE）"], ["member1", 1047], ["member10", 1238], ["member11", 1239], ["member12", 1242], ["member13", 1339], ["member14", 0], ["member15", 0], ["member16", 0], ["member17", 0], ["member18", 0], ["member19", 0], ["member2", 1071], ["member20", 0], ["member21", 0], ["member22", 0], ["member23", 0], ["member24", 0], ["member25", 0], ["member26", 0], ["member27", 0], ["member28", 0], ["member29", 0], ["member3", 1037], ["member30", 0], ["member4", 1005], ["member5", 1115], ["member6", 1136], ["member7", 1141], ["member8", 1143], ["member9", 1236]]
+          }
+        ]
+      }
+    },
+    "chara_story_status": {
+      "data_changes": {
+        "added": [
+          [["chara_id_1", 1339], ["chara_id_10", 0], ["chara_id_11", 0], ["chara_id_12", 0], ["chara_id_13", 0], ["chara_id_14", 0], ["chara_id_15", 0], ["chara_id_16", 0], ["chara_id_17", 0], ["chara_id_18", 0], ["chara_id_19", 0], ["chara_id_2", 1071], ["chara_id_20", 0], ["chara_id_3", 1115], ["chara_id_4", 1238], ["chara_id_5", 0], ["chara_id_6", 0], ["chara_id_7", 0], ["chara_id_8", 0], ["chara_id_9", 0], ["status_rate_1", 50], ["status_rate_2", 0], ["status_rate_3", 0], ["status_rate_4", 0], ["status_rate_5", 0], ["status_type_1", 2], ["status_type_2", 0], ["status_type_3", 0], ["status_type_4", 0], ["status_type_5", 0], ["story_id", 1339004], ["unlock_story_name", "克莉絲提娜（始源）のエピソード第4話"]],
+          [["chara_id_1", 1339], ["chara_id_10", 0], ["chara_id_11", 0], ["chara_id_12", 0], ["chara_id_13", 0], ["chara_id_14", 0], ["chara_id_15", 0], ["chara_id_16", 0], ["chara_id_17", 0], ["chara_id_18", 0], ["chara_id_19", 0], ["chara_id_2", 1071], ["chara_id_20", 0], ["chara_id_3", 1115], ["chara_id_4", 1238], ["chara_id_5", 0], ["chara_id_6", 0], ["chara_id_7", 0], ["chara_id_8", 0], ["chara_id_9", 0], ["status_rate_1", 30], ["status_rate_2", 0], ["status_rate_3", 0], ["status_rate_4", 0], ["status_rate_5", 0], ["status_type_1", 2], ["status_type_2", 0], ["status_type_3", 0], ["status_type_4", 0], ["status_type_5", 0], ["story_id", 1339003], ["unlock_story_name", "克莉絲提娜（始源）のエピソード第3話"]],
+          [["chara_id_1", 1339], ["chara_id_10", 0], ["chara_id_11", 0], ["chara_id_12", 0], ["chara_id_13", 0], ["chara_id_14", 0], ["chara_id_15", 0], ["chara_id_16", 0], ["chara_id_17", 0], ["chara_id_18", 0], ["chara_id_19", 0], ["chara_id_2", 1071], ["chara_id_20", 0], ["chara_id_3", 1115], ["chara_id_4", 1238], ["chara_id_5", 0], ["chara_id_6", 0], ["chara_id_7", 0], ["chara_id_8", 0], ["chara_id_9", 0], ["status_rate_1", 10], ["status_rate_2", 0], ["status_rate_3", 0], ["status_rate_4", 0], ["status_rate_5", 0], ["status_type_1", 2], ["status_type_2", 0], ["status_type_3", 0], ["status_type_4", 0], ["status_type_5", 0], ["story_id", 1339002], ["unlock_story_name", "克莉絲提娜（始源）のエピソード第2話"]]
+        ],
+        "modified": [
+          {
+            "id": 1238003,
+            "old": [["chara_id_1", 1238], ["chara_id_10", 0], ["chara_id_11", 0], ["chara_id_12", 0], ["chara_id_13", 0], ["chara_id_14", 0], ["chara_id_15", 0], ["chara_id_16", 0], ["chara_id_17", 0], ["chara_id_18", 0], ["chara_id_19", 0], ["chara_id_2", 1071], ["chara_id_20", 0], ["chara_id_3", 1115], ["chara_id_4", 0], ["chara_id_5", 0], ["chara_id_6", 0], ["chara_id_7", 0], ["chara_id_8", 0], ["chara_id_9", 0], ["status_rate_1", 30], ["status_rate_2", 0], ["status_rate_3", 0], ["status_rate_4", 0], ["status_rate_5", 0], ["status_type_1", 2], ["status_type_2", 0], ["status_type_3", 0], ["status_type_4", 0], ["status_type_5", 0], ["story_id", 1238003], ["unlock_story_name", "克莉絲提娜（狂野）のエピソード第3話"]],
+            "new": [["chara_id_1", 1238], ["chara_id_10", 0], ["chara_id_11", 0], ["chara_id_12", 0], ["chara_id_13", 0], ["chara_id_14", 0], ["chara_id_15", 0], ["chara_id_16", 0], ["chara_id_17", 0], ["chara_id_18", 0], ["chara_id_19", 0], ["chara_id_2", 1071], ["chara_id_20", 0], ["chara_id_3", 1115], ["chara_id_4", 1339], ["chara_id_5", 0], ["chara_id_6", 0], ["chara_id_7", 0], ["chara_id_8", 0], ["chara_id_9", 0], ["status_rate_1", 30], ["status_rate_2", 0], ["status_rate_3", 0], ["status_rate_4", 0], ["status_rate_5", 0], ["status_type_1", 2], ["status_type_2", 0], ["status_type_3", 0], ["status_type_4", 0], ["status_type_5", 0], ["story_id", 1238003], ["unlock_story_name", "克莉絲提娜（狂野）のエピソード第3話"]]
+          },
+          {
+            "id": 1238002,
+            "old": [["chara_id_1", 1238], ["chara_id_10", 0], ["chara_id_11", 0], ["chara_id_12", 0], ["chara_id_13", 0], ["chara_id_14", 0], ["chara_id_15", 0], ["chara_id_16", 0], ["chara_id_17", 0], ["chara_id_18", 0], ["chara_id_19", 0], ["chara_id_2", 1071], ["chara_id_20", 0], ["chara_id_3", 1115], ["chara_id_4", 0], ["chara_id_5", 0], ["chara_id_6", 0], ["chara_id_7", 0], ["chara_id_8", 0], ["chara_id_9", 0], ["status_rate_1", 10], ["status_rate_2", 0], ["status_rate_3", 0], ["status_rate_4", 0], ["status_rate_5", 0], ["status_type_1", 2], ["status_type_2", 0], ["status_type_3", 0], ["status_type_4", 0], ["status_type_5", 0], ["story_id", 1238002], ["unlock_story_name", "克莉絲提娜（狂野）のエピソード第2話"]],
+            "new": [["chara_id_1", 1238], ["chara_id_10", 0], ["chara_id_11", 0], ["chara_id_12", 0], ["chara_id_13", 0], ["chara_id_14", 0], ["chara_id_15", 0], ["chara_id_16", 0], ["chara_id_17", 0], ["chara_id_18", 0], ["chara_id_19", 0], ["chara_id_2", 1071], ["chara_id_20", 0], ["chara_id_3", 1115], ["chara_id_4", 1339], ["chara_id_5", 0], ["chara_id_6", 0], ["chara_id_7", 0], ["chara_id_8", 0], ["chara_id_9", 0], ["status_rate_1", 10], ["status_rate_2", 0], ["status_rate_3", 0], ["status_rate_4", 0], ["status_rate_5", 0], ["status_type_1", 2], ["status_type_2", 0], ["status_type_3", 0], ["status_type_4", 0], ["status_type_5", 0], ["story_id", 1238002], ["unlock_story_name", "克莉絲提娜（狂野）のエピソード第2話"]]
+          },
+          {
+            "id": 1071005,
+            "old": [["chara_id_1", 1071], ["chara_id_10", 0], ["chara_id_11", 0], ["chara_id_12", 0], ["chara_id_13", 0], ["chara_id_14", 0], ["chara_id_15", 0], ["chara_id_16", 0], ["chara_id_17", 0], ["chara_id_18", 0], ["chara_id_19", 0], ["chara_id_2", 1115], ["chara_id_20", 0], ["chara_id_3", 1238], ["chara_id_4", 0], ["chara_id_5", 0], ["chara_id_6", 0], ["chara_id_7", 0], ["chara_id_8", 0], ["chara_id_9", 0], ["status_rate_1", 80], ["status_rate_2", 0], ["status_rate_3", 0], ["status_rate_4", 0], ["status_rate_5", 0], ["status_type_1", 2], ["status_type_2", 0], ["status_type_3", 0], ["status_type_4", 0], ["status_type_5", 0], ["story_id", 1071005], ["unlock_story_name", "クリスティーナのエピソード第5話"]],
+            "new": [["chara_id_1", 1071], ["chara_id_10", 0], ["chara_id_11", 0], ["chara_id_12", 0], ["chara_id_13", 0], ["chara_id_14", 0], ["chara_id_15", 0], ["chara_id_16", 0], ["chara_id_17", 0], ["chara_id_18", 0], ["chara_id_19", 0], ["chara_id_2", 1115], ["chara_id_20", 0], ["chara_id_3", 1238], ["chara_id_4", 1339], ["chara_id_5", 0], ["chara_id_6", 0], ["chara_id_7", 0], ["chara_id_8", 0], ["chara_id_9", 0], ["status_rate_1", 80], ["status_rate_2", 0], ["status_rate_3", 0], ["status_rate_4", 0], ["status_rate_5", 0], ["status_type_1", 2], ["status_type_2", 0], ["status_type_3", 0], ["status_type_4", 0], ["status_type_5", 0], ["story_id", 1071005], ["unlock_story_name", "クリスティーナのエピソード第5話"]]
+          },
+          {
+            "id": 1115004,
+            "old": [["chara_id_1", 1115], ["chara_id_10", 0], ["chara_id_11", 0], ["chara_id_12", 0], ["chara_id_13", 0], ["chara_id_14", 0], ["chara_id_15", 0], ["chara_id_16", 0], ["chara_id_17", 0], ["chara_id_18", 0], ["chara_id_19", 0], ["chara_id_2", 1071], ["chara_id_20", 0], ["chara_id_3", 1238], ["chara_id_4", 0], ["chara_id_5", 0], ["chara_id_6", 0], ["chara_id_7", 0], ["chara_id_8", 0], ["chara_id_9", 0], ["status_rate_1", 30], ["status_rate_2", 3], ["status_rate_3", 0], ["status_rate_4", 0], ["status_rate_5", 0], ["status_type_1", 2], ["status_type_2", 14], ["status_type_3", 0], ["status_type_4", 0], ["status_type_5", 0], ["story_id", 1115004], ["unlock_story_name", "クリスティーナ（クリスマス）のエピソード第4話"]],
+            "new": [["chara_id_1", 1115], ["chara_id_10", 0], ["chara_id_11", 0], ["chara_id_12", 0], ["chara_id_13", 0], ["chara_id_14", 0], ["chara_id_15", 0], ["chara_id_16", 0], ["chara_id_17", 0], ["chara_id_18", 0], ["chara_id_19", 0], ["chara_id_2", 1071], ["chara_id_20", 0], ["chara_id_3", 1238], ["chara_id_4", 1339], ["chara_id_5", 0], ["chara_id_6", 0], ["chara_id_7", 0], ["chara_id_8", 0], ["chara_id_9", 0], ["status_rate_1", 30], ["status_rate_2", 3], ["status_rate_3", 0], ["status_rate_4", 0], ["status_rate_5", 0], ["status_type_1", 2], ["status_type_2", 14], ["status_type_3", 0], ["status_type_4", 0], ["status_type_5", 0], ["story_id", 1115004], ["unlock_story_name", "クリスティーナ（クリスマス）のエピソード第4話"]]
+          },
+          {
+            "id": 1071008,
+            "old": [["chara_id_1", 1071], ["chara_id_10", 0], ["chara_id_11", 0], ["chara_id_12", 0], ["chara_id_13", 0], ["chara_id_14", 0], ["chara_id_15", 0], ["chara_id_16", 0], ["chara_id_17", 0], ["chara_id_18", 0], ["chara_id_19", 0], ["chara_id_2", 1115], ["chara_id_20", 0], ["chara_id_3", 1238], ["chara_id_4", 0], ["chara_id_5", 0], ["chara_id_6", 0], ["chara_id_7", 0], ["chara_id_8", 0], ["chara_id_9", 0], ["status_rate_1", 200], ["status_rate_2", 60], ["status_rate_3", 0], ["status_rate_4", 0], ["status_rate_5", 0], ["status_type_1", 2], ["status_type_2", 6], ["status_type_3", 0], ["status_type_4", 0], ["status_type_5", 0], ["story_id", 1071008], ["unlock_story_name", "クリスティーナのエピソード第8話"]],
+            "new": [["chara_id_1", 1071], ["chara_id_10", 0], ["chara_id_11", 0], ["chara_id_12", 0], ["chara_id_13", 0], ["chara_id_14", 0], ["chara_id_15", 0], ["chara_id_16", 0], ["chara_id_17", 0], ["chara_id_18", 0], ["chara_id_19", 0], ["chara_id_2", 1115], ["chara_id_20", 0], ["chara_id_3", 1238], ["chara_id_4", 1339], ["chara_id_5", 0], ["chara_id_6", 0], ["chara_id_7", 0], ["chara_id_8", 0], ["chara_id_9", 0], ["status_rate_1", 200], ["status_rate_2", 60], ["status_rate_3", 0], ["status_rate_4", 0], ["status_rate_5", 0], ["status_type_1", 2], ["status_type_2", 6], ["status_type_3", 0], ["status_type_4", 0], ["status_type_5", 0], ["story_id", 1071008], ["unlock_story_name", "クリスティーナのエピソード第8話"]]
+          },
+          {
+            "id": 1115002,
+            "old": [["chara_id_1", 1115], ["chara_id_10", 0], ["chara_id_11", 0], ["chara_id_12", 0], ["chara_id_13", 0], ["chara_id_14", 0], ["chara_id_15", 0], ["chara_id_16", 0], ["chara_id_17", 0], ["chara_id_18", 0], ["chara_id_19", 0], ["chara_id_2", 1071], ["chara_id_20", 0], ["chara_id_3", 1238], ["chara_id_4", 0], ["chara_id_5", 0], ["chara_id_6", 0], ["chara_id_7", 0], ["chara_id_8", 0], ["chara_id_9", 0], ["status_rate_1", 10], ["status_rate_2", 0], ["status_rate_3", 0], ["status_rate_4", 0], ["status_rate_5", 0], ["status_type_1", 2], ["status_type_2", 0], ["status_type_3", 0], ["status_type_4", 0], ["status_type_5", 0], ["story_id", 1115002], ["unlock_story_name", "クリスティーナ（クリスマス）のエピソード第2話"]],
+            "new": [["chara_id_1", 1115], ["chara_id_10", 0], ["chara_id_11", 0], ["chara_id_12", 0], ["chara_id_13", 0], ["chara_id_14", 0], ["chara_id_15", 0], ["chara_id_16", 0], ["chara_id_17", 0], ["chara_id_18", 0], ["chara_id_19", 0], ["chara_id_2", 1071], ["chara_id_20", 0], ["chara_id_3", 1238], ["chara_id_4", 1339], ["chara_id_5", 0], ["chara_id_6", 0], ["chara_id_7", 0], ["chara_id_8", 0], ["chara_id_9", 0], ["status_rate_1", 10], ["status_rate_2", 0], ["status_rate_3", 0], ["status_rate_4", 0], ["status_rate_5", 0], ["status_type_1", 2], ["status_type_2", 0], ["status_type_3", 0], ["status_type_4", 0], ["status_type_5", 0], ["story_id", 1115002], ["unlock_story_name", "クリスティーナ（クリスマス）のエピソード第2話"]]
+          },
+          {
+            "id": 1071007,
+            "old": [["chara_id_1", 1071], ["chara_id_10", 0], ["chara_id_11", 0], ["chara_id_12", 0], ["chara_id_13", 0], ["chara_id_14", 0], ["chara_id_15", 0], ["chara_id_16", 0], ["chara_id_17", 0], ["chara_id_18", 0], ["chara_id_19", 0], ["chara_id_2", 1115], ["chara_id_20", 0], ["chara_id_3", 1238], ["chara_id_4", 0], ["chara_id_5", 0], ["chara_id_6", 0], ["chara_id_7", 0], ["chara_id_8", 0], ["chara_id_9", 0], ["status_rate_1", 80], ["status_rate_2", 40], ["status_rate_3", 0], ["status_rate_4", 0], ["status_rate_5", 0], ["status_type_1", 2], ["status_type_2", 6], ["status_type_3", 0], ["status_type_4", 0], ["status_type_5", 0], ["story_id", 1071007], ["unlock_story_name", "クリスティーナのエピソード第7話"]],
+            "new": [["chara_id_1", 1071], ["chara_id_10", 0], ["chara_id_11", 0], ["chara_id_12", 0], ["chara_id_13", 0], ["chara_id_14", 0], ["chara_id_15", 0], ["chara_id_16", 0], ["chara_id_17", 0], ["chara_id_18", 0], ["chara_id_19", 0], ["chara_id_2", 1115], ["chara_id_20", 0], ["chara_id_3", 1238], ["chara_id_4", 1339], ["chara_id_5", 0], ["chara_id_6", 0], ["chara_id_7", 0], ["chara_id_8", 0], ["chara_id_9", 0], ["status_rate_1", 80], ["status_rate_2", 40], ["status_rate_3", 0], ["status_rate_4", 0], ["status_rate_5", 0], ["status_type_1", 2], ["status_type_2", 6], ["status_type_3", 0], ["status_type_4", 0], ["status_type_5", 0], ["story_id", 1071007], ["unlock_story_name", "クリスティーナのエピソード第7話"]]
+          },
+          {
+            "id": 1071002,
+            "old": [["chara_id_1", 1071], ["chara_id_10", 0], ["chara_id_11", 0], ["chara_id_12", 0], ["chara_id_13", 0], ["chara_id_14", 0], ["chara_id_15", 0], ["chara_id_16", 0], ["chara_id_17", 0], ["chara_id_18", 0], ["chara_id_19", 0], ["chara_id_2", 1115], ["chara_id_20", 0], ["chara_id_3", 1238], ["chara_id_4", 0], ["chara_id_5", 0], ["chara_id_6", 0], ["chara_id_7", 0], ["chara_id_8", 0], ["chara_id_9", 0], ["status_rate_1", 60], ["status_rate_2", 0], ["status_rate_3", 0], ["status_rate_4", 0], ["status_rate_5", 0], ["status_type_1", 2], ["status_type_2", 0], ["status_type_3", 0], ["status_type_4", 0], ["status_type_5", 0], ["story_id", 1071002], ["unlock_story_name", "克莉絲提娜のエピソード第2話"]],
+            "new": [["chara_id_1", 1071], ["chara_id_10", 0], ["chara_id_11", 0], ["chara_id_12", 0], ["chara_id_13", 0], ["chara_id_14", 0], ["chara_id_15", 0], ["chara_id_16", 0], ["chara_id_17", 0], ["chara_id_18", 0], ["chara_id_19", 0], ["chara_id_2", 1115], ["chara_id_20", 0], ["chara_id_3", 1238], ["chara_id_4", 1339], ["chara_id_5", 0], ["chara_id_6", 0], ["chara_id_7", 0], ["chara_id_8", 0], ["chara_id_9", 0], ["status_rate_1", 60], ["status_rate_2", 0], ["status_rate_3", 0], ["status_rate_4", 0], ["status_rate_5", 0], ["status_type_1", 2], ["status_type_2", 0], ["status_type_3", 0], ["status_type_4", 0], ["status_type_5", 0], ["story_id", 1071002], ["unlock_story_name", "克莉絲提娜のエピソード第2話"]]
+          },
+          {
+            "id": 1071003,
+            "old": [["chara_id_1", 1071], ["chara_id_10", 0], ["chara_id_11", 0], ["chara_id_12", 0], ["chara_id_13", 0], ["chara_id_14", 0], ["chara_id_15", 0], ["chara_id_16", 0], ["chara_id_17", 0], ["chara_id_18", 0], ["chara_id_19", 0], ["chara_id_2", 1115], ["chara_id_20", 0], ["chara_id_3", 1238], ["chara_id_4", 0], ["chara_id_5", 0], ["chara_id_6", 0], ["chara_id_7", 0], ["chara_id_8", 0], ["chara_id_9", 0], ["status_rate_1", 80], ["status_rate_2", 60], ["status_rate_3", 0], ["status_rate_4", 0], ["status_rate_5", 0], ["status_type_1", 2], ["status_type_2", 11], ["status_type_3", 0], ["status_type_4", 0], ["status_type_5", 0], ["story_id", 1071003], ["unlock_story_name", "克莉絲提娜のエピソード第3話"]],
+            "new": [["chara_id_1", 1071], ["chara_id_10", 0], ["chara_id_11", 0], ["chara_id_12", 0], ["chara_id_13", 0], ["chara_id_14", 0], ["chara_id_15", 0], ["chara_id_16", 0], ["chara_id_17", 0], ["chara_id_18", 0], ["chara_id_19", 0], ["chara_id_2", 1115], ["chara_id_20", 0], ["chara_id_3", 1238], ["chara_id_4", 1339], ["chara_id_5", 0], ["chara_id_6", 0], ["chara_id_7", 0], ["chara_id_8", 0], ["chara_id_9", 0], ["status_rate_1", 80], ["status_rate_2", 60], ["status_rate_3", 0], ["status_rate_4", 0], ["status_rate_5", 0], ["status_type_1", 2], ["status_type_2", 11], ["status_type_3", 0], ["status_type_4", 0], ["status_type_5", 0], ["story_id", 1071003], ["unlock_story_name", "克莉絲提娜のエピソード第3話"]]
+          },
+          {
+            "id": 1071006,
+            "old": [["chara_id_1", 1071], ["chara_id_10", 0], ["chara_id_11", 0], ["chara_id_12", 0], ["chara_id_13", 0], ["chara_id_14", 0], ["chara_id_15", 0], ["chara_id_16", 0], ["chara_id_17", 0], ["chara_id_18", 0], ["chara_id_19", 0], ["chara_id_2", 1115], ["chara_id_20", 0], ["chara_id_3", 1238], ["chara_id_4", 0], ["chara_id_5", 0], ["chara_id_6", 0], ["chara_id_7", 0], ["chara_id_8", 0], ["chara_id_9", 0], ["status_rate_1", 80], ["status_rate_2", 40], ["status_rate_3", 0], ["status_rate_4", 0], ["status_rate_5", 0], ["status_type_1", 2], ["status_type_2", 6], ["status_type_3", 0], ["status_type_4", 0], ["status_type_5", 0], ["story_id", 1071006], ["unlock_story_name", "クリスティーナのエピソード第6話"]],
+            "new": [["chara_id_1", 1071], ["chara_id_10", 0], ["chara_id_11", 0], ["chara_id_12", 0], ["chara_id_13", 0], ["chara_id_14", 0], ["chara_id_15", 0], ["chara_id_16", 0], ["chara_id_17", 0], ["chara_id_18", 0], ["chara_id_19", 0], ["chara_id_2", 1115], ["chara_id_20", 0], ["chara_id_3", 1238], ["chara_id_4", 1339], ["chara_id_5", 0], ["chara_id_6", 0], ["chara_id_7", 0], ["chara_id_8", 0], ["chara_id_9", 0], ["status_rate_1", 80], ["status_rate_2", 40], ["status_rate_3", 0], ["status_rate_4", 0], ["status_rate_5", 0], ["status_type_1", 2], ["status_type_2", 6], ["status_type_3", 0], ["status_type_4", 0], ["status_type_5", 0], ["story_id", 1071006], ["unlock_story_name", "クリスティーナのエピソード第6話"]]
+          },
+          {
+            "id": 1071004,
+            "old": [["chara_id_1", 1071], ["chara_id_10", 0], ["chara_id_11", 0], ["chara_id_12", 0], ["chara_id_13", 0], ["chara_id_14", 0], ["chara_id_15", 0], ["chara_id_16", 0], ["chara_id_17", 0], ["chara_id_18", 0], ["chara_id_19", 0], ["chara_id_2", 1115], ["chara_id_20", 0], ["chara_id_3", 1238], ["chara_id_4", 0], ["chara_id_5", 0], ["chara_id_6", 0], ["chara_id_7", 0], ["chara_id_8", 0], ["chara_id_9", 0], ["status_rate_1", 120], ["status_rate_2", 150], ["status_rate_3", 0], ["status_rate_4", 0], ["status_rate_5", 0], ["status_type_1", 2], ["status_type_2", 11], ["status_type_3", 0], ["status_type_4", 0], ["status_type_5", 0], ["story_id", 1071004], ["unlock_story_name", "克莉絲提娜のエピソード第4話"]],
+            "new": [["chara_id_1", 1071], ["chara_id_10", 0], ["chara_id_11", 0], ["chara_id_12", 0], ["chara_id_13", 0], ["chara_id_14", 0], ["chara_id_15", 0], ["chara_id_16", 0], ["chara_id_17", 0], ["chara_id_18", 0], ["chara_id_19", 0], ["chara_id_2", 1115], ["chara_id_20", 0], ["chara_id_3", 1238], ["chara_id_4", 1339], ["chara_id_5", 0], ["chara_id_6", 0], ["chara_id_7", 0], ["chara_id_8", 0], ["chara_id_9", 0], ["status_rate_1", 120], ["status_rate_2", 150], ["status_rate_3", 0], ["status_rate_4", 0], ["status_rate_5", 0], ["status_type_1", 2], ["status_type_2", 11], ["status_type_3", 0], ["status_type_4", 0], ["status_type_5", 0], ["story_id", 1071004], ["unlock_story_name", "克莉絲提娜のエピソード第4話"]]
+          },
+          {
+            "id": 1238004,
+            "old": [["chara_id_1", 1238], ["chara_id_10", 0], ["chara_id_11", 0], ["chara_id_12", 0], ["chara_id_13", 0], ["chara_id_14", 0], ["chara_id_15", 0], ["chara_id_16", 0], ["chara_id_17", 0], ["chara_id_18", 0], ["chara_id_19", 0], ["chara_id_2", 1071], ["chara_id_20", 0], ["chara_id_3", 1115], ["chara_id_4", 0], ["chara_id_5", 0], ["chara_id_6", 0], ["chara_id_7", 0], ["chara_id_8", 0], ["chara_id_9", 0], ["status_rate_1", 50], ["status_rate_2", 0], ["status_rate_3", 0], ["status_rate_4", 0], ["status_rate_5", 0], ["status_type_1", 2], ["status_type_2", 0], ["status_type_3", 0], ["status_type_4", 0], ["status_type_5", 0], ["story_id", 1238004], ["unlock_story_name", "克莉絲提娜（狂野）のエピソード第4話"]],
+            "new": [["chara_id_1", 1238], ["chara_id_10", 0], ["chara_id_11", 0], ["chara_id_12", 0], ["chara_id_13", 0], ["chara_id_14", 0], ["chara_id_15", 0], ["chara_id_16", 0], ["chara_id_17", 0], ["chara_id_18", 0], ["chara_id_19", 0], ["chara_id_2", 1071], ["chara_id_20", 0], ["chara_id_3", 1115], ["chara_id_4", 1339], ["chara_id_5", 0], ["chara_id_6", 0], ["chara_id_7", 0], ["chara_id_8", 0], ["chara_id_9", 0], ["status_rate_1", 50], ["status_rate_2", 0], ["status_rate_3", 0], ["status_rate_4", 0], ["status_rate_5", 0], ["status_type_1", 2], ["status_type_2", 0], ["status_type_3", 0], ["status_type_4", 0], ["status_type_5", 0], ["story_id", 1238004], ["unlock_story_name", "克莉絲提娜（狂野）のエピソード第4話"]]
+          },
+          {
+            "id": 1115003,
+            "old": [["chara_id_1", 1115], ["chara_id_10", 0], ["chara_id_11", 0], ["chara_id_12", 0], ["chara_id_13", 0], ["chara_id_14", 0], ["chara_id_15", 0], ["chara_id_16", 0], ["chara_id_17", 0], ["chara_id_18", 0], ["chara_id_19", 0], ["chara_id_2", 1071], ["chara_id_20", 0], ["chara_id_3", 1238], ["chara_id_4", 0], ["chara_id_5", 0], ["chara_id_6", 0], ["chara_id_7", 0], ["chara_id_8", 0], ["chara_id_9", 0], ["status_rate_1", 30], ["status_rate_2", 0], ["status_rate_3", 0], ["status_rate_4", 0], ["status_rate_5", 0], ["status_type_1", 2], ["status_type_2", 0], ["status_type_3", 0], ["status_type_4", 0], ["status_type_5", 0], ["story_id", 1115003], ["unlock_story_name", "クリスティーナ（クリスマス）のエピソード第3話"]],
+            "new": [["chara_id_1", 1115], ["chara_id_10", 0], ["chara_id_11", 0], ["chara_id_12", 0], ["chara_id_13", 0], ["chara_id_14", 0], ["chara_id_15", 0], ["chara_id_16", 0], ["chara_id_17", 0], ["chara_id_18", 0], ["chara_id_19", 0], ["chara_id_2", 1071], ["chara_id_20", 0], ["chara_id_3", 1238], ["chara_id_4", 1339], ["chara_id_5", 0], ["chara_id_6", 0], ["chara_id_7", 0], ["chara_id_8", 0], ["chara_id_9", 0], ["status_rate_1", 30], ["status_rate_2", 0], ["status_rate_3", 0], ["status_rate_4", 0], ["status_rate_5", 0], ["status_type_1", 2], ["status_type_2", 0], ["status_type_3", 0], ["status_type_4", 0], ["status_type_5", 0], ["story_id", 1115003], ["unlock_story_name", "クリスティーナ（クリスマス）のエピソード第3話"]]
+          }
+        ]
+      }
+    },
+    "unit_ex_equipment_slot": {
+      "data_changes": {
+        "added": [
+          [["slot_category_1", 104], ["slot_category_2", 201], ["slot_category_3", 303], ["unit_id", 133901]]
+        ]
+      }
+    },
+    "room_unit_comments": {
+      "data_changes": {
+        "added": [
+          [["beloved_step", 1], ["description", "如何，我放下頭髮的造型\\n也很豔麗對吧？\\n光是平凡的讚美\\n可滿足不了我喔☆"], ["face_id", 1], ["id", 8897], ["insert_word_type", 0], ["time", 0], ["trigger", 2], ["unit_id", 133901], ["voice_id", 1]]
+        ]
+      }
+    },
+    "unit_background": {
+      "data_changes": {
+        "added": [
+          [["bg_id", 500780], ["bg_name", "蘭德索爾_鬧區_祭典_損壞_白天"], ["face_type", 4], ["position", 0.0], ["unit_id", 133901], ["unit_name", "克莉絲提娜（始源）"]]
+        ]
+      }
+    },
+    "item_data": {
+      "data_changes": {
+        "added": [
+          [["description", "封印有克莉絲提娜（始源）的記憶碎片的道具。收集一定數量，則可以解放角色深藏的力量。"], ["end_time", "2030/08/01 14:59:59"], ["gojuon_order", 1281242], ["item_id", 31339], ["item_name", "克莉絲提娜（始源）的記憶碎片"], ["item_type", 11], ["limit_num", 9999], ["price", 0], ["promotion_level", 1], ["sell_check_disp", 0], ["start_time", "2015/12/17 15:00:00"], ["value", 31339]],
+          [["description", "-2146826273"], ["end_time", "2030/08/01 14:59:00"], ["gojuon_order", 0], ["item_id", 41339], ["item_name", "克莉絲提娜（始源）專用戒指"], ["item_type", 22], ["limit_num", 9999], ["price", 0], ["promotion_level", 1], ["sell_check_disp", 0], ["start_time", "2015/12/17 15:00:00"], ["value", 0]]
+        ]
+      }
+    }
+  }
+}
