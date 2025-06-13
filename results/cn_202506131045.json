@@ -1,0 +1,15 @@
+{
+  "tables": {
+    "only_in_old_db": [],
+    "only_in_new_db": []
+  },
+  "table_changes": {
+    "banner": {
+      "data_changes": {
+        "deleted": [
+          [["banner_id", 80015], ["condition_id", 10058], ["end_date", "2025/06/30 23:59:59"], ["gacha_id", 0], ["is_show_room", 0], ["poster_id", 0], ["priority", 1], ["show_type", 0], ["start_date", "2025/06/14 11:00:00"], ["sub_banner_id_1", 0], ["system_id", 101], ["thumbnail_id", 0], ["type", 2], ["url", "0"]]
+        ]
+      }
+    }
+  }
+}
