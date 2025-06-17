@@ -1,0 +1,33 @@
+{
+  "tables": {
+    "only_in_old_db": [],
+    "only_in_new_db": []
+  },
+  "table_changes": {
+    "gacha_data": {
+      "data_changes": {
+        "added": [
+          [["b445862d0ab66dcf0d21148e77310f8e2f88e53c87861cd1b30c6271489741b7", 0], ["chara_odds_star1", "70130_1"], ["chara_odds_star2", "70130_2"], ["chara_odds_star3", "70130_3"], ["description", "有償寶石限定\\n第10位角色必定出現所選擇的★3角色！"], ["description_2", "[3C404E]※選擇的角色隨時都可以進行變更。[-]"], ["description_sp", ""], ["discount_price", 50], ["end_time", "2025/06/22 15:59:59"], ["exchange_id", 372], ["ff12a2d323be4140b5b5f0e3db8f93c207d4d0594eff84913f280ebb8f5fbfcd", 1], ["free_gacha_count", 0], ["free_gacha_interval_time", 0], ["free_gacha_type", 0], ["gacha10_special_odds_star1", "71130_1"], ["gacha10_special_odds_star2", "71130_2"], ["gacha10_special_odds_star3", "71130_3"], ["gacha_bonus_id", 0], ["gacha_cost_type", 2], ["gacha_detail", 2], ["gacha_id", 70130], ["gacha_name", "火屬性 自選★3必中白金轉蛋"], ["gacha_odds", "0"], ["gacha_odds_star2", "0"], ["gacha_times_limit10", 0], ["gacha_type", 1], ["movie_id", 700122], ["parallel_id", 0], ["pick_up_chara_text", "無精選角色"], ["pickup_badge", 0], ["pickup_id", 32], ["price", 1500], ["prizegacha_id", 0], ["rarity_odds", "300000"], ["special_id", 70130], ["start_time", "2025/06/17 16:00:00"], ["tab_name", "可選擇的★3(火)"], ["ticket_id", 24001], ["ticket_id_10", 0], ["title_id", 1]]
+        ]
+      }
+    },
+    "gacha_pickup": {
+      "data_changes": {
+        "added": [
+          [["id", 32], ["name", "涅婭（夏日）"], ["priority", 19], ["reward_id", 131101], ["reward_type", 1]]
+        ]
+      }
+    },
+    "banner": {
+      "data_changes": {
+        "modified": [
+          {
+            "id": 20027,
+            "old": [["banner_id", 20027], ["condition_id", 0], ["end_date", "2024/12/28 15:59:59"], ["gacha_id", 0], ["is_show_room", 0], ["priority", 60211], ["start_date", "2024/12/24 16:00:00"], ["sub_banner_id_1", 0], ["system_id", 305], ["type", 1]],
+            "new": [["banner_id", 20027], ["condition_id", 0], ["end_date", "2025/06/22 15:59:59"], ["gacha_id", 70130], ["is_show_room", 0], ["priority", 60211], ["start_date", "2025/06/17 16:00:00"], ["sub_banner_id_1", 0], ["system_id", 305], ["type", 1]]
+          }
+        ]
+      }
+    }
+  }
+}
