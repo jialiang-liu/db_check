@@ -1,0 +1,54 @@
+{
+  "tables": {
+    "only_in_old_db": [],
+    "only_in_new_db": []
+  },
+  "table_changes": {
+    "labyrinth_mission": {
+      "data_changes": {
+        "modified": [
+          {
+            "id": 27,
+            "old": [["category_icon", 1013], ["category_id", 1], ["condition_guild_id", 0], ["condition_num", 100], ["condition_value", 5], ["description", "難易度2以上で100回クリアしよう"], ["difficulty", 2], ["disp_group", 27], ["mission_condition", 2], ["mission_id", 27], ["mission_reward_id", 27]],
+            "new": [["category_icon", 1013], ["category_id", 1], ["condition_guild_id", 0], ["condition_num", 18], ["condition_value", 5], ["description", "難易度2以上で18回クリアしよう（スキップを除く）"], ["difficulty", 2], ["disp_group", 27], ["mission_condition", 2], ["mission_id", 27], ["mission_reward_id", 27]]
+          },
+          {
+            "id": 24,
+            "old": [["category_icon", 1013], ["category_id", 1], ["condition_guild_id", 0], ["condition_num", 20], ["condition_value", 5], ["description", "難易度2以上で20回クリアしよう"], ["difficulty", 2], ["disp_group", 24], ["mission_condition", 2], ["mission_id", 24], ["mission_reward_id", 24]],
+            "new": [["category_icon", 1013], ["category_id", 1], ["condition_guild_id", 0], ["condition_num", 12], ["condition_value", 5], ["description", "難易度2以上で12回クリアしよう（スキップを除く）"], ["difficulty", 2], ["disp_group", 24], ["mission_condition", 2], ["mission_id", 24], ["mission_reward_id", 24]]
+          },
+          {
+            "id": 21,
+            "old": [["category_icon", 1013], ["category_id", 1], ["condition_guild_id", 0], ["condition_num", 3], ["condition_value", 5], ["description", "難易度2以上で3回クリアしよう"], ["difficulty", 2], ["disp_group", 21], ["mission_condition", 2], ["mission_id", 21], ["mission_reward_id", 21]],
+            "new": [["category_icon", 1013], ["category_id", 1], ["condition_guild_id", 0], ["condition_num", 3], ["condition_value", 5], ["description", "難易度2以上で3回クリアしよう（スキップを除く）"], ["difficulty", 2], ["disp_group", 21], ["mission_condition", 2], ["mission_id", 21], ["mission_reward_id", 21]]
+          },
+          {
+            "id": 28,
+            "old": [["category_icon", 1013], ["category_id", 1], ["condition_guild_id", 0], ["condition_num", 150], ["condition_value", 5], ["description", "難易度2以上で150回クリアしよう"], ["difficulty", 2], ["disp_group", 28], ["mission_condition", 2], ["mission_id", 28], ["mission_reward_id", 28]],
+            "new": [["category_icon", 1013], ["category_id", 1], ["condition_guild_id", 0], ["condition_num", 20], ["condition_value", 5], ["description", "難易度2以上で20回クリアしよう（スキップを除く）"], ["difficulty", 2], ["disp_group", 28], ["mission_condition", 2], ["mission_id", 28], ["mission_reward_id", 28]]
+          },
+          {
+            "id": 26,
+            "old": [["category_icon", 1013], ["category_id", 1], ["condition_guild_id", 0], ["condition_num", 50], ["condition_value", 5], ["description", "難易度2以上で50回クリアしよう"], ["difficulty", 2], ["disp_group", 26], ["mission_condition", 2], ["mission_id", 26], ["mission_reward_id", 26]],
+            "new": [["category_icon", 1013], ["category_id", 1], ["condition_guild_id", 0], ["condition_num", 16], ["condition_value", 5], ["description", "難易度2以上で16回クリアしよう（スキップを除く）"], ["difficulty", 2], ["disp_group", 26], ["mission_condition", 2], ["mission_id", 26], ["mission_reward_id", 26]]
+          },
+          {
+            "id": 23,
+            "old": [["category_icon", 1013], ["category_id", 1], ["condition_guild_id", 0], ["condition_num", 10], ["condition_value", 5], ["description", "難易度2以上で10回クリアしよう"], ["difficulty", 2], ["disp_group", 23], ["mission_condition", 2], ["mission_id", 23], ["mission_reward_id", 23]],
+            "new": [["category_icon", 1013], ["category_id", 1], ["condition_guild_id", 0], ["condition_num", 10], ["condition_value", 5], ["description", "難易度2以上で10回クリアしよう（スキップを除く）"], ["difficulty", 2], ["disp_group", 23], ["mission_condition", 2], ["mission_id", 23], ["mission_reward_id", 23]]
+          },
+          {
+            "id": 25,
+            "old": [["category_icon", 1013], ["category_id", 1], ["condition_guild_id", 0], ["condition_num", 30], ["condition_value", 5], ["description", "難易度2以上で30回クリアしよう"], ["difficulty", 2], ["disp_group", 25], ["mission_condition", 2], ["mission_id", 25], ["mission_reward_id", 25]],
+            "new": [["category_icon", 1013], ["category_id", 1], ["condition_guild_id", 0], ["condition_num", 14], ["condition_value", 5], ["description", "難易度2以上で14回クリアしよう（スキップを除く）"], ["difficulty", 2], ["disp_group", 25], ["mission_condition", 2], ["mission_id", 25], ["mission_reward_id", 25]]
+          },
+          {
+            "id": 22,
+            "old": [["category_icon", 1013], ["category_id", 1], ["condition_guild_id", 0], ["condition_num", 5], ["condition_value", 5], ["description", "難易度2以上で5回クリアしよう"], ["difficulty", 2], ["disp_group", 22], ["mission_condition", 2], ["mission_id", 22], ["mission_reward_id", 22]],
+            "new": [["category_icon", 1013], ["category_id", 1], ["condition_guild_id", 0], ["condition_num", 5], ["condition_value", 5], ["description", "難易度2以上で5回クリアしよう（スキップを除く）"], ["difficulty", 2], ["disp_group", 22], ["mission_condition", 2], ["mission_id", 22], ["mission_reward_id", 22]]
+          }
+        ]
+      }
+    }
+  }
+}
