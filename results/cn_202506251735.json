@@ -1,0 +1,112 @@
+{
+  "tables": {
+    "only_in_old_db": [],
+    "only_in_new_db": []
+  },
+  "table_changes": {
+    "story_detail": {
+      "data_changes": {
+        "added": [
+          [["end_time", "2099/12/31 23:59:59"], ["force_unlock_time", "2030/12/17 14:59:59"], ["force_unlock_time_2", "2030/12/17 14:59:59"], ["lock_all_text", 0], ["love_level", 0], ["pre_story_id", 0], ["pre_story_id_2", 0], ["requirement_id", 127301], ["reward_id_1", 91002], ["reward_id_2", 0], ["reward_id_3", 0], ["reward_type_1", 8], ["reward_type_2", 0], ["reward_type_3", 0], ["reward_value_1", 20], ["reward_value_2", 0], ["reward_value_3", 0], ["start_time", "2025/07/03 18:00:00"], ["story_end", 0], ["story_group_id", 1273], ["story_id", 1273001], ["story_quest_id", 0], ["sub_title", "人家是魔法师，真的假的！？"], ["title", "铃奈（插班生） 第1话"], ["unknown_1", 1], ["unlock_quest_id", 0], ["visible_type", 0]],
+          [["end_time", "2099/12/31 23:59:59"], ["force_unlock_time", "2030/12/17 14:59:59"], ["force_unlock_time_2", "2030/12/17 14:59:59"], ["lock_all_text", 0], ["love_level", 8], ["pre_story_id", 1272003], ["pre_story_id_2", 0], ["requirement_id", 127201], ["reward_id_1", 91002], ["reward_id_2", 0], ["reward_id_3", 0], ["reward_type_1", 8], ["reward_type_2", 0], ["reward_type_3", 0], ["reward_value_1", 50], ["reward_value_2", 0], ["reward_value_3", 0], ["start_time", "2025/07/03 18:00:00"], ["story_end", 0], ["story_group_id", 1272], ["story_id", 1272004], ["story_quest_id", 0], ["sub_title", "通往未来的日子"], ["title", "凯露（插班生） 第4话"], ["unknown_1", 1], ["unlock_quest_id", 0], ["visible_type", 0]],
+          [["end_time", "2099/12/31 23:59:59"], ["force_unlock_time", "2030/12/17 14:59:59"], ["force_unlock_time_2", "2030/12/17 14:59:59"], ["lock_all_text", 0], ["love_level", 5], ["pre_story_id", 1273002], ["pre_story_id_2", 0], ["requirement_id", 127301], ["reward_id_1", 91002], ["reward_id_2", 0], ["reward_id_3", 0], ["reward_type_1", 8], ["reward_type_2", 0], ["reward_type_3", 0], ["reward_value_1", 20], ["reward_value_2", 0], ["reward_value_3", 0], ["start_time", "2025/07/03 18:00:00"], ["story_end", 0], ["story_group_id", 1273], ["story_id", 1273003], ["story_quest_id", 0], ["sub_title", "人家的最强魔法！"], ["title", "铃奈（插班生） 第3话"], ["unknown_1", 1], ["unlock_quest_id", 0], ["visible_type", 0]],
+          [["end_time", "2099/12/31 23:59:59"], ["force_unlock_time", "2030/12/17 14:59:59"], ["force_unlock_time_2", "2030/12/17 14:59:59"], ["lock_all_text", 0], ["love_level", 5], ["pre_story_id", 1272002], ["pre_story_id_2", 0], ["requirement_id", 127201], ["reward_id_1", 91002], ["reward_id_2", 0], ["reward_id_3", 0], ["reward_type_1", 8], ["reward_type_2", 0], ["reward_type_3", 0], ["reward_value_1", 20], ["reward_value_2", 0], ["reward_value_3", 0], ["start_time", "2025/07/03 18:00:00"], ["story_end", 0], ["story_group_id", 1272], ["story_id", 1272003], ["story_quest_id", 0], ["sub_title", "不良少女和离家出走少女"], ["title", "凯露（插班生） 第3话"], ["unknown_1", 1], ["unlock_quest_id", 0], ["visible_type", 0]],
+          [["end_time", "2099/12/31 23:59:59"], ["force_unlock_time", "2030/12/17 14:59:59"], ["force_unlock_time_2", "2030/12/17 14:59:59"], ["lock_all_text", 0], ["love_level", 4], ["pre_story_id", 1272001], ["pre_story_id_2", 0], ["requirement_id", 127201], ["reward_id_1", 91002], ["reward_id_2", 0], ["reward_id_3", 0], ["reward_type_1", 8], ["reward_type_2", 0], ["reward_type_3", 0], ["reward_value_1", 20], ["reward_value_2", 0], ["reward_value_3", 0], ["start_time", "2025/07/03 18:00:00"], ["story_end", 0], ["story_group_id", 1272], ["story_id", 1272002], ["story_quest_id", 0], ["sub_title", "不能看的名字……"], ["title", "凯露（插班生） 第2话"], ["unknown_1", 1], ["unlock_quest_id", 0], ["visible_type", 0]],
+          [["end_time", "2099/12/31 23:59:59"], ["force_unlock_time", "2030/12/17 14:59:59"], ["force_unlock_time_2", "2030/12/17 14:59:59"], ["lock_all_text", 0], ["love_level", 4], ["pre_story_id", 1273001], ["pre_story_id_2", 0], ["requirement_id", 127301], ["reward_id_1", 91002], ["reward_id_2", 0], ["reward_id_3", 0], ["reward_type_1", 8], ["reward_type_2", 0], ["reward_type_3", 0], ["reward_value_1", 20], ["reward_value_2", 0], ["reward_value_3", 0], ["start_time", "2025/07/03 18:00:00"], ["story_end", 0], ["story_group_id", 1273], ["story_id", 1273002], ["story_quest_id", 0], ["sub_title", "什么是魔法的原石？"], ["title", "铃奈（插班生） 第2话"], ["unknown_1", 1], ["unlock_quest_id", 0], ["visible_type", 0]],
+          [["end_time", "2099/12/31 23:59:59"], ["force_unlock_time", "2030/12/17 14:59:59"], ["force_unlock_time_2", "2030/12/17 14:59:59"], ["lock_all_text", 0], ["love_level", 8], ["pre_story_id", 1273003], ["pre_story_id_2", 0], ["requirement_id", 127301], ["reward_id_1", 91002], ["reward_id_2", 0], ["reward_id_3", 0], ["reward_type_1", 8], ["reward_type_2", 0], ["reward_type_3", 0], ["reward_value_1", 50], ["reward_value_2", 0], ["reward_value_3", 0], ["start_time", "2025/07/03 18:00:00"], ["story_end", 0], ["story_group_id", 1273], ["story_id", 1273004], ["story_quest_id", 0], ["sub_title", "像魔法一样的回忆"], ["title", "铃奈（插班生） 第4话"], ["unknown_1", 1], ["unlock_quest_id", 0], ["visible_type", 0]],
+          [["end_time", "2099/12/31 23:59:59"], ["force_unlock_time", "2025/7/15"], ["force_unlock_time_2", "2030/12/17 14:59:59"], ["lock_all_text", 0], ["love_level", 0], ["pre_story_id", 5126005], ["pre_story_id_2", 0], ["requirement_id", 127201], ["reward_id_1", 91002], ["reward_id_2", 0], ["reward_id_3", 0], ["reward_type_1", 8], ["reward_type_2", 0], ["reward_type_3", 0], ["reward_value_1", 20], ["reward_value_2", 0], ["reward_value_3", 0], ["start_time", "2025/07/03 18:00:00"], ["story_end", 0], ["story_group_id", 1272], ["story_id", 1272001], ["story_quest_id", 0], ["sub_title", "朝着夕阳奔跑！"], ["title", "凯露（插班生） 第1话"], ["unknown_1", 1], ["unlock_quest_id", 0], ["visible_type", 0]]
+        ]
+      }
+    },
+    "hatsune_quest_area": {
+      "data_changes": {
+        "modified": [
+          {
+            "id": 10127101,
+            "old": [["additional_effect", 0], ["area_disp", 1], ["area_id", 10127101], ["area_name", "前往尽头的旅程"], ["end_time", "2025/07/07 23:59:59"], ["event_id", 10127], ["map_id", 1], ["map_type", 201], ["open_tutorial_id", 0], ["que_id", "bgm_M618"], ["scroll_height", 0], ["scroll_width", 0], ["sheet_id", "bgm_M618"], ["start_time", "2025/06/30 11:00:00"], ["tutorial_param_1", "0"], ["tutorial_param_2", "0"]],
+            "new": [["additional_effect", 0], ["area_disp", 1], ["area_id", 10127101], ["area_name", "前往尽头的旅行"], ["end_time", "2025/07/07 23:59:59"], ["event_id", 10127], ["map_id", 1], ["map_type", 201], ["open_tutorial_id", 0], ["que_id", "bgm_M618"], ["scroll_height", 0], ["scroll_width", 0], ["sheet_id", "bgm_M618"], ["start_time", "2025/06/30 11:00:00"], ["tutorial_param_1", "0"], ["tutorial_param_2", "0"]]
+          },
+          {
+            "id": 10100101,
+            "old": [["additional_effect", 0], ["area_disp", 1], ["area_id", 10100101], ["area_name", "前往尽头的旅程"], ["end_time", "2024/09/14 23:59:59"], ["event_id", 10100], ["map_id", 1], ["map_type", 201], ["open_tutorial_id", 0], ["que_id", "bgm_M618"], ["scroll_height", 0], ["scroll_width", 0], ["sheet_id", "bgm_M618"], ["start_time", "2024/08/30 11:00:00"], ["tutorial_param_1", "0"], ["tutorial_param_2", "0"]],
+            "new": [["additional_effect", 0], ["area_disp", 1], ["area_id", 10100101], ["area_name", "前往尽头的旅行"], ["end_time", "2024/09/14 23:59:59"], ["event_id", 10100], ["map_id", 1], ["map_type", 201], ["open_tutorial_id", 0], ["que_id", "bgm_M618"], ["scroll_height", 0], ["scroll_width", 0], ["sheet_id", "bgm_M618"], ["start_time", "2024/08/30 11:00:00"], ["tutorial_param_1", "0"], ["tutorial_param_2", "0"]]
+          }
+        ]
+      }
+    },
+    "guild": {
+      "data_changes": {
+        "modified": [
+          {
+            "id": 14,
+            "old": [["description", "兰德索尔的学校之一，是公会管理协会管理的公立教育机关。因为是公共学校，上学的学生年龄、种族、学习能力都参差不齐。"], ["guild_id", 14], ["guild_master", 1018], ["guild_name", "月光学院"], ["member1", 1018], ["member10", 0], ["member11", 0], ["member12", 0], ["member13", 0], ["member14", 0], ["member15", 0], ["member16", 0], ["member17", 0], ["member18", 0], ["member19", 0], ["member2", 1050], ["member20", 0], ["member21", 0], ["member22", 0], ["member23", 0], ["member24", 0], ["member25", 0], ["member26", 0], ["member27", 0], ["member28", 0], ["member29", 0], ["member3", 1016], ["member30", 0], ["member4", 1083], ["member5", 1100], ["member6", 1101], ["member7", 1179], ["member8", 1190], ["member9", 1214]],
+            "new": [["description", "兰德索尔的学校之一，是公会管理协会管理的公立教育机关。因为是公共学校，上学的学生年龄、种族、学习能力都参差不齐。"], ["guild_id", 14], ["guild_master", 1018], ["guild_name", "月光学院"], ["member1", 1018], ["member10", 1273], ["member11", 0], ["member12", 0], ["member13", 0], ["member14", 0], ["member15", 0], ["member16", 0], ["member17", 0], ["member18", 0], ["member19", 0], ["member2", 1050], ["member20", 0], ["member21", 0], ["member22", 0], ["member23", 0], ["member24", 0], ["member25", 0], ["member26", 0], ["member27", 0], ["member28", 0], ["member29", 0], ["member3", 1016], ["member30", 0], ["member4", 1083], ["member5", 1100], ["member6", 1101], ["member7", 1179], ["member8", 1190], ["member9", 1214]]
+          },
+          {
+            "id": 1,
+            "old": [["description", "佩可莉姆为了进入特别的餐饮店而组建的公会。主要目的是边走边吃。"], ["guild_id", 1], ["guild_master", 1058], ["guild_name", "美食殿堂"], ["member1", 1058], ["member10", 1804], ["member11", 1805], ["member12", 1806], ["member13", 1155], ["member14", 1210], ["member15", 1211], ["member16", 1253], ["member17", 0], ["member18", 0], ["member19", 0], ["member2", 1059], ["member20", 0], ["member21", 0], ["member22", 0], ["member23", 0], ["member24", 0], ["member25", 0], ["member26", 0], ["member27", 0], ["member28", 0], ["member29", 0], ["member3", 1060], ["member30", 0], ["member4", 1075], ["member5", 1076], ["member6", 1078], ["member7", 1118], ["member8", 1119], ["member9", 1120]],
+            "new": [["description", "佩可莉姆为了进入特别的餐饮店而组建的公会。主要目的是边走边吃。"], ["guild_id", 1], ["guild_master", 1058], ["guild_name", "美食殿堂"], ["member1", 1058], ["member10", 1804], ["member11", 1805], ["member12", 1806], ["member13", 1155], ["member14", 1210], ["member15", 1211], ["member16", 1253], ["member17", 1272], ["member18", 0], ["member19", 0], ["member2", 1059], ["member20", 0], ["member21", 0], ["member22", 0], ["member23", 0], ["member24", 0], ["member25", 0], ["member26", 0], ["member27", 0], ["member28", 0], ["member29", 0], ["member3", 1060], ["member30", 0], ["member4", 1075], ["member5", 1076], ["member6", 1078], ["member7", 1118], ["member8", 1119], ["member9", 1120]]
+          }
+        ]
+      }
+    },
+    "arcade_description": {
+      "data_changes": {
+        "modified": [
+          {
+            "id": 6,
+            "old": [["arcade_id", 1012], ["description", "问题会从3种出题形式中随机选出。\\n“四选一问题”和“一问多答”可以使用有次数限定的提示哦！\\n在什么时候使用提示，会是提升成绩的关键呢。"], ["id", 6], ["image_id", 100906], ["type", 1]],
+            "new": [["arcade_id", 1012], ["description", "问题会从3种出题形式中随机选出。\\n“单选题”和“多选题”可以使用有次数限定的提示哦！\\n在什么时候使用提示，会是提升成绩的关键呢。"], ["id", 6], ["image_id", 100906], ["type", 1]]
+          }
+        ]
+      }
+    },
+    "unit_data": {
+      "data_changes": {
+        "modified": [
+          {
+            "id": 118001,
+            "old": [["atk_type", 1], ["comment", "【物理】后卫，拥有攻击与弱化敌人的能力，闪闪发光的女商人。\\n投掷装满了赚来的金币的钱包发起突袭，\\n凭借卷起金币风暴的攻击极大破坏对手的防御。"], ["cutin1_star6", 118001], ["cutin2_star6", 0], ["cutin_1", 118001], ["cutin_2", 0], ["end_time", "2024/09/14 10:59:59"], ["exskill_display", 0], ["guild_id", 0], ["is_limited", 1], ["kana", "keleiqita"], ["motion_type", 35], ["move_speed", 450], ["normal_atk_cast_time", 1.97], ["only_disp_owned", 0], ["original_unit_id", 0], ["prefab_id", 118001], ["prefab_id_battle", 0], ["rarity", 3], ["se_type", 35], ["search_area_width", 751], ["start_time", "2024/09/12 11:00:00"], ["unit_id", 118001], ["unit_name", "克蕾琪塔"]],
+            "new": [["atk_type", 1], ["comment", "【物理】后卫，拥有攻击与弱化敌人的能力，闪闪发光的女商人。\\n投掷装满了赚来的金币的钱包发起突袭，\\n凭借卷起金币风暴的攻击极大破坏对手的防御。"], ["cutin1_star6", 118001], ["cutin2_star6", 0], ["cutin_1", 118001], ["cutin_2", 0], ["end_time", "2025/07/06 10:59:59"], ["exskill_display", 0], ["guild_id", 0], ["is_limited", 1], ["kana", "keleiqita"], ["motion_type", 35], ["move_speed", 450], ["normal_atk_cast_time", 1.97], ["only_disp_owned", 0], ["original_unit_id", 0], ["prefab_id", 118001], ["prefab_id_battle", 0], ["rarity", 3], ["se_type", 35], ["search_area_width", 751], ["start_time", "2025/07/03 18:00:00"], ["unit_id", 118001], ["unit_name", "克蕾琪塔"]]
+          },
+          {
+            "id": 120001,
+            "old": [["atk_type", 1], ["comment", "【物理】前卫，在猛攻中守护同伴的黑暗姐姐。\\n战斗开始时以无法行动状态无效化的技能保护周围的我方\\n角色，并且以大范围束缚技能牵制敌人，从而改变战况。"], ["cutin1_star6", 120001], ["cutin2_star6", 0], ["cutin_1", 120001], ["cutin_2", 0], ["end_time", "2025/03/27 10:59:59"], ["exskill_display", 0], ["guild_id", 6], ["is_limited", 1], ["kana", "jingliu"], ["motion_type", 5], ["move_speed", 450], ["normal_atk_cast_time", 2.375], ["only_disp_owned", 0], ["original_unit_id", 0], ["prefab_id", 120001], ["prefab_id_battle", 0], ["rarity", 3], ["se_type", 5], ["search_area_width", 190], ["start_time", "2025/03/17 11:00:00"], ["unit_id", 120001], ["unit_name", "静流（黑暗）"]],
+            "new": [["atk_type", 1], ["comment", "【物理】前卫，在猛攻中守护同伴的黑暗姐姐。\\n战斗开始时以无法行动状态无效化的技能保护周围的我方\\n角色，并且以大范围束缚技能牵制敌人，从而改变战况。"], ["cutin1_star6", 120001], ["cutin2_star6", 0], ["cutin_1", 120001], ["cutin_2", 0], ["end_time", "2025/07/11 10:59:59"], ["exskill_display", 0], ["guild_id", 6], ["is_limited", 1], ["kana", "jingliu"], ["motion_type", 5], ["move_speed", 450], ["normal_atk_cast_time", 2.375], ["only_disp_owned", 0], ["original_unit_id", 0], ["prefab_id", 120001], ["prefab_id_battle", 0], ["rarity", 3], ["se_type", 5], ["search_area_width", 190], ["start_time", "2025/07/06 11:00:00"], ["unit_id", 120001], ["unit_name", "静流（黑暗）"]]
+          },
+          {
+            "id": 123301,
+            "old": [["atk_type", 1], ["comment", "【物理】中卫，挥洒粘液的黄色史莱姆辣妹。\\n技能能降低敌方全体的物理攻击能力和技能值上升量。\\n连结爆发后能够变身史莱姆，攻击敌人的同时获得无敌的身躯。"], ["cutin1_star6", 123301], ["cutin2_star6", 0], ["cutin_1", 123301], ["cutin_2", 0], ["end_time", "2024/04/15 10:59:59"], ["exskill_display", 0], ["guild_id", 0], ["is_limited", 1], ["kana", "nieya"], ["motion_type", 0], ["move_speed", 450], ["normal_atk_cast_time", 1.62], ["only_disp_owned", 0], ["original_unit_id", 0], ["prefab_id", 123301], ["prefab_id_battle", 0], ["rarity", 3], ["se_type", 1], ["search_area_width", 350], ["start_time", "2025/04/10 11:00:00"], ["unit_id", 123301], ["unit_name", "涅亚"]],
+            "new": [["atk_type", 1], ["comment", "【物理】中卫，挥洒粘液的黄色史莱姆辣妹。\\n技能能降低敌方全体的物理攻击能力和技能值上升量。\\n连结爆发后能够变身史莱姆，攻击敌人的同时获得无敌的身躯。"], ["cutin1_star6", 123301], ["cutin2_star6", 0], ["cutin_1", 123301], ["cutin_2", 0], ["end_time", "2025/07/06 10:59:59"], ["exskill_display", 0], ["guild_id", 0], ["is_limited", 1], ["kana", "nieya"], ["motion_type", 0], ["move_speed", 450], ["normal_atk_cast_time", 1.62], ["only_disp_owned", 0], ["original_unit_id", 0], ["prefab_id", 123301], ["prefab_id_battle", 0], ["rarity", 3], ["se_type", 1], ["search_area_width", 350], ["start_time", "2025/07/03 18:00:00"], ["unit_id", 123301], ["unit_name", "涅亚"]]
+          },
+          {
+            "id": 127201,
+            "old": [["atk_type", 2], ["comment", "【魔法】后卫，身穿制服，心潮澎湃的青春猫娘。\\n能提供攻防两面的支援，同时以行动速度提升和技能值\\n回复来协助我方角色，瞄准最远的敌人发动连结爆发，\\n收获闪耀的胜利。"], ["cutin1_star6", 127201], ["cutin2_star6", 0], ["cutin_1", 0], ["cutin_2", 0], ["end_time", "2025/07/15 10:59:59"], ["exskill_display", 0], ["guild_id", 0], ["is_limited", 1], ["kana", "kailu"], ["motion_type", 7], ["move_speed", 450], ["normal_atk_cast_time", 2.09], ["only_disp_owned", 0], ["original_unit_id", 0], ["prefab_id", 127201], ["prefab_id_battle", 0], ["rarity", 3], ["se_type", 7], ["search_area_width", 804], ["start_time", "2025/07/03 18:00:00"], ["unit_id", 127201], ["unit_name", "凯露（插班生）"]],
+            "new": [["atk_type", 2], ["comment", "【魔法】后卫，身穿制服，心潮澎湃的青春猫娘。\\n能提供攻防两面的支援，同时以行动速度提升和技能值\\n回复来协助我方角色，瞄准最远的敌人发动连结爆发，\\n收获闪耀的胜利。"], ["cutin1_star6", 127201], ["cutin2_star6", 0], ["cutin_1", 127201], ["cutin_2", 0], ["end_time", "2025/07/15 10:59:59"], ["exskill_display", 0], ["guild_id", 0], ["is_limited", 1], ["kana", "kailu"], ["motion_type", 7], ["move_speed", 450], ["normal_atk_cast_time", 2.09], ["only_disp_owned", 0], ["original_unit_id", 0], ["prefab_id", 127201], ["prefab_id_battle", 0], ["rarity", 3], ["se_type", 7], ["search_area_width", 804], ["start_time", "2025/07/03 18:00:00"], ["unit_id", 127201], ["unit_name", "凯露（插班生）"]]
+          },
+          {
+            "id": 127301,
+            "old": [["atk_type", 1], ["comment", "【物理】后卫，穿着可爱制服的魅力模特。\\n凭借暴击时强化我方角色的技能，以及能造成追加伤害\\n的连结爆发来截取青春的一页。"], ["cutin1_star6", 127301], ["cutin2_star6", 0], ["cutin_1", 0], ["cutin_2", 0], ["end_time", "2099/12/31 23:59:59"], ["exskill_display", 0], ["guild_id", 0], ["is_limited", 0], ["kana", "lingnai"], ["motion_type", 8], ["move_speed", 450], ["normal_atk_cast_time", 2.09], ["only_disp_owned", 0], ["original_unit_id", 0], ["prefab_id", 127301], ["prefab_id_battle", 0], ["rarity", 3], ["se_type", 8], ["search_area_width", 750], ["start_time", "2025/07/03 18:00:00"], ["unit_id", 127301], ["unit_name", "铃奈（插班生）"]],
+            "new": [["atk_type", 1], ["comment", "【物理】后卫，穿着可爱制服的魅力模特。\\n凭借暴击时强化我方角色的技能，以及能造成追加伤害\\n的连结爆发来截取青春的一页。"], ["cutin1_star6", 127301], ["cutin2_star6", 0], ["cutin_1", 127301], ["cutin_2", 0], ["end_time", "2099/12/31 23:59:59"], ["exskill_display", 0], ["guild_id", 0], ["is_limited", 0], ["kana", "lingnai"], ["motion_type", 8], ["move_speed", 450], ["normal_atk_cast_time", 2.09], ["only_disp_owned", 0], ["original_unit_id", 0], ["prefab_id", 127301], ["prefab_id_battle", 0], ["rarity", 3], ["se_type", 8], ["search_area_width", 750], ["start_time", "2025/07/03 18:00:00"], ["unit_id", 127301], ["unit_name", "铃奈（插班生）"]]
+          }
+        ]
+      }
+    },
+    "story_data": {
+      "data_changes": {
+        "added": [
+          [["condition_free_flag", 0], ["disp_order", 109], ["end_time", "2099/12/31 23:59:59"], ["gojuon_order", 109], ["order", 0], ["start_time", "2025/07/03 18:00:00"], ["story_group_id", 1273], ["story_type", 1], ["thumbnail_id", 0], ["title", "铃奈（插班生）"], ["value", 1273]],
+          [["condition_free_flag", 0], ["disp_order", 55], ["end_time", "2099/12/31 23:59:59"], ["gojuon_order", 55], ["order", 0], ["start_time", "2025/07/03 18:00:00"], ["story_group_id", 1272], ["story_type", 1], ["thumbnail_id", 0], ["title", "凯露（插班生）"], ["value", 1272]]
+        ]
+      }
+    },
+    "unlock_unit_condition": {
+      "data_changes": {
+        "added": [
+          [["class_id", 1], ["condition_id_1", 31273], ["condition_id_2", 0], ["condition_id_3", 0], ["condition_id_4", 0], ["condition_id_5", 0], ["condition_type_1", 1], ["condition_type_2", 0], ["condition_type_3", 0], ["condition_type_4", 0], ["condition_type_5", 0], ["condition_type_detail_1", 2], ["condition_type_detail_2", 0], ["condition_type_detail_3", 0], ["condition_type_detail_4", 0], ["condition_type_detail_5", 0], ["count_1", 145], ["count_2", 0], ["count_3", 0], ["count_4", 0], ["count_5", 0], ["pre_unit_id", 0], ["release_effect_type", 2], ["unit_id", 127301], ["unit_name", "铃奈（插班生）"]],
+          [["class_id", 1], ["condition_id_1", 31272], ["condition_id_2", 0], ["condition_id_3", 0], ["condition_id_4", 0], ["condition_id_5", 0], ["condition_type_1", 1], ["condition_type_2", 0], ["condition_type_3", 0], ["condition_type_4", 0], ["condition_type_5", 0], ["condition_type_detail_1", 2], ["condition_type_detail_2", 0], ["condition_type_detail_3", 0], ["condition_type_detail_4", 0], ["condition_type_detail_5", 0], ["count_1", 145], ["count_2", 0], ["count_3", 0], ["count_4", 0], ["count_5", 0], ["pre_unit_id", 0], ["release_effect_type", 2], ["unit_id", 127201], ["unit_name", "凯露（插班生）"]]
+        ]
+      }
+    }
+  }
+}
