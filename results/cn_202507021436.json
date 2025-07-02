@@ -1,0 +1,19 @@
+{
+  "tables": {
+    "only_in_old_db": [],
+    "only_in_new_db": []
+  },
+  "table_changes": {
+    "asm_4_choice_data": {
+      "data_changes": {
+        "modified": [
+          {
+            "id": 2420054,
+            "old": [["asm_id", 2420054], ["choice_1", "5cc"], ["choice_2", "10cc"], ["choice_3", "3cc"], ["choice_4", "12cc"], ["correct_answer", 1], ["image_id_1", 0], ["image_id_2", 0], ["image_id_3", 0], ["image_id_4", 0]],
+            "new": [["asm_id", 2420054], ["choice_1", "南京"], ["choice_2", "合肥"], ["choice_3", "常州"], ["choice_4", "苏州"], ["correct_answer", 1], ["image_id_1", 0], ["image_id_2", 0], ["image_id_3", 0], ["image_id_4", 0]]
+          }
+        ]
+      }
+    }
+  }
+}
