@@ -1,0 +1,417 @@
+{
+  "tables": {
+    "only_in_old_db": [
+      "v1_ebf38e2c8877a2de3d1d76d8cdf57a6ac328093a70cddb9585de8d8e8425aed5",
+      "v1_048782302e73274ae30375792bb97d9040861730d6ede7457219788282520483"
+    ],
+    "only_in_new_db": [
+      "unit_role_data",
+      "unit_role_type"
+    ]
+  },
+  "table_changes": {
+    "unit_comments": {
+      "data_changes": {
+        "added": [
+          [["all_comments_flag", 0], ["change_face", 1], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 0.0], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "我一直很害怕他人的聲音……\\n不過現在……我卻覺得與別人\\n一同歌唱……呵呵……\\n令我非常開心……♪"], ["face_id", 1], ["face_id_2", 0], ["face_id_3", 0], ["id", 1343006], ["target_unit_id", 0], ["unit_id", 134331], ["use_type", 1], ["voice_id", 1]],
+          [["all_comments_flag", 0], ["change_face", 5], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 18.0], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "同樣是照顧他人，\\n照顧你和照顧精靈有一點……\\n不同……照顧你時……\\n我、我會心跳……加速……"], ["face_id", 2], ["face_id_2", 0], ["face_id_3", 0], ["id", 1343005], ["target_unit_id", 0], ["unit_id", 134301], ["use_type", 1], ["voice_id", 5]],
+          [["all_comments_flag", 0], ["change_face", 1], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 0.0], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "我跟千歌……為了在你生日時，\\n為你送上特別的精靈加持……\\n練習唱歌練習了很多次喔……♪"], ["face_id", 1], ["face_id_2", 0], ["face_id_3", 0], ["id", 1343012], ["target_unit_id", 0], ["unit_id", 134331], ["use_type", 2], ["voice_id", 6]],
+          [["all_comments_flag", 0], ["change_face", 1], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 0.0], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "我還想唱更多種類的歌……\\n像慈樂之音那種輕快而\\n可愛的歌……雖然沒什麼自信，\\n但之後我也想唱唱看……嗯。"], ["face_id", 1], ["face_id_2", 0], ["face_id_3", 0], ["id", 1343007], ["target_unit_id", 0], ["unit_id", 134331], ["use_type", 1], ["voice_id", 2]],
+          [["all_comments_flag", 0], ["change_face", 1], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 10.1], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "我竟然有唱喚士的天分……\\n我現在還……不敢相信……\\n一直傷害他人至今的我……\\n竟然要為了守護他人而歌唱……"], ["face_id", 6], ["face_id_2", 0], ["face_id_3", 0], ["id", 1343001], ["target_unit_id", 0], ["unit_id", 134301], ["use_type", 1], ["voice_id", 1]],
+          [["all_comments_flag", 0], ["change_face", 1], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 0.0], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "我也想跟你……\\n一起唱唱看……\\n今後我想與你演奏出許多和聲……"], ["face_id", 1], ["face_id_2", 0], ["face_id_3", 0], ["id", 1343009], ["target_unit_id", 0], ["unit_id", 134331], ["use_type", 1], ["voice_id", 4]],
+          [["all_comments_flag", 0], ["change_face", 1], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 14.7], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "為什麼這套衣服的布料\\n這麼少呢……？你說或許這樣比較\\n容易感受到瑪那……？\\n那就沒辦法了……嗎……？"], ["face_id", 6], ["face_id_2", 0], ["face_id_3", 0], ["id", 1343004], ["target_unit_id", 0], ["unit_id", 134301], ["use_type", 1], ["voice_id", 4]],
+          [["all_comments_flag", 0], ["change_face", 4], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 11.2], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "雖然有人願意教我精靈族之村\\n流傳的精靈之舞……但因為我跌倒\\n太多次，所以可可蘿對我說了\\n「有時放棄也是很重要的」……"], ["face_id", 6], ["face_id_2", 0], ["face_id_3", 0], ["id", 1343002], ["target_unit_id", 0], ["unit_id", 134301], ["use_type", 1], ["voice_id", 2]],
+          [["all_comments_flag", 0], ["change_face", 1], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 0.0], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "雖然我很喜歡獨處……但我現在\\n也喜歡上跟大家在一起了。\\n啊……當然，我也很喜歡跟你……\\n兩人獨處喔。"], ["face_id", 1], ["face_id_2", 0], ["face_id_3", 0], ["id", 1343010], ["target_unit_id", 0], ["unit_id", 134331], ["use_type", 1], ["voice_id", 5]],
+          [["all_comments_flag", 0], ["change_face", 6], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 11.8], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "我如果一直顧著陪精靈……\\n飛龍好像會吃醋……\\n為、為什麼呢……？\\n明明是我創造出來的……嗚。"], ["face_id", 1], ["face_id_2", 0], ["face_id_3", 0], ["id", 1343003], ["target_unit_id", 0], ["unit_id", 134301], ["use_type", 1], ["voice_id", 3]],
+          [["all_comments_flag", 0], ["change_face", 2], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 0.0], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "我試著做了……生日蛋糕。\\n雖然失敗了很多次，但最後終於\\n成功了，所以……那個……\\n……來，啊～♪"], ["face_id", 2], ["face_id_2", 0], ["face_id_3", 0], ["id", 1343011], ["target_unit_id", 0], ["unit_id", 134301], ["use_type", 2], ["voice_id", 6]],
+          [["all_comments_flag", 0], ["change_face", 1], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 0.0], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "千歌的歌聲是……\\n包容他人的溫柔歌聲……\\n真的好美妙……呵呵。我好高興\\n能成為她的……徒弟……♪"], ["face_id", 1], ["face_id_2", 0], ["face_id_3", 0], ["id", 1343008], ["target_unit_id", 0], ["unit_id", 134331], ["use_type", 1], ["voice_id", 3]]
+        ]
+      }
+    },
+    "exceed_level_unit": {
+      "data_changes": {
+        "added": [
+          [["consume_num_1", 40], ["consume_num_2", 30000000], ["consume_num_3", 0], ["consume_num_4", 0], ["consume_num_5", 0], ["exceed_item_id", 41343], ["exceed_stage", 1], ["id", 1134301], ["item_id_1", 31343], ["item_id_2", 94000], ["item_id_3", 0], ["item_id_4", 0], ["item_id_5", 0], ["reward_type_1", 2], ["reward_type_2", 12], ["reward_type_3", 0], ["reward_type_4", 0], ["reward_type_5", 0], ["unit_id", 134301]]
+        ]
+      }
+    },
+    "unit_rarity": {
+      "data_changes": {
+        "added": [
+          [["accuracy", 0.0], ["accuracy_growth", 0.0], ["atk", 0.0], ["atk_growth", 0.0], ["consume_gold", 30000], ["consume_num", 100], ["def", 2.87], ["def_growth", 0.46], ["dodge", 0.0], ["dodge_growth", 0.0], ["energy_recovery_rate", 0.0], ["energy_recovery_rate_growth", 0.0], ["energy_reduce_rate", 0.0], ["energy_reduce_rate_growth", 0.0], ["hp", 406.7], ["hp_growth", 64.56], ["hp_recovery_rate", 0.0], ["hp_recovery_rate_growth", 0.0], ["life_steal", 0.0], ["life_steal_growth", 0.0], ["magic_critical", 20.0], ["magic_critical_growth", 0.0], ["magic_def", 2.87], ["magic_def_growth", 0.46], ["magic_penetrate", 0.0], ["magic_penetrate_growth", 0.0], ["magic_str", 63.32], ["magic_str_growth", 10.06], ["physical_critical", 0.0], ["physical_critical_growth", 0.0], ["physical_penetrate", 0.0], ["physical_penetrate_growth", 0.0], ["rarity", 3], ["unit_id", 134301], ["unit_material_id", 31343], ["wave_energy_recovery", 0.0], ["wave_energy_recovery_growth", 0.0], ["wave_hp_recovery", 0.0], ["wave_hp_recovery_growth", 0.0]]
+        ]
+      }
+    },
+    "v1_7700a781c88fb85a0e93ff3f0545bb382e553194dc87394e79d73721e793929b": {
+      "data_changes": {
+        "added": [
+          [["2be3ea1af3489b94c541e42db5e6d9865b3ac9bbc78357da2a37b11540856e84", 2.0], ["32abdccd55cc1389d6a5604caf2b9345ab489f22d5df3dd200a63ac87b8b439d", 134331]]
+        ]
+      }
+    },
+    "skill_action": {
+      "data_changes": {
+        "added": [
+          [["action_detail_1", 134300202], ["action_detail_2", 3], ["action_detail_3", 0], ["action_id", 134300207], ["action_type", 74], ["action_value_1", 4.0], ["action_value_2", 1.0], ["action_value_3", 0.0], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", ""], ["level_up_disp", ""], ["target_area", 2], ["target_assignment", 1], ["target_count", 99], ["target_number", 0], ["target_range", 400], ["target_type", 3]],
+          [["action_detail_1", 2], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 134300303], ["action_type", 6], ["action_value_1", 24.0], ["action_value_2", 24.0], ["action_value_3", 12.0], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "展開{0}傷害量的魔法無效護盾"], ["level_up_disp", "無效傷害量+{0}"], ["target_area", 2], ["target_assignment", 2], ["target_count", 99], ["target_number", 0], ["target_range", 400], ["target_type", 3]],
+          [["action_detail_1", 2], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 134300102], ["action_type", 1], ["action_value_1", 75.0], ["action_value_2", 75.0], ["action_value_3", 6.0], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "對範圍內的敵人造成{0}的魔法傷害"], ["level_up_disp", "魔法傷害+{0}"], ["target_area", 2], ["target_assignment", 1], ["target_count", 99], ["target_number", 0], ["target_range", 400], ["target_type", 3]],
+          [["action_detail_1", 1], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 134300201], ["action_type", 7], ["action_value_1", 0.0], ["action_value_2", 0.0], ["action_value_3", 0.0], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", ""], ["level_up_disp", ""], ["target_area", 2], ["target_assignment", 1], ["target_count", 1], ["target_number", 0], ["target_range", 2160], ["target_type", 46]],
+          [["action_detail_1", 2], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 134300206], ["action_type", 1], ["action_value_1", 30.0], ["action_value_2", 30.0], ["action_value_3", 2.4], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "對範圍內的敵人造成{0}的魔法傷害"], ["level_up_disp", "魔法傷害+{0}"], ["target_area", 2], ["target_assignment", 1], ["target_count", 99], ["target_number", 0], ["target_range", 400], ["target_type", 3]],
+          [["action_detail_1", 4], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 134351101], ["action_type", 90], ["action_value_1", 1.0], ["action_value_2", 240.0], ["action_value_3", 15.0], ["action_value_4", 1.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "提升自身{0}的魔法攻擊力"], ["level_up_disp", "魔法攻擊力提升+{0}"], ["target_area", 0], ["target_assignment", 0], ["target_count", 0], ["target_number", 0], ["target_range", 0], ["target_type", 0]],
+          [["action_detail_1", 40], ["action_detail_2", 1], ["action_detail_3", 0], ["action_id", 134300301], ["action_type", 10], ["action_value_1", 1.0], ["action_value_2", 1.0], ["action_value_3", 1.0], ["action_value_4", 12.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "提升我方全體{0}的魔法防禦力"], ["level_up_disp", "魔法防禦力提升+{0}"], ["target_area", 2], ["target_assignment", 2], ["target_count", 99], ["target_number", 0], ["target_range", 2160], ["target_type", 3]],
+          [["action_detail_1", 2], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 134300202], ["action_type", 1], ["action_value_1", 30.0], ["action_value_2", 30.0], ["action_value_3", 2.4], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "對範圍內的敵人造成{0}的魔法傷害"], ["level_up_disp", "魔法傷害+{0}"], ["target_area", 2], ["target_assignment", 1], ["target_count", 99], ["target_number", 0], ["target_range", 400], ["target_type", 3]],
+          [["action_detail_1", 1], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 134300101], ["action_type", 7], ["action_value_1", 0.0], ["action_value_2", 0.0], ["action_value_3", 0.0], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", ""], ["level_up_disp", ""], ["target_area", 2], ["target_assignment", 1], ["target_count", 1], ["target_number", 0], ["target_range", 2160], ["target_type", 46]],
+          [["action_detail_1", 134300302], ["action_detail_2", 2], ["action_detail_3", 0], ["action_id", 134300304], ["action_type", 26], ["action_value_1", 8.0], ["action_value_2", 0.00015], ["action_value_3", 0.00015], ["action_value_4", 30.0], ["action_value_5", 30.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", ""], ["level_up_disp", ""], ["target_area", 2], ["target_assignment", 2], ["target_count", 1], ["target_number", 0], ["target_range", 2160], ["target_type", 34]],
+          [["action_detail_1", 31], ["action_detail_2", 1], ["action_detail_3", 0], ["action_id", 134300203], ["action_type", 10], ["action_value_1", 1.0], ["action_value_2", 10.0], ["action_value_3", 10.0], ["action_value_4", 12.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "使範圍內敵人的魔法攻擊力降低{0}"], ["level_up_disp", "魔法攻擊力下降+{0}"], ["target_area", 2], ["target_assignment", 1], ["target_count", 99], ["target_number", 0], ["target_range", 400], ["target_type", 3]],
+          [["action_detail_1", 2], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 134300105], ["action_type", 1], ["action_value_1", 75.0], ["action_value_2", 75.0], ["action_value_3", 6.0], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "對範圍內的敵人造成{0}的魔法傷害"], ["level_up_disp", "魔法傷害+{0}"], ["target_area", 2], ["target_assignment", 1], ["target_count", 99], ["target_number", 0], ["target_range", 400], ["target_type", 3]],
+          [["action_detail_1", 41], ["action_detail_2", 1], ["action_detail_3", 0], ["action_id", 134300104], ["action_type", 10], ["action_value_1", 1.0], ["action_value_2", 0.7], ["action_value_3", 0.7], ["action_value_4", 18.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "使範圍內敵人的魔法防禦力下降{0}"], ["level_up_disp", "魔法防禦力降低+{0}"], ["target_area", 2], ["target_assignment", 1], ["target_count", 99], ["target_number", 0], ["target_range", 400], ["target_type", 4]],
+          [["action_detail_1", 134300102], ["action_detail_2", 3], ["action_detail_3", 0], ["action_id", 134300103], ["action_type", 74], ["action_value_1", 4.0], ["action_value_2", 1.0], ["action_value_3", 0.0], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", ""], ["level_up_disp", ""], ["target_area", 2], ["target_assignment", 1], ["target_count", 99], ["target_number", 0], ["target_range", 400], ["target_type", 3]],
+          [["action_detail_1", 4], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 134350101], ["action_type", 90], ["action_value_1", 1.0], ["action_value_2", 15.0], ["action_value_3", 15.0], ["action_value_4", 1.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "提升自身{0}的魔法攻擊力"], ["level_up_disp", "魔法攻擊力提升+{0}"], ["target_area", 0], ["target_assignment", 0], ["target_count", 0], ["target_number", 0], ["target_range", 0], ["target_type", 0]],
+          [["action_detail_1", 141], ["action_detail_2", 1], ["action_detail_3", 0], ["action_id", 134300205], ["action_type", 10], ["action_value_1", 1.0], ["action_value_2", 6.0], ["action_value_3", 0.0], ["action_value_4", 12.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "使範圍內敵人的被暴擊傷害提升{0}％"], ["level_up_disp", ""], ["target_area", 2], ["target_assignment", 1], ["target_count", 99], ["target_number", 0], ["target_range", 400], ["target_type", 3]],
+          [["action_detail_1", 134300303], ["action_detail_2", 1], ["action_detail_3", 0], ["action_id", 134300305], ["action_type", 26], ["action_value_1", 8.0], ["action_value_2", 0.00012], ["action_value_3", 0.00012], ["action_value_4", 24.0], ["action_value_5", 24.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", ""], ["level_up_disp", ""], ["target_area", 2], ["target_assignment", 2], ["target_count", 1], ["target_number", 0], ["target_range", 2160], ["target_type", 34]],
+          [["action_detail_1", 41], ["action_detail_2", 1], ["action_detail_3", 0], ["action_id", 134300204], ["action_type", 10], ["action_value_1", 1.0], ["action_value_2", 0.3], ["action_value_3", 0.3], ["action_value_4", 12.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "使範圍內敵人的魔法防禦力下降{0}"], ["level_up_disp", "魔法防禦力降低+{0}"], ["target_area", 2], ["target_assignment", 1], ["target_count", 99], ["target_number", 0], ["target_range", 400], ["target_type", 3]],
+          [["action_detail_1", 134300206], ["action_detail_2", 3], ["action_detail_3", 0], ["action_id", 134300208], ["action_type", 74], ["action_value_1", 4.0], ["action_value_2", 1.0], ["action_value_3", 0.0], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", ""], ["level_up_disp", ""], ["target_area", 2], ["target_assignment", 1], ["target_count", 99], ["target_number", 0], ["target_range", 400], ["target_type", 3]],
+          [["action_detail_1", 134300105], ["action_detail_2", 3], ["action_detail_3", 0], ["action_id", 134300106], ["action_type", 74], ["action_value_1", 4.0], ["action_value_2", 1.0], ["action_value_3", 0.0], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", ""], ["level_up_disp", ""], ["target_area", 2], ["target_assignment", 1], ["target_count", 99], ["target_number", 0], ["target_range", 400], ["target_type", 3]],
+          [["action_detail_1", 30], ["action_detail_2", 1], ["action_detail_3", 0], ["action_id", 134300302], ["action_type", 10], ["action_value_1", 1.0], ["action_value_2", 30.0], ["action_value_3", 30.0], ["action_value_4", 12.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "提升範圍內的我方{0}的魔法攻擊力"], ["level_up_disp", "魔法攻擊力提升+{0}"], ["target_area", 2], ["target_assignment", 2], ["target_count", 99], ["target_number", 0], ["target_range", 400], ["target_type", 3]]
+        ]
+      }
+    },
+    "unit_profile": {
+      "data_changes": {
+        "added": [
+          [["age", "20"], ["birth_day", "28"], ["birth_month", "12"], ["blood_type", "O"], ["catch_copy", "歌唱尋求靜寂的陰沉少女"], ["favorite", "唱歌、看書，以及寫詩"], ["guild", "憤怒‧軍團"], ["guild_id", "19"], ["height", "165"], ["race", "魔族"], ["self_text", ""], ["unit_id", 134301], ["unit_name", "蘭法（祭服）"], ["voice", "原田彩楓"], ["voice_id", 0], ["weight", "53"]]
+        ]
+      }
+    },
+    "unit_ex_equipment_slot": {
+      "data_changes": {
+        "added": [
+          [["slot_category_1", 109], ["slot_category_2", 204], ["slot_category_3", 305], ["unit_id", 134301]]
+        ]
+      }
+    },
+    "emblem_mission_data": {
+      "data_changes": {
+        "added": [
+          [["category_icon", 301], ["condition_num", 5], ["condition_value_1", 134301], ["condition_value_2", 0], ["condition_value_3", 0], ["description", "將蘭法（祭服）升到★5"], ["disp_group", 201294], ["end_time", "2030/04/01 14:59:59"], ["mission_condition", 6011], ["mission_id", 56011955], ["mission_reward_id", 56011955], ["start_time", "2025/07/04 16:00:00"], ["system_id", 501], ["visible_flag", 1]],
+          [["category_icon", 301], ["condition_num", 1], ["condition_value_1", 134301], ["condition_value_2", 0], ["condition_value_3", 0], ["description", "讓蘭法（祭服）成為夥伴"], ["disp_group", 201294], ["end_time", "2030/04/01 14:59:59"], ["mission_condition", 6011], ["mission_id", 56011953], ["mission_reward_id", 56011953], ["start_time", "2025/07/04 16:00:00"], ["system_id", 501], ["visible_flag", 1]],
+          [["category_icon", 301], ["condition_num", 3], ["condition_value_1", 134301], ["condition_value_2", 0], ["condition_value_3", 0], ["description", "將蘭法（祭服）升到★3"], ["disp_group", 201294], ["end_time", "2030/04/01 14:59:59"], ["mission_condition", 6011], ["mission_id", 56011954], ["mission_reward_id", 56011954], ["start_time", "2025/07/04 16:00:00"], ["system_id", 501], ["visible_flag", 1]]
+        ]
+      }
+    },
+    "unit_introduction": {
+      "data_changes": {
+        "added": [
+          [["end_time", "2025/07/16 15:59:59"], ["gacha_id", 30376], ["id", 368], ["introduction_number", 1], ["maximum_chunk_size_1", 380000], ["maximum_chunk_size_2", 0], ["maximum_chunk_size_3", 0], ["maximum_chunk_size_loop_1", 380000], ["maximum_chunk_size_loop_2", 0], ["maximum_chunk_size_loop_3", 0], ["start_time", "2025/07/04 16:00:00"]]
+        ]
+      }
+    },
+    "unit_attack_pattern": {
+      "data_changes": {
+        "added": [
+          [["atk_pattern_1", 1002], ["atk_pattern_10", 0], ["atk_pattern_11", 1001], ["atk_pattern_12", 0], ["atk_pattern_13", 0], ["atk_pattern_14", 0], ["atk_pattern_15", 0], ["atk_pattern_16", 0], ["atk_pattern_17", 0], ["atk_pattern_18", 0], ["atk_pattern_19", 0], ["atk_pattern_2", 1001], ["atk_pattern_20", 1], ["atk_pattern_3", 1002], ["atk_pattern_4", 1], ["atk_pattern_5", 1001], ["atk_pattern_6", 1], ["atk_pattern_7", 1002], ["atk_pattern_8", 1001], ["atk_pattern_9", 1], ["loop_end", 11], ["loop_start", 4], ["pattern_id", 13430101], ["unit_id", 134301]]
+        ]
+      }
+    },
+    "room_unit_comments": {
+      "data_changes": {
+        "added": [
+          [["beloved_step", 1], ["description", "和千歌的雙人合唱……\\n我應該……\\n沒有拖累她吧……？"], ["face_id", 1], ["id", 8942], ["insert_word_type", 0], ["time", 0], ["trigger", 1], ["unit_id", 134301], ["voice_id", 3]]
+        ]
+      }
+    },
+    "gacha_data": {
+      "data_changes": {
+        "added": [
+          [["b445862d0ab66dcf0d21148e77310f8e2f88e53c87861cd1b30c6271489741b7", 0], ["chara_odds_star1", "20376_1"], ["chara_odds_star2", "20376_2"], ["chara_odds_star3", "20376_3"], ["description", "白金轉蛋僅會出現角色喔！"], ["description_2", ""], ["description_sp", ""], ["discount_price", 50], ["end_time", "2025/07/16 15:59:59"], ["exchange_id", 376], ["ff12a2d323be4140b5b5f0e3db8f93c207d4d0594eff84913f280ebb8f5fbfcd", 0], ["free_gacha_count", 0], ["free_gacha_interval_time", 0], ["free_gacha_type", 0], ["gacha10_special_odds_star1", "0"], ["gacha10_special_odds_star2", "0"], ["gacha10_special_odds_star3", "0"], ["gacha_bonus_id", 0], ["gacha_cost_type", 2], ["gacha_detail", 2], ["gacha_id", 20376], ["gacha_name", "白金轉蛋"], ["gacha_odds", "0"], ["gacha_odds_star2", "0"], ["gacha_times_limit10", 0], ["gacha_type", 1], ["movie_id", 200001], ["parallel_id", 0], ["pick_up_chara_text", "無精選角色"], ["pickup_badge", 0], ["pickup_id", 0], ["price", 150], ["prizegacha_id", 0], ["rarity_odds", "300000"], ["special_id", 0], ["start_time", "2025/07/04 16:00:00"], ["tab_name", ""], ["ticket_id", 24001], ["ticket_id_10", 24004], ["title_id", 0]],
+          [["b445862d0ab66dcf0d21148e77310f8e2f88e53c87861cd1b30c6271489741b7", 0], ["chara_odds_star1", "30376_1"], ["chara_odds_star2", "30376_2"], ["chara_odds_star3", "30376_3"], ["description", "限定「蘭法（祭服）」登場！\\n期間內登場機率UP！"], ["description_2", "[3C404E]每次讓目標角色加入時[FFBB00,CE4F00][-]獲得[-]角色記憶碎片200個！"], ["description_sp", ""], ["discount_price", 50], ["end_time", "2025/07/16 15:59:59"], ["exchange_id", 376], ["ff12a2d323be4140b5b5f0e3db8f93c207d4d0594eff84913f280ebb8f5fbfcd", 0], ["free_gacha_count", 0], ["free_gacha_interval_time", 0], ["free_gacha_type", 0], ["gacha10_special_odds_star1", "0"], ["gacha10_special_odds_star2", "0"], ["gacha10_special_odds_star3", "0"], ["gacha_bonus_id", 1171], ["gacha_cost_type", 2], ["gacha_detail", 2], ["gacha_id", 30376], ["gacha_name", "精選轉蛋"], ["gacha_odds", "0"], ["gacha_odds_star2", "0"], ["gacha_times_limit10", 1], ["gacha_type", 1], ["movie_id", 300376], ["parallel_id", 0], ["pick_up_chara_text", "蘭法（祭服）"], ["pickup_badge", 0], ["pickup_id", 0], ["price", 150], ["prizegacha_id", 0], ["rarity_odds", "300000"], ["special_id", 0], ["start_time", "2025/07/04 16:00:00"], ["tab_name", ""], ["ticket_id", 24001], ["ticket_id_10", 24004], ["title_id", 0]],
+          [["b445862d0ab66dcf0d21148e77310f8e2f88e53c87861cd1b30c6271489741b7", 0], ["chara_odds_star1", "0"], ["chara_odds_star2", "0"], ["chara_odds_star3", "0"], ["description", "取得道具獎勵或記憶碎片吧！"], ["description_2", ""], ["description_sp", ""], ["discount_price", 0], ["end_time", "2025/07/16 15:59:59"], ["exchange_id", 0], ["ff12a2d323be4140b5b5f0e3db8f93c207d4d0594eff84913f280ebb8f5fbfcd", 0], ["free_gacha_count", 10], ["free_gacha_interval_time", 0], ["free_gacha_type", 1], ["gacha10_special_odds_star1", "0"], ["gacha10_special_odds_star2", "0"], ["gacha10_special_odds_star3", "0"], ["gacha_bonus_id", 0], ["gacha_cost_type", 3], ["gacha_detail", 1], ["gacha_id", 10376], ["gacha_name", "一般轉蛋"], ["gacha_odds", "10376"], ["gacha_odds_star2", ""], ["gacha_times_limit10", 0], ["gacha_type", 0], ["movie_id", 0], ["parallel_id", 0], ["pick_up_chara_text", ""], ["pickup_badge", 0], ["pickup_id", 0], ["price", 0], ["prizegacha_id", 0], ["rarity_odds", "0"], ["special_id", 0], ["start_time", "2025/07/04 16:00:00"], ["tab_name", ""], ["ticket_id", 0], ["ticket_id_10", 0], ["title_id", 0]]
+        ]
+      }
+    },
+    "extra_effect_unit_group": {
+      "data_changes": {
+        "added": [
+          [["group_id", 6101641], ["target_id", 258], ["unit_id", 134301]]
+        ]
+      }
+    },
+    "unit_promotion_status": {
+      "data_changes": {
+        "added": [
+          [["accuracy", 0.0], ["atk", 0.0], ["def", 137.0], ["dodge", 0.0], ["energy_recovery_rate", 22.0], ["energy_reduce_rate", 17.0], ["hp", 4950.0], ["hp_recovery_rate", 50.0], ["life_steal", 6.0], ["magic_critical", 2065.0], ["magic_def", 272.0], ["magic_penetrate", 0.0], ["magic_str", 37599.0], ["physical_critical", 0.0], ["physical_penetrate", 0.0], ["promotion_level", 34], ["unit_id", 134301], ["wave_energy_recovery", 372.0], ["wave_hp_recovery", 1280.0]]
+        ]
+      }
+    },
+    "emblem_mission_reward_data": {
+      "data_changes": {
+        "added": [
+          [["icon_type", 1003], ["id", 1510], ["mission_reward_id", 56011955], ["reward_id", 10201955], ["reward_num", 1], ["reward_type", 15]],
+          [["icon_type", 1001], ["id", 1508], ["mission_reward_id", 56011953], ["reward_id", 10201953], ["reward_num", 1], ["reward_type", 15]],
+          [["icon_type", 0], ["id", 1511], ["mission_reward_id", 56011955], ["reward_id", 91002], ["reward_num", 50], ["reward_type", 8]],
+          [["icon_type", 1002], ["id", 1509], ["mission_reward_id", 56011954], ["reward_id", 10201954], ["reward_num", 1], ["reward_type", 15]]
+        ]
+      }
+    },
+    "unit_data": {
+      "data_changes": {
+        "added": [
+          [["atk_type", 2], ["comment", "【魔法】位於後衛，身穿祭服並與精靈心靈相通的唱喚士。\\n會運用傷害量隨敵人數量變化的範圍攻擊，還有魔法無效\\n護盾等等支援技能，高聲唱出自身的心意。"], ["cutin1_star6", 134301], ["cutin2_star6", 0], ["cutin_1", 134301], ["cutin_2", 0], ["end_time", "2025/07/16 15:59:59"], ["exskill_display", 0], ["guild_id", 0], ["is_limited", 1], ["kana", "蘭法（祭服）"], ["motion_type", 0], ["move_speed", 450], ["normal_atk_cast_time", 2.09], ["only_disp_owned", 0], ["original_unit_id", 0], ["prefab_id", 134301], ["prefab_id_battle", 0], ["rarity", 3], ["se_type", 7], ["search_area_width", 778], ["start_time", "2025/07/04 16:00:00"], ["unit_id", 134301], ["unit_name", "蘭法（祭服）"]]
+        ]
+      }
+    },
+    "unit_motion_list": {
+      "data_changes": {
+        "added": [
+          [["sp_motion", 1], ["unit_id", 134301]]
+        ]
+      }
+    },
+    "unit_talent": {
+      "data_changes": {
+        "added": [
+          [["setting_id", 13430101], ["talent_id", 3], ["unit_id", 134301]]
+        ]
+      }
+    },
+    "unlock_rarity_6": {
+      "data_changes": {
+        "added": [
+          [["accuracy", 0], ["atk", 0], ["consume_gold", 0], ["def", 0], ["dodge", 0], ["energy_recovery_rate", 0], ["energy_reduce_rate", 0], ["hp", 0], ["hp_recovery_rate", 0], ["life_steal", 0], ["magic_critical", 0], ["magic_def", 0], ["magic_penetrate", 0], ["magic_str", 0], ["material_count", 0], ["material_id", 0], ["material_type", 0], ["physical_critical", 0], ["physical_penetrate", 0], ["slot_id", 2], ["unit_id", 134301], ["unlock_flag", 0], ["unlock_level", 0], ["wave_energy_recovery", 0], ["wave_hp_recovery", 0]]
+        ]
+      }
+    },
+    "tips": {
+      "data_changes": {
+        "added": [
+          [["id", 4134301], ["tips_index", 1], ["title", "果然……"], ["value", 134301]]
+        ]
+      }
+    },
+    "still": {
+      "data_changes": {
+        "added": [
+          [["album_ignore", 0], ["facial_id", 1], ["my_page_flag", 1], ["position_y", 0], ["scroll_direction", 0], ["still_group_id", 1343004], ["still_id", 134300401], ["story_group_id", 1343], ["story_id", 1343004], ["unit_id_1", 118131], ["unit_id_10", 0], ["unit_id_2", 0], ["unit_id_3", 0], ["unit_id_4", 0], ["unit_id_5", 0], ["unit_id_6", 0], ["unit_id_7", 0], ["unit_id_8", 0], ["unit_id_9", 0], ["vertical_still_flg", 0]],
+          [["album_ignore", 0], ["facial_id", 1], ["my_page_flag", 1], ["position_y", 0], ["scroll_direction", 0], ["still_group_id", 1343004], ["still_id", 134300403], ["story_group_id", 1343], ["story_id", 1343004], ["unit_id_1", 118131], ["unit_id_10", 0], ["unit_id_2", 0], ["unit_id_3", 0], ["unit_id_4", 0], ["unit_id_5", 0], ["unit_id_6", 0], ["unit_id_7", 0], ["unit_id_8", 0], ["unit_id_9", 0], ["vertical_still_flg", 0]],
+          [["album_ignore", 0], ["facial_id", 1], ["my_page_flag", 1], ["position_y", 0], ["scroll_direction", 0], ["still_group_id", 1343002], ["still_id", 134300202], ["story_group_id", 1343], ["story_id", 1343002], ["unit_id_1", 134311], ["unit_id_10", 0], ["unit_id_2", 0], ["unit_id_3", 0], ["unit_id_4", 0], ["unit_id_5", 0], ["unit_id_6", 0], ["unit_id_7", 0], ["unit_id_8", 0], ["unit_id_9", 0], ["vertical_still_flg", 0]],
+          [["album_ignore", 0], ["facial_id", 1], ["my_page_flag", 1], ["position_y", 0], ["scroll_direction", 0], ["still_group_id", 1343004], ["still_id", 134300402], ["story_group_id", 1343], ["story_id", 1343004], ["unit_id_1", 118131], ["unit_id_10", 0], ["unit_id_2", 0], ["unit_id_3", 0], ["unit_id_4", 0], ["unit_id_5", 0], ["unit_id_6", 0], ["unit_id_7", 0], ["unit_id_8", 0], ["unit_id_9", 0], ["vertical_still_flg", 0]],
+          [["album_ignore", 0], ["facial_id", 1], ["my_page_flag", 1], ["position_y", 0], ["scroll_direction", 0], ["still_group_id", 1343002], ["still_id", 134300201], ["story_group_id", 1343], ["story_id", 1343002], ["unit_id_1", 134311], ["unit_id_10", 0], ["unit_id_2", 0], ["unit_id_3", 0], ["unit_id_4", 0], ["unit_id_5", 0], ["unit_id_6", 0], ["unit_id_7", 0], ["unit_id_8", 0], ["unit_id_9", 0], ["vertical_still_flg", 0]]
+        ]
+      }
+    },
+    "unlock_unit_condition": {
+      "data_changes": {
+        "added": [
+          [["class_id", 1], ["condition_id_1", 31343], ["condition_id_2", 0], ["condition_id_3", 0], ["condition_id_4", 0], ["condition_id_5", 0], ["condition_type_1", 1], ["condition_type_2", 0], ["condition_type_3", 0], ["condition_type_4", 0], ["condition_type_5", 0], ["condition_type_detail_1", 2], ["condition_type_detail_2", 0], ["condition_type_detail_3", 0], ["condition_type_detail_4", 0], ["condition_type_detail_5", 0], ["count_1", 145], ["count_2", 0], ["count_3", 0], ["count_4", 0], ["count_5", 0], ["pre_unit_id", 0], ["release_effect_type", 2], ["unit_id", 134301], ["unit_name", "蘭法（祭服）"]]
+        ]
+      }
+    },
+    "story_detail": {
+      "data_changes": {
+        "added": [
+          [["can_bookmark", 1], ["end_time", "2030/12/17 14:59:59"], ["force_unlock_time", "2025/07/24 05:00:00"], ["force_unlock_time_2", "2030/12/17 14:59:59"], ["lock_all_text", 0], ["love_level", 0], ["pre_story_id", 5202007], ["pre_story_id_2", 0], ["read_process_flag", 1], ["requirement_id", 134301], ["reward_id_1", 91002], ["reward_id_2", 0], ["reward_id_3", 0], ["reward_type_1", 8], ["reward_type_2", 0], ["reward_type_3", 0], ["reward_value_1", 20], ["reward_value_2", 0], ["reward_value_3", 0], ["start_time", "2015/04/01 15:00:00"], ["story_end", 0], ["story_group_id", 1343], ["story_id", 1343001], ["story_quest_id", 0], ["sub_title", "sonatine　～小奏鳴曲～"], ["title", "蘭法（祭服） 第1話"], ["unlock_quest_id", 0], ["visible_type", 0]],
+          [["can_bookmark", 1], ["end_time", "2030/12/17 14:59:59"], ["force_unlock_time", "2030/12/17 14:59:59"], ["force_unlock_time_2", "2030/12/17 14:59:59"], ["lock_all_text", 0], ["love_level", 8], ["pre_story_id", 1343003], ["pre_story_id_2", 0], ["read_process_flag", 1], ["requirement_id", 134301], ["reward_id_1", 91002], ["reward_id_2", 0], ["reward_id_3", 0], ["reward_type_1", 8], ["reward_type_2", 0], ["reward_type_3", 0], ["reward_value_1", 50], ["reward_value_2", 0], ["reward_value_3", 0], ["start_time", "2015/04/01 15:00:00"], ["story_end", 0], ["story_group_id", 1343], ["story_id", 1343004], ["story_quest_id", 0], ["sub_title", "aubade　～黎明曲～"], ["title", "蘭法（祭服） 第4話"], ["unlock_quest_id", 0], ["visible_type", 0]],
+          [["can_bookmark", 1], ["end_time", "2030/12/17 14:59:59"], ["force_unlock_time", "2030/12/17 14:59:59"], ["force_unlock_time_2", "2030/12/17 14:59:59"], ["lock_all_text", 0], ["love_level", 4], ["pre_story_id", 1343001], ["pre_story_id_2", 0], ["read_process_flag", 1], ["requirement_id", 134301], ["reward_id_1", 91002], ["reward_id_2", 0], ["reward_id_3", 0], ["reward_type_1", 8], ["reward_type_2", 0], ["reward_type_3", 0], ["reward_value_1", 20], ["reward_value_2", 0], ["reward_value_3", 0], ["start_time", "2015/04/01 15:00:00"], ["story_end", 0], ["story_group_id", 1343], ["story_id", 1343002], ["story_quest_id", 0], ["sub_title", "waltz　～圓舞曲～"], ["title", "蘭法（祭服） 第2話"], ["unlock_quest_id", 0], ["visible_type", 0]],
+          [["can_bookmark", 1], ["end_time", "2030/12/17 14:59:59"], ["force_unlock_time", "2030/12/17 14:59:59"], ["force_unlock_time_2", "2030/12/17 14:59:59"], ["lock_all_text", 0], ["love_level", 5], ["pre_story_id", 1343002], ["pre_story_id_2", 0], ["read_process_flag", 1], ["requirement_id", 134301], ["reward_id_1", 91002], ["reward_id_2", 0], ["reward_id_3", 0], ["reward_type_1", 8], ["reward_type_2", 0], ["reward_type_3", 0], ["reward_value_1", 20], ["reward_value_2", 0], ["reward_value_3", 0], ["start_time", "2015/04/01 15:00:00"], ["story_end", 0], ["story_group_id", 1343], ["story_id", 1343003], ["story_quest_id", 0], ["sub_title", "cantata　～清唱劇～"], ["title", "蘭法（祭服） 第3話"], ["unlock_quest_id", 0], ["visible_type", 0]]
+        ]
+      }
+    },
+    "banner": {
+      "data_changes": {
+        "added": [
+          [["banner_id", 10329], ["condition_id", 0], ["end_date", "2025/07/16 15:59:59"], ["gacha_id", 30376], ["is_show_room", 0], ["priority", 50102], ["start_date", "2025/07/04 16:00:00"], ["sub_banner_id_1", 0], ["system_id", 302], ["type", 1]]
+        ]
+      }
+    },
+    "v1_11209abbbac7499e8441d7dc65b0fc060e15956791fefed140d3a50118fb4f9f": {
+      "data_changes": {
+        "added": [
+          [["273cd6610758967a2ab61ecca61ba2735941ae38e6bcb17b1bb67998e85b9d97", "蘭法（祭服）"], ["3b5eb7fb62367fd94e4aebe0ac662207c964ee81c11d6c135db9bee96eb814b1", 0], ["553f43f54369fcb69a74d6c0629ecd4900e019044fba4a087be435ee6b7ca601", 0], ["93aa0043b813aa9d65634995c6b35ad3216f67da8318280629f1eaa88a52ff6b", 1343], ["944fecb870fbf22330ee6a5a6a4ca541d2a51522c62290c4e97914ae3b23b526", 809212], ["9ab6cf32d5f81d4ba9d911f9fe52db9b7366f8eabfbf430b588cf00fa67fb272", "2015/04/01 15:00:00"], ["ace414b95662d453779d4e3df022a3731c17698d1e1c3c479465596100c57a0c", 267], ["b06823859e213f43d0ec847dded1328f4773c8fda99c414e80987c5b8c7c78b3", 0], ["bafd9eb2dc33bed4bdb0bcc7434403e81b89f4cbd8c570edda6328b37aa6f97a", "2030/12/17 14:59:59"], ["eaff3719b84fc5a577fcfc346e4f503d450f66fad3b5686bdd44e9265b97787c", 1343], ["f93f1cb6891788c9698faaacbabaf5186b4b88db2ec586a83c6e19d6d8ac907d", 1]]
+        ],
+        "modified": [
+          {
+            "id": 1269,
+            "old": [["273cd6610758967a2ab61ecca61ba2735941ae38e6bcb17b1bb67998e85b9d97", "蘭法（夏日）"], ["3b5eb7fb62367fd94e4aebe0ac662207c964ee81c11d6c135db9bee96eb814b1", 0], ["553f43f54369fcb69a74d6c0629ecd4900e019044fba4a087be435ee6b7ca601", 0], ["93aa0043b813aa9d65634995c6b35ad3216f67da8318280629f1eaa88a52ff6b", 1269], ["944fecb870fbf22330ee6a5a6a4ca541d2a51522c62290c4e97914ae3b23b526", 809212], ["9ab6cf32d5f81d4ba9d911f9fe52db9b7366f8eabfbf430b588cf00fa67fb272", "2015/04/01 15:00:00"], ["ace414b95662d453779d4e3df022a3731c17698d1e1c3c479465596100c57a0c", 151], ["b06823859e213f43d0ec847dded1328f4773c8fda99c414e80987c5b8c7c78b3", 0], ["bafd9eb2dc33bed4bdb0bcc7434403e81b89f4cbd8c570edda6328b37aa6f97a", "2030/12/17 14:59:59"], ["eaff3719b84fc5a577fcfc346e4f503d450f66fad3b5686bdd44e9265b97787c", 1269], ["f93f1cb6891788c9698faaacbabaf5186b4b88db2ec586a83c6e19d6d8ac907d", 1]],
+            "new": [["273cd6610758967a2ab61ecca61ba2735941ae38e6bcb17b1bb67998e85b9d97", "蘭法（夏日）"], ["3b5eb7fb62367fd94e4aebe0ac662207c964ee81c11d6c135db9bee96eb814b1", 0], ["553f43f54369fcb69a74d6c0629ecd4900e019044fba4a087be435ee6b7ca601", 0], ["93aa0043b813aa9d65634995c6b35ad3216f67da8318280629f1eaa88a52ff6b", 1269], ["944fecb870fbf22330ee6a5a6a4ca541d2a51522c62290c4e97914ae3b23b526", 809213], ["9ab6cf32d5f81d4ba9d911f9fe52db9b7366f8eabfbf430b588cf00fa67fb272", "2015/04/01 15:00:00"], ["ace414b95662d453779d4e3df022a3731c17698d1e1c3c479465596100c57a0c", 151], ["b06823859e213f43d0ec847dded1328f4773c8fda99c414e80987c5b8c7c78b3", 0], ["bafd9eb2dc33bed4bdb0bcc7434403e81b89f4cbd8c570edda6328b37aa6f97a", "2030/12/17 14:59:59"], ["eaff3719b84fc5a577fcfc346e4f503d450f66fad3b5686bdd44e9265b97787c", 1269], ["f93f1cb6891788c9698faaacbabaf5186b4b88db2ec586a83c6e19d6d8ac907d", 1]]
+          }
+        ]
+      }
+    },
+    "chara_identity": {
+      "data_changes": {
+        "added": [
+          [["chara_type", 181], ["chara_type_2", 0], ["chara_type_3", 0], ["unit_id", 134301]]
+        ]
+      }
+    },
+    "actual_unit_background": {
+      "data_changes": {
+        "added": [
+          [["bg_id", 510124], ["face_type", 4], ["unit_id", 134331], ["unit_name", "卯之花 蘭"]]
+        ]
+      }
+    },
+    "unit_background": {
+      "data_changes": {
+        "added": [
+          [["bg_id", 501202], ["bg_name", "可可蘿的故鄉_夜晚"], ["face_type", 2], ["position", 0.0], ["unit_id", 134301], ["unit_name", "蘭法（祭服）"]]
+        ]
+      }
+    },
+    "skill_data": {
+      "data_changes": {
+        "added": [
+          [["action_1", 134300201], ["action_10", 0], ["action_2", 134300202], ["action_3", 134300203], ["action_4", 134300204], ["action_5", 134300205], ["action_6", 134300206], ["action_7", 134300207], ["action_8", 134300208], ["action_9", 0], ["boss_ub_cool_time", 0.0], ["depend_action_1", 0], ["depend_action_10", 0], ["depend_action_2", 134300201], ["depend_action_3", 134300202], ["depend_action_4", 134300202], ["depend_action_5", 134300202], ["depend_action_6", 134300201], ["depend_action_7", 134300201], ["depend_action_8", 134300201], ["depend_action_9", 0], ["description", "以魔法防禦力最低的１名敵人為中心，對範圍內所有敵人造成大幅度的魔法傷害，中幅度降低其魔法攻擊力，小幅度降低魔法防禦力，並小幅度提升受到暴擊時造成的傷害。同時再追加大幅度的魔法傷害。此技能的傷害將會依範圍內的敵人數量而減少。"], ["icon_type", 2002], ["name", "悅耳微風"], ["skill_area_width", 0], ["skill_cast_time", 1.05], ["skill_id", 1343002], ["skill_type", 0]],
+          [["action_1", 134300301], ["action_10", 0], ["action_2", 134300302], ["action_3", 134300303], ["action_4", 134300304], ["action_5", 134300305], ["action_6", 0], ["action_7", 0], ["action_8", 0], ["action_9", 0], ["boss_ub_cool_time", 0.0], ["depend_action_1", 0], ["depend_action_10", 0], ["depend_action_2", 0], ["depend_action_3", 0], ["depend_action_4", 0], ["depend_action_5", 0], ["depend_action_6", 0], ["depend_action_7", 0], ["depend_action_8", 0], ["depend_action_9", 0], ["description", "大幅度提升所有我方的魔法防禦力。同時，以自身為中心，特大幅度提升範圍內所有我方的魔法攻擊力，並展開魔法無效護盾。依照自身以外最近的１名我方角色的魔法攻擊力，魔法攻擊力提升的數值、護盾的無效傷害量將增加，最多增加至２倍。"], ["icon_type", 2003], ["name", "和諧之環"], ["skill_area_width", 0], ["skill_cast_time", 1.05], ["skill_id", 1343003], ["skill_type", 0]],
+          [["action_1", 134351101], ["action_10", 0], ["action_2", 0], ["action_3", 0], ["action_4", 0], ["action_5", 0], ["action_6", 0], ["action_7", 0], ["action_8", 0], ["action_9", 0], ["boss_ub_cool_time", 0.0], ["depend_action_1", 0], ["depend_action_10", 0], ["depend_action_2", 0], ["depend_action_3", 0], ["depend_action_4", 0], ["depend_action_5", 0], ["depend_action_6", 0], ["depend_action_7", 0], ["depend_action_8", 0], ["depend_action_9", 0], ["description", "戰鬥開始時，大幅度提升自己的魔法攻擊力。"], ["icon_type", 3003], ["name", "儀式之聲+"], ["skill_area_width", 0], ["skill_cast_time", 0.0], ["skill_id", 1343511], ["skill_type", 0]],
+          [["action_1", 134350101], ["action_10", 0], ["action_2", 0], ["action_3", 0], ["action_4", 0], ["action_5", 0], ["action_6", 0], ["action_7", 0], ["action_8", 0], ["action_9", 0], ["boss_ub_cool_time", 0.0], ["depend_action_1", 0], ["depend_action_10", 0], ["depend_action_2", 0], ["depend_action_3", 0], ["depend_action_4", 0], ["depend_action_5", 0], ["depend_action_6", 0], ["depend_action_7", 0], ["depend_action_8", 0], ["depend_action_9", 0], ["description", "戰鬥開始時，中幅度提升自己的魔法攻擊力。"], ["icon_type", 3003], ["name", "儀式之聲"], ["skill_area_width", 0], ["skill_cast_time", 0.0], ["skill_id", 1343501], ["skill_type", 0]],
+          [["action_1", 134300101], ["action_10", 0], ["action_2", 134300102], ["action_3", 134300103], ["action_4", 134300104], ["action_5", 134300105], ["action_6", 134300106], ["action_7", 0], ["action_8", 0], ["action_9", 0], ["boss_ub_cool_time", 0.0], ["depend_action_1", 0], ["depend_action_10", 0], ["depend_action_2", 134300101], ["depend_action_3", 134300101], ["depend_action_4", 134300102], ["depend_action_5", 134300101], ["depend_action_6", 134300101], ["depend_action_7", 0], ["depend_action_8", 0], ["depend_action_9", 0], ["description", "以魔法防禦力最低的１名敵人為中心，對範圍內所有敵人造成特大幅度的魔法傷害，並中幅度降低其魔法防禦力。同時再追加特大幅度的魔法傷害。此技能的傷害將會依範圍內的敵人數量而減少。"], ["icon_type", 1002], ["name", "紅碧璽交響曲"], ["skill_area_width", 0], ["skill_cast_time", 0.0], ["skill_id", 1343001], ["skill_type", 0]]
+        ]
+      }
+    },
+    "emblem_data": {
+      "data_changes": {
+        "added": [
+          [["description_mission_id", 56011954], ["disp_oder", 201948], ["emblem_id", 10201954], ["emblem_name", "與蘭法（祭服）的羈絆"], ["end_time", "2030/01/01 23:59:59"], ["event_emblem", 0], ["start_time", "2025/07/04 16:00:00"], ["type", 2]],
+          [["description_mission_id", 56011953], ["disp_oder", 201947], ["emblem_id", 10201953], ["emblem_name", "蘭法（祭服）"], ["end_time", "2030/01/01 23:59:59"], ["event_emblem", 0], ["start_time", "2025/07/04 16:00:00"], ["type", 2]],
+          [["description_mission_id", 56011955], ["disp_oder", 201949], ["emblem_id", 10201955], ["emblem_name", "繫結心意的唱喚士"], ["end_time", "2030/01/01 23:59:59"], ["event_emblem", 0], ["start_time", "2025/07/04 16:00:00"], ["type", 2]]
+        ]
+      }
+    },
+    "voice_group_chara": {
+      "data_changes": {
+        "modified": [
+          {
+            "id": 118101001,
+            "old": [["group_unit_id", 118101001], ["group_unit_id_comment", "憤怒軍團（蘭法）"], ["unit_id_01", 118101], ["unit_id_02", 126901], ["unit_id_03", 0], ["unit_id_04", 0], ["unit_id_05", 0], ["unit_id_06", 0], ["unit_id_07", 0], ["unit_id_08", 0], ["unit_id_09", 0], ["unit_id_10", 0]],
+            "new": [["group_unit_id", 118101001], ["group_unit_id_comment", "憤怒軍團（蘭法）"], ["unit_id_01", 118101], ["unit_id_02", 126901], ["unit_id_03", 134301], ["unit_id_04", 0], ["unit_id_05", 0], ["unit_id_06", 0], ["unit_id_07", 0], ["unit_id_08", 0], ["unit_id_09", 0], ["unit_id_10", 0]]
+          }
+        ]
+      }
+    },
+    "gacha_exchange_lineup": {
+      "data_changes": {
+        "added": [
+          [["end_time", "2025/07/16 15:59:59"], ["exchange_id", 376], ["gacha_bonus_id", 1171], ["id", 1033], ["pickup_gacha_id", 30376], ["rarity", 3], ["start_time", "2025/07/04 16:00:00"], ["unit_id", 134301]]
+        ]
+      }
+    },
+    "album_production_list": {
+      "data_changes": {
+        "added": [
+          [["description", ""], ["id", 13430101], ["title", "解放表演1"], ["type", 201], ["unit_id", 134301]],
+          [["description", ""], ["id", 13430105], ["title", "羈絆Rank表演4"], ["type", 104], ["unit_id", 134301]],
+          [["description", ""], ["id", 13430102], ["title", "羈絆Rank表演1"], ["type", 101], ["unit_id", 134301]],
+          [["description", ""], ["id", 13430104], ["title", "羈絆Rank表演3"], ["type", 103], ["unit_id", 134301]],
+          [["description", ""], ["id", 13430107], ["title", "羈絆Rank表演6"], ["type", 106], ["unit_id", 134301]],
+          [["description", ""], ["id", 13430106], ["title", "羈絆Rank表演5"], ["type", 105], ["unit_id", 134301]],
+          [["description", ""], ["id", 13430103], ["title", "羈絆Rank表演2"], ["type", 102], ["unit_id", 134301]],
+          [["description", ""], ["id", 13430108], ["title", "羈絆Rank表演7"], ["type", 107], ["unit_id", 134301]]
+        ]
+      }
+    },
+    "item_data": {
+      "data_changes": {
+        "added": [
+          [["description", "-2146826273"], ["end_time", "2030/08/01 14:59:00"], ["gojuon_order", 0], ["item_id", 41343], ["item_name", "蘭法（祭服）專用戒指"], ["item_type", 22], ["limit_num", 9999], ["price", 0], ["promotion_level", 1], ["sell_check_disp", 0], ["start_time", "2015/12/17 15:00:00"], ["value", 0]],
+          [["description", "封印有蘭法（祭服）的記憶碎片的道具。收集一定數量，則可以解放角色深藏的力量。"], ["end_time", "2030/08/01 14:59:59"], ["gojuon_order", 8092132], ["item_id", 31343], ["item_name", "蘭法（祭服）的記憶碎片"], ["item_type", 11], ["limit_num", 9999], ["price", 0], ["promotion_level", 1], ["sell_check_disp", 0], ["start_time", "2015/12/17 15:00:00"], ["value", 31343]]
+        ]
+      }
+    },
+    "unit_skill_data": {
+      "data_changes": {
+        "added": [
+          [["ex_skill_1", 1343501], ["ex_skill_2", 0], ["ex_skill_3", 0], ["ex_skill_4", 0], ["ex_skill_5", 0], ["ex_skill_evolution_1", 1343511], ["ex_skill_evolution_2", 0], ["ex_skill_evolution_3", 0], ["ex_skill_evolution_4", 0], ["ex_skill_evolution_5", 0], ["main_skill_1", 1343002], ["main_skill_10", 0], ["main_skill_2", 1343003], ["main_skill_3", 0], ["main_skill_4", 0], ["main_skill_5", 0], ["main_skill_6", 0], ["main_skill_7", 0], ["main_skill_8", 0], ["main_skill_9", 0], ["main_skill_evolution_1", 0], ["main_skill_evolution_2", 0], ["sp_skill_1", 0], ["sp_skill_2", 0], ["sp_skill_3", 0], ["sp_skill_4", 0], ["sp_skill_5", 0], ["sp_skill_evolution_1", 0], ["sp_skill_evolution_2", 0], ["sp_union_burst", 0], ["union_burst", 1343001], ["union_burst_evolution", 0], ["unit_id", 134301]]
+        ]
+      }
+    },
+    "guild": {
+      "data_changes": {
+        "modified": [
+          {
+            "id": 19,
+            "old": [["description", ""], ["guild_id", 19], ["guild_master", 1923], ["guild_name", "憤怒‧軍團"], ["member1", 1181], ["member10", 0], ["member11", 0], ["member12", 0], ["member13", 0], ["member14", 0], ["member15", 0], ["member16", 0], ["member17", 0], ["member18", 0], ["member19", 0], ["member2", 1233], ["member20", 0], ["member21", 0], ["member22", 0], ["member23", 0], ["member24", 0], ["member25", 0], ["member26", 0], ["member27", 0], ["member28", 0], ["member29", 0], ["member3", 1269], ["member30", 0], ["member4", 1311], ["member5", 1312], ["member6", 1182], ["member7", 0], ["member8", 0], ["member9", 0]],
+            "new": [["description", ""], ["guild_id", 19], ["guild_master", 1923], ["guild_name", "憤怒‧軍團"], ["member1", 1181], ["member10", 0], ["member11", 0], ["member12", 0], ["member13", 0], ["member14", 0], ["member15", 0], ["member16", 0], ["member17", 0], ["member18", 0], ["member19", 0], ["member2", 1233], ["member20", 0], ["member21", 0], ["member22", 0], ["member23", 0], ["member24", 0], ["member25", 0], ["member26", 0], ["member27", 0], ["member28", 0], ["member29", 0], ["member3", 1269], ["member30", 0], ["member4", 1311], ["member5", 1312], ["member6", 1182], ["member7", 1343], ["member8", 0], ["member9", 0]]
+          }
+        ]
+      }
+    },
+    "extra_effect_target_range": {
+      "data_changes": {
+        "added": [
+          [["group_id", 6101641], ["set_id", 61016401], ["target_id", 76]]
+        ]
+      }
+    },
+    "unit_promotion": {
+      "data_changes": {
+        "added": [
+          [["equip_slot_1", 104224], ["equip_slot_2", 104223], ["equip_slot_3", 104462], ["equip_slot_4", 104222], ["equip_slot_5", 104612], ["equip_slot_6", 104611], ["promotion_level", 9], ["unit_id", 134301]]
+        ]
+      }
+    },
+    "unit_enemy_data": {
+      "data_changes": {
+        "added": [
+          [["atk_type", 2], ["comment", "有著蘭法（祭服）樣貌的特殊魔物"], ["cutin", 0], ["cutin_star6", 0], ["motion_type", 0], ["move_speed", 450], ["normal_atk_cast_time", 2.09], ["prefab_id", 134301], ["se_type", 7], ["search_area_width", 778], ["unit_id", 634301], ["unit_name", "蘭法（祭服）的闇影"], ["visual_change_flag", 1]]
+        ]
+      }
+    },
+    "v1_e27dba30441946f453ee4714b5802e4c353b3edbd6b091ec5ba5e79a9ee10497": {
+      "data_changes": {
+        "added": [
+          [["0b15055930c86fdb2479e651739850c470846162a8cf8fcc5bb1cde0bcbbb75d", "戰鬥開始90秒內，\\n特大幅度提升ＴＰ上升。"], ["5cf7dbc17fe4dc35df76d9a29577f4471594f9f8fac4a09814d69f4369f2b742", 10202501], ["617107450e288186457b7c9e4864f594525427fe21b10f6055ddfe9f02bf6f41", "2025/07/04 16:00:00"], ["87cffb5084c493fac3d239516997f8ecc0265744785469b1b715f9227783b657", 3010], ["c0a65d2e8b2734e181c050d23d6b578cf752ab92f88ba229da80522b60643e51", 10202014], ["d016b74c77736a132ad6d81962b7c9f642e88204be4170e92247fdecfd5a217d", 134301]],
+          [["0b15055930c86fdb2479e651739850c470846162a8cf8fcc5bb1cde0bcbbb75d", "戰鬥開始90秒內，\\n極大幅度提升魔法攻擊力。"], ["5cf7dbc17fe4dc35df76d9a29577f4471594f9f8fac4a09814d69f4369f2b742", 10202501], ["617107450e288186457b7c9e4864f594525427fe21b10f6055ddfe9f02bf6f41", "2025/07/04 16:00:00"], ["87cffb5084c493fac3d239516997f8ecc0265744785469b1b715f9227783b657", 3003], ["c0a65d2e8b2734e181c050d23d6b578cf752ab92f88ba229da80522b60643e51", 10202013], ["d016b74c77736a132ad6d81962b7c9f642e88204be4170e92247fdecfd5a217d", 134301]]
+        ]
+      }
+    },
+    "promotion_bonus": {
+      "data_changes": {
+        "added": [
+          [["accuracy", 36], ["atk", 0.0], ["def", 0.0], ["dodge", 0.0], ["energy_recovery_rate", 10.0], ["energy_reduce_rate", 0.0], ["hp", 0.0], ["hp_recovery_rate", 2600.0], ["life_steal", 0.0], ["magic_critical", 0.0], ["magic_def", 0.0], ["magic_penetrate", 0.0], ["magic_str", 0.0], ["physical_critical", 0.0], ["physical_penetrate", 0.0], ["promotion_level", 0.0], ["unit_id", 134301], ["wave_energy_recovery", 0.0], ["wave_hp_recovery", 0.0]]
+        ]
+      }
+    },
+    "chara_story_status": {
+      "data_changes": {
+        "added": [
+          [["chara_id_1", 1343], ["chara_id_10", 0], ["chara_id_11", 0], ["chara_id_12", 0], ["chara_id_13", 0], ["chara_id_14", 0], ["chara_id_15", 0], ["chara_id_16", 0], ["chara_id_17", 0], ["chara_id_18", 0], ["chara_id_19", 0], ["chara_id_2", 1181], ["chara_id_20", 0], ["chara_id_3", 1269], ["chara_id_4", 0], ["chara_id_5", 0], ["chara_id_6", 0], ["chara_id_7", 0], ["chara_id_8", 0], ["chara_id_9", 0], ["status_rate_1", 50], ["status_rate_2", 0], ["status_rate_3", 0], ["status_rate_4", 0], ["status_rate_5", 0], ["status_type_1", 4], ["status_type_2", 0], ["status_type_3", 0], ["status_type_4", 0], ["status_type_5", 0], ["story_id", 1343004], ["unlock_story_name", "蘭法（祭服）のエピソード第4話"]],
+          [["chara_id_1", 1343], ["chara_id_10", 0], ["chara_id_11", 0], ["chara_id_12", 0], ["chara_id_13", 0], ["chara_id_14", 0], ["chara_id_15", 0], ["chara_id_16", 0], ["chara_id_17", 0], ["chara_id_18", 0], ["chara_id_19", 0], ["chara_id_2", 1181], ["chara_id_20", 0], ["chara_id_3", 1269], ["chara_id_4", 0], ["chara_id_5", 0], ["chara_id_6", 0], ["chara_id_7", 0], ["chara_id_8", 0], ["chara_id_9", 0], ["status_rate_1", 10], ["status_rate_2", 0], ["status_rate_3", 0], ["status_rate_4", 0], ["status_rate_5", 0], ["status_type_1", 4], ["status_type_2", 0], ["status_type_3", 0], ["status_type_4", 0], ["status_type_5", 0], ["story_id", 1343002], ["unlock_story_name", "蘭法（祭服）のエピソード第2話"]],
+          [["chara_id_1", 1343], ["chara_id_10", 0], ["chara_id_11", 0], ["chara_id_12", 0], ["chara_id_13", 0], ["chara_id_14", 0], ["chara_id_15", 0], ["chara_id_16", 0], ["chara_id_17", 0], ["chara_id_18", 0], ["chara_id_19", 0], ["chara_id_2", 1181], ["chara_id_20", 0], ["chara_id_3", 1269], ["chara_id_4", 0], ["chara_id_5", 0], ["chara_id_6", 0], ["chara_id_7", 0], ["chara_id_8", 0], ["chara_id_9", 0], ["status_rate_1", 30], ["status_rate_2", 0], ["status_rate_3", 0], ["status_rate_4", 0], ["status_rate_5", 0], ["status_type_1", 4], ["status_type_2", 0], ["status_type_3", 0], ["status_type_4", 0], ["status_type_5", 0], ["story_id", 1343003], ["unlock_story_name", "蘭法（祭服）のエピソード第3話"]]
+        ],
+        "modified": [
+          {
+            "id": 1269004,
+            "old": [["chara_id_1", 1269], ["chara_id_10", 0], ["chara_id_11", 0], ["chara_id_12", 0], ["chara_id_13", 0], ["chara_id_14", 0], ["chara_id_15", 0], ["chara_id_16", 0], ["chara_id_17", 0], ["chara_id_18", 0], ["chara_id_19", 0], ["chara_id_2", 1181], ["chara_id_20", 0], ["chara_id_3", 0], ["chara_id_4", 0], ["chara_id_5", 0], ["chara_id_6", 0], ["chara_id_7", 0], ["chara_id_8", 0], ["chara_id_9", 0], ["status_rate_1", 50], ["status_rate_2", 0], ["status_rate_3", 0], ["status_rate_4", 0], ["status_rate_5", 0], ["status_type_1", 4], ["status_type_2", 0], ["status_type_3", 0], ["status_type_4", 0], ["status_type_5", 0], ["story_id", 1269004], ["unlock_story_name", "蘭法（夏日）のエピソード第4話"]],
+            "new": [["chara_id_1", 1269], ["chara_id_10", 0], ["chara_id_11", 0], ["chara_id_12", 0], ["chara_id_13", 0], ["chara_id_14", 0], ["chara_id_15", 0], ["chara_id_16", 0], ["chara_id_17", 0], ["chara_id_18", 0], ["chara_id_19", 0], ["chara_id_2", 1181], ["chara_id_20", 0], ["chara_id_3", 1343], ["chara_id_4", 0], ["chara_id_5", 0], ["chara_id_6", 0], ["chara_id_7", 0], ["chara_id_8", 0], ["chara_id_9", 0], ["status_rate_1", 50], ["status_rate_2", 0], ["status_rate_3", 0], ["status_rate_4", 0], ["status_rate_5", 0], ["status_type_1", 4], ["status_type_2", 0], ["status_type_3", 0], ["status_type_4", 0], ["status_type_5", 0], ["story_id", 1269004], ["unlock_story_name", "蘭法（夏日）のエピソード第4話"]]
+          },
+          {
+            "id": 1181003,
+            "old": [["chara_id_1", 1181], ["chara_id_10", 0], ["chara_id_11", 0], ["chara_id_12", 0], ["chara_id_13", 0], ["chara_id_14", 0], ["chara_id_15", 0], ["chara_id_16", 0], ["chara_id_17", 0], ["chara_id_18", 0], ["chara_id_19", 0], ["chara_id_2", 1269], ["chara_id_20", 0], ["chara_id_3", 0], ["chara_id_4", 0], ["chara_id_5", 0], ["chara_id_6", 0], ["chara_id_7", 0], ["chara_id_8", 0], ["chara_id_9", 0], ["status_rate_1", 80], ["status_rate_2", 60], ["status_rate_3", 0], ["status_rate_4", 0], ["status_rate_5", 0], ["status_type_1", 4], ["status_type_2", 11], ["status_type_3", 0], ["status_type_4", 0], ["status_type_5", 0], ["story_id", 1181003], ["unlock_story_name", "蘭法のエピソード第3話"]],
+            "new": [["chara_id_1", 1181], ["chara_id_10", 0], ["chara_id_11", 0], ["chara_id_12", 0], ["chara_id_13", 0], ["chara_id_14", 0], ["chara_id_15", 0], ["chara_id_16", 0], ["chara_id_17", 0], ["chara_id_18", 0], ["chara_id_19", 0], ["chara_id_2", 1269], ["chara_id_20", 0], ["chara_id_3", 1343], ["chara_id_4", 0], ["chara_id_5", 0], ["chara_id_6", 0], ["chara_id_7", 0], ["chara_id_8", 0], ["chara_id_9", 0], ["status_rate_1", 80], ["status_rate_2", 60], ["status_rate_3", 0], ["status_rate_4", 0], ["status_rate_5", 0], ["status_type_1", 4], ["status_type_2", 11], ["status_type_3", 0], ["status_type_4", 0], ["status_type_5", 0], ["story_id", 1181003], ["unlock_story_name", "蘭法のエピソード第3話"]]
+          },
+          {
+            "id": 1269003,
+            "old": [["chara_id_1", 1269], ["chara_id_10", 0], ["chara_id_11", 0], ["chara_id_12", 0], ["chara_id_13", 0], ["chara_id_14", 0], ["chara_id_15", 0], ["chara_id_16", 0], ["chara_id_17", 0], ["chara_id_18", 0], ["chara_id_19", 0], ["chara_id_2", 1181], ["chara_id_20", 0], ["chara_id_3", 0], ["chara_id_4", 0], ["chara_id_5", 0], ["chara_id_6", 0], ["chara_id_7", 0], ["chara_id_8", 0], ["chara_id_9", 0], ["status_rate_1", 30], ["status_rate_2", 0], ["status_rate_3", 0], ["status_rate_4", 0], ["status_rate_5", 0], ["status_type_1", 4], ["status_type_2", 0], ["status_type_3", 0], ["status_type_4", 0], ["status_type_5", 0], ["story_id", 1269003], ["unlock_story_name", "蘭法（夏日）のエピソード第3話"]],
+            "new": [["chara_id_1", 1269], ["chara_id_10", 0], ["chara_id_11", 0], ["chara_id_12", 0], ["chara_id_13", 0], ["chara_id_14", 0], ["chara_id_15", 0], ["chara_id_16", 0], ["chara_id_17", 0], ["chara_id_18", 0], ["chara_id_19", 0], ["chara_id_2", 1181], ["chara_id_20", 0], ["chara_id_3", 1343], ["chara_id_4", 0], ["chara_id_5", 0], ["chara_id_6", 0], ["chara_id_7", 0], ["chara_id_8", 0], ["chara_id_9", 0], ["status_rate_1", 30], ["status_rate_2", 0], ["status_rate_3", 0], ["status_rate_4", 0], ["status_rate_5", 0], ["status_type_1", 4], ["status_type_2", 0], ["status_type_3", 0], ["status_type_4", 0], ["status_type_5", 0], ["story_id", 1269003], ["unlock_story_name", "蘭法（夏日）のエピソード第3話"]]
+          },
+          {
+            "id": 1181002,
+            "old": [["chara_id_1", 1181], ["chara_id_10", 0], ["chara_id_11", 0], ["chara_id_12", 0], ["chara_id_13", 0], ["chara_id_14", 0], ["chara_id_15", 0], ["chara_id_16", 0], ["chara_id_17", 0], ["chara_id_18", 0], ["chara_id_19", 0], ["chara_id_2", 1269], ["chara_id_20", 0], ["chara_id_3", 0], ["chara_id_4", 0], ["chara_id_5", 0], ["chara_id_6", 0], ["chara_id_7", 0], ["chara_id_8", 0], ["chara_id_9", 0], ["status_rate_1", 60], ["status_rate_2", 0], ["status_rate_3", 0], ["status_rate_4", 0], ["status_rate_5", 0], ["status_type_1", 4], ["status_type_2", 0], ["status_type_3", 0], ["status_type_4", 0], ["status_type_5", 0], ["story_id", 1181002], ["unlock_story_name", "蘭法のエピソード第2話"]],
+            "new": [["chara_id_1", 1181], ["chara_id_10", 0], ["chara_id_11", 0], ["chara_id_12", 0], ["chara_id_13", 0], ["chara_id_14", 0], ["chara_id_15", 0], ["chara_id_16", 0], ["chara_id_17", 0], ["chara_id_18", 0], ["chara_id_19", 0], ["chara_id_2", 1269], ["chara_id_20", 0], ["chara_id_3", 1343], ["chara_id_4", 0], ["chara_id_5", 0], ["chara_id_6", 0], ["chara_id_7", 0], ["chara_id_8", 0], ["chara_id_9", 0], ["status_rate_1", 60], ["status_rate_2", 0], ["status_rate_3", 0], ["status_rate_4", 0], ["status_rate_5", 0], ["status_type_1", 4], ["status_type_2", 0], ["status_type_3", 0], ["status_type_4", 0], ["status_type_5", 0], ["story_id", 1181002], ["unlock_story_name", "蘭法のエピソード第2話"]]
+          },
+          {
+            "id": 1269002,
+            "old": [["chara_id_1", 1269], ["chara_id_10", 0], ["chara_id_11", 0], ["chara_id_12", 0], ["chara_id_13", 0], ["chara_id_14", 0], ["chara_id_15", 0], ["chara_id_16", 0], ["chara_id_17", 0], ["chara_id_18", 0], ["chara_id_19", 0], ["chara_id_2", 1181], ["chara_id_20", 0], ["chara_id_3", 0], ["chara_id_4", 0], ["chara_id_5", 0], ["chara_id_6", 0], ["chara_id_7", 0], ["chara_id_8", 0], ["chara_id_9", 0], ["status_rate_1", 10], ["status_rate_2", 0], ["status_rate_3", 0], ["status_rate_4", 0], ["status_rate_5", 0], ["status_type_1", 4], ["status_type_2", 0], ["status_type_3", 0], ["status_type_4", 0], ["status_type_5", 0], ["story_id", 1269002], ["unlock_story_name", "蘭法（夏日）のエピソード第2話"]],
+            "new": [["chara_id_1", 1269], ["chara_id_10", 0], ["chara_id_11", 0], ["chara_id_12", 0], ["chara_id_13", 0], ["chara_id_14", 0], ["chara_id_15", 0], ["chara_id_16", 0], ["chara_id_17", 0], ["chara_id_18", 0], ["chara_id_19", 0], ["chara_id_2", 1181], ["chara_id_20", 0], ["chara_id_3", 1343], ["chara_id_4", 0], ["chara_id_5", 0], ["chara_id_6", 0], ["chara_id_7", 0], ["chara_id_8", 0], ["chara_id_9", 0], ["status_rate_1", 10], ["status_rate_2", 0], ["status_rate_3", 0], ["status_rate_4", 0], ["status_rate_5", 0], ["status_type_1", 4], ["status_type_2", 0], ["status_type_3", 0], ["status_type_4", 0], ["status_type_5", 0], ["story_id", 1269002], ["unlock_story_name", "蘭法（夏日）のエピソード第2話"]]
+          },
+          {
+            "id": 1181004,
+            "old": [["chara_id_1", 1181], ["chara_id_10", 0], ["chara_id_11", 0], ["chara_id_12", 0], ["chara_id_13", 0], ["chara_id_14", 0], ["chara_id_15", 0], ["chara_id_16", 0], ["chara_id_17", 0], ["chara_id_18", 0], ["chara_id_19", 0], ["chara_id_2", 1269], ["chara_id_20", 0], ["chara_id_3", 0], ["chara_id_4", 0], ["chara_id_5", 0], ["chara_id_6", 0], ["chara_id_7", 0], ["chara_id_8", 0], ["chara_id_9", 0], ["status_rate_1", 120], ["status_rate_2", 150], ["status_rate_3", 0], ["status_rate_4", 0], ["status_rate_5", 0], ["status_type_1", 4], ["status_type_2", 11], ["status_type_3", 0], ["status_type_4", 0], ["status_type_5", 0], ["story_id", 1181004], ["unlock_story_name", "蘭法のエピソード第4話"]],
+            "new": [["chara_id_1", 1181], ["chara_id_10", 0], ["chara_id_11", 0], ["chara_id_12", 0], ["chara_id_13", 0], ["chara_id_14", 0], ["chara_id_15", 0], ["chara_id_16", 0], ["chara_id_17", 0], ["chara_id_18", 0], ["chara_id_19", 0], ["chara_id_2", 1269], ["chara_id_20", 0], ["chara_id_3", 1343], ["chara_id_4", 0], ["chara_id_5", 0], ["chara_id_6", 0], ["chara_id_7", 0], ["chara_id_8", 0], ["chara_id_9", 0], ["status_rate_1", 120], ["status_rate_2", 150], ["status_rate_3", 0], ["status_rate_4", 0], ["status_rate_5", 0], ["status_type_1", 4], ["status_type_2", 11], ["status_type_3", 0], ["status_type_4", 0], ["status_type_5", 0], ["story_id", 1181004], ["unlock_story_name", "蘭法のエピソード第4話"]]
+          }
+        ]
+      }
+    }
+  }
+}
