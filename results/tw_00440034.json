@@ -1,0 +1,57 @@
+{
+  "tables": {
+    "only_in_old_db": [],
+    "only_in_new_db": []
+  },
+  "table_changes": {
+    "event_story_data": {
+      "data_changes": {
+        "modified": [
+          {
+            "id": 5136,
+            "old": [["disp_order", 1], ["end_time", "2030/04/24 14:59:59"], ["start_time", "2024/05/29 16:00:00"], ["story_group_id", 5136], ["story_type", 5], ["thumbnail_id", 0], ["title", "I Wish　\\n緊握的這雙手"], ["value", 10136]],
+            "new": [["disp_order", 1], ["end_time", "2030/04/24 14:59:59"], ["start_time", "2024/05/29 16:00:00"], ["story_group_id", 5136], ["story_type", 5], ["thumbnail_id", 0], ["title", "I Wish　\\n緊握的這雙手"], ["value", 10164]]
+          },
+          {
+            "id": 5137,
+            "old": [["disp_order", 1], ["end_time", "2030/04/24 14:59:59"], ["start_time", "2024/05/29 16:00:00"], ["story_group_id", 5137], ["story_type", 5], ["thumbnail_id", 0], ["title", "I Wish　\\n緊握的這雙手"], ["value", 10137]],
+            "new": [["disp_order", 1], ["end_time", "2030/04/24 14:59:59"], ["start_time", "2024/05/29 16:00:00"], ["story_group_id", 5137], ["story_type", 5], ["thumbnail_id", 0], ["title", "I Wish　\\n緊握的這雙手"], ["value", 10165]]
+          }
+        ]
+      }
+    },
+    "event_gacha_data": {
+      "data_changes": {
+        "added": [
+          [["cost", 1], ["event_id", 10164], ["gacha_id", 10164], ["gacha_name", "I Wish　緊握的這雙手"], ["item_id", 61632], ["item_type", 2], ["repeat_step", 6]]
+        ]
+      }
+    },
+    "gacha_data": {
+      "data_changes": {
+        "added": [
+          [["b445862d0ab66dcf0d21148e77310f8e2f88e53c87861cd1b30c6271489741b7", 0], ["chara_odds_star1", "110021_1"], ["chara_odds_star2", "110021_2"], ["chara_odds_star3", "110021_3"], ["description", "有償寶石限定\\n舉辦★3確定白金轉蛋！"], ["description_2", "[3C404E]第10位角色[FFBB00,CE4F00]必定出現風屬性的★3角色！[-]"], ["description_sp", ""], ["discount_price", 50], ["end_time", "2025/07/11 15:59:59"], ["exchange_id", 376], ["ff12a2d323be4140b5b5f0e3db8f93c207d4d0594eff84913f280ebb8f5fbfcd", 1], ["free_gacha_count", 0], ["free_gacha_interval_time", 0], ["free_gacha_type", 0], ["gacha10_special_odds_star1", "111021_1"], ["gacha10_special_odds_star2", "111021_2"], ["gacha10_special_odds_star3", "111021_3"], ["gacha_bonus_id", 0], ["gacha_cost_type", 2], ["gacha_detail", 2], ["gacha_id", 110021], ["gacha_name", "風屬性 ★3必中白金轉蛋"], ["gacha_odds", "0"], ["gacha_odds_star2", "0"], ["gacha_times_limit10", 0], ["gacha_type", 1], ["movie_id", 1100010], ["parallel_id", 0], ["pick_up_chara_text", "無精選角色"], ["pickup_badge", 0], ["pickup_id", 0], ["price", 1500], ["prizegacha_id", 0], ["rarity_odds", "300000"], ["special_id", 110021], ["start_time", "2025/07/06 16:00:00"], ["tab_name", "★3必中（風）"], ["ticket_id", 24001], ["ticket_id_10", 0], ["title_id", 0]]
+        ]
+      }
+    },
+    "hatsune_schedule": {
+      "data_changes": {
+        "added": [
+          [["backgroud_pos_x", 0], ["backgroud_pos_y", 0], ["backgroud_size_x", 0], ["backgroud_size_y", 0], ["background", 0], ["banner_unit_id", 0], ["close_time", "2030/12/30 12:00:00"], ["count_start_time", "0"], ["end_time", "2030/12/30 12:00:00"], ["event_id", 10165], ["original_event_id", 10137], ["que_id", "0"], ["series_event_id", 10164], ["sheet_id", "0"], ["start_time", "2030/12/30 12:00:00"], ["teaser_dialog_type", 0], ["teaser_time", "2025/07/09 16:00:00"]],
+          [["backgroud_pos_x", 60], ["backgroud_pos_y", 50], ["backgroud_size_x", 1768], ["backgroud_size_y", 1060], ["background", 500016], ["banner_unit_id", 130601], ["close_time", "2025/07/27 15:59:59"], ["count_start_time", "2025/07/22 15:59:59"], ["end_time", "2025/07/25 15:59:59"], ["event_id", 10164], ["original_event_id", 10136], ["que_id", "bgm_MC110"], ["series_event_id", 0], ["sheet_id", "bgm_MC110"], ["start_time", "2025/07/12 16:00:00"], ["teaser_dialog_type", 0], ["teaser_time", "2025/07/09 16:00:00"]]
+        ]
+      }
+    },
+    "banner": {
+      "data_changes": {
+        "modified": [
+          {
+            "id": 20043,
+            "old": [["banner_id", 20043], ["condition_id", 0], ["end_date", "2025/04/10 15:59:59"], ["gacha_id", 110018], ["is_show_room", 0], ["priority", 60113], ["start_date", "2025/04/05 16:00:00"], ["sub_banner_id_1", 0], ["system_id", 307], ["type", 1]],
+            "new": [["banner_id", 20043], ["condition_id", 0], ["end_date", "2025/07/11 15:59:59"], ["gacha_id", 110021], ["is_show_room", 0], ["priority", 60113], ["start_date", "2025/07/06 16:00:00"], ["sub_banner_id_1", 0], ["system_id", 307], ["type", 1]]
+          }
+        ]
+      }
+    }
+  }
+}
