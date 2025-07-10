@@ -1,0 +1,141 @@
+{
+  "tables": {
+    "only_in_old_db": [],
+    "only_in_new_db": []
+  },
+  "table_changes": {
+    "unit_data": {
+      "data_changes": {
+        "modified": [
+          {
+            "id": 105801,
+            "old": [["atk_type", 1], ["comment", "【物理】前卫，全力守护同伴的饿肚子剑士。\\n生命值高，加之自身也可回复生命值\\n可担任同伴的壁垒直到生命值耗尽。\\n袀峠膥鳀䲟鹮鮟鱇垚鲣鲼镳"], ["cutin1_star6", 105801], ["cutin2_star6", 0], ["cutin_1", 105801], ["cutin_2", 0], ["end_time", "2099/12/31 23:59:59"], ["exskill_display", 0], ["guild_id", 1], ["is_limited", 0], ["kana", "peikelimu"], ["motion_type", 5], ["move_speed", 450], ["normal_atk_cast_time", 2.25], ["only_disp_owned", 0], ["original_unit_id", 0], ["prefab_id", 105801], ["prefab_id_battle", 0], ["rarity", 1], ["se_type", 5], ["search_area_width", 155], ["start_time", "2020/01/01 0:00:00"], ["unit_id", 105801], ["unit_name", "佩可莉姆"]],
+            "new": [["atk_type", 1], ["comment", "【物理】前卫，全力守护同伴的饿肚子剑士。\\n生命值高，加之自身也可回复生命值\\n可担任同伴的壁垒直到生命值耗尽。"], ["cutin1_star6", 105801], ["cutin2_star6", 0], ["cutin_1", 105801], ["cutin_2", 0], ["end_time", "2099/12/31 23:59:59"], ["exskill_display", 0], ["guild_id", 1], ["is_limited", 0], ["kana", "peikelimu"], ["motion_type", 5], ["move_speed", 450], ["normal_atk_cast_time", 2.25], ["only_disp_owned", 0], ["original_unit_id", 0], ["prefab_id", 105801], ["prefab_id_battle", 0], ["rarity", 1], ["se_type", 5], ["search_area_width", 155], ["start_time", "2020/01/01 0:00:00"], ["unit_id", 105801], ["unit_name", "佩可莉姆"]]
+          }
+        ]
+      }
+    },
+    "unit_comments": {
+      "data_changes": {
+        "modified": [
+          {
+            "id": 1261010,
+            "old": [["all_comments_flag", 0], ["change_face", 1], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 0.0], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "热热的，有弹性，\\n气味好香。\\n我一直，想把哥哥，\\n放嘴里嚼一嚼"], ["face_id", 1], ["face_id_2", 0], ["face_id_3", 0], ["id", 1261010], ["target_unit_id", 0], ["unit_id", 126131], ["use_type", 1], ["voice_id", 5]],
+            "new": [["all_comments_flag", 0], ["change_face", 1], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 0.0], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "暖暖的，软软的，\\n好香。\\n一直，想把哥哥，\\n放嘴里嚼一嚼"], ["face_id", 1], ["face_id_2", 0], ["face_id_3", 0], ["id", 1261010], ["target_unit_id", 0], ["unit_id", 126131], ["use_type", 1], ["voice_id", 5]]
+          },
+          {
+            "id": 1260011,
+            "old": [["all_comments_flag", 0], ["change_face", 2], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 0.0], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "今天是哥哥的生日呢！\\n小莉莉和小普雷西娅\\n铆足劲儿做了蛋糕♪\\n就让大家一起帮你庆祝吧♪"], ["face_id", 2], ["face_id_2", 0], ["face_id_3", 0], ["id", 1260011], ["target_unit_id", 0], ["unit_id", 126001], ["use_type", 2], ["voice_id", 6]],
+            "new": [["all_comments_flag", 0], ["change_face", 2], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 0.0], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "今天是哥哥的生日呢！\\n小莉莉和小普雷西娅\\n一起努力做了蛋糕♪\\n就让大家一起为你庆祝吧♪"], ["face_id", 2], ["face_id_2", 0], ["face_id_3", 0], ["id", 1260011], ["target_unit_id", 0], ["unit_id", 126001], ["use_type", 2], ["voice_id", 6]]
+          },
+          {
+            "id": 1260009,
+            "old": [["all_comments_flag", 0], ["change_face", 1], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 0.0], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "在冒险中不管遇到什么样的强敌，\\n我都不会让哥哥受伤的。\\n因为，我会保护你……\\n我会拼尽全力，即使牺牲我自己！"], ["face_id", 1], ["face_id_2", 0], ["face_id_3", 0], ["id", 1260009], ["target_unit_id", 0], ["unit_id", 126031], ["use_type", 1], ["voice_id", 4]],
+            "new": [["all_comments_flag", 0], ["change_face", 1], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 0.0], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "冒险中不管遇到什么样的强敌，\\n我都不会让哥哥受伤的。\\n因为，我会保护你……\\n竭尽全力……哪怕拼上性命！"], ["face_id", 1], ["face_id_2", 0], ["face_id_3", 0], ["id", 1260009], ["target_unit_id", 0], ["unit_id", 126031], ["use_type", 1], ["voice_id", 4]]
+          },
+          {
+            "id": 1261004,
+            "old": [["all_comments_flag", 0], ["change_face", 2], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 3.0], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "哥哥……\\n喊起来，\\n感觉，好幸福……\\n哥哥♪"], ["face_id", 1], ["face_id_2", 0], ["face_id_3", 0], ["id", 1261004], ["target_unit_id", 0], ["unit_id", 126101], ["use_type", 1], ["voice_id", 4]],
+            "new": [["all_comments_flag", 0], ["change_face", 2], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 3.0], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "哥哥……\\n喊起来，\\n感觉，很开心……\\n哥哥♪"], ["face_id", 1], ["face_id_2", 0], ["face_id_3", 0], ["id", 1261004], ["target_unit_id", 0], ["unit_id", 126101], ["use_type", 1], ["voice_id", 4]]
+          },
+          {
+            "id": 1261003,
+            "old": [["all_comments_flag", 0], ["change_face", 2], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 3.4], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "去巡逻吗？\\n啊，\\n要先吃饭。\\n好吗"], ["face_id", 1], ["face_id_2", 0], ["face_id_3", 0], ["id", 1261003], ["target_unit_id", 0], ["unit_id", 126101], ["use_type", 1], ["voice_id", 3]],
+            "new": [["all_comments_flag", 0], ["change_face", 2], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 3.4], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "要去，巡逻吗？\\n啊，\\n在那之前\\n先吃饭，对吧"], ["face_id", 1], ["face_id_2", 0], ["face_id_3", 0], ["id", 1261003], ["target_unit_id", 0], ["unit_id", 126101], ["use_type", 1], ["voice_id", 3]]
+          },
+          {
+            "id": 1260006,
+            "old": [["all_comments_flag", 0], ["change_face", 1], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 0.0], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "哥哥，请你听我发誓。\\n为了能正确使用这股力量……\\n为了堂堂正正地面向前方……\\n我一定会变强的！"], ["face_id", 1], ["face_id_2", 0], ["face_id_3", 0], ["id", 1260006], ["target_unit_id", 0], ["unit_id", 126031], ["use_type", 1], ["voice_id", 1]],
+            "new": [["all_comments_flag", 0], ["change_face", 1], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 0.0], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "请允许我向哥哥发誓。\\n为了能正确使用这股力量……\\n为了堂堂正正地向前……\\n我一定会变强的！"], ["face_id", 1], ["face_id_2", 0], ["face_id_3", 0], ["id", 1260006], ["target_unit_id", 0], ["unit_id", 126031], ["use_type", 1], ["voice_id", 1]]
+          },
+          {
+            "id": 1261009,
+            "old": [["all_comments_flag", 0], ["change_face", 1], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 0.0], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "要更大……\\n更强……\\n要能保护哥哥"], ["face_id", 1], ["face_id_2", 0], ["face_id_3", 0], ["id", 1261009], ["target_unit_id", 0], ["unit_id", 126131], ["use_type", 1], ["voice_id", 4]],
+            "new": [["all_comments_flag", 0], ["change_face", 1], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 0.0], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "要，更大……\\n要，更强……\\n要能，保护哥哥"], ["face_id", 1], ["face_id_2", 0], ["face_id_3", 0], ["id", 1261009], ["target_unit_id", 0], ["unit_id", 126131], ["use_type", 1], ["voice_id", 4]]
+          },
+          {
+            "id": 1261012,
+            "old": [["all_comments_flag", 0], ["change_face", 1], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 0.0], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "生日快乐。\\n比昨天，更成熟了？\\n变成熟的哥哥。\\n让我尝尝味道吧"], ["face_id", 1], ["face_id_2", 0], ["face_id_3", 0], ["id", 1261012], ["target_unit_id", 0], ["unit_id", 126131], ["use_type", 2], ["voice_id", 6]],
+            "new": [["all_comments_flag", 0], ["change_face", 1], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 0.0], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "生日快乐。\\n比昨天，更像大人？\\n变成熟的，哥哥。\\n让我，尝尝味道吧"], ["face_id", 1], ["face_id_2", 0], ["face_id_3", 0], ["id", 1261012], ["target_unit_id", 0], ["unit_id", 126131], ["use_type", 2], ["voice_id", 6]]
+          },
+          {
+            "id": 1260010,
+            "old": [["all_comments_flag", 0], ["change_face", 1], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 0.0], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "无论我是什么样子，哥哥都愿意接纳我，\\n我最喜欢这样的哥哥了。\\n刚才那些话我不是以妹妹的身份说的……\\n不，没事♪"], ["face_id", 1], ["face_id_2", 0], ["face_id_3", 0], ["id", 1260010], ["target_unit_id", 0], ["unit_id", 126031], ["use_type", 1], ["voice_id", 5]],
+            "new": [["all_comments_flag", 0], ["change_face", 1], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 0.0], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "最喜欢能够接纳\\n我的一切的哥哥了\\n刚才这句不是以妹妹的身份……\\n不，没什么啦♪"], ["face_id", 1], ["face_id_2", 0], ["face_id_3", 0], ["id", 1260010], ["target_unit_id", 0], ["unit_id", 126031], ["use_type", 1], ["voice_id", 5]]
+          },
+          {
+            "id": 1261001,
+            "old": [["all_comments_flag", 0], ["change_face", 1], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 4.7], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "黑色的，翅膀……\\n看起来，像坏人？\\n可能吧……"], ["face_id", 6], ["face_id_2", 0], ["face_id_3", 0], ["id", 1261001], ["target_unit_id", 0], ["unit_id", 126101], ["use_type", 1], ["voice_id", 1]],
+            "new": [["all_comments_flag", 0], ["change_face", 1], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 4.7], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "黑色的，翅膀……\\n看起来，像坏孩子？\\n可能吧……"], ["face_id", 6], ["face_id_2", 0], ["face_id_3", 0], ["id", 1261001], ["target_unit_id", 0], ["unit_id", 126101], ["use_type", 1], ["voice_id", 1]]
+          },
+          {
+            "id": 1261011,
+            "old": [["all_comments_flag", 0], ["change_face", 1], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 3.3], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "生日快乐，\\n请吃，肉包子……\\n盯……\\n（咽口水）"], ["face_id", 2], ["face_id_2", 0], ["face_id_3", 0], ["id", 1261011], ["target_unit_id", 0], ["unit_id", 126101], ["use_type", 2], ["voice_id", 6]],
+            "new": [["all_comments_flag", 0], ["change_face", 1], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 3.3], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "生日，快乐，\\n请吃，肉包子……\\n盯……\\n（咽口水）"], ["face_id", 2], ["face_id_2", 0], ["face_id_3", 0], ["id", 1261011], ["target_unit_id", 0], ["unit_id", 126101], ["use_type", 2], ["voice_id", 6]]
+          },
+          {
+            "id": 1260002,
+            "old": [["all_comments_flag", 0], ["change_face", 2], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 0.0], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "虽然我还不成熟，\\n但有哥哥在身边就很安心♪\\n和魔物战斗的时候就不用说了……\\n除此之外也……嗯♪"], ["face_id", 2], ["face_id_2", 0], ["face_id_3", 0], ["id", 1260002], ["target_unit_id", 0], ["unit_id", 126001], ["use_type", 1], ["voice_id", 2]],
+            "new": [["all_comments_flag", 0], ["change_face", 2], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 0.0], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "虽然我还不成熟，\\n但有哥哥在身边就很安心♪\\n和魔物战斗时是这样……\\n其他时候也是……嗯♪"], ["face_id", 2], ["face_id_2", 0], ["face_id_3", 0], ["id", 1260002], ["target_unit_id", 0], ["unit_id", 126001], ["use_type", 1], ["voice_id", 2]]
+          },
+          {
+            "id": 1261006,
+            "old": [["all_comments_flag", 0], ["change_face", 1], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 0.0], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "黑色的力量，\\n也是，我的力量。\\n我会变强。\\n看着吧，哥哥"], ["face_id", 1], ["face_id_2", 0], ["face_id_3", 0], ["id", 1261006], ["target_unit_id", 0], ["unit_id", 126131], ["use_type", 1], ["voice_id", 1]],
+            "new": [["all_comments_flag", 0], ["change_face", 1], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 0.0], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "黑色的，力量，\\n也是，我的力量。\\n我会变强。\\n看着吧，哥哥"], ["face_id", 1], ["face_id_2", 0], ["face_id_3", 0], ["id", 1261006], ["target_unit_id", 0], ["unit_id", 126131], ["use_type", 1], ["voice_id", 1]]
+          },
+          {
+            "id": 1260008,
+            "old": [["all_comments_flag", 0], ["change_face", 1], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 0.0], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "也有人能接受这个样子的我……\\n就算别人害怕我，只要我能\\n成为保护某个人的盾牌……\\n那这就是我的赎罪!"], ["face_id", 1], ["face_id_2", 0], ["face_id_3", 0], ["id", 1260008], ["target_unit_id", 0], ["unit_id", 126031], ["use_type", 1], ["voice_id", 3]],
+            "new": [["all_comments_flag", 0], ["change_face", 1], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 0.0], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "要接受这样的自己……\\n即便被人畏惧，\\n只要能成为守护他人的盾……\\n这就是我的赎罪!"], ["face_id", 1], ["face_id_2", 0], ["face_id_3", 0], ["id", 1260008], ["target_unit_id", 0], ["unit_id", 126031], ["use_type", 1], ["voice_id", 3]]
+          },
+          {
+            "id": 1261005,
+            "old": [["all_comments_flag", 0], ["change_face", 5], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 8.5], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "哥哥……\\n总是，很好吃的样子……\\n可能是……能量食品？\\n呲溜……"], ["face_id", 2], ["face_id_2", 0], ["face_id_3", 0], ["id", 1261005], ["target_unit_id", 0], ["unit_id", 126101], ["use_type", 1], ["voice_id", 5]],
+            "new": [["all_comments_flag", 0], ["change_face", 5], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 8.5], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "哥哥……\\n总是，看起来很好吃……\\n可能是……能量食品？\\n呲溜……"], ["face_id", 2], ["face_id_2", 0], ["face_id_3", 0], ["id", 1261005], ["target_unit_id", 0], ["unit_id", 126101], ["use_type", 1], ["voice_id", 5]]
+          },
+          {
+            "id": 1260007,
+            "old": [["all_comments_flag", 0], ["change_face", 1], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 0.0], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "破破烂烂的天使之环与漆黑的翅膀……\\n呵呵，简直就是堕天使啊……\\n这个样子……我并不怎么喜欢，\\n但这样就不会忘记自己的罪了"], ["face_id", 1], ["face_id_2", 0], ["face_id_3", 0], ["id", 1260007], ["target_unit_id", 0], ["unit_id", 126031], ["use_type", 1], ["voice_id", 2]],
+            "new": [["all_comments_flag", 0], ["change_face", 1], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 0.0], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "腐朽的天使之环与漆黑羽翼……\\n呵呵，简直就是堕天使啊……\\n虽然不喜欢这副模样，\\n但这样就不会忘记自己的罪孽了"], ["face_id", 1], ["face_id_2", 0], ["face_id_3", 0], ["id", 1260007], ["target_unit_id", 0], ["unit_id", 126031], ["use_type", 1], ["voice_id", 2]]
+          },
+          {
+            "id": 1261008,
+            "old": [["all_comments_flag", 0], ["change_face", 1], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 0.0], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "新人冒险者，\\n不能做的事、\\n不懂的事，要多跟我\\n说说，好吗？　哥哥"], ["face_id", 1], ["face_id_2", 0], ["face_id_3", 0], ["id", 1261008], ["target_unit_id", 0], ["unit_id", 126131], ["use_type", 1], ["voice_id", 3]],
+            "new": [["all_comments_flag", 0], ["change_face", 1], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 0.0], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "新人冒险者，\\n不能做，的事，\\n不懂，的事，很多\\n要教我，哦？　哥哥"], ["face_id", 1], ["face_id_2", 0], ["face_id_3", 0], ["id", 1261008], ["target_unit_id", 0], ["unit_id", 126131], ["use_type", 1], ["voice_id", 3]]
+          },
+          {
+            "id": 1261007,
+            "old": [["all_comments_flag", 0], ["change_face", 1], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 0.0], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "终于，成为同伴了。\\n要一起战斗哦。\\n所以，哥哥……\\n哪里也不要去，好吗？"], ["face_id", 1], ["face_id_2", 0], ["face_id_3", 0], ["id", 1261007], ["target_unit_id", 0], ["unit_id", 126131], ["use_type", 1], ["voice_id", 2]],
+            "new": [["all_comments_flag", 0], ["change_face", 1], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 0.0], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "终于，成为同伴了。\\n要一起，战斗哦。\\n所以，哥哥……\\n哪也不要去，好吗？"], ["face_id", 1], ["face_id_2", 0], ["face_id_3", 0], ["id", 1261007], ["target_unit_id", 0], ["unit_id", 126131], ["use_type", 1], ["voice_id", 2]]
+          },
+          {
+            "id": 1260001,
+            "old": [["all_comments_flag", 0], ["change_face", 5], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 6.1], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "因为哥哥的态度太平常了，\\n所以我都忘记了自己的打扮♪\\n不过，我其实还是\\n有点不好意思的哦？"], ["face_id", 2], ["face_id_2", 0], ["face_id_3", 0], ["id", 1260001], ["target_unit_id", 0], ["unit_id", 126001], ["use_type", 1], ["voice_id", 1]],
+            "new": [["all_comments_flag", 0], ["change_face", 5], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 6.1], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "因为哥哥的态度太平常了，\\n所以我都忘记了自己的打扮♪\\n不过，我其实还是\\n会有点害羞的哦？"], ["face_id", 2], ["face_id_2", 0], ["face_id_3", 0], ["id", 1260001], ["target_unit_id", 0], ["unit_id", 126001], ["use_type", 1], ["voice_id", 1]]
+          }
+        ]
+      }
+    },
+    "room_unit_comments": {
+      "data_changes": {
+        "modified": [
+          {
+            "id": 127601,
+            "old": [["beloved_step", 1], ["description", "这个香气……\\n是萨拉萨利亚的\\n香木伴手礼吗？"], ["face_id", 1], ["id", 7657], ["insert_word_type", 0], ["time", 0], ["trigger", 3], ["unit_id", 127601], ["voice_id", 4]],
+            "new": [["beloved_step", 1], ["description", "偶尔穿不一样的衣服，\\n使用不同的武器，\\n也不错呢"], ["face_id", 1], ["id", 7639], ["insert_word_type", 0], ["time", 0], ["trigger", 1], ["unit_id", 127601], ["voice_id", 2]]
+          },
+          {
+            "id": 126001,
+            "old": [["beloved_step", 1], ["description", "哥哥也喜欢这样吗～\\n呵呵，我也是♪\\n抱紧♪"], ["face_id", 1], ["id", 7681], ["insert_word_type", 0], ["time", 0], ["trigger", 3], ["unit_id", 126001], ["voice_id", 3]],
+            "new": [["beloved_step", 1], ["description", "哥哥也喜欢这样吗～\\n嘻嘻，我也是♪\\n抱住♪"], ["face_id", 1], ["id", 7681], ["insert_word_type", 0], ["time", 0], ["trigger", 3], ["unit_id", 126001], ["voice_id", 3]]
+          },
+          {
+            "id": 127501,
+            "old": [["beloved_step", 1], ["description", "说不定会成为今后的\\n贸易伙伴。\\n必须要学习一下\\n那边的文化……"], ["face_id", 1], ["id", 7634], ["insert_word_type", 0], ["time", 0], ["trigger", 3], ["unit_id", 127501], ["voice_id", 8]],
+            "new": [["beloved_step", 8], ["description", "果然还是希望\\n你能一直\\n待在我身边呢……"], ["face_id", 1], ["id", 7623], ["insert_word_type", 0], ["time", 0], ["trigger", 2], ["unit_id", 127501], ["voice_id", 102]]
+          }
+        ]
+      }
+    }
+  }
+}
