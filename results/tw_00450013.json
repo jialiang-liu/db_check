@@ -1,0 +1,23 @@
+{
+  "tables": {
+    "only_in_old_db": [],
+    "only_in_new_db": []
+  },
+  "table_changes": {
+    "seven_story_data": {
+      "data_changes": {
+        "added": [
+          [["31d1ede09d49a25f0f96e78d6e5600e1081afcfb139f84e95eb5cae29ddfc8fc", "開場動畫"], ["a924df8289119486a586874239a00258fbf839426dfeb922d733bda52ec4ae2a", "超鋼少女巨型克蘿茜　\\n～大出擊！蘭德索爾爆炸４.１秒前～ "], ["can_bookmark", 0], ["contents_type", 0], ["direction_type", 0], ["event_id", 10203], ["lock_all_text", 0], ["reward_id_1", 0], ["reward_id_2", 0], ["reward_id_3", 0], ["reward_type_1", 0], ["reward_type_2", 0], ["reward_type_3", 0], ["reward_value_1", 0], ["reward_value_2", 0], ["reward_value_3", 0], ["story_id", 5203052], ["story_index", 0], ["story_type", 4]],
+          [["31d1ede09d49a25f0f96e78d6e5600e1081afcfb139f84e95eb5cae29ddfc8fc", "預告"], ["a924df8289119486a586874239a00258fbf839426dfeb922d733bda52ec4ae2a", "超鋼少女巨型克蘿茜　\\n～大出擊！蘭德索爾爆炸４.１秒前～ "], ["can_bookmark", 0], ["contents_type", 0], ["direction_type", 0], ["event_id", 10203], ["lock_all_text", 0], ["reward_id_1", 0], ["reward_id_2", 0], ["reward_id_3", 0], ["reward_type_1", 0], ["reward_type_2", 0], ["reward_type_3", 0], ["reward_value_1", 0], ["reward_value_2", 0], ["reward_value_3", 0], ["story_id", 5203051], ["story_index", 0], ["story_type", 3]]
+        ]
+      }
+    },
+    "seven_schedule": {
+      "data_changes": {
+        "added": [
+          [["end_time", "2025/08/24 04:59:59"], ["event_id", 10203], ["event_type", 1], ["gacha_id", 1020301], ["gacha_ticket_id", 62031], ["mission_group_id", 102], ["schedule_id", 1003], ["start_time", "2025/08/01 16:00:00"], ["teaser_time", "2025/07/29 16:00:00"], ["unknown_1", 1001]]
+        ]
+      }
+    }
+  }
+}
