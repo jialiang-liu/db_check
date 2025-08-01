@@ -1,0 +1,19 @@
+{
+  "tables": {
+    "only_in_old_db": [],
+    "only_in_new_db": []
+  },
+  "table_changes": {
+    "clan_battle_period": {
+      "data_changes": {
+        "modified": [
+          {
+            "id": 1069,
+            "old": [["calc_start", "2025/07/30"], ["chest_id", 40004], ["clan_battle_id", 1069], ["end_time", "2025/07/29 23:59:59"], ["interval_end", "2025/08/25 04:59:59"], ["interval_start", "2025/07/30"], ["limit_time", 90], ["min_carry_over_time", 0], ["period", 1], ["period_detail", "和行会成员互相合作\\n打倒强大的怪物吧！"], ["period_detail_bg", 101292], ["period_detail_bg_position", 0], ["period_detail_bg_s", 101292], ["period_detail_boss_position_x", 0], ["period_detail_boss_position_y", 0], ["period_detail_s", "团队战开始！培养角色\\n打倒怪物吧！"], ["quest_detail_rehearsal_label_height", 25], ["result_end", "2025/08/25 04:59:59"], ["result_start", "2025/08/04 15:00:00"], ["start_time", "2025/07/25 5:00:00"]],
+            "new": [["calc_start", "2025/07/30"], ["chest_id", 40004], ["clan_battle_id", 1069], ["end_time", "2025/07/29 23:59:59"], ["interval_end", "2025/08/25 04:59:59"], ["interval_start", "2025/07/30"], ["limit_time", 90], ["min_carry_over_time", 0], ["period", 1], ["period_detail", "和行会成员互相合作\\n打倒强大的怪物吧！"], ["period_detail_bg", 101292], ["period_detail_bg_position", 0], ["period_detail_bg_s", 101292], ["period_detail_boss_position_x", 0], ["period_detail_boss_position_y", 0], ["period_detail_s", "团队战开始！培养角色\\n打倒怪物吧！"], ["quest_detail_rehearsal_label_height", 25], ["result_end", "2025/08/25 04:59:59"], ["result_start", "2025/08/06 15:00:00"], ["start_time", "2025/07/25 5:00:00"]]
+          }
+        ]
+      }
+    }
+  }
+}
