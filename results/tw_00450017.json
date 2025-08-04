@@ -1,0 +1,26 @@
+{
+  "tables": {
+    "only_in_old_db": [],
+    "only_in_new_db": []
+  },
+  "table_changes": {
+    "banner": {
+      "data_changes": {
+        "modified": [
+          {
+            "id": 20044,
+            "old": [["banner_id", 20044], ["condition_id", 0], ["end_date", "2025/02/10 15:59:59"], ["gacha_id", 110016], ["is_show_room", 0], ["priority", 60114], ["start_date", "2025/02/05 16:00:00"], ["sub_banner_id_1", 0], ["system_id", 307], ["type", 1]],
+            "new": [["banner_id", 20044], ["condition_id", 0], ["end_date", "2025/08/09 15:59:59"], ["gacha_id", 110022], ["is_show_room", 0], ["priority", 60114], ["start_date", "2025/08/04 16:00:00"], ["sub_banner_id_1", 0], ["system_id", 307], ["type", 1]]
+          }
+        ]
+      }
+    },
+    "gacha_data": {
+      "data_changes": {
+        "added": [
+          [["b445862d0ab66dcf0d21148e77310f8e2f88e53c87861cd1b30c6271489741b7", 0], ["chara_odds_star1", "110022_1"], ["chara_odds_star2", "110022_2"], ["chara_odds_star3", "110022_3"], ["description", "有償寶石限定\\n舉辦★3確定白金轉蛋！"], ["description_2", "[3C404E]第10位角色[FFBB00,CE4F00]必定出現光屬性的★3角色！[-]"], ["description_sp", ""], ["discount_price", 50], ["end_time", "2025/08/09 15:59:59"], ["exchange_id", 379], ["ff12a2d323be4140b5b5f0e3db8f93c207d4d0594eff84913f280ebb8f5fbfcd", 0], ["free_gacha_count", 0], ["free_gacha_interval_time", 0], ["free_gacha_type", 0], ["gacha10_special_odds_star1", "111022_1"], ["gacha10_special_odds_star2", "111022_2"], ["gacha10_special_odds_star3", "111022_3"], ["gacha_bonus_id", 0], ["gacha_cost_type", 2], ["gacha_detail", 2], ["gacha_id", 110022], ["gacha_name", "光屬性 ★3必中白金轉蛋"], ["gacha_odds", "0"], ["gacha_odds_star2", "0"], ["gacha_times_limit10", 1], ["gacha_type", 1], ["movie_id", 1100021], ["parallel_id", 0], ["pick_up_chara_text", "無精選角色"], ["pickup_badge", 0], ["pickup_id", 0], ["price", 1500], ["prizegacha_id", 0], ["rarity_odds", "300000"], ["special_id", 110022], ["start_time", "2025/08/04 16:00:00"], ["tab_name", "★3必中（光）"], ["ticket_id", 24001], ["ticket_id_10", 0], ["title_id", 0]]
+        ]
+      }
+    }
+  }
+}
