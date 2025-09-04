@@ -1,0 +1,460 @@
+{
+  "tables": {
+    "only_in_old_db": [],
+    "only_in_new_db": []
+  },
+  "table_changes": {
+    "unit_talent": {
+      "data_changes": {
+        "added": [
+          [["setting_id", 13230101], ["talent_id", 1], ["unit_id", 132301]]
+        ]
+      }
+    },
+    "item_data": {
+      "data_changes": {
+        "added": [
+          [["description", "封印有露易絲瑪莉的記憶碎片的道具。收集一定數量，則可以解放角色深藏的力量。"], ["end_time", "2030/08/01 14:59:00"], ["gojuon_order", 8201112], ["item_id", 31323], ["item_name", "露易絲瑪莉的記憶碎片"], ["item_type", 11], ["limit_num", 9999], ["price", 0], ["promotion_level", 1], ["sell_check_disp", 0], ["start_time", "2015/12/17 15:00:00"], ["value", 31323]],
+          [["description", "據說能使露易絲瑪莉突破力量極限並更為提升的戒指。裝備後能使角色Lv突破極限並超越主角Lv。"], ["end_time", "2030/08/01 14:59:00"], ["gojuon_order", 0], ["item_id", 41323], ["item_name", "露易絲瑪莉專用戒指"], ["item_type", 22], ["limit_num", 9999], ["price", 0], ["promotion_level", 1], ["sell_check_disp", 0], ["start_time", "2015/12/17 15:00:00"], ["value", 0]]
+        ]
+      }
+    },
+    "album_production_list": {
+      "data_changes": {
+        "added": [
+          [["description", ""], ["id", 13230104], ["title", "羈絆Rank表演3"], ["type", 103], ["unit_id", 132301]],
+          [["description", ""], ["id", 13230107], ["title", "羈絆Rank表演6"], ["type", 106], ["unit_id", 132301]],
+          [["description", ""], ["id", 13230105], ["title", "羈絆Rank表演4"], ["type", 104], ["unit_id", 132301]],
+          [["description", ""], ["id", 13230103], ["title", "羈絆Rank表演2"], ["type", 102], ["unit_id", 132301]],
+          [["description", ""], ["id", 13230106], ["title", "羈絆Rank表演5"], ["type", 105], ["unit_id", 132301]],
+          [["description", ""], ["id", 13230102], ["title", "羈絆Rank表演1"], ["type", 101], ["unit_id", 132301]],
+          [["description", ""], ["id", 13230108], ["title", "羈絆Rank表演7"], ["type", 107], ["unit_id", 132301]],
+          [["description", ""], ["id", 13230101], ["title", "解放表演1"], ["type", 201], ["unit_id", 132301]]
+        ]
+      }
+    },
+    "unit_profile": {
+      "data_changes": {
+        "added": [
+          [["age", "17"], ["birth_day", "2"], ["birth_month", "1"], ["blood_type", "A"], ["catch_copy", "悶騷好色的傻女主鍊金術師"], ["favorite", "妄想"], ["guild", "阿爾克絲鍊金堂"], ["guild_id", "22"], ["height", "160"], ["race", "獸人族"], ["self_text", ""], ["unit_id", 132301], ["unit_name", "露易絲瑪莉"], ["voice", "鈴代紗弓"], ["voice_id", 0], ["weight", "47"]]
+        ]
+      }
+    },
+    "still": {
+      "data_changes": {
+        "added": [
+          [["album_ignore", 0], ["facial_id", 1], ["my_page_flag", 1], ["position_y", 0], ["scroll_direction", 0], ["still_group_id", 0], ["still_id", 132300101], ["story_group_id", 1323], ["story_id", 1323001], ["unit_id_1", 132312], ["unit_id_10", 0], ["unit_id_2", 0], ["unit_id_3", 0], ["unit_id_4", 0], ["unit_id_5", 0], ["unit_id_6", 0], ["unit_id_7", 0], ["unit_id_8", 0], ["unit_id_9", 0], ["vertical_still_flg", 0]],
+          [["album_ignore", 0], ["facial_id", 1], ["my_page_flag", 1], ["position_y", 0], ["scroll_direction", 0], ["still_group_id", 0], ["still_id", 302200201], ["story_group_id", 3022], ["story_id", 3022002], ["unit_id_1", 132312], ["unit_id_10", 0], ["unit_id_2", 132412], ["unit_id_3", 132512], ["unit_id_4", 118511], ["unit_id_5", 0], ["unit_id_6", 0], ["unit_id_7", 0], ["unit_id_8", 0], ["unit_id_9", 0], ["vertical_still_flg", 0]],
+          [["album_ignore", 1], ["facial_id", 0], ["my_page_flag", 1], ["position_y", 0], ["scroll_direction", 0], ["still_group_id", 0], ["still_id", 132300302], ["story_group_id", 1323], ["story_id", 1323003], ["unit_id_1", 0], ["unit_id_10", 0], ["unit_id_2", 0], ["unit_id_3", 0], ["unit_id_4", 0], ["unit_id_5", 0], ["unit_id_6", 0], ["unit_id_7", 0], ["unit_id_8", 0], ["unit_id_9", 0], ["vertical_still_flg", 0]],
+          [["album_ignore", 1], ["facial_id", 0], ["my_page_flag", 1], ["position_y", 0], ["scroll_direction", 0], ["still_group_id", 0], ["still_id", 132300303], ["story_group_id", 1323], ["story_id", 1323003], ["unit_id_1", 0], ["unit_id_10", 0], ["unit_id_2", 0], ["unit_id_3", 0], ["unit_id_4", 0], ["unit_id_5", 0], ["unit_id_6", 0], ["unit_id_7", 0], ["unit_id_8", 0], ["unit_id_9", 0], ["vertical_still_flg", 0]],
+          [["album_ignore", 0], ["facial_id", 1], ["my_page_flag", 1], ["position_y", 0], ["scroll_direction", 0], ["still_group_id", 1323004], ["still_id", 132300403], ["story_group_id", 1323], ["story_id", 1323004], ["unit_id_1", 132331], ["unit_id_10", 0], ["unit_id_2", 0], ["unit_id_3", 0], ["unit_id_4", 0], ["unit_id_5", 0], ["unit_id_6", 0], ["unit_id_7", 0], ["unit_id_8", 0], ["unit_id_9", 0], ["vertical_still_flg", 0]],
+          [["album_ignore", 1], ["facial_id", 0], ["my_page_flag", 1], ["position_y", 0], ["scroll_direction", 0], ["still_group_id", 0], ["still_id", 132300304], ["story_group_id", 1323], ["story_id", 1323003], ["unit_id_1", 0], ["unit_id_10", 0], ["unit_id_2", 0], ["unit_id_3", 0], ["unit_id_4", 0], ["unit_id_5", 0], ["unit_id_6", 0], ["unit_id_7", 0], ["unit_id_8", 0], ["unit_id_9", 0], ["vertical_still_flg", 0]],
+          [["album_ignore", 1], ["facial_id", 0], ["my_page_flag", 1], ["position_y", 0], ["scroll_direction", 0], ["still_group_id", 0], ["still_id", 132300301], ["story_group_id", 1323], ["story_id", 1323003], ["unit_id_1", 0], ["unit_id_10", 0], ["unit_id_2", 0], ["unit_id_3", 0], ["unit_id_4", 0], ["unit_id_5", 0], ["unit_id_6", 0], ["unit_id_7", 0], ["unit_id_8", 0], ["unit_id_9", 0], ["vertical_still_flg", 0]],
+          [["album_ignore", 0], ["facial_id", 1], ["my_page_flag", 1], ["position_y", 0], ["scroll_direction", 0], ["still_group_id", 1323004], ["still_id", 132300402], ["story_group_id", 1323], ["story_id", 1323004], ["unit_id_1", 132331], ["unit_id_10", 0], ["unit_id_2", 0], ["unit_id_3", 0], ["unit_id_4", 0], ["unit_id_5", 0], ["unit_id_6", 0], ["unit_id_7", 0], ["unit_id_8", 0], ["unit_id_9", 0], ["vertical_still_flg", 0]],
+          [["album_ignore", 0], ["facial_id", 1], ["my_page_flag", 1], ["position_y", 0], ["scroll_direction", 0], ["still_group_id", 1323004], ["still_id", 132300401], ["story_group_id", 1323], ["story_id", 1323004], ["unit_id_1", 132331], ["unit_id_10", 0], ["unit_id_2", 0], ["unit_id_3", 0], ["unit_id_4", 0], ["unit_id_5", 0], ["unit_id_6", 0], ["unit_id_7", 0], ["unit_id_8", 0], ["unit_id_9", 0], ["vertical_still_flg", 0]]
+        ]
+      }
+    },
+    "chara_story_status": {
+      "data_changes": {
+        "added": [
+          [["chara_id_1", 1323], ["chara_id_10", 0], ["chara_id_11", 0], ["chara_id_12", 0], ["chara_id_13", 0], ["chara_id_14", 0], ["chara_id_15", 0], ["chara_id_16", 0], ["chara_id_17", 0], ["chara_id_18", 0], ["chara_id_19", 0], ["chara_id_2", 0], ["chara_id_20", 0], ["chara_id_3", 0], ["chara_id_4", 0], ["chara_id_5", 0], ["chara_id_6", 0], ["chara_id_7", 0], ["chara_id_8", 0], ["chara_id_9", 0], ["status_rate_1", 10], ["status_rate_2", 0], ["status_rate_3", 0], ["status_rate_4", 0], ["status_rate_5", 0], ["status_type_1", 4], ["status_type_2", 0], ["status_type_3", 0], ["status_type_4", 0], ["status_type_5", 0], ["story_id", 1323002], ["unlock_story_name", "露易絲瑪莉のエピソード第2話"]],
+          [["chara_id_1", 1323], ["chara_id_10", 0], ["chara_id_11", 0], ["chara_id_12", 0], ["chara_id_13", 0], ["chara_id_14", 0], ["chara_id_15", 0], ["chara_id_16", 0], ["chara_id_17", 0], ["chara_id_18", 0], ["chara_id_19", 0], ["chara_id_2", 0], ["chara_id_20", 0], ["chara_id_3", 0], ["chara_id_4", 0], ["chara_id_5", 0], ["chara_id_6", 0], ["chara_id_7", 0], ["chara_id_8", 0], ["chara_id_9", 0], ["status_rate_1", 30], ["status_rate_2", 0], ["status_rate_3", 0], ["status_rate_4", 0], ["status_rate_5", 0], ["status_type_1", 4], ["status_type_2", 0], ["status_type_3", 0], ["status_type_4", 0], ["status_type_5", 0], ["story_id", 1323003], ["unlock_story_name", "露易絲瑪莉のエピソード第3話"]],
+          [["chara_id_1", 1323], ["chara_id_10", 0], ["chara_id_11", 0], ["chara_id_12", 0], ["chara_id_13", 0], ["chara_id_14", 0], ["chara_id_15", 0], ["chara_id_16", 0], ["chara_id_17", 0], ["chara_id_18", 0], ["chara_id_19", 0], ["chara_id_2", 0], ["chara_id_20", 0], ["chara_id_3", 0], ["chara_id_4", 0], ["chara_id_5", 0], ["chara_id_6", 0], ["chara_id_7", 0], ["chara_id_8", 0], ["chara_id_9", 0], ["status_rate_1", 50], ["status_rate_2", 0], ["status_rate_3", 0], ["status_rate_4", 0], ["status_rate_5", 0], ["status_type_1", 4], ["status_type_2", 0], ["status_type_3", 0], ["status_type_4", 0], ["status_type_5", 0], ["story_id", 1323004], ["unlock_story_name", "露易絲瑪莉のエピソード第4話"]]
+        ]
+      }
+    },
+    "promotion_bonus": {
+      "data_changes": {
+        "added": [
+          [["accuracy", 0.0], ["atk", 0.0], ["def", 0.0], ["dodge", 0.0], ["energy_recovery_rate", 10.0], ["energy_reduce_rate", 0.0], ["hp", 0.0], ["hp_recovery_rate", 0.0], ["life_steal", 0.0], ["magic_critical", 0.0], ["magic_def", 0.0], ["magic_penetrate", 0.0], ["magic_str", 2600.0], ["physical_critical", 0.0], ["physical_penetrate", 0.0], ["promotion_level", 36], ["unit_id", 132301], ["wave_energy_recovery", 0.0], ["wave_hp_recovery", 0.0]]
+        ]
+      }
+    },
+    "unit_data": {
+      "data_changes": {
+        "modified": [
+          {
+            "id": 130701,
+            "old": [["atk_type", 2], ["comment", "【魔法】位於中衛，身著花祭禮服帶給花田春天的優等生。\\n利用依照技能發動次數有效率地強化自身能力，\\n與暴擊時有追加效果的技能及ＵＢ吹起勝利之風。"], ["cutin1_star6", 130701], ["cutin2_star6", 0], ["cutin_1", 130701], ["cutin_2", 0], ["end_time", "2025/03/19 15:59:59"], ["exskill_display", 0], ["guild_id", 0], ["is_limited", 1], ["kana", "鏡華（春日）"], ["motion_type", 7], ["move_speed", 450], ["normal_atk_cast_time", 1.92], ["only_disp_owned", 0], ["original_unit_id", 0], ["prefab_id", 130701], ["prefab_id_battle", 0], ["rarity", 3], ["se_type", 7], ["search_area_width", 563], ["start_time", "2025/03/12 16:00:00"], ["unit_id", 130701], ["unit_name", "鏡華（春日）"]],
+            "new": [["atk_type", 2], ["comment", "【魔法】位於中衛，身著花祭禮服帶給花田春天的優等生。\\n利用依照技能發動次數有效率地強化自身能力，\\n與暴擊時有追加效果的技能及ＵＢ吹起勝利之風。"], ["cutin1_star6", 130701], ["cutin2_star6", 0], ["cutin_1", 130701], ["cutin_2", 0], ["end_time", "2025/09/16 15:59:59"], ["exskill_display", 0], ["guild_id", 0], ["is_limited", 1], ["kana", "鏡華（春日）"], ["motion_type", 7], ["move_speed", 450], ["normal_atk_cast_time", 1.92], ["only_disp_owned", 0], ["original_unit_id", 0], ["prefab_id", 130701], ["prefab_id_battle", 0], ["rarity", 3], ["se_type", 7], ["search_area_width", 563], ["start_time", "2025/09/04 16:00:00"], ["unit_id", 130701], ["unit_name", "鏡華（春日）"]]
+          },
+          {
+            "id": 130101,
+            "old": [["atk_type", 1], ["comment", "【物理】位於中衛，常常抽到壞籤的盜賊公會次女。\\n召喚來的刺蝟墊木會站上前線保護若菜，而她自身\\n會從攻擊支援到恢復ＨＰ和ＴＰ，在各方面無私地支持我方。"], ["cutin1_star6", 130101], ["cutin2_star6", 0], ["cutin_1", 130101], ["cutin_2", 0], ["end_time", "2025/03/28 15:59:59"], ["exskill_display", 0], ["guild_id", 0], ["is_limited", 1], ["kana", "若菜"], ["motion_type", 9], ["move_speed", 450], ["normal_atk_cast_time", 2.09], ["only_disp_owned", 0], ["original_unit_id", 0], ["prefab_id", 130101], ["prefab_id_battle", 0], ["rarity", 3], ["se_type", 7], ["search_area_width", 535], ["start_time", "2025/03/19 16:00:00"], ["unit_id", 130101], ["unit_name", "若菜"]],
+            "new": [["atk_type", 1], ["comment", "【物理】位於中衛，常常抽到壞籤的盜賊公會次女。\\n召喚來的刺蝟墊木會站上前線保護若菜，而她自身\\n會從攻擊支援到恢復ＨＰ和ＴＰ，在各方面無私地支持我方。"], ["cutin1_star6", 130101], ["cutin2_star6", 0], ["cutin_1", 130101], ["cutin_2", 0], ["end_time", "2025/09/16 15:59:59"], ["exskill_display", 0], ["guild_id", 0], ["is_limited", 1], ["kana", "若菜"], ["motion_type", 9], ["move_speed", 450], ["normal_atk_cast_time", 2.09], ["only_disp_owned", 0], ["original_unit_id", 0], ["prefab_id", 130101], ["prefab_id_battle", 0], ["rarity", 3], ["se_type", 7], ["search_area_width", 535], ["start_time", "2025/09/04 16:00:00"], ["unit_id", 130101], ["unit_name", "若菜"]]
+          },
+          {
+            "id": 130001,
+            "old": [["atk_type", 1], ["comment", "【物理】位於前衛，大膽追求刺激的盜賊公會長女。\\n會在最前線拚命，並消耗獲得的【蠻賊骰子】\\n大幅強化自己，壓制烏合之眾。"], ["cutin1_star6", 130001], ["cutin2_star6", 0], ["cutin_1", 130001], ["cutin_2", 0], ["end_time", "2025/03/19 15:59:59"], ["exskill_display", 0], ["guild_id", 0], ["is_limited", 1], ["kana", "倭"], ["motion_type", 0], ["move_speed", 450], ["normal_atk_cast_time", 2.09], ["only_disp_owned", 0], ["original_unit_id", 0], ["prefab_id", 130001], ["prefab_id_battle", 0], ["rarity", 3], ["se_type", 4], ["search_area_width", 150], ["start_time", "2025/03/12 16:00:00"], ["unit_id", 130001], ["unit_name", "倭"]],
+            "new": [["atk_type", 1], ["comment", "【物理】位於前衛，大膽追求刺激的盜賊公會長女。\\n會在最前線拚命，並消耗獲得的【蠻賊骰子】\\n大幅強化自己，壓制烏合之眾。"], ["cutin1_star6", 130001], ["cutin2_star6", 0], ["cutin_1", 130001], ["cutin_2", 0], ["end_time", "2025/09/16 15:59:59"], ["exskill_display", 0], ["guild_id", 0], ["is_limited", 1], ["kana", "倭"], ["motion_type", 0], ["move_speed", 450], ["normal_atk_cast_time", 2.09], ["only_disp_owned", 0], ["original_unit_id", 0], ["prefab_id", 130001], ["prefab_id_battle", 0], ["rarity", 3], ["se_type", 4], ["search_area_width", 150], ["start_time", "2025/09/04 16:00:00"], ["unit_id", 130001], ["unit_name", "倭"]]
+          },
+          {
+            "id": 130201,
+            "old": [["atk_type", 1], ["comment", "【物理】位於中衛，囂張且極其聰明的盜賊公會三女。\\n靠著【夥伴護盾♡】讓夥伴承受自身所受的傷害，\\nＨＰ最大值時能透過傷害提升的範圍攻擊蹂躪敵人。"], ["cutin1_star6", 130201], ["cutin2_star6", 0], ["cutin_1", 130201], ["cutin_2", 0], ["end_time", "2025/03/12 15:59:59"], ["exskill_display", 0], ["guild_id", 0], ["is_limited", 1], ["kana", "布武機"], ["motion_type", 0], ["move_speed", 450], ["normal_atk_cast_time", 1.84], ["only_disp_owned", 0], ["original_unit_id", 0], ["prefab_id", 130201], ["prefab_id_battle", 0], ["rarity", 3], ["se_type", 5], ["search_area_width", 371], ["start_time", "2025/03/01 16:00:00"], ["unit_id", 130201], ["unit_name", "布武機"]],
+            "new": [["atk_type", 1], ["comment", "【物理】位於中衛，囂張且極其聰明的盜賊公會三女。\\n靠著【夥伴護盾♡】讓夥伴承受自身所受的傷害，\\nＨＰ最大值時能透過傷害提升的範圍攻擊蹂躪敵人。"], ["cutin1_star6", 130201], ["cutin2_star6", 0], ["cutin_1", 130201], ["cutin_2", 0], ["end_time", "2025/09/16 15:59:59"], ["exskill_display", 0], ["guild_id", 0], ["is_limited", 1], ["kana", "布武機"], ["motion_type", 0], ["move_speed", 450], ["normal_atk_cast_time", 1.84], ["only_disp_owned", 0], ["original_unit_id", 0], ["prefab_id", 130201], ["prefab_id_battle", 0], ["rarity", 3], ["se_type", 5], ["search_area_width", 371], ["start_time", "2025/09/04 16:00:00"], ["unit_id", 130201], ["unit_name", "布武機"]]
+          },
+          {
+            "id": 132201,
+            "old": [["atk_type", 2], ["comment", "【魔法】位於前衛，鍊成希望的鍊金術師偶像。\\n以【鍊金素材】創造【香水】，除了傷害之外，還能提升\\nＴＰ恢復與攻擊支援能力，為隊伍帶來勝利的香氣。"], ["cutin1_star6", 132201], ["cutin2_star6", 0], ["cutin_1", 132201], ["cutin_2", 0], ["end_time", "2025/02/10 15:59:59"], ["exskill_display", 0], ["guild_id", 0], ["is_limited", 1], ["kana", "望（鍊金術師）"], ["motion_type", 7], ["move_speed", 450], ["normal_atk_cast_time", 1.84], ["only_disp_owned", 0], ["original_unit_id", 0], ["prefab_id", 132201], ["prefab_id_battle", 0], ["rarity", 3], ["se_type", 7], ["search_area_width", 721], ["start_time", "2025/02/01 16:00:00"], ["unit_id", 132201], ["unit_name", "望（鍊金術師）"]],
+            "new": [["atk_type", 2], ["comment", "【魔法】位於前衛，鍊成希望的鍊金術師偶像。\\n以【鍊金素材】創造【香水】，除了傷害之外，還能提升\\nＴＰ恢復與攻擊支援能力，為隊伍帶來勝利的香氣。"], ["cutin1_star6", 132201], ["cutin2_star6", 0], ["cutin_1", 132201], ["cutin_2", 0], ["end_time", "2025/09/16 15:59:59"], ["exskill_display", 0], ["guild_id", 0], ["is_limited", 1], ["kana", "望（鍊金術師）"], ["motion_type", 7], ["move_speed", 450], ["normal_atk_cast_time", 1.84], ["only_disp_owned", 0], ["original_unit_id", 0], ["prefab_id", 132201], ["prefab_id_battle", 0], ["rarity", 3], ["se_type", 7], ["search_area_width", 721], ["start_time", "2025/09/04 16:00:00"], ["unit_id", 132201], ["unit_name", "望（鍊金術師）"]]
+          },
+          {
+            "id": 132301,
+            "old": [["atk_type", 0], ["comment", ""], ["cutin1_star6", 0], ["cutin2_star6", 0], ["cutin_1", 0], ["cutin_2", 0], ["end_time", "2030/12/31 15:00:00"], ["exskill_display", 0], ["guild_id", 0], ["is_limited", 1], ["kana", "露易絲瑪莉"], ["motion_type", 7], ["move_speed", 0], ["normal_atk_cast_time", 0.0], ["only_disp_owned", 0], ["original_unit_id", 0], ["prefab_id", 132301], ["prefab_id_battle", 0], ["rarity", 3], ["se_type", 7], ["search_area_width", 0], ["start_time", "2025/09/01 16:00:00"], ["unit_id", 132301], ["unit_name", "露易絲瑪莉"]],
+            "new": [["atk_type", 2], ["comment", "【魔法】位於後衛，蘊藏深不可測智慧的天才鍊金術師。\\n能施加調和狀態讓我方以較高防禦力承受傷害，\\n並以最多提升性能２次的ＵＢ，使妄想爆炸。"], ["cutin1_star6", 132301], ["cutin2_star6", 0], ["cutin_1", 132301], ["cutin_2", 0], ["end_time", "2025/09/16 15:59:59"], ["exskill_display", 0], ["guild_id", 0], ["is_limited", 1], ["kana", "露易絲瑪莉"], ["motion_type", 7], ["move_speed", 450], ["normal_atk_cast_time", 2.09], ["only_disp_owned", 0], ["original_unit_id", 0], ["prefab_id", 132301], ["prefab_id_battle", 0], ["rarity", 3], ["se_type", 7], ["search_area_width", 754], ["start_time", "2025/09/04 16:00:00"], ["unit_id", 132301], ["unit_name", "露易絲瑪莉"]]
+          }
+        ]
+      }
+    },
+    "unlock_rarity_6": {
+      "data_changes": {
+        "added": [
+          [["accuracy", 0], ["atk", 0], ["consume_gold", 0], ["def", 0], ["dodge", 0], ["energy_recovery_rate", 0], ["energy_reduce_rate", 0], ["hp", 0], ["hp_recovery_rate", 0], ["life_steal", 0], ["magic_critical", 0], ["magic_def", 0], ["magic_penetrate", 0], ["magic_str", 0], ["material_count", 0], ["material_id", 0], ["material_type", 0], ["physical_critical", 0], ["physical_penetrate", 0], ["slot_id", 2], ["unit_id", 132301], ["unlock_flag", 0], ["unlock_level", 0], ["wave_energy_recovery", 0], ["wave_hp_recovery", 0]]
+        ]
+      }
+    },
+    "unit_rarity": {
+      "data_changes": {
+        "added": [
+          [["accuracy", 0.0], ["accuracy_growth", 0.0], ["atk", 0.0], ["atk_growth", 0.0], ["consume_gold", 40000], ["consume_num", 120], ["def", 3.46], ["def_growth", 0.6], ["dodge", 0.0], ["dodge_growth", 0.0], ["energy_recovery_rate", 0.0], ["energy_recovery_rate_growth", 0.0], ["energy_reduce_rate", 0.0], ["energy_reduce_rate_growth", 0.0], ["hp", 464.8], ["hp_growth", 80.7], ["hp_recovery_rate", 0.0], ["hp_recovery_rate_growth", 0.0], ["life_steal", 0.0], ["life_steal_growth", 0.0], ["magic_critical", 0.0], ["magic_critical_growth", 0.0], ["magic_def", 3.28], ["magic_def_growth", 0.58], ["magic_penetrate", 0.0], ["magic_penetrate_growth", 0.0], ["magic_str", 72.37], ["magic_str_growth", 12.58], ["physical_critical", 0.0], ["physical_critical_growth", 0.0], ["physical_penetrate", 0.0], ["physical_penetrate_growth", 0.0], ["rarity", 4], ["unit_id", 132301], ["unit_material_id", 31323], ["wave_energy_recovery", 0.0], ["wave_energy_recovery_growth", 0.0], ["wave_hp_recovery", 0.0], ["wave_hp_recovery_growth", 0.0]]
+        ]
+      }
+    },
+    "voice_group_chara": {
+      "data_changes": {
+        "added": [
+          [["group_unit_id", 132301001], ["group_unit_id_comment", "露易絲瑪莉"], ["unit_id_01", 132301], ["unit_id_02", 0], ["unit_id_03", 0], ["unit_id_04", 0], ["unit_id_05", 0], ["unit_id_06", 0], ["unit_id_07", 0], ["unit_id_08", 0], ["unit_id_09", 0], ["unit_id_10", 0]]
+        ]
+      }
+    },
+    "unit_enemy_data": {
+      "data_changes": {
+        "added": [
+          [["atk_type", 2], ["comment", "有著露易絲瑪莉樣貌的特殊魔物"], ["cutin", 0], ["cutin_star6", 0], ["motion_type", 7], ["move_speed", 450], ["normal_atk_cast_time", 2.09], ["prefab_id", 132301], ["se_type", 7], ["search_area_width", 754], ["unit_id", 632301], ["unit_name", "露易絲瑪莉的闇影"], ["visual_change_flag", 1]]
+        ]
+      }
+    },
+    "voice_group": {
+      "data_changes": {
+        "added": [
+          [["group_id", 20240], ["group_id_comment", "露易絲瑪莉＆深月"], ["group_unit_id_01", 132301001], ["group_unit_id_02", 105101001], ["group_unit_id_03", 0], ["group_unit_id_04", 0], ["group_unit_id_05", 0]]
+        ]
+      }
+    },
+    "story_data": {
+      "data_changes": {
+        "added": [
+          [["condition_free_flag", 0], ["disp_order", 18], ["end_time", "2030/12/17 14:59:59"], ["gojuon_order", 8211], ["order", 0], ["start_time", "2015/04/01 15:00:00"], ["story_group_id", 3022], ["story_type", 3], ["thumbnail_id", 0], ["title", "阿爾克絲鍊金堂"], ["value", 22]],
+          [["condition_free_flag", 0], ["disp_order", 287], ["end_time", "2030/12/17 14:59:59"], ["gojuon_order", 820111], ["order", 0], ["start_time", "2015/04/01 15:00:00"], ["story_group_id", 1323], ["story_type", 1], ["thumbnail_id", 0], ["title", "露易絲瑪莉"], ["value", 1323]]
+        ]
+      }
+    },
+    "unit_ex_equipment_slot": {
+      "data_changes": {
+        "added": [
+          [["slot_category_1", 109], ["slot_category_2", 203], ["slot_category_3", 305], ["unit_id", 132301]]
+        ]
+      }
+    },
+    "app_icon": {
+      "data_changes": {
+        "added": [
+          [["id", 132331]]
+        ]
+      }
+    },
+    "chara_identity": {
+      "data_changes": {
+        "added": [
+          [["chara_type", 323], ["chara_type_2", 0], ["chara_type_3", 0], ["unit_id", 132301]]
+        ]
+      }
+    },
+    "unit_introduction": {
+      "data_changes": {
+        "added": [
+          [["end_time", "2025/09/16 15:59:59"], ["gacha_id", 30385], ["id", 376], ["introduction_number", 1], ["maximum_chunk_size_1", 380000], ["maximum_chunk_size_2", 0], ["maximum_chunk_size_3", 0], ["maximum_chunk_size_loop_1", 0], ["maximum_chunk_size_loop_2", 380000], ["maximum_chunk_size_loop_3", 0], ["start_time", "2025/09/04 16:00:00"]],
+          [["end_time", "2025/09/16 15:59:59"], ["gacha_id", 30384], ["id", 377], ["introduction_number", 1], ["maximum_chunk_size_1", 380000], ["maximum_chunk_size_2", 0], ["maximum_chunk_size_3", 0], ["maximum_chunk_size_loop_1", 0], ["maximum_chunk_size_loop_2", 380000], ["maximum_chunk_size_loop_3", 0], ["start_time", "2025/09/04 16:00:00"]]
+        ]
+      }
+    },
+    "exceed_level_unit": {
+      "data_changes": {
+        "added": [
+          [["consume_num_1", 40], ["consume_num_2", 30000000], ["consume_num_3", 0], ["consume_num_4", 0], ["consume_num_5", 0], ["exceed_item_id", 41323], ["exceed_stage", 1], ["id", 1132301], ["item_id_1", 31323], ["item_id_2", 94000], ["item_id_3", 0], ["item_id_4", 0], ["item_id_5", 0], ["reward_type_1", 2], ["reward_type_2", 12], ["reward_type_3", 0], ["reward_type_4", 0], ["reward_type_5", 0], ["unit_id", 132301]]
+        ]
+      }
+    },
+    "seven_boss_extra_effect": {
+      "data_changes": {
+        "added": [
+          [["detail", "戰鬥開始90秒內，\\n我方全體特大幅度提升魔法攻擊力"], ["icon_id", 3003], ["id", 10204003], ["quest_id", 10204501], ["start_time", "2025/09/04 16:00:00"], ["unit_id", 132301]],
+          [["detail", "戰鬥開始後，大幅恢復我方全體的ＴＰ"], ["icon_id", 3014], ["id", 10204004], ["quest_id", 10204501], ["start_time", "2025/09/04 16:00:00"], ["unit_id", 132301]]
+        ]
+      }
+    },
+    "unit_promotion_status": {
+      "data_changes": {
+        "added": [
+          [["accuracy", 0.0], ["atk", 0.0], ["def", 133.0], ["dodge", 0.0], ["energy_recovery_rate", 22.0], ["energy_reduce_rate", 17.0], ["hp", 4950.0], ["hp_recovery_rate", 45.0], ["life_steal", 6.0], ["magic_critical", 2082.0], ["magic_def", 257.0], ["magic_penetrate", 0.0], ["magic_str", 37699.0], ["physical_critical", 0.0], ["physical_penetrate", 0.0], ["promotion_level", 34], ["unit_id", 132301], ["wave_energy_recovery", 372.0], ["wave_hp_recovery", 1080.0]]
+        ]
+      }
+    },
+    "skill_action": {
+      "data_changes": {
+        "added": [
+          [["action_detail_1", 80], ["action_detail_2", 1], ["action_detail_3", 0], ["action_id", 132300202], ["action_type", 10], ["action_value_1", 1.0], ["action_value_2", 5.0], ["action_value_3", 0.0], ["action_value_4", 12.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 1.0], ["class_id", 1], ["description", "提升全體夥伴的 TP 上升{0}"], ["level_up_disp", ""], ["target_area", 3], ["target_assignment", 2], ["target_count", 99], ["target_number", 0], ["target_range", 2160], ["target_type", 3]],
+          [["action_detail_1", 30], ["action_detail_2", 1], ["action_detail_3", 0], ["action_id", 132300201], ["action_type", 10], ["action_value_1", 1.0], ["action_value_2", 20.0], ["action_value_3", 20.0], ["action_value_4", 12.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 1.0], ["class_id", 1], ["description", "提升我方全體{0}的魔法攻擊力"], ["level_up_disp", "魔法攻擊力提升+{0}"], ["target_area", 3], ["target_assignment", 2], ["target_count", 99], ["target_number", 0], ["target_range", 2160], ["target_type", 3]],
+          [["action_detail_1", 70], ["action_detail_2", 1], ["action_detail_3", 0], ["action_id", 132300109], ["action_type", 10], ["action_value_1", 1.0], ["action_value_2", 100.0], ["action_value_3", 0.0], ["action_value_4", 180.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 1.0], ["class_id", 1], ["description", ""], ["level_up_disp", ""], ["target_area", 3], ["target_assignment", 2], ["target_count", 99], ["target_number", 0], ["target_range", 2160], ["target_type", 3]],
+          [["action_detail_1", 4], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 132350101], ["action_type", 90], ["action_value_1", 1.0], ["action_value_2", 15.0], ["action_value_3", 15.0], ["action_value_4", 1.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "提升自身{0}的魔法攻擊力"], ["level_up_disp", "魔法攻擊力提升+{0}"], ["target_area", 0], ["target_assignment", 0], ["target_count", 0], ["target_number", 0], ["target_range", 0], ["target_type", 0]],
+          [["action_detail_1", 0], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 132300303], ["action_type", 130], ["action_value_1", 12.0], ["action_value_2", 0.0], ["action_value_3", 0.0], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "對我方全體施加調和狀態"], ["level_up_disp", ""], ["target_area", 3], ["target_assignment", 2], ["target_count", 99], ["target_number", 0], ["target_range", 2160], ["target_type", 3]],
+          [["action_detail_1", 30], ["action_detail_2", 1], ["action_detail_3", 0], ["action_id", 132300301], ["action_type", 10], ["action_value_1", 1.0], ["action_value_2", 20.0], ["action_value_3", 20.0], ["action_value_4", 12.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 1.0], ["class_id", 1], ["description", "提升我方全體{0}的魔法攻擊力"], ["level_up_disp", "魔法攻擊力提升+{0}"], ["target_area", 3], ["target_assignment", 2], ["target_count", 99], ["target_number", 0], ["target_range", 2160], ["target_type", 3]],
+          [["action_detail_1", 30], ["action_detail_2", 1], ["action_detail_3", 0], ["action_id", 132300108], ["action_type", 10], ["action_value_1", 1.0], ["action_value_2", 30.0], ["action_value_3", 30.0], ["action_value_4", 180.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 1.0], ["class_id", 1], ["description", ""], ["level_up_disp", ""], ["target_area", 3], ["target_assignment", 2], ["target_count", 99], ["target_number", 0], ["target_range", 2160], ["target_type", 3]],
+          [["action_detail_1", 1], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 132300305], ["action_type", 16], ["action_value_1", 80.0], ["action_value_2", 0.0], ["action_value_3", 0.0], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "回復我方全體{0}的TP"], ["level_up_disp", ""], ["target_area", 3], ["target_assignment", 2], ["target_count", 99], ["target_number", 0], ["target_range", 2160], ["target_type", 3]],
+          [["action_detail_1", 41], ["action_detail_2", 1], ["action_detail_3", 0], ["action_id", 132300204], ["action_type", 10], ["action_value_1", 1.0], ["action_value_2", 0.5], ["action_value_3", 0.5], ["action_value_4", 12.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 1.0], ["class_id", 1], ["description", "降低敵方單體{0}的魔法防禦力"], ["level_up_disp", "魔法防禦力降低+{0}"], ["target_area", 1], ["target_assignment", 1], ["target_count", 1], ["target_number", 0], ["target_range", 2160], ["target_type", 3]],
+          [["action_detail_1", 4], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 132351101], ["action_type", 90], ["action_value_1", 1.0], ["action_value_2", 240.0], ["action_value_3", 15.0], ["action_value_4", 1.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "提升自身{0}的魔法攻擊力"], ["level_up_disp", "魔法攻擊力提升+{0}"], ["target_area", 0], ["target_assignment", 0], ["target_count", 0], ["target_number", 0], ["target_range", 0], ["target_type", 0]],
+          [["action_detail_1", 120], ["action_detail_2", 1], ["action_detail_3", 0], ["action_id", 132300110], ["action_type", 10], ["action_value_1", 1.0], ["action_value_2", 5.0], ["action_value_3", 0.0], ["action_value_4", 180.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 1.0], ["class_id", 1], ["description", ""], ["level_up_disp", ""], ["target_area", 3], ["target_assignment", 2], ["target_count", 99], ["target_number", 0], ["target_range", 2160], ["target_type", 3]],
+          [["action_detail_1", 132300101], ["action_detail_2", 3], ["action_detail_3", 0], ["action_id", 132300106], ["action_type", 26], ["action_value_1", 21.0], ["action_value_2", 2.1], ["action_value_3", 0.0], ["action_value_4", 4.2], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", ""], ["level_up_disp", ""], ["target_area", 2], ["target_assignment", 2], ["target_count", 1], ["target_number", 0], ["target_range", 2160], ["target_type", 7]],
+          [["action_detail_1", 2], ["action_detail_2", 1], ["action_detail_3", 0], ["action_id", 132300203], ["action_type", 1], ["action_value_1", 35.0], ["action_value_2", 35.0], ["action_value_3", 2.8], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "對敵方單體造成{0}防禦力較低者可防禦的魔法傷害"], ["level_up_disp", "魔法傷害+{0}"], ["target_area", 1], ["target_assignment", 1], ["target_count", 1], ["target_number", 0], ["target_range", 2160], ["target_type", 3]],
+          [["action_detail_1", 1213], ["action_detail_2", 132300108], ["action_detail_3", 132300102], ["action_id", 132300107], ["action_type", 28], ["action_value_1", 1.0], ["action_value_2", 2.0], ["action_value_3", 0.0], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", ""], ["level_up_disp", ""], ["target_area", 2], ["target_assignment", 2], ["target_count", 1], ["target_number", 0], ["target_range", 2160], ["target_type", 7]],
+          [["action_detail_1", 2], ["action_detail_2", 1], ["action_detail_3", 0], ["action_id", 132300101], ["action_type", 1], ["action_value_1", 52.5], ["action_value_2", 52.5], ["action_value_3", 4.2], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "對敵方單體造成{0}防禦力較低者可防禦的魔法傷害"], ["level_up_disp", "魔法傷害+{0}"], ["target_area", 1], ["target_assignment", 1], ["target_count", 1], ["target_number", 0], ["target_range", 2160], ["target_type", 3]],
+          [["action_detail_1", 120], ["action_detail_2", 1], ["action_detail_3", 0], ["action_id", 132300104], ["action_type", 10], ["action_value_1", 1.0], ["action_value_2", 5.0], ["action_value_3", 0.0], ["action_value_4", 18.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 1.0], ["class_id", 1], ["description", "提升我方全體{0}％的魔法暴擊傷害"], ["level_up_disp", ""], ["target_area", 3], ["target_assignment", 2], ["target_count", 99], ["target_number", 0], ["target_range", 2160], ["target_type", 3]],
+          [["action_detail_1", 40], ["action_detail_2", 1], ["action_detail_3", 0], ["action_id", 132300302], ["action_type", 10], ["action_value_1", 1.0], ["action_value_2", 1.0], ["action_value_3", 1.0], ["action_value_4", 12.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 1.0], ["class_id", 1], ["description", "提升我方全體{0}的魔法防禦力"], ["level_up_disp", "魔法防禦力提升+{0}"], ["target_area", 3], ["target_assignment", 2], ["target_count", 99], ["target_number", 0], ["target_range", 2160], ["target_type", 3]],
+          [["action_detail_1", 30], ["action_detail_2", 1], ["action_detail_3", 0], ["action_id", 132300102], ["action_type", 10], ["action_value_1", 1.0], ["action_value_2", 30.0], ["action_value_3", 30.0], ["action_value_4", 18.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 1.0], ["class_id", 1], ["description", "提升我方全體{0}的魔法攻擊力"], ["level_up_disp", "魔法攻擊力提升+{0}"], ["target_area", 3], ["target_assignment", 2], ["target_count", 99], ["target_number", 0], ["target_range", 2160], ["target_type", 3]],
+          [["action_detail_1", 2], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 132300304], ["action_type", 4], ["action_value_1", 1.0], ["action_value_2", 3.0], ["action_value_3", 3.0], ["action_value_4", 0.25], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "回復我方全體{0}的HP"], ["level_up_disp", "HP回復量+{0}"], ["target_area", 3], ["target_assignment", 2], ["target_count", 99], ["target_number", 0], ["target_range", 2160], ["target_type", 3]],
+          [["action_detail_1", 70], ["action_detail_2", 1], ["action_detail_3", 0], ["action_id", 132300103], ["action_type", 10], ["action_value_1", 1.0], ["action_value_2", 100.0], ["action_value_3", 0.0], ["action_value_4", 18.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 1.0], ["class_id", 1], ["description", "使全體夥伴的魔法暴擊提升{0}"], ["level_up_disp", ""], ["target_area", 3], ["target_assignment", 2], ["target_count", 99], ["target_number", 0], ["target_range", 2160], ["target_type", 3]],
+          [["action_detail_1", 1], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 132300105], ["action_type", 45], ["action_value_1", 3.0], ["action_value_2", 0.0], ["action_value_3", 0.0], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", ""], ["level_up_disp", ""], ["target_area", 2], ["target_assignment", 2], ["target_count", 1], ["target_number", 0], ["target_range", 2160], ["target_type", 7]]
+        ]
+      }
+    },
+    "unit_comments": {
+      "data_changes": {
+        "added": [
+          [["all_comments_flag", 0], ["change_face", 1], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 0.0], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "生日快樂……紅著臉低語的我，\\n被你溫柔地抱入懷中……\\n很好，祝賀模擬很完美……\\n呵呵呵……♪"], ["face_id", 1], ["face_id_2", 0], ["face_id_3", 0], ["id", 1323012], ["target_unit_id", 0], ["unit_id", 132331], ["use_type", 2], ["voice_id", 6]],
+          [["all_comments_flag", 0], ["change_face", 2], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 8.3], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "要是用禁忌鍊金術做出跟我一模\\n一樣的鍊成生物你會疼愛她嗎？\\n……不對啦！\\n生日快樂，達令♪"], ["face_id", 9], ["face_id_2", 0], ["face_id_3", 0], ["id", 1323011], ["target_unit_id", 0], ["unit_id", 132301], ["use_type", 2], ["voice_id", 6]],
+          [["all_comments_flag", 0], ["change_face", 1], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 0.0], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "我跟你……即使是用俯瞰\\n看起來也挺適合的吧……？\\n兩人一起走在街上\\n一定會被當作情侶吧……♪"], ["face_id", 1], ["face_id_2", 0], ["face_id_3", 0], ["id", 1323007], ["target_unit_id", 0], ["unit_id", 132331], ["use_type", 1], ["voice_id", 2]],
+          [["all_comments_flag", 0], ["change_face", 10], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 0.0], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "要試試我的鍊金術嗎？\\n沒事，我絕對不會失敗的！\\n……好吧，只是有時會因為\\n太成功而出現不同的效果……"], ["face_id", 10], ["face_id_2", 0], ["face_id_3", 0], ["id", 1323001], ["target_unit_id", 0], ["unit_id", 132301], ["use_type", 1], ["voice_id", 1]],
+          [["all_comments_flag", 0], ["change_face", 1], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 0.0], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "我不會為自己使用鍊金術……\\n但這不是為了自己……！\\n是要讓大家都能露出笑容的\\n鍊金術修行！是、是真的啦！"], ["face_id", 1], ["face_id_2", 0], ["face_id_3", 0], ["id", 1323009], ["target_unit_id", 0], ["unit_id", 132331], ["use_type", 1], ["voice_id", 4]],
+          [["all_comments_flag", 0], ["change_face", 2], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 5.6], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "想多跟你在一起，\\n乾脆鍊成跟你一模一樣的生物……\\n開玩笑的，只是玩笑喔。\\n因為本尊就在我面前了嘛。"], ["face_id", 9], ["face_id_2", 0], ["face_id_3", 0], ["id", 1323002], ["target_unit_id", 0], ["unit_id", 132301], ["use_type", 1], ["voice_id", 2]],
+          [["all_comments_flag", 0], ["change_face", 2], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 5.2], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "因為達令這麼有魅力，\\n也讓我有好多情敵……\\n總有一天我要像鍊金術一樣\\n讓這份戀情大獲成功！"], ["face_id", 4], ["face_id_2", 0], ["face_id_3", 0], ["id", 1323005], ["target_unit_id", 0], ["unit_id", 132301], ["use_type", 1], ["voice_id", 5]],
+          [["all_comments_flag", 0], ["change_face", 1], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 0.0], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "遇見命中注定的王子後\\n鍊金術的水準也提升了……\\n這就是所謂的愛的力量嗎？\\n……我好像還能繼續成長！"], ["face_id", 1], ["face_id_2", 0], ["face_id_3", 0], ["id", 1323008], ["target_unit_id", 0], ["unit_id", 132331], ["use_type", 1], ["voice_id", 3]],
+          [["all_comments_flag", 0], ["change_face", 10], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 3.9], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "我一定會完成\\n讓彩羽和苑\\n恢復原狀的祕藥……\\n再等我一下哦……！"], ["face_id", 1], ["face_id_2", 0], ["face_id_3", 0], ["id", 1323003], ["target_unit_id", 0], ["unit_id", 132301], ["use_type", 1], ["voice_id", 3]],
+          [["all_comments_flag", 0], ["change_face", 1], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 0.0], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "……這次的鍊金術似乎\\n比平常成功太多了一點點……！\\n啊，魔像的我跟你！\\n再稍微分開一點啦──！"], ["face_id", 1], ["face_id_2", 0], ["face_id_3", 0], ["id", 1323006], ["target_unit_id", 0], ["unit_id", 132331], ["use_type", 1], ["voice_id", 1]],
+          [["all_comments_flag", 0], ["change_face", 1], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 0.0], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "呵呵……從頭到尾\\n都完全就是那個人本人……！\\n不過，這點程度的重現輕而易舉。\\n因為我每晚都在夢中與你相見啊♪"], ["face_id", 1], ["face_id_2", 0], ["face_id_3", 0], ["id", 1323010], ["target_unit_id", 0], ["unit_id", 132331], ["use_type", 1], ["voice_id", 5]],
+          [["all_comments_flag", 0], ["change_face", 13], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 9.8], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "啊，你今天也來見我啦♪\\n每天都這樣待在一起\\n已經算是夫妻了吧……\\n呀──開玩笑的──♪"], ["face_id", 2], ["face_id_2", 0], ["face_id_3", 0], ["id", 1323004], ["target_unit_id", 0], ["unit_id", 132301], ["use_type", 1], ["voice_id", 4]]
+        ]
+      }
+    },
+    "skill_data": {
+      "data_changes": {
+        "added": [
+          [["action_1", 132350101], ["action_10", 0], ["action_2", 0], ["action_3", 0], ["action_4", 0], ["action_5", 0], ["action_6", 0], ["action_7", 0], ["action_8", 0], ["action_9", 0], ["boss_ub_cool_time", 0.0], ["depend_action_1", 0], ["depend_action_10", 0], ["depend_action_2", 0], ["depend_action_3", 0], ["depend_action_4", 0], ["depend_action_5", 0], ["depend_action_6", 0], ["depend_action_7", 0], ["depend_action_8", 0], ["depend_action_9", 0], ["description", "戰鬥開始時，中幅度提升自己的魔法攻擊力。"], ["icon_type", 3003], ["name", "基創鍊成"], ["skill_area_width", 0], ["skill_cast_time", 0.0], ["skill_id", 1323501], ["skill_type", 0]],
+          [["action_1", 132300101], ["action_10", 132300110], ["action_2", 132300102], ["action_3", 132300103], ["action_4", 132300104], ["action_5", 132300105], ["action_6", 132300106], ["action_7", 132300107], ["action_8", 132300108], ["action_9", 132300109], ["boss_ub_cool_time", 0.0], ["depend_action_1", 0], ["depend_action_10", 132300108], ["depend_action_2", 0], ["depend_action_3", 132300102], ["depend_action_4", 132300103], ["depend_action_5", 0], ["depend_action_6", 0], ["depend_action_7", 0], ["depend_action_8", 0], ["depend_action_9", 132300108], ["description", "面前的１名敵人物理防禦力低於魔法防禦力時，對其造成視為物理傷害的特大幅度魔法傷害，特大幅度提升我方全體的魔法攻擊力，大幅度提升魔法暴擊率，小幅度提升魔法暴擊傷害。每次使用此技能便增加傷害幅度，最多增加２次，第３次以後，增加此技能能力提升的效果時間。"], ["icon_type", 1003], ["name", "究極鍊成‐冰炎融合"], ["skill_area_width", 0], ["skill_cast_time", 0.0], ["skill_id", 1323001], ["skill_type", 0]],
+          [["action_1", 132300301], ["action_10", 0], ["action_2", 132300302], ["action_3", 132300303], ["action_4", 132300304], ["action_5", 132300305], ["action_6", 0], ["action_7", 0], ["action_8", 0], ["action_9", 0], ["boss_ub_cool_time", 0.0], ["depend_action_1", 0], ["depend_action_10", 0], ["depend_action_2", 0], ["depend_action_3", 0], ["depend_action_4", 0], ["depend_action_5", 0], ["depend_action_6", 0], ["depend_action_7", 0], ["depend_action_8", 0], ["depend_action_9", 0], ["description", "特大幅度提升我方全體的魔法攻擊力，大幅度提升魔法防禦力，並賦予調和狀態，小幅度恢復ＨＰ與ＴＰ。調和狀態期間，會根據物理防禦力和魔法防禦力中較高的一方來計算所受的傷害。"], ["icon_type", 2017], ["name", "協調之藥"], ["skill_area_width", 0], ["skill_cast_time", 0.59], ["skill_id", 1323003], ["skill_type", 0]],
+          [["action_1", 132300201], ["action_10", 0], ["action_2", 132300202], ["action_3", 132300203], ["action_4", 132300204], ["action_5", 0], ["action_6", 0], ["action_7", 0], ["action_8", 0], ["action_9", 0], ["boss_ub_cool_time", 0.0], ["depend_action_1", 0], ["depend_action_10", 0], ["depend_action_2", 0], ["depend_action_3", 0], ["depend_action_4", 132300203], ["depend_action_5", 0], ["depend_action_6", 0], ["depend_action_7", 0], ["depend_action_8", 0], ["depend_action_9", 0], ["description", "特大幅度提升我方全體的魔法攻擊力，小幅度提升ＴＰ上升。並且目標的物理防禦力低於魔法防禦力時，對面前的１名敵人造成視為物理傷害的大幅度魔法傷害。小幅度降低魔法防禦力。"], ["icon_type", 2003], ["name", "引火之藥"], ["skill_area_width", 0], ["skill_cast_time", 0.59], ["skill_id", 1323002], ["skill_type", 0]],
+          [["action_1", 132351101], ["action_10", 0], ["action_2", 0], ["action_3", 0], ["action_4", 0], ["action_5", 0], ["action_6", 0], ["action_7", 0], ["action_8", 0], ["action_9", 0], ["boss_ub_cool_time", 0.0], ["depend_action_1", 0], ["depend_action_10", 0], ["depend_action_2", 0], ["depend_action_3", 0], ["depend_action_4", 0], ["depend_action_5", 0], ["depend_action_6", 0], ["depend_action_7", 0], ["depend_action_8", 0], ["depend_action_9", 0], ["description", "戰鬥開始時，大幅度提升自己的魔法攻擊力。"], ["icon_type", 3003], ["name", "基創鍊成+"], ["skill_area_width", 0], ["skill_cast_time", 0.0], ["skill_id", 1323511], ["skill_type", 0]]
+        ],
+        "modified": [
+          {
+            "id": 2169056,
+            "old": [["action_1", 216905601], ["action_10", 0], ["action_2", 216905602], ["action_3", 216905603], ["action_4", 0], ["action_5", 0], ["action_6", 0], ["action_7", 0], ["action_8", 0], ["action_9", 0], ["boss_ub_cool_time", 0.0], ["depend_action_1", 0], ["depend_action_10", 0], ["depend_action_2", 0], ["depend_action_3", 216905602], ["depend_action_4", 0], ["depend_action_5", 0], ["depend_action_6", 0], ["depend_action_7", 0], ["depend_action_8", 0], ["depend_action_9", 0], ["description", ""], ["icon_type", 1001], ["name", ""], ["skill_area_width", 0], ["skill_cast_time", 0.0], ["skill_id", 2169056], ["skill_type", 0]],
+            "new": [["action_1", 216905601], ["action_10", 0], ["action_2", 216905602], ["action_3", 216905603], ["action_4", 216905604], ["action_5", 216905605], ["action_6", 216905606], ["action_7", 0], ["action_8", 0], ["action_9", 0], ["boss_ub_cool_time", 0.0], ["depend_action_1", 0], ["depend_action_10", 0], ["depend_action_2", 0], ["depend_action_3", 216905602], ["depend_action_4", 0], ["depend_action_5", 0], ["depend_action_6", 216905605], ["depend_action_7", 0], ["depend_action_8", 0], ["depend_action_9", 0], ["description", ""], ["icon_type", 1001], ["name", ""], ["skill_area_width", 0], ["skill_cast_time", 0.0], ["skill_id", 2169056], ["skill_type", 0]]
+          }
+        ]
+      }
+    },
+    "gacha_data": {
+      "data_changes": {
+        "added": [
+          [["b445862d0ab66dcf0d21148e77310f8e2f88e53c87861cd1b30c6271489741b7", 0], ["chara_odds_star1", "0"], ["chara_odds_star2", "0"], ["chara_odds_star3", "0"], ["description", "取得道具獎勵或記憶碎片吧！"], ["description_2", ""], ["description_sp", ""], ["discount_price", 0], ["end_time", "2025/09/16 15:59:59"], ["exchange_id", 0], ["ff12a2d323be4140b5b5f0e3db8f93c207d4d0594eff84913f280ebb8f5fbfcd", 0], ["free_gacha_count", 10], ["free_gacha_interval_time", 0], ["free_gacha_type", 1], ["gacha10_special_odds_star1", "0"], ["gacha10_special_odds_star2", "0"], ["gacha10_special_odds_star3", "0"], ["gacha_bonus_id", 0], ["gacha_cost_type", 3], ["gacha_detail", 1], ["gacha_id", 10384], ["gacha_name", "一般轉蛋"], ["gacha_odds", "10384"], ["gacha_odds_star2", ""], ["gacha_times_limit10", 0], ["gacha_type", 0], ["movie_id", 0], ["parallel_id", 0], ["pick_up_chara_text", ""], ["pickup_badge", 0], ["pickup_id", 0], ["price", 0], ["prizegacha_id", 0], ["rarity_odds", "0"], ["special_id", 0], ["start_time", "2025/09/04 16:00:00"], ["tab_name", ""], ["ticket_id", 0], ["ticket_id_10", 0], ["title_id", 0]],
+          [["b445862d0ab66dcf0d21148e77310f8e2f88e53c87861cd1b30c6271489741b7", 0], ["chara_odds_star1", "20384_1"], ["chara_odds_star2", "20384_2"], ["chara_odds_star3", "20384_3"], ["description", "白金轉蛋僅會出現角色喔！"], ["description_2", ""], ["description_sp", ""], ["discount_price", 50], ["end_time", "2025/09/16 15:59:59"], ["exchange_id", 385], ["ff12a2d323be4140b5b5f0e3db8f93c207d4d0594eff84913f280ebb8f5fbfcd", 0], ["free_gacha_count", 0], ["free_gacha_interval_time", 0], ["free_gacha_type", 0], ["gacha10_special_odds_star1", "0"], ["gacha10_special_odds_star2", "0"], ["gacha10_special_odds_star3", "0"], ["gacha_bonus_id", 0], ["gacha_cost_type", 2], ["gacha_detail", 2], ["gacha_id", 20384], ["gacha_name", "白金轉蛋"], ["gacha_odds", "0"], ["gacha_odds_star2", "0"], ["gacha_times_limit10", 0], ["gacha_type", 1], ["movie_id", 200001], ["parallel_id", 0], ["pick_up_chara_text", "無精選角色"], ["pickup_badge", 0], ["pickup_id", 0], ["price", 150], ["prizegacha_id", 0], ["rarity_odds", "300000"], ["special_id", 0], ["start_time", "2025/09/04 16:00:00"], ["tab_name", ""], ["ticket_id", 24001], ["ticket_id_10", 24004], ["title_id", 0]],
+          [["b445862d0ab66dcf0d21148e77310f8e2f88e53c87861cd1b30c6271489741b7", 0], ["chara_odds_star1", "30385_1"], ["chara_odds_star2", "30385_2"], ["chara_odds_star3", "30385_3"], ["description", "限定「露易絲瑪莉」登場！\\n期間內出現率UP！"], ["description_2", "[3C404E]每次讓目標角色加入時[FFBB00,CE4F00][-]獲得[-]角色記憶碎片200個！"], ["description_sp", ""], ["discount_price", 50], ["end_time", "2025/09/16 15:59:59"], ["exchange_id", 385], ["ff12a2d323be4140b5b5f0e3db8f93c207d4d0594eff84913f280ebb8f5fbfcd", 1], ["free_gacha_count", 0], ["free_gacha_interval_time", 0], ["free_gacha_type", 0], ["gacha10_special_odds_star1", "0"], ["gacha10_special_odds_star2", "0"], ["gacha10_special_odds_star3", "0"], ["gacha_bonus_id", 1177], ["gacha_cost_type", 2], ["gacha_detail", 2], ["gacha_id", 30385], ["gacha_name", "精選轉蛋"], ["gacha_odds", "0"], ["gacha_odds_star2", "0"], ["gacha_times_limit10", 0], ["gacha_type", 1], ["movie_id", 300385], ["parallel_id", 0], ["pick_up_chara_text", "露易絲瑪莉"], ["pickup_badge", 0], ["pickup_id", 0], ["price", 150], ["prizegacha_id", 0], ["rarity_odds", "300000"], ["special_id", 0], ["start_time", "2025/09/04 16:00:00"], ["tab_name", ""], ["ticket_id", 24001], ["ticket_id_10", 24004], ["title_id", 0]],
+          [["b445862d0ab66dcf0d21148e77310f8e2f88e53c87861cd1b30c6271489741b7", 0], ["chara_odds_star1", "30384_1"], ["chara_odds_star2", "30384_2"], ["chara_odds_star3", "30384_3"], ["description", "可自選精選角色！\\n『10 連轉蛋』確定有1個5等以上！"], ["description_2", ""], ["description_sp", ""], ["discount_price", 50], ["end_time", "2025/09/16 15:59:59"], ["exchange_id", 384], ["ff12a2d323be4140b5b5f0e3db8f93c207d4d0594eff84913f280ebb8f5fbfcd", 0], ["free_gacha_count", 0], ["free_gacha_interval_time", 0], ["free_gacha_type", 0], ["gacha10_special_odds_star1", "0"], ["gacha10_special_odds_star2", "0"], ["gacha10_special_odds_star3", "0"], ["gacha_bonus_id", 0], ["gacha_cost_type", 2], ["gacha_detail", 2], ["gacha_id", 30384], ["gacha_name", "可自選的獎勵轉蛋"], ["gacha_odds", "0"], ["gacha_odds_star2", "0"], ["gacha_times_limit10", 0], ["gacha_type", 1], ["movie_id", 300384], ["parallel_id", 0], ["pick_up_chara_text", "若菜\\n倭\\n布武機\\n望（鍊金術師）\\n鏡華（春日）\\n鈴莓（春日）"], ["pickup_badge", 0], ["pickup_id", 40], ["price", 150], ["prizegacha_id", 100161], ["rarity_odds", "300000"], ["special_id", 0], ["start_time", "2025/09/04 16:00:00"], ["tab_name", ""], ["ticket_id", 24001], ["ticket_id_10", 24004], ["title_id", 1]]
+        ]
+      }
+    },
+    "emblem_mission_reward_data": {
+      "data_changes": {
+        "added": [
+          [["icon_type", 1002], ["id", 1535], ["mission_reward_id", 56011973], ["reward_id", 10201973], ["reward_num", 1], ["reward_type", 15]],
+          [["icon_type", 0], ["id", 1537], ["mission_reward_id", 56011974], ["reward_id", 91002], ["reward_num", 50], ["reward_type", 8]],
+          [["icon_type", 1003], ["id", 1538], ["mission_reward_id", 56012022], ["reward_id", 10202022], ["reward_num", 1], ["reward_type", 15]],
+          [["icon_type", 1001], ["id", 1534], ["mission_reward_id", 56011972], ["reward_id", 10201972], ["reward_num", 1], ["reward_type", 15]],
+          [["icon_type", 1003], ["id", 1536], ["mission_reward_id", 56011974], ["reward_id", 10201974], ["reward_num", 1], ["reward_type", 15]]
+        ]
+      }
+    },
+    "gacha_exchange_lineup": {
+      "data_changes": {
+        "added": [
+          [["end_time", "2025/09/16 15:59:59"], ["exchange_id", 384], ["gacha_bonus_id", 0], ["id", 1072], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2025/09/04 16:00:00"], ["unit_id", 130001]],
+          [["end_time", "2025/09/16 15:59:59"], ["exchange_id", 384], ["gacha_bonus_id", 0], ["id", 1073], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2025/09/04 16:00:00"], ["unit_id", 130201]],
+          [["end_time", "2025/09/16 15:59:59"], ["exchange_id", 384], ["gacha_bonus_id", 0], ["id", 1075], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2025/09/04 16:00:00"], ["unit_id", 130701]],
+          [["end_time", "2025/09/16 15:59:59"], ["exchange_id", 384], ["gacha_bonus_id", 0], ["id", 1076], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2025/09/04 16:00:00"], ["unit_id", 130801]],
+          [["end_time", "2025/09/16 15:59:59"], ["exchange_id", 384], ["gacha_bonus_id", 0], ["id", 1071], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2025/09/04 16:00:00"], ["unit_id", 130101]],
+          [["end_time", "2025/09/16 15:59:59"], ["exchange_id", 384], ["gacha_bonus_id", 0], ["id", 1074], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2025/09/04 16:00:00"], ["unit_id", 132201]],
+          [["end_time", "2025/09/16 15:59:59"], ["exchange_id", 385], ["gacha_bonus_id", 1177], ["id", 1077], ["pickup_gacha_id", 30385], ["rarity", 3], ["start_time", "2025/09/04 16:00:00"], ["unit_id", 132301]]
+        ]
+      }
+    },
+    "unit_skill_data": {
+      "data_changes": {
+        "added": [
+          [["ex_skill_1", 1323501], ["ex_skill_2", 0], ["ex_skill_3", 0], ["ex_skill_4", 0], ["ex_skill_5", 0], ["ex_skill_evolution_1", 1323511], ["ex_skill_evolution_2", 0], ["ex_skill_evolution_3", 0], ["ex_skill_evolution_4", 0], ["ex_skill_evolution_5", 0], ["main_skill_1", 1323002], ["main_skill_10", 0], ["main_skill_2", 1323003], ["main_skill_3", 0], ["main_skill_4", 0], ["main_skill_5", 0], ["main_skill_6", 0], ["main_skill_7", 0], ["main_skill_8", 0], ["main_skill_9", 0], ["main_skill_evolution_1", 0], ["main_skill_evolution_2", 0], ["sp_skill_1", 0], ["sp_skill_2", 0], ["sp_skill_3", 0], ["sp_skill_4", 0], ["sp_skill_5", 0], ["sp_skill_evolution_1", 0], ["sp_skill_evolution_2", 0], ["sp_union_burst", 0], ["union_burst", 1323001], ["union_burst_evolution", 0], ["unit_id", 132301]]
+        ]
+      }
+    },
+    "unit_attack_pattern": {
+      "data_changes": {
+        "added": [
+          [["atk_pattern_1", 1002], ["atk_pattern_10", 0], ["atk_pattern_11", 0], ["atk_pattern_12", 0], ["atk_pattern_13", 0], ["atk_pattern_14", 0], ["atk_pattern_15", 0], ["atk_pattern_16", 0], ["atk_pattern_17", 0], ["atk_pattern_18", 0], ["atk_pattern_19", 0], ["atk_pattern_2", 1001], ["atk_pattern_20", 0], ["atk_pattern_3", 1], ["atk_pattern_4", 1002], ["atk_pattern_5", 1001], ["atk_pattern_6", 0], ["atk_pattern_7", 0], ["atk_pattern_8", 0], ["atk_pattern_9", 0], ["loop_end", 5], ["loop_start", 3], ["pattern_id", 13230101], ["unit_id", 132301]]
+        ]
+      }
+    },
+    "story_detail": {
+      "data_changes": {
+        "added": [
+          [["258b19508fb7919a4870be021e8c9b9befd942f8ac71f31f1d63b944bbae5013", 0], ["48843ab692f7b8aeb92b2b2e7df902d9fa4d543ea7e2b096651b983cc6403c0f", 0], ["can_bookmark", 1], ["eee938825172ab6ec876bc26a11c9387a6bc0f93e797537e19ddc2f0c5ae99ee", 0], ["end_time", "2030/12/17 14:59:59"], ["force_unlock_time", "2030/12/17 14:59:59"], ["force_unlock_time_2", "2030/12/17 14:59:59"], ["lock_all_text", 0], ["love_level", 6], ["pre_story_id", 3022001], ["pre_story_id_2", 0], ["read_process_flag", 1], ["requirement_id", 22], ["reward_id_1", 91002], ["reward_id_2", 0], ["reward_type_1", 8], ["reward_type_2", 0], ["reward_value_1", 50], ["reward_value_2", 0], ["start_time", "2015/04/01 15:00:00"], ["story_end", 0], ["story_group_id", 3022], ["story_id", 3022002], ["story_quest_id", 0], ["sub_title", "其名為阿爾克絲鍊金堂"], ["title", "阿爾克絲鍊金堂 第2話"], ["unlock_quest_id", 0], ["visible_type", 0]],
+          [["258b19508fb7919a4870be021e8c9b9befd942f8ac71f31f1d63b944bbae5013", 0], ["48843ab692f7b8aeb92b2b2e7df902d9fa4d543ea7e2b096651b983cc6403c0f", 0], ["can_bookmark", 1], ["eee938825172ab6ec876bc26a11c9387a6bc0f93e797537e19ddc2f0c5ae99ee", 0], ["end_time", "2030/12/17 14:59:59"], ["force_unlock_time", "2030/12/17 14:59:59"], ["force_unlock_time_2", "2030/12/17 14:59:59"], ["lock_all_text", 0], ["love_level", 5], ["pre_story_id", 1323002], ["pre_story_id_2", 0], ["read_process_flag", 1], ["requirement_id", 132301], ["reward_id_1", 91002], ["reward_id_2", 0], ["reward_type_1", 8], ["reward_type_2", 0], ["reward_value_1", 20], ["reward_value_2", 0], ["start_time", "2015/04/01 15:00:00"], ["story_end", 0], ["story_group_id", 1323], ["story_id", 1323003], ["story_quest_id", 0], ["sub_title", "STEADY"], ["title", "露易絲瑪莉 第3話"], ["unlock_quest_id", 0], ["visible_type", 0]],
+          [["258b19508fb7919a4870be021e8c9b9befd942f8ac71f31f1d63b944bbae5013", 0], ["48843ab692f7b8aeb92b2b2e7df902d9fa4d543ea7e2b096651b983cc6403c0f", 0], ["can_bookmark", 1], ["eee938825172ab6ec876bc26a11c9387a6bc0f93e797537e19ddc2f0c5ae99ee", 0], ["end_time", "2030/12/17 14:59:59"], ["force_unlock_time", "2030/12/17 14:59:59"], ["force_unlock_time_2", "2030/12/17 14:59:59"], ["lock_all_text", 0], ["love_level", 0], ["pre_story_id", 0], ["pre_story_id_2", 0], ["read_process_flag", 1], ["requirement_id", 132301], ["reward_id_1", 91002], ["reward_id_2", 0], ["reward_type_1", 8], ["reward_type_2", 0], ["reward_value_1", 20], ["reward_value_2", 0], ["start_time", "2015/04/01 15:00:00"], ["story_end", 0], ["story_group_id", 1323], ["story_id", 1323001], ["story_quest_id", 0], ["sub_title", "宛如相遇時"], ["title", "露易絲瑪莉 第1話"], ["unlock_quest_id", 0], ["visible_type", 0]],
+          [["258b19508fb7919a4870be021e8c9b9befd942f8ac71f31f1d63b944bbae5013", 0], ["48843ab692f7b8aeb92b2b2e7df902d9fa4d543ea7e2b096651b983cc6403c0f", 0], ["can_bookmark", 1], ["eee938825172ab6ec876bc26a11c9387a6bc0f93e797537e19ddc2f0c5ae99ee", 0], ["end_time", "2030/12/17 14:59:59"], ["force_unlock_time", "2030/12/17 14:59:59"], ["force_unlock_time_2", "2030/12/17 14:59:59"], ["lock_all_text", 0], ["love_level", 8], ["pre_story_id", 3022002], ["pre_story_id_2", 0], ["read_process_flag", 1], ["requirement_id", 22], ["reward_id_1", 91002], ["reward_id_2", 0], ["reward_type_1", 8], ["reward_type_2", 0], ["reward_value_1", 50], ["reward_value_2", 0], ["start_time", "2015/04/01 15:00:00"], ["story_end", 0], ["story_group_id", 3022], ["story_id", 3022003], ["story_quest_id", 0], ["sub_title", "禁忌祕藥與命中註定的相遇"], ["title", "阿爾克絲鍊金堂 第3話"], ["unlock_quest_id", 0], ["visible_type", 0]],
+          [["258b19508fb7919a4870be021e8c9b9befd942f8ac71f31f1d63b944bbae5013", 0], ["48843ab692f7b8aeb92b2b2e7df902d9fa4d543ea7e2b096651b983cc6403c0f", 0], ["can_bookmark", 1], ["eee938825172ab6ec876bc26a11c9387a6bc0f93e797537e19ddc2f0c5ae99ee", 0], ["end_time", "2030/12/17 14:59:59"], ["force_unlock_time", "2030/12/17 14:59:59"], ["force_unlock_time_2", "2030/12/17 14:59:59"], ["lock_all_text", 0], ["love_level", 1], ["pre_story_id", 0], ["pre_story_id_2", 0], ["read_process_flag", 1], ["requirement_id", 22], ["reward_id_1", 91002], ["reward_id_2", 0], ["reward_type_1", 8], ["reward_type_2", 0], ["reward_value_1", 50], ["reward_value_2", 0], ["start_time", "2015/04/01 15:00:00"], ["story_end", 0], ["story_group_id", 3022], ["story_id", 3022001], ["story_quest_id", 0], ["sub_title", "怠惰、胡搞瞎搞，以及鹿"], ["title", "阿爾克絲鍊金堂 第1話"], ["unlock_quest_id", 0], ["visible_type", 0]],
+          [["258b19508fb7919a4870be021e8c9b9befd942f8ac71f31f1d63b944bbae5013", 0], ["48843ab692f7b8aeb92b2b2e7df902d9fa4d543ea7e2b096651b983cc6403c0f", 0], ["can_bookmark", 1], ["eee938825172ab6ec876bc26a11c9387a6bc0f93e797537e19ddc2f0c5ae99ee", 0], ["end_time", "2030/12/17 14:59:59"], ["force_unlock_time", "2030/12/17 14:59:59"], ["force_unlock_time_2", "2030/12/17 14:59:59"], ["lock_all_text", 0], ["love_level", 8], ["pre_story_id", 1323003], ["pre_story_id_2", 0], ["read_process_flag", 1], ["requirement_id", 132301], ["reward_id_1", 91002], ["reward_id_2", 0], ["reward_type_1", 8], ["reward_type_2", 0], ["reward_value_1", 50], ["reward_value_2", 0], ["start_time", "2015/04/01 15:00:00"], ["story_end", 0], ["story_group_id", 1323], ["story_id", 1323004], ["story_quest_id", 0], ["sub_title", "愛戀誕生之日"], ["title", "露易絲瑪莉 第4話"], ["unlock_quest_id", 0], ["visible_type", 0]],
+          [["258b19508fb7919a4870be021e8c9b9befd942f8ac71f31f1d63b944bbae5013", 0], ["48843ab692f7b8aeb92b2b2e7df902d9fa4d543ea7e2b096651b983cc6403c0f", 0], ["can_bookmark", 1], ["eee938825172ab6ec876bc26a11c9387a6bc0f93e797537e19ddc2f0c5ae99ee", 0], ["end_time", "2030/12/17 14:59:59"], ["force_unlock_time", "2030/12/17 14:59:59"], ["force_unlock_time_2", "2030/12/17 14:59:59"], ["lock_all_text", 0], ["love_level", 4], ["pre_story_id", 1323001], ["pre_story_id_2", 0], ["read_process_flag", 1], ["requirement_id", 132301], ["reward_id_1", 91002], ["reward_id_2", 0], ["reward_type_1", 8], ["reward_type_2", 0], ["reward_value_1", 20], ["reward_value_2", 0], ["start_time", "2015/04/01 15:00:00"], ["story_end", 0], ["story_group_id", 1323], ["story_id", 1323002], ["story_quest_id", 0], ["sub_title", "Shapes Of Love"], ["title", "露易絲瑪莉 第2話"], ["unlock_quest_id", 0], ["visible_type", 0]]
+        ]
+      }
+    },
+    "emblem_data": {
+      "data_changes": {
+        "added": [
+          [["description_mission_id", 56011973], ["disp_oder", 201967], ["emblem_id", 10201973], ["emblem_name", "與露易絲瑪莉的羈絆"], ["end_time", "2030/01/01 23:59:59"], ["event_emblem", 0], ["start_time", "2025/09/04 16:00:00"], ["type", 2]],
+          [["description_mission_id", 56011974], ["disp_oder", 201968], ["emblem_id", 10201974], ["emblem_name", "天才悶騷鍊金術師"], ["end_time", "2030/01/01 23:59:59"], ["event_emblem", 0], ["start_time", "2025/09/04 16:00:00"], ["type", 2]],
+          [["description_mission_id", 56012022], ["disp_oder", 202022], ["emblem_id", 10202022], ["emblem_name", "阿爾克絲鍊金堂"], ["end_time", "2030/01/01 23:59:59"], ["event_emblem", 0], ["start_time", "2025/09/04 16:00:00"], ["type", 2]],
+          [["description_mission_id", 56011972], ["disp_oder", 201966], ["emblem_id", 10201972], ["emblem_name", "露易絲瑪莉"], ["end_time", "2030/01/01 23:59:59"], ["event_emblem", 0], ["start_time", "2025/09/04 16:00:00"], ["type", 2]]
+        ]
+      }
+    },
+    "guild": {
+      "data_changes": {
+        "added": [
+          [["description", "為了完成禁忌祕藥而奮鬥的鍊金術公會。是由妄想爆發的天才鍊金術師露易絲瑪莉，喜愛鍬形蟲的美女劍士彩羽，怠惰的小孩子店長苑所組成的三人組。"], ["guild_id", 22], ["guild_master", 1323], ["guild_name", "阿爾克絲鍊金堂"], ["member1", 1323], ["member10", 0], ["member11", 0], ["member12", 0], ["member13", 0], ["member14", 0], ["member15", 0], ["member16", 0], ["member17", 0], ["member18", 0], ["member19", 0], ["member2", 0], ["member20", 0], ["member21", 0], ["member22", 0], ["member23", 0], ["member24", 0], ["member25", 0], ["member26", 0], ["member27", 0], ["member28", 0], ["member29", 0], ["member3", 0], ["member30", 0], ["member4", 0], ["member5", 0], ["member6", 0], ["member7", 0], ["member8", 0], ["member9", 0]]
+        ]
+      }
+    },
+    "unit_promotion": {
+      "data_changes": {
+        "added": [
+          [["equip_slot_1", 109222], ["equip_slot_2", 109221], ["equip_slot_3", 109461], ["equip_slot_4", 108224], ["equip_slot_5", 109611], ["equip_slot_6", 108614], ["promotion_level", 28], ["unit_id", 132301]]
+        ]
+      }
+    },
+    "room_unit_comments": {
+      "data_changes": {
+        "added": [
+          [["beloved_step", 1], ["description", "陪彩羽一起去抓蟲\\n是要拚上性命的！\\n因為沒抓到一萬隻以前\\n不能回家……"], ["face_id", 1], ["id", 9101], ["insert_word_type", 0], ["time", 0], ["trigger", 2], ["unit_id", 132301], ["voice_id", 3]]
+        ]
+      }
+    },
+    "gacha_pickup": {
+      "data_changes": {
+        "added": [
+          [["id", 40], ["name", "鏡華（春日）"], ["priority", 5], ["reward_id", 130701], ["reward_type", 1]]
+        ]
+      }
+    },
+    "v1_ae2a896ecc31e964773500114a871e73144b00a4d9bb45efc81188473dab2653": {
+      "data_changes": {
+        "added": [
+          [["03d049c2d8112421728a2ec096517653dba9b0ead5890ce16a514d4b6b0f0b41", 0], ["06d66bfb7d9933a213a68bef2f9ee52a68d4dcf52e6162d28571a88029c99f07", 0], ["0c4c6cbcc230f746a741a4917f6d0aa49604cf091472e1358590c63516f77f6e", 0], ["0dd321ca5ecbc484cb5dc928c45ef8fb7649eb16b8e65dbfafc16d1550bb83eb", 0], ["1a32a2a6a8cb398706b4c187eef4ed769adbb891019ef11c31c2e306a32a25d1", 1], ["1d9800ec376439b49f17883bde427ac83d9ad304b565adc2cc5f645eebb18f72", 0], ["2464c6ef5416dc7e2b432d33532fff1d3bedd07ca8c1ddbe70710ee871aac2bd", 0], ["2998772afc263ea7e2a674423f4e1aac3ae076d2a5e9b4393568c2a86cef0cf1", 31307], ["3258551b21d2f8dc1cb3adbbbd58b0b9608da631d02a4314ee3f88f6d2186754", 0], ["389cb23adee318a88f7ad8407896465bd7227f81ef60169748018ea2df750818", 5], ["3dc4f8368b450d56b443e08e7624beef5be836260c290988f57a7a787b96e1b2", 0], ["3fabb787fa38d7f1d05261832ee5cfa352b875a1629142c3c161f045912f3a79", 0], ["409bff422ab4f183a59b13bb4b71adb7805feadb4bbfee2178dce18fa9ce3459", 10], ["48952cb6b36705ef7f98a32fa235c7b301149518c9a26ed6faeefb284efa0c98", 0], ["55af528127cefe0610722d5adc53c95f9ff3b9214fb32a48e74d026fd774742b", 0], ["57cd6b9c92285585dcd0afba5daa131a62999962730e40d66e7cbb724e9d1323", 0], ["58233b82e435c769f5e9c9a554495a667cde361bf6a7e7b0d8a9b277b8dbe55a", 31308], ["5f2ea5310540905244c8786a96148c089982ffb369bb0ea7767cd6787f1fde7a", 0], ["6af986ace856588dfc6747c5cbfde691e328b1e18a478f39926546a60e95f2c3", 31301], ["6f580e9fce9efea60c216bb9026adc081f8d554604c62ce11e5c751329848999", 0], ["77d5198eec901f6a8551d1b02388e14ebdc1cc9ed905339d8c04cc78434d3788", 0], ["79558fb54f82be192fdb1aa641b058c74ba40c82dcb1c9e204e3cdb7aa3e46e9", 100001], ["810ce54172fb089c141bd833f7239fd26d7cae1e9c6603fb0edb269239dc261e", 1], ["8295cdfe036e543bf60a9474e0c6d241e56ea098136b65056f0c47a7afc5a1da", 0], ["84d6b1aee473d7d771123a1e22185e0b0f61265475051df4d2ff3d9ea49fe3fa", 0], ["99ea0be2c53e58308d7e17745a3b1f0c89c59fe675c52094c39b1a1469899a7a", 0], ["9c0695ce18c18574f1bf18b64487cc0f5522dccb419072f97e17e9647ac97833", 0], ["9c47fe2ef66e28826e6b67f47b172fe17ba95dd5a64bff3012680be6f85f7a3e", 0], ["9f81ed70cb03625b468650096c8c3d3df25a6def5a038afc8356a32dacbb22df", 100161], ["a4c1973ee36b11666faae7c0b88f2f6af5ac3ca4698e97fc6dec4d7c37a848d3", 0], ["a95c59c892e1f964127c7b80c2a016439c3e3952317d06a2558dcab193513a0c", 0], ["aa89c36954999bd070d79c4431247c2e7ae981a8b956a58139c5c84070f8c0a8", 0], ["b78c37d9c9fc7ed50b39ca65db7b3962b46155f3216f424e56cb1d2a5853ef15", 0], ["c1d732f56e04936b1750e352fb10c1aaf4e91ae75dc853bfa59f57932ec561ec", 0], ["cc0e5dd45eb71356e5ac3c088140486a1e5fbab8657b01eedab27f41a71ef110", 31300], ["ccfa9b53d4f091eb8c676829c1933f59476ad16e34a50c4d1ea6de67297da679", 0], ["d6e3d7befaf53d5731aca148c79283d9870b6e9fafb975826b440fe517bbbc9f", 0], ["d84c5179df1306fac4a949a2dac955d49a4ecc7049676553be69d3277b5ec927", 0], ["d8624c1bcc0843168717aeca2de051a5d9d13a7b8e9c5ba4c6e4e082d603cd1c", 0], ["e2522c0b1fe077d35419fe7fe6cc361d0dbd0470c1ddca4406c8f0fde27806e9", 0], ["e2ae3950ccb6e8c492cc5c2632d77843e827afae01649c0bf61c4442cfb007bf", 0], ["ed8ebff47ed2edba8fb1f6730a32f64c519103d81aa4ed80745f2eb3dc32fdde", 0], ["edeb326bc4d74894a515d75524650567c03af37e0f1140aaf00be69f0daf0c6c", 0], ["f453e66e01b9ce4c5ac6501fbe79af93dbd8879273920656fe0007c325d5b09b", 0], ["f567cb4b8df00317ffa55893d585c1e30f4277b1bb156708733d72940718c392", 31322], ["f77826e87905e6d76d59cbd95a3d2399968a17fa3c8df145a0f3130476839e6a", 5], ["fb40ff2de9b3dcfbf516656f2872a33c3fccc2909c16fff4e68bbe43c7f72099", 31302]]
+        ]
+      }
+    },
+    "unlock_unit_condition": {
+      "data_changes": {
+        "added": [
+          [["class_id", 1], ["condition_id_1", 31323], ["condition_id_2", 0], ["condition_id_3", 0], ["condition_id_4", 0], ["condition_id_5", 0], ["condition_type_1", 1], ["condition_type_2", 0], ["condition_type_3", 0], ["condition_type_4", 0], ["condition_type_5", 0], ["condition_type_detail_1", 2], ["condition_type_detail_2", 0], ["condition_type_detail_3", 0], ["condition_type_detail_4", 0], ["condition_type_detail_5", 0], ["count_1", 145], ["count_2", 0], ["count_3", 0], ["count_4", 0], ["count_5", 0], ["pre_unit_id", 0], ["release_effect_type", 2], ["unit_id", 132301], ["unit_name", "露易絲瑪莉"]]
+        ]
+      }
+    },
+    "actual_unit_background": {
+      "data_changes": {
+        "added": [
+          [["bg_id", 510100], ["face_type", 2], ["unit_id", 132331], ["unit_name", "天坂‧露易絲‧真璃"]]
+        ]
+      }
+    },
+    "unit_background": {
+      "data_changes": {
+        "added": [
+          [["bg_id", 502360], ["bg_name", "阿爾克絲鍊金堂_工作室_中午"], ["face_type", 2], ["position", 0.0], ["unit_id", 132301], ["unit_name", "露易絲瑪莉"]]
+        ]
+      }
+    },
+    "v1_f1bcc06dcd2e4f0b8a4b323dc16188bcb58a10f31f208a046f86acd8d713c58c": {
+      "data_changes": {
+        "added": [
+          [["0d4aa72c7c01e958b7c65b611b8dbac13ae650fd1a5851d1ea6f73867a9f2fcd", 132331], ["aa1acbe16ec2461a5fca34512b2d1284d870a8d47f2f39c8a88de9803190c074", 2.0]]
+        ]
+      }
+    },
+    "tips": {
+      "data_changes": {
+        "added": [
+          [["id", 4132301], ["tips_index", 1], ["title", "發作"], ["value", 132301]]
+        ]
+      }
+    },
+    "banner": {
+      "data_changes": {
+        "added": [
+          [["banner_id", 10336], ["condition_id", 0], ["end_date", "2025/09/16 15:59:59"], ["gacha_id", 30384], ["is_show_room", 0], ["priority", 50102], ["start_date", "2025/09/04 16:00:00"], ["sub_banner_id_1", 0], ["system_id", 302], ["type", 1]],
+          [["banner_id", 10337], ["condition_id", 0], ["end_date", "2025/09/16 15:59:59"], ["gacha_id", 30385], ["is_show_room", 0], ["priority", 50101], ["start_date", "2025/09/04 16:00:00"], ["sub_banner_id_1", 0], ["system_id", 302], ["type", 1]]
+        ]
+      }
+    },
+    "unit_role_data": {
+      "data_changes": {
+        "added": [
+          [["unit_id", 132301], ["unit_role_id", 3]]
+        ]
+      }
+    },
+    "clanprofile_content": {
+      "data_changes": {
+        "added": [
+          [["disp_order", 35], ["end_time", ""], ["id", 37], ["name", "阿爾克絲鍊金堂"], ["start_time", "2025/09/04 16:00:00"]]
+        ],
+        "modified": [
+          {
+            "id": 20,
+            "old": [["disp_order", 36], ["end_time", ""], ["id", 20], ["name", "？？？"], ["start_time", "2019/10/15 12:00:00"]],
+            "new": [["disp_order", 37], ["end_time", ""], ["id", 20], ["name", "？？？"], ["start_time", "2019/10/15 12:00:00"]]
+          },
+          {
+            "id": 30,
+            "old": [["disp_order", 35], ["end_time", ""], ["id", 30], ["name", "new generations"], ["start_time", "2020/09/30 16:00:00"]],
+            "new": [["disp_order", 36], ["end_time", ""], ["id", 30], ["name", "new generations"], ["start_time", "2020/09/30 16:00:00"]]
+          }
+        ]
+      }
+    },
+    "emblem_mission_data": {
+      "data_changes": {
+        "added": [
+          [["category_icon", 301], ["condition_num", 8], ["condition_value_1", 22], ["condition_value_2", 0], ["condition_value_3", 0], ["description", "阿爾克絲鍊金堂的合計羈絆Rank達到8"], ["disp_group", 202022], ["end_time", "2030/04/01 14:59:59"], ["mission_condition", 6012], ["mission_id", 56012022], ["mission_reward_id", 56012022], ["start_time", "2025/09/04 16:00:00"], ["system_id", 501], ["visible_flag", 1]],
+          [["category_icon", 301], ["condition_num", 1], ["condition_value_1", 132301], ["condition_value_2", 0], ["condition_value_3", 0], ["description", "讓露易絲瑪莉成為夥伴"], ["disp_group", 201300], ["end_time", "2030/04/01 14:59:59"], ["mission_condition", 6011], ["mission_id", 56011972], ["mission_reward_id", 56011972], ["start_time", "2025/09/04 16:00:00"], ["system_id", 501], ["visible_flag", 1]],
+          [["category_icon", 301], ["condition_num", 5], ["condition_value_1", 132301], ["condition_value_2", 0], ["condition_value_3", 0], ["description", "將露易絲瑪莉升到★5"], ["disp_group", 201300], ["end_time", "2030/04/01 14:59:59"], ["mission_condition", 6011], ["mission_id", 56011974], ["mission_reward_id", 56011974], ["start_time", "2025/09/04 16:00:00"], ["system_id", 501], ["visible_flag", 1]],
+          [["category_icon", 301], ["condition_num", 3], ["condition_value_1", 132301], ["condition_value_2", 0], ["condition_value_3", 0], ["description", "將露易絲瑪莉升到★3"], ["disp_group", 201300], ["end_time", "2030/04/01 14:59:59"], ["mission_condition", 6011], ["mission_id", 56011973], ["mission_reward_id", 56011973], ["start_time", "2025/09/04 16:00:00"], ["system_id", 501], ["visible_flag", 1]]
+        ]
+      }
+    },
+    "extra_effect_unit_group": {
+      "data_changes": {
+        "added": [
+          [["group_id", 6101683], ["target_id", 277], ["unit_id", 132301]]
+        ]
+      }
+    }
+  }
+}
