@@ -7,7 +7,7 @@ jobs:
   send_file:
     runs-on: ubuntu-latest
 
-    permissions: read
+    permissions: write
 
     steps:
     # 检出代码
