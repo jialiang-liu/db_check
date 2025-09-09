@@ -7,8 +7,6 @@ jobs:
   send_file:
     runs-on: ubuntu-latest
 
-    permissions: write
-
     steps:
     # 检出代码
     - name: Checkout repository
@@ -21,7 +19,7 @@ jobs:
       env:
         AUTH_TOKEN: ${{ secrets.POST_AUTH_TOKEN }}
         TARGET_URL: ${{ secrets.POST_TARGET_URL }}
-        LAST_VERSION: ${{ vars.LAST_VERSION_TW }}
+        LAST_VERSION: ${{ vars.LAST_VERSION_CN }}
       run: |
         curl -X POST \
              -H "Content-Type: multipart/form-data" \
