@@ -4,11 +4,8 @@ on:
   workflow_dispatch:
 
 jobs:
-  fetch_and_compare:
+  send_file:
     runs-on: ubuntu-latest
-
-    permissions:
-      contents: write
 
     steps:
     # 检出代码
@@ -27,5 +24,5 @@ jobs:
         curl -X POST \
              -H "Content-Type: multipart/form-data" \
              -H "Auth-Token: $AUTH_TOKEN" \
-             -F "file=@results/tw_$LAST_VERSION.json" \
+             -F "file=@results/cn_$LAST_VERSION.json" \
              $TARGET_URL || { echo 'Curl command failed.'; exit 1; }
