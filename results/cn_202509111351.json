@@ -1,0 +1,197 @@
+{
+  "tables": {
+    "only_in_old_db": [],
+    "only_in_new_db": []
+  },
+  "table_changes": {
+    "campaign_schedule": {
+      "data_changes": {
+        "added": [
+          [["beginner_id", 0], ["campaign_category", 49], ["campaign_type", 3], ["duplication_order", 0], ["end_time", "2025/09/29 04:59:59"], ["icon_image", 42], ["id", 5638], ["level_id", 0], ["lv_from", 1], ["lv_to", 250], ["shiori_group_id", 0], ["start_time", "2025/09/16 05:00:00"], ["system_id", 111], ["value", 3000.0]],
+          [["beginner_id", 0], ["campaign_category", 93], ["campaign_type", 1], ["duplication_order", 0], ["end_time", "2025/10/13 04:59:59"], ["icon_image", 100], ["id", 5648], ["level_id", 0], ["lv_from", 1], ["lv_to", -1], ["shiori_group_id", 0], ["start_time", "2025/09/29 05:00:00"], ["system_id", 111], ["value", 5000.0]],
+          [["beginner_id", 0], ["campaign_category", 85], ["campaign_type", 1], ["duplication_order", 0], ["end_time", "2025/10/13 04:59:59"], ["icon_image", 80], ["id", 5665], ["level_id", 0], ["lv_from", 1], ["lv_to", -1], ["shiori_group_id", 0], ["start_time", "2025/09/29 05:00:00"], ["system_id", 112], ["value", 3000.0]],
+          [["beginner_id", 0], ["campaign_category", 49], ["campaign_type", 3], ["duplication_order", 0], ["end_time", "2025/09/29 08:59:59"], ["icon_image", 42], ["id", 5639], ["level_id", 0], ["lv_from", 1], ["lv_to", 250], ["shiori_group_id", 0], ["start_time", "2025/09/29 05:00:00"], ["system_id", 111], ["value", 10000.0]],
+          [["beginner_id", 0], ["campaign_category", 96], ["campaign_type", 1], ["duplication_order", 0], ["end_time", "2025/10/11 23:59:59"], ["icon_image", 100], ["id", 5653], ["level_id", 0], ["lv_from", 1], ["lv_to", -1], ["shiori_group_id", 0], ["start_time", "2025/09/29 05:00:00"], ["system_id", 6004], ["value", 5000.0]],
+          [["beginner_id", 0], ["campaign_category", 39], ["campaign_type", 1], ["duplication_order", 0], ["end_time", "2025/10/13 04:59:59"], ["icon_image", 30], ["id", 5637], ["level_id", 0], ["lv_from", 1], ["lv_to", -1], ["shiori_group_id", 0], ["start_time", "2025/09/29 05:00:00"], ["system_id", 111], ["value", 10000.0]],
+          [["beginner_id", 0], ["campaign_category", 95], ["campaign_type", 1], ["duplication_order", 0], ["end_time", "2025/10/13 04:59:59"], ["icon_image", 100], ["id", 5650], ["level_id", 0], ["lv_from", 1], ["lv_to", -1], ["shiori_group_id", 0], ["start_time", "2025/09/29 05:00:00"], ["system_id", 112], ["value", 5000.0]],
+          [["beginner_id", 0], ["campaign_category", 152], ["campaign_type", 1], ["duplication_order", 0], ["end_time", "2025/10/11 23:59:59"], ["icon_image", 80], ["id", 5658], ["level_id", 0], ["lv_from", 1], ["lv_to", -1], ["shiori_group_id", 0], ["start_time", "2025/09/29 05:00:00"], ["system_id", 6005], ["value", 3000.0]],
+          [["beginner_id", 0], ["campaign_category", 100], ["campaign_type", 1], ["duplication_order", 0], ["end_time", "2025/10/13 04:59:59"], ["icon_image", 100], ["id", 5651], ["level_id", 0], ["lv_from", 1], ["lv_to", -1], ["shiori_group_id", 0], ["start_time", "2025/09/29 05:00:00"], ["system_id", 8004], ["value", 5000.0]],
+          [["beginner_id", 0], ["campaign_category", 91], ["campaign_type", 1], ["duplication_order", 0], ["end_time", "2025/10/13 04:59:59"], ["icon_image", 100], ["id", 5646], ["level_id", 0], ["lv_from", 1], ["lv_to", -1], ["shiori_group_id", 0], ["start_time", "2025/09/29 05:00:00"], ["system_id", 101], ["value", 5000.0]],
+          [["beginner_id", 0], ["campaign_category", 151], ["campaign_type", 1], ["duplication_order", 0], ["end_time", "2025/10/11 23:59:59"], ["icon_image", 80], ["id", 5657], ["level_id", 0], ["lv_from", 1], ["lv_to", -1], ["shiori_group_id", 0], ["start_time", "2025/09/29 05:00:00"], ["system_id", 6004], ["value", 3000.0]],
+          [["beginner_id", 0], ["campaign_category", 101], ["campaign_type", 1], ["duplication_order", 0], ["end_time", "2025/10/13 04:59:59"], ["icon_image", 100], ["id", 5652], ["level_id", 0], ["lv_from", 1], ["lv_to", -1], ["shiori_group_id", 0], ["start_time", "2025/09/29 05:00:00"], ["system_id", 8005], ["value", 5000.0]],
+          [["beginner_id", 0], ["campaign_category", 351], ["campaign_type", 1], ["duplication_order", 0], ["end_time", "2025/10/13 04:59:59"], ["icon_image", 80], ["id", 5666], ["level_id", 0], ["lv_from", 1], ["lv_to", -1], ["shiori_group_id", 0], ["start_time", "2025/09/29 05:00:00"], ["system_id", 8004], ["value", 3000.0]],
+          [["beginner_id", 0], ["campaign_category", 94], ["campaign_type", 1], ["duplication_order", 0], ["end_time", "2025/10/13 04:59:59"], ["icon_image", 100], ["id", 5649], ["level_id", 0], ["lv_from", 1], ["lv_to", -1], ["shiori_group_id", 0], ["start_time", "2025/09/29 05:00:00"], ["system_id", 109], ["value", 5000.0]],
+          [["beginner_id", 0], ["campaign_category", 49], ["campaign_type", 1], ["duplication_order", 0], ["end_time", "2025/10/13 04:59:59"], ["icon_image", 40], ["id", 5640], ["level_id", 0], ["lv_from", 1], ["lv_to", -1], ["shiori_group_id", 0], ["start_time", "2025/09/29 05:00:00"], ["system_id", 111], ["value", 10000.0]],
+          [["beginner_id", 0], ["campaign_category", 352], ["campaign_type", 1], ["duplication_order", 0], ["end_time", "2025/10/13 04:59:59"], ["icon_image", 80], ["id", 5667], ["level_id", 0], ["lv_from", 1], ["lv_to", -1], ["shiori_group_id", 0], ["start_time", "2025/09/29 05:00:00"], ["system_id", 8005], ["value", 3000.0]],
+          [["beginner_id", 0], ["campaign_category", 32], ["campaign_type", 1], ["duplication_order", 0], ["end_time", "2025/10/10 04:59:59"], ["icon_image", 30], ["id", 5669], ["level_id", 0], ["lv_from", 1], ["lv_to", -1], ["shiori_group_id", 0], ["start_time", "2025/09/29 05:00:00"], ["system_id", 102], ["value", 10000.0]],
+          [["beginner_id", 0], ["campaign_category", 251], ["campaign_type", 1], ["duplication_order", 0], ["end_time", "2025/10/07 23:59:59"], ["icon_image", 80], ["id", 5659], ["level_id", 0], ["lv_from", 1], ["lv_to", -1], ["shiori_group_id", 0], ["start_time", "2025/09/29 05:00:00"], ["system_id", 7004], ["value", 3000.0]],
+          [["beginner_id", 0], ["campaign_category", 252], ["campaign_type", 1], ["duplication_order", 0], ["end_time", "2025/10/07 23:59:59"], ["icon_image", 80], ["id", 5660], ["level_id", 0], ["lv_from", 1], ["lv_to", -1], ["shiori_group_id", 0], ["start_time", "2025/09/29 05:00:00"], ["system_id", 7005], ["value", 3000.0]],
+          [["beginner_id", 0], ["campaign_category", 31], ["campaign_type", 1], ["duplication_order", 0], ["end_time", "2025/10/13 04:59:59"], ["icon_image", 30], ["id", 5627], ["level_id", 0], ["lv_from", 1], ["lv_to", -1], ["shiori_group_id", 0], ["start_time", "2025/09/29 05:00:00"], ["system_id", 101], ["value", 10000.0]],
+          [["beginner_id", 0], ["campaign_category", 44], ["campaign_type", 1], ["duplication_order", 0], ["end_time", "2025/10/13 04:59:59"], ["icon_image", 40], ["id", 5645], ["level_id", 0], ["lv_from", 1], ["lv_to", -1], ["shiori_group_id", 0], ["start_time", "2025/09/29 05:00:00"], ["system_id", 103], ["value", 10000.0]],
+          [["beginner_id", 0], ["campaign_category", 37], ["campaign_type", 1], ["duplication_order", 0], ["end_time", "2025/10/13 04:59:59"], ["icon_image", 30], ["id", 5641], ["level_id", 0], ["lv_from", 1], ["lv_to", -1], ["shiori_group_id", 0], ["start_time", "2025/09/29 05:00:00"], ["system_id", 109], ["value", 10000.0]],
+          [["beginner_id", 0], ["campaign_category", 83], ["campaign_type", 1], ["duplication_order", 0], ["end_time", "2025/10/13 04:59:59"], ["icon_image", 80], ["id", 5663], ["level_id", 0], ["lv_from", 1], ["lv_to", -1], ["shiori_group_id", 0], ["start_time", "2025/09/29 05:00:00"], ["system_id", 111], ["value", 3000.0]],
+          [["beginner_id", 0], ["campaign_category", 41], ["campaign_type", 3], ["duplication_order", 0], ["end_time", "2025/09/29 08:59:59"], ["icon_image", 42], ["id", 5629], ["level_id", 0], ["lv_from", 1], ["lv_to", 250], ["shiori_group_id", 0], ["start_time", "2025/09/29 05:00:00"], ["system_id", 101], ["value", 6000.0]],
+          [["beginner_id", 0], ["campaign_category", 84], ["campaign_type", 1], ["duplication_order", 0], ["end_time", "2025/10/13 04:59:59"], ["icon_image", 80], ["id", 5664], ["level_id", 0], ["lv_from", 1], ["lv_to", -1], ["shiori_group_id", 0], ["start_time", "2025/09/29 05:00:00"], ["system_id", 109], ["value", 3000.0]],
+          [["beginner_id", 0], ["campaign_category", 81], ["campaign_type", 1], ["duplication_order", 0], ["end_time", "2025/10/13 04:59:59"], ["icon_image", 80], ["id", 5661], ["level_id", 0], ["lv_from", 1], ["lv_to", -1], ["shiori_group_id", 0], ["start_time", "2025/09/29 05:00:00"], ["system_id", 101], ["value", 3000.0]],
+          [["beginner_id", 0], ["campaign_category", 34], ["campaign_type", 1], ["duplication_order", 0], ["end_time", "2025/10/13 04:59:59"], ["icon_image", 30], ["id", 5644], ["level_id", 0], ["lv_from", 1], ["lv_to", -1], ["shiori_group_id", 0], ["start_time", "2025/09/29 05:00:00"], ["system_id", 103], ["value", 10000.0]],
+          [["beginner_id", 0], ["campaign_category", 98], ["campaign_type", 1], ["duplication_order", 0], ["end_time", "2025/10/07 23:59:59"], ["icon_image", 100], ["id", 5655], ["level_id", 0], ["lv_from", 1], ["lv_to", -1], ["shiori_group_id", 0], ["start_time", "2025/09/29 05:00:00"], ["system_id", 7004], ["value", 5000.0]],
+          [["beginner_id", 0], ["campaign_category", 42], ["campaign_type", 1], ["duplication_order", 0], ["end_time", "2025/10/10 04:59:59"], ["icon_image", 40], ["id", 5671], ["level_id", 0], ["lv_from", 1], ["lv_to", -1], ["shiori_group_id", 0], ["start_time", "2025/09/29 05:00:00"], ["system_id", 102], ["value", 10000.0]],
+          [["beginner_id", 0], ["campaign_category", 38], ["campaign_type", 1], ["duplication_order", 0], ["end_time", "2025/10/13 04:59:59"], ["icon_image", 30], ["id", 5642], ["level_id", 0], ["lv_from", 1], ["lv_to", -1], ["shiori_group_id", 0], ["start_time", "2025/09/29 05:00:00"], ["system_id", 112], ["value", 10000.0]],
+          [["beginner_id", 0], ["campaign_category", 32], ["campaign_type", 3], ["duplication_order", 0], ["end_time", "2025/09/29 08:59:59"], ["icon_image", 32], ["id", 5668], ["level_id", 0], ["lv_from", 1], ["lv_to", 250], ["shiori_group_id", 0], ["start_time", "2025/09/29 05:00:00"], ["system_id", 102], ["value", 10000.0]],
+          [["beginner_id", 0], ["campaign_category", 92], ["campaign_type", 1], ["duplication_order", 0], ["end_time", "2025/10/13 04:59:59"], ["icon_image", 100], ["id", 5647], ["level_id", 0], ["lv_from", 1], ["lv_to", -1], ["shiori_group_id", 0], ["start_time", "2025/09/29 05:00:00"], ["system_id", 102], ["value", 5000.0]],
+          [["beginner_id", 0], ["campaign_category", 97], ["campaign_type", 1], ["duplication_order", 0], ["end_time", "2025/10/11 23:59:59"], ["icon_image", 100], ["id", 5654], ["level_id", 0], ["lv_from", 1], ["lv_to", -1], ["shiori_group_id", 0], ["start_time", "2025/09/29 05:00:00"], ["system_id", 6005], ["value", 5000.0]],
+          [["beginner_id", 0], ["campaign_category", 41], ["campaign_type", 3], ["duplication_order", 0], ["end_time", "2025/09/29 04:59:59"], ["icon_image", 42], ["id", 5628], ["level_id", 0], ["lv_from", 1], ["lv_to", 250], ["shiori_group_id", 0], ["start_time", "2025/09/13 05:00:00"], ["system_id", 101], ["value", 3000.0]],
+          [["beginner_id", 0], ["campaign_category", 42], ["campaign_type", 3], ["duplication_order", 0], ["end_time", "2025/09/29 08:59:59"], ["icon_image", 42], ["id", 5670], ["level_id", 0], ["lv_from", 1], ["lv_to", 250], ["shiori_group_id", 0], ["start_time", "2025/09/29 05:00:00"], ["system_id", 102], ["value", 10000.0]],
+          [["beginner_id", 0], ["campaign_category", 45], ["campaign_type", 1], ["duplication_order", 0], ["end_time", "2025/10/13 04:59:59"], ["icon_image", 40], ["id", 5643], ["level_id", 0], ["lv_from", 1], ["lv_to", -1], ["shiori_group_id", 0], ["start_time", "2025/09/29 05:00:00"], ["system_id", 104], ["value", 4000.0]],
+          [["beginner_id", 0], ["campaign_category", 41], ["campaign_type", 1], ["duplication_order", 0], ["end_time", "2025/10/13 04:59:59"], ["icon_image", 40], ["id", 5630], ["level_id", 0], ["lv_from", 1], ["lv_to", -1], ["shiori_group_id", 0], ["start_time", "2025/09/29 05:00:00"], ["system_id", 101], ["value", 6000.0]],
+          [["beginner_id", 0], ["campaign_category", 39], ["campaign_type", 3], ["duplication_order", 0], ["end_time", "2025/09/29 08:59:59"], ["icon_image", 32], ["id", 5636], ["level_id", 0], ["lv_from", 1], ["lv_to", 250], ["shiori_group_id", 0], ["start_time", "2025/09/29 05:00:00"], ["system_id", 111], ["value", 10000.0]],
+          [["beginner_id", 0], ["campaign_category", 31], ["campaign_type", 3], ["duplication_order", 0], ["end_time", "2025/09/29 08:59:59"], ["icon_image", 32], ["id", 5626], ["level_id", 0], ["lv_from", 1], ["lv_to", 250], ["shiori_group_id", 0], ["start_time", "2025/09/29 05:00:00"], ["system_id", 101], ["value", 10000.0]],
+          [["beginner_id", 0], ["campaign_category", 39], ["campaign_type", 3], ["duplication_order", 0], ["end_time", "2025/09/29 04:59:59"], ["icon_image", 32], ["id", 5635], ["level_id", 0], ["lv_from", 1], ["lv_to", 250], ["shiori_group_id", 0], ["start_time", "2025/09/16 05:00:00"], ["system_id", 111], ["value", 3000.0]],
+          [["beginner_id", 0], ["campaign_category", 82], ["campaign_type", 1], ["duplication_order", 0], ["end_time", "2025/10/13 04:59:59"], ["icon_image", 80], ["id", 5662], ["level_id", 0], ["lv_from", 1], ["lv_to", -1], ["shiori_group_id", 0], ["start_time", "2025/09/29 05:00:00"], ["system_id", 102], ["value", 3000.0]],
+          [["beginner_id", 0], ["campaign_category", 99], ["campaign_type", 1], ["duplication_order", 0], ["end_time", "2025/10/07 23:59:59"], ["icon_image", 100], ["id", 5656], ["level_id", 0], ["lv_from", 1], ["lv_to", -1], ["shiori_group_id", 0], ["start_time", "2025/09/29 05:00:00"], ["system_id", 7005], ["value", 5000.0]]
+        ],
+        "deleted": [
+          [["beginner_id", 0], ["campaign_category", 252], ["campaign_type", 1], ["duplication_order", 0], ["end_time", "2025/10/07 23:59:59"], ["icon_image", 80], ["id", 5618], ["level_id", 0], ["lv_from", 1], ["lv_to", -1], ["shiori_group_id", 0], ["start_time", "2025/09/29 05:00:00"], ["system_id", 7005], ["value", 2000.0]],
+          [["beginner_id", 0], ["campaign_category", 49], ["campaign_type", 3], ["duplication_order", 0], ["end_time", "2025/09/29 08:59:59"], ["icon_image", 42], ["id", 5563], ["level_id", 0], ["lv_from", 1], ["lv_to", 250], ["shiori_group_id", 0], ["start_time", "2025/09/16 05:00:00"], ["system_id", 111], ["value", 3000.0]],
+          [["beginner_id", 0], ["campaign_category", 39], ["campaign_type", 3], ["duplication_order", 0], ["end_time", "2025/09/29 08:59:59"], ["icon_image", 32], ["id", 5551], ["level_id", 0], ["lv_from", 1], ["lv_to", 250], ["shiori_group_id", 0], ["start_time", "2025/09/16 05:00:00"], ["system_id", 111], ["value", 3000.0]],
+          [["beginner_id", 0], ["campaign_category", 41], ["campaign_type", 3], ["duplication_order", 0], ["end_time", "2025/09/29 08:59:59"], ["icon_image", 42], ["id", 5576], ["level_id", 0], ["lv_from", 1], ["lv_to", 250], ["shiori_group_id", 0], ["start_time", "2025/09/13 05:00:00"], ["system_id", 101], ["value", 3000.0]],
+          [["beginner_id", 0], ["campaign_category", 151], ["campaign_type", 1], ["duplication_order", 0], ["end_time", "2025/10/11 23:59:59"], ["icon_image", 80], ["id", 5611], ["level_id", 0], ["lv_from", 1], ["lv_to", -1], ["shiori_group_id", 0], ["start_time", "2025/09/29 05:00:00"], ["system_id", 6004], ["value", 2000.0]],
+          [["beginner_id", 0], ["campaign_category", 42], ["campaign_type", 3], ["duplication_order", 0], ["end_time", "2025/09/29 08:59:59"], ["icon_image", 42], ["id", 5570], ["level_id", 0], ["lv_from", 1], ["lv_to", 250], ["shiori_group_id", 0], ["start_time", "2025/09/29 05:00:00"], ["system_id", 102], ["value", 3000.0]],
+          [["beginner_id", 0], ["campaign_category", 32], ["campaign_type", 3], ["duplication_order", 0], ["end_time", "2025/09/29 08:59:59"], ["icon_image", 32], ["id", 5566], ["level_id", 0], ["lv_from", 1], ["lv_to", 250], ["shiori_group_id", 0], ["start_time", "2025/09/29 05:00:00"], ["system_id", 102], ["value", 3000.0]],
+          [["beginner_id", 0], ["campaign_category", 251], ["campaign_type", 1], ["duplication_order", 0], ["end_time", "2025/10/07 23:59:59"], ["icon_image", 80], ["id", 5616], ["level_id", 0], ["lv_from", 1], ["lv_to", -1], ["shiori_group_id", 0], ["start_time", "2025/09/29 05:00:00"], ["system_id", 7004], ["value", 2000.0]],
+          [["beginner_id", 0], ["campaign_category", 152], ["campaign_type", 1], ["duplication_order", 0], ["end_time", "2025/10/11 23:59:59"], ["icon_image", 80], ["id", 5614], ["level_id", 0], ["lv_from", 1], ["lv_to", -1], ["shiori_group_id", 0], ["start_time", "2025/09/29 05:00:00"], ["system_id", 6005], ["value", 2000.0]],
+          [["beginner_id", 0], ["campaign_category", 31], ["campaign_type", 3], ["duplication_order", 0], ["end_time", "2025/09/29 08:59:59"], ["icon_image", 32], ["id", 5574], ["level_id", 0], ["lv_from", 1], ["lv_to", 250], ["shiori_group_id", 0], ["start_time", "2025/09/29 05:00:00"], ["system_id", 101], ["value", 3000.0]]
+        ]
+      }
+    },
+    "daily_mission_data": {
+      "data_changes": {
+        "added": [
+          [["category_icon", 106], ["condition_num", 1], ["condition_value_1", 180000], ["condition_value_2", 45959], ["condition_value_3", 0], ["daily_mission_id", 18001140], ["description", "当日18:00~第二天早上04:59期间登录游戏吧"], ["disp_group", 1], ["end_time", "2025/10/10 4:59:59"], ["max_level", 0], ["min_level", 0], ["mission_condition", 8001], ["mission_reward_id", 18001004], ["start_time", "2025/09/29 5:00:00"], ["system_id", 0], ["title_color_id", 0], ["visible_flag", 1]],
+          [["category_icon", 106], ["condition_num", 1], ["condition_value_1", 120000], ["condition_value_2", 45959], ["condition_value_3", 0], ["daily_mission_id", 18001139], ["description", "当日12:00~第二天早上04:59期间登录游戏吧"], ["disp_group", 1], ["end_time", "2025/10/10 4:59:59"], ["max_level", 0], ["min_level", 0], ["mission_condition", 8001], ["mission_reward_id", 18001003], ["start_time", "2025/09/29 5:00:00"], ["system_id", 0], ["title_color_id", 0], ["visible_flag", 1]],
+          [["category_icon", 106], ["condition_num", 1], ["condition_value_1", 180000], ["condition_value_2", 45959], ["condition_value_3", 0], ["daily_mission_id", 18001142], ["description", "当日18:00~第二天早上04:59期间登录游戏吧"], ["disp_group", 1], ["end_time", "2099/12/31 23:59:59"], ["max_level", 0], ["min_level", 0], ["mission_condition", 8001], ["mission_reward_id", 18001002], ["start_time", "2025/10/10 5:00:00"], ["system_id", 0], ["title_color_id", 0], ["visible_flag", 1]],
+          [["category_icon", 106], ["condition_num", 1], ["condition_value_1", 120000], ["condition_value_2", 45959], ["condition_value_3", 0], ["daily_mission_id", 18001141], ["description", "当日12:00~第二天早上04:59期间登录游戏吧"], ["disp_group", 1], ["end_time", "2099/12/31 23:59:59"], ["max_level", 0], ["min_level", 0], ["mission_condition", 8001], ["mission_reward_id", 18001001], ["start_time", "2025/10/10 5:00:00"], ["system_id", 0], ["title_color_id", 0], ["visible_flag", 1]]
+        ],
+        "modified": [
+          {
+            "id": 18001137,
+            "old": [["category_icon", 106], ["condition_num", 1], ["condition_value_1", 120000], ["condition_value_2", 45959], ["condition_value_3", 0], ["daily_mission_id", 18001137], ["description", "当日12:00~第二天早上04:59期间登录游戏吧"], ["disp_group", 1], ["end_time", "2099/12/31 23:59:59"], ["max_level", 0], ["min_level", 0], ["mission_condition", 8001], ["mission_reward_id", 18001001], ["start_time", "2025/06/30 5:00:00"], ["system_id", 0], ["title_color_id", 0], ["visible_flag", 1]],
+            "new": [["category_icon", 106], ["condition_num", 1], ["condition_value_1", 120000], ["condition_value_2", 45959], ["condition_value_3", 0], ["daily_mission_id", 18001137], ["description", "当日12:00~第二天早上04:59期间登录游戏吧"], ["disp_group", 1], ["end_time", "2025/09/29 4:59:59"], ["max_level", 0], ["min_level", 0], ["mission_condition", 8001], ["mission_reward_id", 18001001], ["start_time", "2025/06/30 5:00:00"], ["system_id", 0], ["title_color_id", 0], ["visible_flag", 1]]
+          },
+          {
+            "id": 18001138,
+            "old": [["category_icon", 106], ["condition_num", 1], ["condition_value_1", 180000], ["condition_value_2", 45959], ["condition_value_3", 0], ["daily_mission_id", 18001138], ["description", "当日18:00~第二天早上04:59期间登录游戏吧"], ["disp_group", 1], ["end_time", "2099/12/31 23:59:59"], ["max_level", 0], ["min_level", 0], ["mission_condition", 8001], ["mission_reward_id", 18001002], ["start_time", "2025/06/30 5:00:00"], ["system_id", 0], ["title_color_id", 0], ["visible_flag", 1]],
+            "new": [["category_icon", 106], ["condition_num", 1], ["condition_value_1", 180000], ["condition_value_2", 45959], ["condition_value_3", 0], ["daily_mission_id", 18001138], ["description", "当日18:00~第二天早上04:59期间登录游戏吧"], ["disp_group", 1], ["end_time", "2025/09/29 4:59:59"], ["max_level", 0], ["min_level", 0], ["mission_condition", 8001], ["mission_reward_id", 18001002], ["start_time", "2025/06/30 5:00:00"], ["system_id", 0], ["title_color_id", 0], ["visible_flag", 1]]
+          }
+        ]
+      }
+    },
+    "room_unit_comments": {
+      "data_changes": {
+        "modified": [
+          {
+            "id": 128801,
+            "old": [["beloved_step", 1], ["description", "风之力吗……\\n应用范围应该会很广。\\n多尝试尝试，\\n看看能做到什么事吧。"], ["face_id", 1], ["id", 7904], ["insert_word_type", 0], ["time", 0], ["trigger", 1], ["unit_id", 128801], ["voice_id", 5]],
+            "new": [["beloved_step", 1], ["description", "早上了哦，\\n该起床啦。\\n还是说想让我\\n叫醒你呢？"], ["face_id", 1], ["id", 7913], ["insert_word_type", 0], ["time", 1], ["trigger", 2], ["unit_id", 128801], ["voice_id", 1]]
+          }
+        ]
+      }
+    },
+    "unit_comments": {
+      "data_changes": {
+        "modified": [
+          {
+            "id": 1288010,
+            "old": [["all_comments_flag", 0], ["change_face", 1], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 0.0], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "想实现梦想，就要一路\\n跑下去，直到梦想成真。\\n只要有你陪着我……\\n我能抵达任何地方。"], ["face_id", 1], ["face_id_2", 0], ["face_id_3", 0], ["id", 1288010], ["target_unit_id", 0], ["unit_id", 128831], ["use_type", 1], ["voice_id", 5]],
+            "new": [["all_comments_flag", 0], ["change_face", 1], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 0.0], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "想实现梦想，就要不断奔跑\\n直到梦想成真。\\n只要有你陪着我……\\n我能抵达任何地方。"], ["face_id", 1], ["face_id_2", 0], ["face_id_3", 0], ["id", 1288010], ["target_unit_id", 0], ["unit_id", 128831], ["use_type", 1], ["voice_id", 5]]
+          },
+          {
+            "id": 1289007,
+            "old": [["all_comments_flag", 0], ["change_face", 1], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 0.0], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "把全世界的力量和我们之间的情谊\\n都汇聚成一道光，然后释放出来！\\n能做到这件事的人……\\n只有我！"], ["face_id", 1], ["face_id_2", 0], ["face_id_3", 0], ["id", 1289007], ["target_unit_id", 0], ["unit_id", 128931], ["use_type", 1], ["voice_id", 2]],
+            "new": [["all_comments_flag", 0], ["change_face", 1], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 0.0], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "把全世界的力量和我们之间的情谊\\n尽数化为光芒释放！\\n能做到这件事的……\\n只有我！"], ["face_id", 1], ["face_id_2", 0], ["face_id_3", 0], ["id", 1289007], ["target_unit_id", 0], ["unit_id", 128931], ["use_type", 1], ["voice_id", 2]]
+          },
+          {
+            "id": 1289006,
+            "old": [["all_comments_flag", 0], ["change_face", 1], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 0.0], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "我想变得更强！\\n为了不再留下遗憾，\\n为了不让希望得到\\n帮助的人感到孤单！"], ["face_id", 1], ["face_id_2", 0], ["face_id_3", 0], ["id", 1289006], ["target_unit_id", 0], ["unit_id", 128931], ["use_type", 1], ["voice_id", 1]],
+            "new": [["all_comments_flag", 0], ["change_face", 1], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 0.0], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "我想变得更强！\\n为了不再留下遗憾，\\n为了让需要帮助的人\\n不再孤单一人！"], ["face_id", 1], ["face_id_2", 0], ["face_id_3", 0], ["id", 1289006], ["target_unit_id", 0], ["unit_id", 128931], ["use_type", 1], ["voice_id", 1]]
+          },
+          {
+            "id": 1288004,
+            "old": [["all_comments_flag", 0], ["change_face", 1], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 6.4], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "星幽之力觉醒以后，我感觉自己\\n像是打开了一扇新的大门。\\n我们还远远没有达到\\n自己的极限……对吧。"], ["face_id", 2], ["face_id_2", 0], ["face_id_3", 0], ["id", 1288004], ["target_unit_id", 0], ["unit_id", 128801], ["use_type", 1], ["voice_id", 4]],
+            "new": [["all_comments_flag", 0], ["change_face", 1], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 6.4], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "星幽之力觉醒以后，\\n仿佛打开了新的大门。\\n我们还远远没有达到\\n自己的极限……对吧。"], ["face_id", 2], ["face_id_2", 0], ["face_id_3", 0], ["id", 1288004], ["target_unit_id", 0], ["unit_id", 128801], ["use_type", 1], ["voice_id", 4]]
+          },
+          {
+            "id": 1288008,
+            "old": [["all_comments_flag", 0], ["change_face", 1], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 0.0], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "我也有了不能失去的东西。\\n为了守护重要的伙伴，\\n不管伤得多重我都不在乎。\\n我要做的就是挥舞这把剑！"], ["face_id", 1], ["face_id_2", 0], ["face_id_3", 0], ["id", 1288008], ["target_unit_id", 0], ["unit_id", 128831], ["use_type", 1], ["voice_id", 3]],
+            "new": [["all_comments_flag", 0], ["change_face", 1], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 0.0], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "我也拥有了不可失去之物。\\n为了守护重要的伙伴，\\n纵使遍体鳞伤我也不在乎。\\n我要做的只有挥舞这把剑！"], ["face_id", 1], ["face_id_2", 0], ["face_id_3", 0], ["id", 1288008], ["target_unit_id", 0], ["unit_id", 128831], ["use_type", 1], ["voice_id", 3]]
+          },
+          {
+            "id": 1289009,
+            "old": [["all_comments_flag", 0], ["change_face", 1], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 0.0], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "透过那光芒，我能感觉到\\n骑士君那温柔又坚定的情感。\\n所以……我也要像你一样，\\n全心全意地回应你！"], ["face_id", 1], ["face_id_2", 0], ["face_id_3", 0], ["id", 1289009], ["target_unit_id", 0], ["unit_id", 128931], ["use_type", 1], ["voice_id", 4]],
+            "new": [["all_comments_flag", 0], ["change_face", 1], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 0.0], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "透过那光芒，我能感觉到\\n骑士君那温柔又坚定的内心。\\n所以……我也想同样地，\\n全心全意地回应你！"], ["face_id", 1], ["face_id_2", 0], ["face_id_3", 0], ["id", 1289009], ["target_unit_id", 0], ["unit_id", 128931], ["use_type", 1], ["voice_id", 4]]
+          },
+          {
+            "id": 1288003,
+            "old": [["all_comments_flag", 0], ["change_face", 2], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 10.0], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "最近我把控制风之力也融入了\\n训练当中。多亏如此，现在能\\n稍微看懂风向了……\\n钓鱼的时候能派上用场吗？"], ["face_id", 6], ["face_id_2", 0], ["face_id_3", 0], ["id", 1288003], ["target_unit_id", 0], ["unit_id", 128801], ["use_type", 1], ["voice_id", 3]],
+            "new": [["all_comments_flag", 0], ["change_face", 2], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 10.0], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "最近将风之力的掌控也融入了\\n训练当中。多亏如此，现在能\\n稍微看懂风向了……\\n说不定能用在钓鱼上？"], ["face_id", 6], ["face_id_2", 0], ["face_id_3", 0], ["id", 1288003], ["target_unit_id", 0], ["unit_id", 128801], ["use_type", 1], ["voice_id", 3]]
+          },
+          {
+            "id": 1289004,
+            "old": [["all_comments_flag", 0], ["change_face", 7], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 0.0], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "别、别总盯着我看行吗？\\n这衣服很贴身，所以……\\n我也觉得很害羞！"], ["face_id", 7], ["face_id_2", 0], ["face_id_3", 0], ["id", 1289004], ["target_unit_id", 0], ["unit_id", 128901], ["use_type", 1], ["voice_id", 4]],
+            "new": [["all_comments_flag", 0], ["change_face", 7], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 0.0], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "别、别总盯着我看可以吗？\\n这衣服很贴身，所以……\\n我也觉得很害羞！"], ["face_id", 7], ["face_id_2", 0], ["face_id_3", 0], ["id", 1289004], ["target_unit_id", 0], ["unit_id", 128901], ["use_type", 1], ["voice_id", 4]]
+          },
+          {
+            "id": 1288006,
+            "old": [["all_comments_flag", 0], ["change_face", 1], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 0.0], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "我们心与心的联系，\\n是一股能唤醒新风的力量！\\n为了闯出一条新路……\\n我已做好了觉悟！"], ["face_id", 1], ["face_id_2", 0], ["face_id_3", 0], ["id", 1288006], ["target_unit_id", 0], ["unit_id", 128831], ["use_type", 1], ["voice_id", 1]],
+            "new": [["all_comments_flag", 0], ["change_face", 1], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 0.0], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "我们心与心的联系，\\n是一股能唤醒新风的力量！\\n为开拓前进之路……\\n我已做好了觉悟！"], ["face_id", 1], ["face_id_2", 0], ["face_id_3", 0], ["id", 1288006], ["target_unit_id", 0], ["unit_id", 128831], ["use_type", 1], ["voice_id", 1]]
+          },
+          {
+            "id": 1288007,
+            "old": [["all_comments_flag", 0], ["change_face", 1], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 0.0], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "身体里涌出一股火热的力量……\\n现在的我们一定是无敌的！\\n无论迎来多大的暴风雨，\\n我们之间的情谊也绝不会消散！"], ["face_id", 1], ["face_id_2", 0], ["face_id_3", 0], ["id", 1288007], ["target_unit_id", 0], ["unit_id", 128831], ["use_type", 1], ["voice_id", 2]],
+            "new": [["all_comments_flag", 0], ["change_face", 1], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 0.0], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "体内涌动的炽热力量……\\n现在的我们一定是无敌的！\\n无论面对怎样的风暴，\\n我们之间的情谊也绝不会消散！"], ["face_id", 1], ["face_id_2", 0], ["face_id_3", 0], ["id", 1288007], ["target_unit_id", 0], ["unit_id", 128831], ["use_type", 1], ["voice_id", 2]]
+          },
+          {
+            "id": 1288012,
+            "old": [["all_comments_flag", 0], ["change_face", 1], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 0.0], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "庆祝生日的到来……\\n真是不可思议，就连负责\\n送上祝福的我也不禁感到开心。\\n是不是因为和你在一起呢……"], ["face_id", 1], ["face_id_2", 0], ["face_id_3", 0], ["id", 1288012], ["target_unit_id", 0], ["unit_id", 128831], ["use_type", 2], ["voice_id", 6]],
+            "new": [["all_comments_flag", 0], ["change_face", 1], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 0.0], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "庆祝生日的到来……\\n真是不可思议，就连负责\\n送上祝福的我也不禁感到开心。\\n是不是和你在一起的缘故呢……"], ["face_id", 1], ["face_id_2", 0], ["face_id_3", 0], ["id", 1288012], ["target_unit_id", 0], ["unit_id", 128831], ["use_type", 2], ["voice_id", 6]]
+          },
+          {
+            "id": 1288011,
+            "old": [["all_comments_flag", 0], ["change_face", 5], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 6.9], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "祝你生日快乐。\\n今天我亲自下厨了。\\n虽然我自认为还挺努力的……嗯，\\n比起卖相，还是味道更重要哦。"], ["face_id", 2], ["face_id_2", 0], ["face_id_3", 0], ["id", 1288011], ["target_unit_id", 0], ["unit_id", 128801], ["use_type", 2], ["voice_id", 6]],
+            "new": [["all_comments_flag", 0], ["change_face", 5], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 6.9], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "祝你生日快乐。\\n今天我亲自下厨了。\\n虽然尽力去尝试了……嗯，\\n比起卖相，还是味道更重要哦。"], ["face_id", 2], ["face_id_2", 0], ["face_id_3", 0], ["id", 1288011], ["target_unit_id", 0], ["unit_id", 128801], ["use_type", 2], ["voice_id", 6]]
+          },
+          {
+            "id": 1289005,
+            "old": [["all_comments_flag", 0], ["change_face", 2], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 7.1], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "变成这个模样我才发现，\\n原来我还能为骑士君……\\n做这么多事……\\n我好开心！"], ["face_id", 1], ["face_id_2", 0], ["face_id_3", 0], ["id", 1289005], ["target_unit_id", 0], ["unit_id", 128901], ["use_type", 1], ["voice_id", 5]],
+            "new": [["all_comments_flag", 0], ["change_face", 2], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 7.1], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "变成这个模样我才发现，\\n原来还能为骑士君……\\n做这么多事……\\n我好开心！"], ["face_id", 1], ["face_id_2", 0], ["face_id_3", 0], ["id", 1289005], ["target_unit_id", 0], ["unit_id", 128901], ["use_type", 1], ["voice_id", 5]]
+          },
+          {
+            "id": 1288002,
+            "old": [["all_comments_flag", 0], ["change_face", 2], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 6.8], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "只要有你与我并肩战斗，\\n不管与谁为敌，\\n我都不觉得会输，\\n我的后背就交给你了哦。"], ["face_id", 1], ["face_id_2", 0], ["face_id_3", 0], ["id", 1288002], ["target_unit_id", 0], ["unit_id", 128801], ["use_type", 1], ["voice_id", 2]],
+            "new": [["all_comments_flag", 0], ["change_face", 2], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 6.8], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "只要有你与我并肩战斗，\\n不管与谁为敌，\\n我都觉得不会输，\\n我的后背就交给你了哦。"], ["face_id", 1], ["face_id_2", 0], ["face_id_3", 0], ["id", 1288002], ["target_unit_id", 0], ["unit_id", 128801], ["use_type", 1], ["voice_id", 2]]
+          },
+          {
+            "id": 1289002,
+            "old": [["all_comments_flag", 0], ["change_face", 2], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 9.4], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "诶……发型，很、很、很可爱？\\n谢、谢谢！\\n其实我也蛮喜欢这个发型的。\\n太好了……下次还这么打理♪"], ["face_id", 7], ["face_id_2", 0], ["face_id_3", 0], ["id", 1289002], ["target_unit_id", 0], ["unit_id", 128901], ["use_type", 1], ["voice_id", 2]],
+            "new": [["all_comments_flag", 0], ["change_face", 2], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 9.4], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "诶……发型，很、很、很可爱？\\n谢、谢谢！\\n其实我也很喜欢这个发型的。\\n太好了……下次还这么打扮♪"], ["face_id", 7], ["face_id_2", 0], ["face_id_3", 0], ["id", 1289002], ["target_unit_id", 0], ["unit_id", 128901], ["use_type", 1], ["voice_id", 2]]
+          },
+          {
+            "id": 1289003,
+            "old": [["all_comments_flag", 0], ["change_face", 1], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 5.7], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "能感受到有股强大的力量……\\n但奇怪的是，我内心还挺平静的。\\n可能是因为我在精灵之乡\\n学到了自然和精灵的知识吧。"], ["face_id", 6], ["face_id_2", 0], ["face_id_3", 0], ["id", 1289003], ["target_unit_id", 0], ["unit_id", 128901], ["use_type", 1], ["voice_id", 3]],
+            "new": [["all_comments_flag", 0], ["change_face", 1], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 5.7], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "能感受到有股强大的力量……\\n但奇怪的是，内心还挺平静的。\\n可能是因为在精灵之乡\\n学到了自然和精灵的知识吧。"], ["face_id", 6], ["face_id_2", 0], ["face_id_3", 0], ["id", 1289003], ["target_unit_id", 0], ["unit_id", 128901], ["use_type", 1], ["voice_id", 3]]
+          },
+          {
+            "id": 1288009,
+            "old": [["all_comments_flag", 0], ["change_face", 1], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 0.0], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "与你的相遇\\n或许是改变我未来的重大\\n转折点。而现在……我想\\n看看更远的未来。"], ["face_id", 1], ["face_id_2", 0], ["face_id_3", 0], ["id", 1288009], ["target_unit_id", 0], ["unit_id", 128831], ["use_type", 1], ["voice_id", 4]],
+            "new": [["all_comments_flag", 0], ["change_face", 1], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 0.0], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "与你的相遇\\n或许是改变我未来的重大\\n转折点。而现在……\\n我想看看更远的未来。"], ["face_id", 1], ["face_id_2", 0], ["face_id_3", 0], ["id", 1288009], ["target_unit_id", 0], ["unit_id", 128831], ["use_type", 1], ["voice_id", 4]]
+          },
+          {
+            "id": 1289001,
+            "old": [["all_comments_flag", 0], ["change_face", 7], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 8.6], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "骑士君，你觉得怎么样？\\n这是我们的……\\n新的情谊展现出来的形态哦。\\n这样……适、适合我吗？"], ["face_id", 1], ["face_id_2", 0], ["face_id_3", 0], ["id", 1289001], ["target_unit_id", 0], ["unit_id", 128901], ["use_type", 1], ["voice_id", 1]],
+            "new": [["all_comments_flag", 0], ["change_face", 7], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 8.6], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "骑士君，你觉得怎么样？\\n这是我们的……\\n情谊展现出来的新形态哦。\\n这样……适、适合我吗？"], ["face_id", 1], ["face_id_2", 0], ["face_id_3", 0], ["id", 1289001], ["target_unit_id", 0], ["unit_id", 128901], ["use_type", 1], ["voice_id", 1]]
+          }
+        ]
+      }
+    }
+  }
+}
