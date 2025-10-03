@@ -1,0 +1,26 @@
+{
+  "tables": {
+    "only_in_old_db": [],
+    "only_in_new_db": []
+  },
+  "table_changes": {
+    "event_story_data": {
+      "data_changes": {
+        "modified": [
+          {
+            "id": 5152,
+            "old": [["disp_order", 1], ["end_time", "2030/04/24 14:59:59"], ["start_time", "2024/08/26 18:00:00"], ["story_group_id", 5152], ["story_type", 5], ["thumbnail_id", 0], ["title", "Re:ゼロから楽しむ異世界サマー"], ["value", 10152]],
+            "new": [["disp_order", 1], ["end_time", "2030/04/24 14:59:59"], ["start_time", "2024/08/26 18:00:00"], ["story_group_id", 5152], ["story_type", 5], ["thumbnail_id", 0], ["title", "Re:ゼロから楽しむ異世界サマー"], ["value", 10172]]
+          }
+        ]
+      }
+    },
+    "hatsune_schedule": {
+      "data_changes": {
+        "added": [
+          [["backgroud_pos_x", 0], ["backgroud_pos_y", 0], ["backgroud_size_x", 0], ["backgroud_size_y", 0], ["background", 0], ["banner_unit_id", 0], ["close_time", "2030/12/30 12:00:00"], ["count_start_time", "2030/12/30 12:00:00"], ["end_time", "2030/12/30 12:00:00"], ["event_id", 10172], ["original_event_id", 10152], ["que_id", "0"], ["series_event_id", 0], ["sheet_id", "0"], ["start_time", "2030/12/30 12:00:00"], ["teaser_dialog_type", 0], ["teaser_time", "2025/10/03 15:00:00"]]
+        ]
+      }
+    }
+  }
+}
