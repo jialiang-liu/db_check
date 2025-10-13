@@ -1,0 +1,130 @@
+{
+  "tables": {
+    "only_in_old_db": [],
+    "only_in_new_db": []
+  },
+  "table_changes": {
+    "skill_data": {
+      "data_changes": {
+        "added": [
+          [["action_1", 107501301], ["action_10", 0], ["action_2", 107501302], ["action_3", 107501303], ["action_4", 107501304], ["action_5", 107501305], ["action_6", 0], ["action_7", 0], ["action_8", 0], ["action_9", 0.0], ["boss_ub_cool_time", 0], ["depend_action_1", 0], ["depend_action_10", 0], ["depend_action_2", 0], ["depend_action_3", 0], ["depend_action_4", 0], ["depend_action_5", 0], ["depend_action_6", 0], ["depend_action_7", 0], ["depend_action_8", 0], ["depend_action_9", 0], ["description", "對前方範圍內所有敵人造成大幅度的物理傷害，將面前的１名敵方角色小幅度擊飛。並小幅度提升自己物理攻擊暴擊時的傷害，施加１枚【再來一份券】，特大幅度恢復自身的ＴＰ。在被施加【再來一份券】的狀態下使用ＵＢ時，消耗１枚【再來一份券】，特大幅度恢復自身的ＴＰ。最多能累積兩枚【再來一份券】。"], ["icon_type", 2001], ["name", "遮陽傘突擊+"], ["skill_area_width", 0], ["skill_cast_time", 1.125], ["skill_id", 1075013], ["skill_type", 1]]
+        ]
+      }
+    },
+    "hatsune_special_battle": {
+      "data_changes": {
+        "added": [
+          [["action_start_second", 5.0], ["appear_time", 3.0], ["detail_boss_bg_height", -40.0], ["detail_boss_bg_size", 1.0], ["detail_boss_motion", ""], ["event_id", 10168], ["hp_gauge_color_flag", 1], ["is_hide_boss", 0], ["mode", 2], ["purpose_count", 0], ["purpose_type", 2], ["recommended_level", 255], ["start_idle_trigger", 600], ["story_id_mode_end", 5144323], ["story_id_mode_start", 0], ["story_start_second", 1.5], ["trigger_hp", 0], ["unnecessary_defeat_chara", 610144402], ["wave_group_id", 610144005]]
+        ]
+      }
+    },
+    "clan_battle_schedule": {
+      "data_changes": {
+        "added": [
+          [["clan_battle_id", 1087], ["cost_group_id", 1], ["cost_group_id_s", 2], ["end_time", "2025/11/26 04:59:59"], ["last_clan_battle_id", 1088], ["map_bgm", "bgm_M104"], ["mode_change_end_time", "2025/10/25 11:59:59"], ["mode_change_remind_time", "2025/10/24 11:59:59"], ["mode_change_start_time", "2025/10/20 12:00:00"], ["point_per_stamina", 1], ["release_month", 10], ["resource_id", 1], ["start_time", "2025/10/27 05:00:00"]]
+        ]
+      }
+    },
+    "campaign_schedule": {
+      "data_changes": {
+        "added": [
+          [["beginner_id", 0], ["campaign_category", 252], ["campaign_type", 1], ["duplication_order", 0], ["end_time", "2025/10/25 15:59:59"], ["icon_image", 80], ["id", 2501], ["level_id", 0], ["lv_from", 1], ["lv_to", -1], ["shiori_group_id", 0], ["start_time", "2025/10/18 16:00:00"], ["system_id", 7005], ["value", 1500.0]],
+          [["beginner_id", 0], ["campaign_category", 251], ["campaign_type", 1], ["duplication_order", 0], ["end_time", "2025/10/25 15:59:59"], ["icon_image", 80], ["id", 2500], ["level_id", 0], ["lv_from", 1], ["lv_to", -1], ["shiori_group_id", 0], ["start_time", "2025/10/18 16:00:00"], ["system_id", 7004], ["value", 1500.0]]
+        ]
+      }
+    },
+    "wave_group_data": {
+      "data_changes": {
+        "modified": [
+          {
+            "id": 610144002,
+            "old": [["drop_gold_1", 0], ["drop_gold_2", 0], ["drop_gold_3", 0], ["drop_gold_4", 0], ["drop_gold_5", 0], ["drop_reward_id_1", 61014402], ["drop_reward_id_2", 0], ["drop_reward_id_3", 0], ["drop_reward_id_4", 0], ["drop_reward_id_5", 0], ["enemy_id_1", 610144201], ["enemy_id_2", 0], ["enemy_id_3", 0], ["enemy_id_4", 0], ["enemy_id_5", 0], ["guest_enemy_id", 0], ["guest_lane", 0], ["id", 610144002], ["odds", 100], ["wave_group_id", 610144002]],
+            "new": [["drop_gold_1", 0], ["drop_gold_2", 0], ["drop_gold_3", 0], ["drop_gold_4", 0], ["drop_gold_5", 0], ["drop_reward_id_1", 61016802], ["drop_reward_id_2", 0], ["drop_reward_id_3", 0], ["drop_reward_id_4", 0], ["drop_reward_id_5", 0], ["enemy_id_1", 610144201], ["enemy_id_2", 0], ["enemy_id_3", 0], ["enemy_id_4", 0], ["enemy_id_5", 0], ["guest_enemy_id", 0], ["guest_lane", 0], ["id", 610144002], ["odds", 100], ["wave_group_id", 610144002]]
+          },
+          {
+            "id": 610144001,
+            "old": [["drop_gold_1", 0], ["drop_gold_2", 0], ["drop_gold_3", 0], ["drop_gold_4", 0], ["drop_gold_5", 0], ["drop_reward_id_1", 61014401], ["drop_reward_id_2", 0], ["drop_reward_id_3", 0], ["drop_reward_id_4", 0], ["drop_reward_id_5", 0], ["enemy_id_1", 610144101], ["enemy_id_2", 0], ["enemy_id_3", 0], ["enemy_id_4", 0], ["enemy_id_5", 0], ["guest_enemy_id", 0], ["guest_lane", 0], ["id", 610144001], ["odds", 100], ["wave_group_id", 610144001]],
+            "new": [["drop_gold_1", 0], ["drop_gold_2", 0], ["drop_gold_3", 0], ["drop_gold_4", 0], ["drop_gold_5", 0], ["drop_reward_id_1", 61016801], ["drop_reward_id_2", 0], ["drop_reward_id_3", 0], ["drop_reward_id_4", 0], ["drop_reward_id_5", 0], ["enemy_id_1", 610144101], ["enemy_id_2", 0], ["enemy_id_3", 0], ["enemy_id_4", 0], ["enemy_id_5", 0], ["guest_enemy_id", 0], ["guest_lane", 0], ["id", 610144001], ["odds", 100], ["wave_group_id", 610144001]]
+          },
+          {
+            "id": 610144003,
+            "old": [["drop_gold_1", 0], ["drop_gold_2", 0], ["drop_gold_3", 0], ["drop_gold_4", 0], ["drop_gold_5", 0], ["drop_reward_id_1", 61014403], ["drop_reward_id_2", 0], ["drop_reward_id_3", 0], ["drop_reward_id_4", 0], ["drop_reward_id_5", 0], ["enemy_id_1", 610144301], ["enemy_id_2", 0], ["enemy_id_3", 0], ["enemy_id_4", 0], ["enemy_id_5", 0], ["guest_enemy_id", 0], ["guest_lane", 0], ["id", 610144003], ["odds", 100], ["wave_group_id", 610144003]],
+            "new": [["drop_gold_1", 0], ["drop_gold_2", 0], ["drop_gold_3", 0], ["drop_gold_4", 0], ["drop_gold_5", 0], ["drop_reward_id_1", 61016803], ["drop_reward_id_2", 0], ["drop_reward_id_3", 0], ["drop_reward_id_4", 0], ["drop_reward_id_5", 0], ["enemy_id_1", 610144301], ["enemy_id_2", 0], ["enemy_id_3", 0], ["enemy_id_4", 0], ["enemy_id_5", 0], ["guest_enemy_id", 0], ["guest_lane", 0], ["id", 610144003], ["odds", 100], ["wave_group_id", 610144003]]
+          }
+        ]
+      }
+    },
+    "unit_skill_data": {
+      "data_changes": {
+        "modified": [
+          {
+            "id": 107501,
+            "old": [["ex_skill_1", 1075501], ["ex_skill_2", 0], ["ex_skill_3", 0], ["ex_skill_4", 0], ["ex_skill_5", 0], ["ex_skill_evolution_1", 1075511], ["ex_skill_evolution_2", 0], ["ex_skill_evolution_3", 0], ["ex_skill_evolution_4", 0], ["ex_skill_evolution_5", 0], ["main_skill_1", 1075002], ["main_skill_10", 0], ["main_skill_2", 1075003], ["main_skill_3", 0], ["main_skill_4", 0], ["main_skill_5", 0], ["main_skill_6", 0], ["main_skill_7", 0], ["main_skill_8", 0], ["main_skill_9", 0], ["main_skill_evolution_1", 1075012], ["main_skill_evolution_2", 0], ["sp_skill_1", 0], ["sp_skill_2", 0], ["sp_skill_3", 0], ["sp_skill_4", 0], ["sp_skill_5", 0], ["sp_skill_evolution_1", 0], ["sp_skill_evolution_2", 0], ["sp_union_burst", 0], ["union_burst", 1075001], ["union_burst_evolution", 1075011], ["unit_id", 107501]],
+            "new": [["ex_skill_1", 1075501], ["ex_skill_2", 0], ["ex_skill_3", 0], ["ex_skill_4", 0], ["ex_skill_5", 0], ["ex_skill_evolution_1", 1075511], ["ex_skill_evolution_2", 0], ["ex_skill_evolution_3", 0], ["ex_skill_evolution_4", 0], ["ex_skill_evolution_5", 0], ["main_skill_1", 1075002], ["main_skill_10", 0], ["main_skill_2", 1075003], ["main_skill_3", 0], ["main_skill_4", 0], ["main_skill_5", 0], ["main_skill_6", 0], ["main_skill_7", 0], ["main_skill_8", 0], ["main_skill_9", 0], ["main_skill_evolution_1", 1075012], ["main_skill_evolution_2", 1075013], ["sp_skill_1", 0], ["sp_skill_2", 0], ["sp_skill_3", 0], ["sp_skill_4", 0], ["sp_skill_5", 0], ["sp_skill_evolution_1", 0], ["sp_skill_evolution_2", 0], ["sp_union_burst", 0], ["union_burst", 1075001], ["union_burst_evolution", 1075011], ["unit_id", 107501]]
+          }
+        ]
+      }
+    },
+    "unique_equipment_data": {
+      "data_changes": {
+        "added": [
+          [["accuracy", 0.0], ["atk", 1200.0], ["craft_flg", 1], ["def", 0.0], ["description", "享受夏日時，貪吃佩可愛用的泳衣。\\n不只可愛也很方便活動的珍品。\\n不管是在意對象的視線或夏天的\\n休閒活動，全都盡情享受吧。"], ["dodge", 0.0], ["enable_donation", 0], ["energy_recovery_rate", 0.0], ["energy_reduce_rate", 0.0], ["equipment_enhance_point", 0], ["equipment_id", 130752], ["equipment_name", "海邊的公主夏日"], ["hp", 0.0], ["hp_recovery_rate", 0.0], ["life_steal", 0.0], ["magic_critical", 0.0], ["magic_def", 0.0], ["magic_penetrate", 0.0], ["magic_str", 0.0], ["physical_critical", 0.0], ["physical_penetrate", 0], ["promotion_level", 98], ["require_level", 1], ["sale_price", 0.0], ["wave_energy_recovery", 0.0], ["wave_hp_recovery", 0.0]]
+        ]
+      }
+    },
+    "skill_action": {
+      "data_changes": {
+        "added": [
+          [["action_detail_1", 6221], ["action_detail_2", 107501105], ["action_detail_3", 0], ["action_id", 107501104], ["action_type", 28], ["action_value_1", 0.0], ["action_value_2", 1.0], ["action_value_3", 1.0], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", ""], ["level_up_disp", ""], ["target_area", 2], ["target_assignment", 2], ["target_count", 1], ["target_number", 0], ["target_range", 2160], ["target_type", 7]],
+          [["action_detail_1", 1], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 107501301], ["action_type", 1], ["action_value_1", 45.0], ["action_value_2", 45.0], ["action_value_3", 3.6], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "對範圍內的敵人造成{0}的物理傷害"], ["level_up_disp", "物理傷害+{0}"], ["target_area", 1], ["target_assignment", 1], ["target_count", 99], ["target_number", 0], ["target_range", 700], ["target_type", 3]],
+          [["action_detail_1", 6221], ["action_detail_2", 107500103], ["action_detail_3", 0], ["action_id", 107500102], ["action_type", 28], ["action_value_1", 0.0], ["action_value_2", 1.0], ["action_value_3", 1.0], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", ""], ["level_up_disp", ""], ["target_area", 2], ["target_assignment", 2], ["target_count", 1], ["target_number", 0], ["target_range", 2160], ["target_type", 7]],
+          [["action_detail_1", 3], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 107501302], ["action_type", 3], ["action_value_1", 200.0], ["action_value_2", 0.0], ["action_value_3", 500.0], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", ""], ["level_up_disp", ""], ["target_area", 1], ["target_assignment", 1], ["target_count", 1], ["target_number", 0], ["target_range", 700], ["target_type", 3]],
+          [["action_detail_1", 1], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 107500105], ["action_type", 16], ["action_value_1", 1000.0], ["action_value_2", 0.0], ["action_value_3", 0.0], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", ""], ["level_up_disp", ""], ["target_area", 2], ["target_assignment", 2], ["target_count", 1], ["target_number", 0], ["target_range", 2160], ["target_type", 7]],
+          [["action_detail_1", 107500105], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 107500103], ["action_type", 57], ["action_value_1", 1.0], ["action_value_2", 0.0], ["action_value_3", 0.0], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", ""], ["level_up_disp", ""], ["target_area", 2], ["target_assignment", 2], ["target_count", 1], ["target_number", 0], ["target_range", 2160], ["target_type", 7]],
+          [["action_detail_1", 110], ["action_detail_2", 1], ["action_detail_3", 0], ["action_id", 107501303], ["action_type", 10], ["action_value_1", 2.0], ["action_value_2", 12.0], ["action_value_3", 0.0], ["action_value_4", 18.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "提升自身{0}％的物理暴擊傷害"], ["level_up_disp", ""], ["target_area", 2], ["target_assignment", 2], ["target_count", 1], ["target_number", 0], ["target_range", 2160], ["target_type", 7]],
+          [["action_detail_1", 1], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 107501107], ["action_type", 16], ["action_value_1", 1000.0], ["action_value_2", 0.0], ["action_value_3", 0.0], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", ""], ["level_up_disp", ""], ["target_area", 2], ["target_assignment", 2], ["target_count", 1], ["target_number", 0], ["target_range", 2160], ["target_type", 7]],
+          [["action_detail_1", 1], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 107501305], ["action_type", 16], ["action_value_1", 1000.0], ["action_value_2", 0.0], ["action_value_3", 0.0], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "使用ＵＢ時，若持有１枚以上的再來一次券，消耗１枚再來一次券，ＴＰ恢復1000"], ["level_up_disp", ""], ["target_area", 2], ["target_assignment", 2], ["target_count", 1], ["target_number", 0], ["target_range", 2160], ["target_type", 7]],
+          [["action_detail_1", 1], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 107501106], ["action_type", 35], ["action_value_1", 2.0], ["action_value_2", 221.0], ["action_value_3", 180.0], ["action_value_4", -1.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", ""], ["level_up_disp", ""], ["target_area", 2], ["target_assignment", 2], ["target_count", 1], ["target_number", 0], ["target_range", 2160], ["target_type", 7]],
+          [["action_detail_1", 1], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 107500104], ["action_type", 35], ["action_value_1", 2.0], ["action_value_2", 221.0], ["action_value_3", 180.0], ["action_value_4", -1.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", ""], ["level_up_disp", ""], ["target_area", 2], ["target_assignment", 2], ["target_count", 1], ["target_number", 0], ["target_range", 2160], ["target_type", 7]],
+          [["action_detail_1", 1], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 107501304], ["action_type", 35], ["action_value_1", 2.0], ["action_value_2", 221.0], ["action_value_3", 180.0], ["action_value_4", 1.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "對自身施加１枚再來一次券，ＴＰ恢復1000"], ["level_up_disp", ""], ["target_area", 2], ["target_assignment", 2], ["target_count", 1], ["target_number", 0], ["target_range", 2160], ["target_type", 7]],
+          [["action_detail_1", 107501107], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 107501105], ["action_type", 57], ["action_value_1", 1.0], ["action_value_2", 0.0], ["action_value_3", 0.0], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", ""], ["level_up_disp", ""], ["target_area", 2], ["target_assignment", 2], ["target_count", 1], ["target_number", 0], ["target_range", 2160], ["target_type", 7]]
+        ]
+      }
+    },
+    "unit_unique_equipment": {
+      "data_changes": {
+        "modified": [
+          {
+            "id": 107501,
+            "old": [["equip_id", 130751], ["equip_slot", 1], ["unit_id", 107501]],
+            "new": [["equip_id", 130752], ["equip_slot", 2], ["unit_id", 107501]]
+          }
+        ]
+      }
+    },
+    "enemy_reward_data": {
+      "data_changes": {
+        "added": [
+          [["drop_count", 1], ["drop_reward_id", 61016801], ["odds_1", 100], ["odds_2", 0], ["odds_3", 0], ["odds_4", 0], ["odds_5", 0], ["reward_id_1", 61672], ["reward_id_2", 0], ["reward_id_3", 0], ["reward_id_4", 0], ["reward_id_5", 0], ["reward_num_1", 5], ["reward_num_2", 0], ["reward_num_3", 0], ["reward_num_4", 0], ["reward_num_5", 0], ["reward_type_1", 2], ["reward_type_2", 0], ["reward_type_3", 0], ["reward_type_4", 0], ["reward_type_5", 0]],
+          [["drop_count", 1], ["drop_reward_id", 61016802], ["odds_1", 100], ["odds_2", 0], ["odds_3", 0], ["odds_4", 0], ["odds_5", 0], ["reward_id_1", 61672], ["reward_id_2", 0], ["reward_id_3", 0], ["reward_id_4", 0], ["reward_id_5", 0], ["reward_num_1", 40], ["reward_num_2", 0], ["reward_num_3", 0], ["reward_num_4", 0], ["reward_num_5", 0], ["reward_type_1", 2], ["reward_type_2", 0], ["reward_type_3", 0], ["reward_type_4", 0], ["reward_type_5", 0]],
+          [["drop_count", 1], ["drop_reward_id", 61016803], ["odds_1", 100], ["odds_2", 0], ["odds_3", 0], ["odds_4", 0], ["odds_5", 0], ["reward_id_1", 61672], ["reward_id_2", 0], ["reward_id_3", 0], ["reward_id_4", 0], ["reward_id_5", 0], ["reward_num_1", 130], ["reward_num_2", 0], ["reward_num_3", 0], ["reward_num_4", 0], ["reward_num_5", 0], ["reward_type_1", 2], ["reward_type_2", 0], ["reward_type_3", 0], ["reward_type_4", 0], ["reward_type_5", 0]]
+        ]
+      }
+    },
+    "unique_equip_enhance_rate": {
+      "data_changes": {
+        "added": [
+          [["accuracy", 0.0], ["atk", 1200.0], ["def", 0.0], ["dodge", 0.0], ["energy_recovery_rate", 0.0], ["energy_reduce_rate", 0.0], ["equipment_id", 130752], ["hp", 0.0], ["hp_recovery_rate", 0.0], ["id", 1307520], ["life_steal", 0.0], ["magic_critical", 0.0], ["magic_def", 0.0], ["magic_penetrate", 0.0], ["magic_str", 0.0], ["max_lv", -1], ["min_lv", 1], ["physical_critical", 0.0], ["physical_penetrate", 0.0], ["wave_energy_recovery", 0.0], ["wave_hp_recovery", 0.0]]
+        ]
+      }
+    },
+    "item_data": {
+      "data_changes": {
+        "added": [
+          [["description", "可於活動期間得到的票券。使用票券即可挑戰頭目戰。"], ["end_time", "2030/04/24 14:59:59"], ["gojuon_order", 0], ["item_id", 61671], ["item_name", "Boss挑戰券"], ["item_type", 13], ["limit_num", 9999], ["price", 0], ["promotion_level", 1], ["sell_check_disp", 0], ["start_time", "2015/12/17 15:00:00"], ["value", 0]],
+          [["description", "於活動期間討伐怪物的證明。蒐集後能交換討伐證。"], ["end_time", "2030/04/24 14:59:59"], ["gojuon_order", 0], ["item_id", 61672], ["item_name", "討伐證"], ["item_type", 13], ["limit_num", 9999], ["price", 0], ["promotion_level", 1], ["sell_check_disp", 0], ["start_time", "2015/12/17 15:00:00"], ["value", 0]]
+        ]
+      }
+    }
+  }
+}
