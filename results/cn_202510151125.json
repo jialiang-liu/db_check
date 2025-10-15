@@ -1,0 +1,19 @@
+{
+  "tables": {
+    "only_in_old_db": [],
+    "only_in_new_db": []
+  },
+  "table_changes": {
+    "unique_equipment_data": {
+      "data_changes": {
+        "modified": [
+          {
+            "id": 130112,
+            "old": [["accuracy", 0.0], ["atk", 500.0], ["craft_flg", 1], ["def", 25.0], ["description", "璃乃爱用的鲜红色的长弓。\\n轻巧且非常容易操作。\\n经过日复一日的细致调整，\\n已如同手脚般熟悉。"], ["dodge", 0.0], ["enable_donation", 0], ["energy_recovery_rate", 0.0], ["energy_reduce_rate", 0.0], ["equipment_enhance_point", 0], ["equipment_id", 130112], ["equipment_name", "快乐的修女弓"], ["hp", 0.0], ["hp_recovery_rate", 0.0], ["life_steal", 0.0], ["magic_critical", 0.0], ["magic_def", 0.0], ["magic_penetrate", 0.0], ["magic_str", 0.0], ["physical_critical", 90.0], ["physical_penetrate", 0.0], ["promotion_level", 98], ["require_level", 1], ["sale_price", 0], ["wave_energy_recovery", 0.0], ["wave_hp_recovery", 0.0]],
+            "new": [["accuracy", 0.0], ["atk", 500.0], ["craft_flg", 1], ["def", 25.0], ["description", "璃乃爱用的鲜红色的长弓。\\n轻巧且非常容易操作。\\n经过日复一日的细致调整，\\n已如同手脚般熟悉。"], ["dodge", 0.0], ["enable_donation", 0], ["energy_recovery_rate", 0.0], ["energy_reduce_rate", 0.0], ["equipment_enhance_point", 0], ["equipment_id", 130112], ["equipment_name", "快乐姊妹弓"], ["hp", 0.0], ["hp_recovery_rate", 0.0], ["life_steal", 0.0], ["magic_critical", 0.0], ["magic_def", 0.0], ["magic_penetrate", 0.0], ["magic_str", 0.0], ["physical_critical", 90.0], ["physical_penetrate", 0.0], ["promotion_level", 98], ["require_level", 1], ["sale_price", 0], ["wave_energy_recovery", 0.0], ["wave_hp_recovery", 0.0]]
+          }
+        ]
+      }
+    }
+  }
+}
