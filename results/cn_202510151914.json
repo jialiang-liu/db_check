@@ -1,0 +1,31 @@
+{
+  "tables": {
+    "only_in_old_db": [],
+    "only_in_new_db": []
+  },
+  "table_changes": {
+    "daily_mission_data": {
+      "data_changes": {
+        "added": [
+          [["category_icon", 501], ["condition_num", 1], ["condition_value_1", 0], ["condition_value_2", 0], ["condition_value_3", 0], ["daily_mission_id", 15004024], ["description", "挑战团队战1次吧"], ["disp_group", 10], ["end_time", "2025/10/30 4:59:59"], ["max_level", 0], ["min_level", 0], ["mission_condition", 5004], ["mission_reward_id", 15004001], ["start_time", "2025/10/25 5:00:00"], ["system_id", 107], ["title_color_id", 0], ["visible_flag", 1]]
+        ]
+      }
+    },
+    "item_data": {
+      "data_changes": {
+        "modified": [
+          {
+            "id": 24017,
+            "old": [["description", "可以获得随机1名范围内★3角色的特别扭蛋券。"], ["end_time", "2030/08/01 14:59:59"], ["gojuon_order", 0], ["item_id", 24017], ["item_name", "★3必得 公主连结庆典2025纪念扭蛋券"], ["item_type", 17], ["limit_num", 999], ["price", 0], ["promotion_level", 1], ["sell_check_disp", 0], ["start_time", "2025/10/13 11:00:00"], ["value", 0]],
+            "new": [["description", "可以获得随机1名范围内★3角色的特别扭蛋券。"], ["end_time", "2030/08/01 14:59:59"], ["gojuon_order", 0], ["item_id", 24017], ["item_name", "★3必得 公主连结庆典2025纪念扭蛋券2"], ["item_type", 17], ["limit_num", 999], ["price", 0], ["promotion_level", 1], ["sell_check_disp", 0], ["start_time", "2025/10/13 11:00:00"], ["value", 0]]
+          },
+          {
+            "id": 24014,
+            "old": [["description", "可以获得随机1名范围内★3角色的特别扭蛋券。"], ["end_time", "2099/12/31 23:59:59"], ["gojuon_order", 0], ["item_id", 24014], ["item_name", "★3必得 公主连结庆典2024纪念扭蛋券"], ["item_type", 17], ["limit_num", 999], ["price", 0], ["promotion_level", 1], ["sell_check_disp", 0], ["start_time", "2025/04/17 05:00:00"], ["value", 0]],
+            "new": [["description", "可以获得随机1名范围内★3角色的特别扭蛋券。"], ["end_time", "2099/12/31 23:59:59"], ["gojuon_order", 0], ["item_id", 24014], ["item_name", "★3必得 公主连结庆典2025纪念扭蛋券1"], ["item_type", 17], ["limit_num", 999], ["price", 0], ["promotion_level", 1], ["sell_check_disp", 0], ["start_time", "2025/04/17 05:00:00"], ["value", 0]]
+          }
+        ]
+      }
+    }
+  }
+}
