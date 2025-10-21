@@ -1,0 +1,30 @@
+{
+  "tables": {
+    "only_in_old_db": [],
+    "only_in_new_db": []
+  },
+  "table_changes": {
+    "unit_enemy_data": {
+      "data_changes": {
+        "modified": [
+          {
+            "id": 321000,
+            "old": [["atk_type", 1], ["comment", "【物理】耸立在吉奥·矶汉拿的巨大\\n怪兽型魔物。从口中发射灼热光线，\\n用巨臂和尾巴蹂躏矮小的猎物。\\n\\n·必杀技能会解除敌方全体的屏障，\\n　对敌方全体造成一定比例的\\n　魔法伤害，同时降低物理防御力\\n　60%，特大幅度降低生命值吸收。\\n　这个技能的异常状态\\n　在伤害免疫的情况下也会成功赋予。\\n·对敌方全体造成物理伤害（大）。\\n　此外，当角色的生命值低于\\n　90%时，使其眩晕。\\n　这个技能的异常状态\\n　在伤害免疫的情况下也会成功赋予。\\n·对敌方全体造成物理伤害（特大）。\\n·若强兽盖顿的生命值降至一定值\\n　以下，将强化必杀技能，\\n　普通技能将造成物理和魔法伤害。"], ["cutin", 0], ["cutin_star6", 0], ["motion_type", 0], ["move_speed", 200], ["normal_atk_cast_time", 1.6], ["prefab_id", 321000], ["se_type", 16], ["search_area_width", 3000], ["unit_id", 321000], ["unit_name", "强兽盖顿"], ["visual_change_flag", 0]],
+            "new": [["atk_type", 1], ["comment", "【物理】耸立在吉奥·矶汉拿的巨大\\n怪兽型魔物。从口中发射灼热光线，\\n用巨臂和尾巴蹂躏矮小的猎物。\\n\\n·必杀技能可以解除敌方全体的屏\\n　障，对敌方全体造成一定比例的\\n　魔法伤害，同时降低物理防御力\\n　60%，特大幅度降低生命值吸收\\n　。这个技能的异常状态在伤害\\n　免疫的情况下也会成功赋予。\\n·对敌方全体造成物理伤害（大）\\n　。此外，当角色的生命值低于\\n　90%时，使其眩晕。这个技能的\\n　异常状态在伤害免疫的情况下\\n　也会成功赋予。\\n·对敌方全体造成物理伤害\\n　（特大）。\\n·若强兽盖顿的生命值降至一定值\\n　以下，将强化必杀技能，\\n　普通技能将造成物理和魔法伤害。"], ["cutin", 0], ["cutin_star6", 0], ["motion_type", 0], ["move_speed", 200], ["normal_atk_cast_time", 1.6], ["prefab_id", 321000], ["se_type", 16], ["search_area_width", 3000], ["unit_id", 321000], ["unit_name", "强兽盖顿"], ["visual_change_flag", 0]]
+          }
+        ]
+      }
+    },
+    "gacha_data": {
+      "data_changes": {
+        "modified": [
+          {
+            "id": 20314,
+            "old": [["chara_odds_star1", "20314_1"], ["chara_odds_star2", "20314_2"], ["chara_odds_star3", "20314_3"], ["description", "白金扭蛋中仅会出现角色！"], ["description_2", ""], ["description_sp", ""], ["discount_price", 50], ["end_time", "2025/10/26 10:59:59"], ["exchange_id", 313], ["free_gacha_count", 0], ["free_gacha_interval_time", 0], ["free_gacha_type", 0], ["gacha10_special_odds_star1", "0"], ["gacha10_special_odds_star2", "0"], ["gacha10_special_odds_star3", "0"], ["gacha_bonus_id", 0], ["gacha_cost_type", 2], ["gacha_detail", 2], ["gacha_id", 20314], ["gacha_name", "白金扭蛋"], ["gacha_odds", "0"], ["gacha_odds_star2", "0"], ["gacha_times_limit10", 0], ["gacha_type", 1], ["movie_id", 200001], ["parallel_id", 0], ["pick_up_chara_text", "没有精选角色"], ["pickup_badge", 0], ["pickup_id", 0], ["price", 150], ["prizegacha_id", 0], ["rarity_odds", "300000"], ["special_id", 0], ["start_time", "2025/10/23 11:00:00"], ["ticket_id", 24001], ["ticket_id_10", 24002], ["unknown_1", 0], ["unknown_2", 0], ["unknown_3", 0], ["unknown_4", ""]],
+            "new": [["chara_odds_star1", "20314_1"], ["chara_odds_star2", "20314_2"], ["chara_odds_star3", "20314_3"], ["description", "白金扭蛋中仅会出现角色！"], ["description_2", ""], ["description_sp", ""], ["discount_price", 50], ["end_time", "2025/10/26 10:59:59"], ["exchange_id", 314], ["free_gacha_count", 0], ["free_gacha_interval_time", 0], ["free_gacha_type", 0], ["gacha10_special_odds_star1", "0"], ["gacha10_special_odds_star2", "0"], ["gacha10_special_odds_star3", "0"], ["gacha_bonus_id", 0], ["gacha_cost_type", 2], ["gacha_detail", 2], ["gacha_id", 20314], ["gacha_name", "白金扭蛋"], ["gacha_odds", "0"], ["gacha_odds_star2", "0"], ["gacha_times_limit10", 0], ["gacha_type", 1], ["movie_id", 200001], ["parallel_id", 0], ["pick_up_chara_text", "没有精选角色"], ["pickup_badge", 0], ["pickup_id", 0], ["price", 150], ["prizegacha_id", 0], ["rarity_odds", "300000"], ["special_id", 0], ["start_time", "2025/10/23 11:00:00"], ["ticket_id", 24001], ["ticket_id_10", 24002], ["unknown_1", 0], ["unknown_2", 0], ["unknown_3", 0], ["unknown_4", ""]]
+          }
+        ]
+      }
+    }
+  }
+}
