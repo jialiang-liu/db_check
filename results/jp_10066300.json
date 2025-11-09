@@ -1,0 +1,567 @@
+{
+  "tables": {
+    "only_in_old_db": [],
+    "only_in_new_db": []
+  },
+  "table_changes": {
+    "unit_profile": {
+      "data_changes": {
+        "modified": [
+          {
+            "id": 116801,
+            "old": [["age", "18"], ["birth_day", "1"], ["birth_month", "3"], ["blood_type", "AB"], ["catch_copy", "弱きを助け強きをくじく猫娘"], ["favorite", "猫とたわむれること"], ["guild", "メルクリウス財団"], ["guild_id", "12"], ["height", "158"], ["race", "獣人族"], ["self_text", "お金もうけの話なら、ぜひともあたしに\\n持ってくるにゃ！　稼げるなら１ルピだって\\n見逃さないのが、あたしの信条にゃ～♪"], ["unit_id", 116801], ["unit_name", "Tamaki (Work)"], ["voice", "沼倉愛美"], ["voice_id", 0], ["weight", "48"]],
+            "new": [["age", "19"], ["birth_day", "1"], ["birth_month", "3"], ["blood_type", "AB"], ["catch_copy", "弱きを助け強きをくじく猫娘"], ["favorite", "猫とたわむれること"], ["guild", "メルクリウス財団"], ["guild_id", "12"], ["height", "158"], ["race", "獣人族"], ["self_text", "お金もうけの話なら、ぜひともあたしに\\n持ってくるにゃ！　稼げるなら１ルピだって\\n見逃さないのが、あたしの信条にゃ～♪"], ["unit_id", 116801], ["unit_name", "Tamaki (Work)"], ["voice", "沼倉愛美"], ["voice_id", 0], ["weight", "48"]]
+          },
+          {
+            "id": 180701,
+            "old": [["age", "17"], ["birth_day", "-"], ["birth_month", "-"], ["blood_type", "-"], ["catch_copy", "絆でつながる信愛の姉妹"], ["favorite", "二人でピクニックに行くこと"], ["guild", "フォレスティエ、牧場（エリザベスパーク）"], ["guild_id", "500"], ["height", "-"], ["race", "エルフ、獣人族"], ["self_text", ""], ["unit_id", 180701], ["unit_name", "Hatsune & Shiori"], ["voice", "大橋彩香、小清水亜美"], ["voice_id", 0], ["weight", "-"]],
+            "new": [["age", "-"], ["birth_day", "-"], ["birth_month", "-"], ["blood_type", "-"], ["catch_copy", "絆でつながる信愛の姉妹"], ["favorite", "二人でピクニックに行くこと"], ["guild", "フォレスティエ、牧場（エリザベスパーク）"], ["guild_id", "500"], ["height", "-"], ["race", "エルフ、獣人族"], ["self_text", ""], ["unit_id", 180701], ["unit_name", "Hatsune & Shiori"], ["voice", "大橋彩香、小清水亜美"], ["voice_id", 0], ["weight", "-"]]
+          },
+          {
+            "id": 109301,
+            "old": [["age", "15"], ["birth_day", "4"], ["birth_month", "2"], ["blood_type", "O"], ["catch_copy", "マナリア魔法学院の新入生"], ["favorite", "食べること、眠ること"], ["guild", "？？？"], ["guild_id", ""], ["height", "144"], ["race", "ヒューマン"], ["self_text", "ルゥはルゥですぅ！マナリア魔法学院に\\n通ってるですぅ。あなたもルゥの\\nお友だちになってくれるですか？"], ["unit_id", 109301], ["unit_name", "Lou"], ["voice", "こやまきみこ"], ["voice_id", 0], ["weight", "45"]],
+            "new": [["age", "16"], ["birth_day", "4"], ["birth_month", "2"], ["blood_type", "O"], ["catch_copy", "マナリア魔法学院の新入生"], ["favorite", "食べること、眠ること"], ["guild", "？？？"], ["guild_id", ""], ["height", "144"], ["race", "ヒューマン"], ["self_text", "ルゥはルゥですぅ！マナリア魔法学院に\\n通ってるですぅ。あなたもルゥの\\nお友だちになってくれるですか？"], ["unit_id", 109301], ["unit_name", "Lou"], ["voice", "こやまきみこ"], ["voice_id", 0], ["weight", "45"]]
+          },
+          {
+            "id": 105201,
+            "old": [["age", "18"], ["birth_day", "14"], ["birth_month", "3"], ["blood_type", "A"], ["catch_copy", "乙女チックなもふもふアニマル"], ["favorite", "毛繕い、お喋り"], ["guild", "牧場（エリザベスパーク）"], ["guild_id", "11"], ["height", "150"], ["race", "獣人族"], ["self_text", "私、ごく普通の、どこにでもいる女の子よ！\\nみ、見た目以外はね…"], ["unit_id", 105201], ["unit_name", "Lima"], ["voice", "徳井青空"], ["voice_id", 0], ["weight", "100"]],
+            "new": [["age", "17"], ["birth_day", "14"], ["birth_month", "3"], ["blood_type", "A"], ["catch_copy", "乙女チックなもふもふアニマル"], ["favorite", "毛繕い、お喋り"], ["guild", "牧場（エリザベスパーク）"], ["guild_id", "11"], ["height", "150"], ["race", "獣人族"], ["self_text", "私、ごく普通の、どこにでもいる女の子よ！\\nみ、見た目以外はね…"], ["unit_id", 105201], ["unit_name", "Lima"], ["voice", "徳井青空"], ["voice_id", 0], ["weight", "100"]]
+          },
+          {
+            "id": 117701,
+            "old": [["age", "19"], ["birth_day", "7"], ["birth_month", "7"], ["blood_type", "A"], ["catch_copy", "いつでも「なんくるないさ～」な天然娘"], ["favorite", "踊り、空手"], ["guild", "自警団（カォン）"], ["guild_id", "10"], ["height", "158"], ["race", "獣人族"], ["self_text", "ハイターイ！　歌って踊って、\\n最高に盛り上がるさ～！\\nやさやさ、キミも一緒に踊るさ～！"], ["unit_id", 117701], ["unit_name", "Kaori (Halloween)"], ["voice", "高森奈津美"], ["voice_id", 0], ["weight", "53"]],
+            "new": [["age", "17"], ["birth_day", "7"], ["birth_month", "7"], ["blood_type", "A"], ["catch_copy", "いつでも「なんくるないさ～」な天然娘"], ["favorite", "踊り、空手"], ["guild", "自警団（カォン）"], ["guild_id", "10"], ["height", "158"], ["race", "獣人族"], ["self_text", "ハイターイ！　歌って踊って、\\n最高に盛り上がるさ～！\\nやさやさ、キミも一緒に踊るさ～！"], ["unit_id", 117701], ["unit_name", "Kaori (Halloween)"], ["voice", "高森奈津美"], ["voice_id", 0], ["weight", "53"]]
+          },
+          {
+            "id": 131901,
+            "old": [["age", "114"], ["birth_day", "23"], ["birth_month", "9"], ["blood_type", "?"], ["catch_copy", "銀髪のおっとりハーフエルフ"], ["favorite", "パックの毛繕い、勉強"], ["guild", "？？？"], ["guild_id", ""], ["height", "164"], ["race", "ハーフエルフ"], ["self_text", ""], ["unit_id", 131901], ["unit_name", "Emilia (Summer)"], ["voice", "高橋李依"], ["voice_id", 0], ["weight", "??"]],
+            "new": [["age", "-"], ["birth_day", "23"], ["birth_month", "9"], ["blood_type", "?"], ["catch_copy", "銀髪のおっとりハーフエルフ"], ["favorite", "パックの毛繕い、勉強"], ["guild", "？？？"], ["guild_id", ""], ["height", "164"], ["race", "ハーフエルフ"], ["self_text", ""], ["unit_id", 131901], ["unit_name", "Emilia (Summer)"], ["voice", "高橋李依"], ["voice_id", 0], ["weight", "??"]]
+          },
+          {
+            "id": 127301,
+            "old": [["age", "18"], ["birth_day", "10"], ["birth_month", "4"], ["blood_type", "O"], ["catch_copy", "天真爛漫で人気者のカリスマモデル"], ["favorite", "ファッション"], ["guild", "ルーセント学院"], ["guild_id", "14"], ["height", "167"], ["race", "魔族"], ["self_text", "ヒデサイ、ちょっす～！　うち、漢字と計算は\\nちょっち…てか、おに苦手なんだ～\\nでもでも、ファッションだったら任せて～！"], ["unit_id", 127301], ["unit_name", "Suzuna (Student)"], ["voice", "上坂すみれ"], ["voice_id", 0], ["weight", "48"]],
+            "new": [["age", "17"], ["birth_day", "10"], ["birth_month", "4"], ["blood_type", "O"], ["catch_copy", "天真爛漫で人気者のカリスマモデル"], ["favorite", "ファッション"], ["guild", "ルーセント学院"], ["guild_id", "14"], ["height", "167"], ["race", "魔族"], ["self_text", "ヒデサイ、ちょっす～！　うち、漢字と計算は\\nちょっち…てか、おに苦手なんだ～\\nでもでも、ファッションだったら任せて～！"], ["unit_id", 127301], ["unit_name", "Suzuna (Student)"], ["voice", "上坂すみれ"], ["voice_id", 0], ["weight", "48"]]
+          },
+          {
+            "id": 181001,
+            "old": [["age", "17"], ["birth_day", "-"], ["birth_month", "-"], ["blood_type", "-"], ["catch_copy", "約束を誓い合うマナリアの双姫"], ["favorite", "一緒にピアノを連弾すること"], ["guild", "？？？"], ["guild_id", ""], ["height", "-"], ["race", "ヒューマン、半人半竜"], ["self_text", ""], ["unit_id", 181001], ["unit_name", "Anne & Grea"], ["voice", "日笠陽子、福原綾香"], ["voice_id", 0], ["weight", "-"]],
+            "new": [["age", "-"], ["birth_day", "-"], ["birth_month", "-"], ["blood_type", "-"], ["catch_copy", "約束を誓い合うマナリアの双姫"], ["favorite", "一緒にピアノを連弾すること"], ["guild", "？？？"], ["guild_id", ""], ["height", "-"], ["race", "ヒューマン、半人半竜"], ["self_text", ""], ["unit_id", 181001], ["unit_name", "Anne & Grea"], ["voice", "日笠陽子、福原綾香"], ["voice_id", 0], ["weight", "-"]]
+          },
+          {
+            "id": 132001,
+            "old": [["age", "??"], ["birth_day", "24"], ["birth_month", "1"], ["blood_type", "?"], ["catch_copy", "強欲の魔女"], ["favorite", "知識欲を満たすこと"], ["guild", "？？？"], ["guild_id", ""], ["height", "164"], ["race", "？？？"], ["self_text", ""], ["unit_id", 132001], ["unit_name", "Echidna (Summer)"], ["voice", "坂本真綾"], ["voice_id", 0], ["weight", "???"]],
+            "new": [["age", "-"], ["birth_day", "24"], ["birth_month", "1"], ["blood_type", "?"], ["catch_copy", "強欲の魔女"], ["favorite", "知識欲を満たすこと"], ["guild", "？？？"], ["guild_id", ""], ["height", "164"], ["race", "？？？"], ["self_text", ""], ["unit_id", 132001], ["unit_name", "Echidna (Summer)"], ["voice", "坂本真綾"], ["voice_id", 0], ["weight", "???"]]
+          },
+          {
+            "id": 112401,
+            "old": [["age", "17"], ["birth_day", "24"], ["birth_month", "4"], ["blood_type", "O"], ["catch_copy", "弾ける笑顔！　アイドルを夢見る女の子"], ["favorite", "友達と長話"], ["guild", "ニュージェネレーションズ"], ["guild_id", "100"], ["height", "159"], ["race", "ヒューマン"], ["self_text", ""], ["unit_id", 112401], ["unit_name", "Uzuki (IM@S CG)"], ["voice", "大橋彩香"], ["voice_id", 0], ["weight", "45"]],
+            "new": [["age", "-"], ["birth_day", "24"], ["birth_month", "4"], ["blood_type", "O"], ["catch_copy", "弾ける笑顔！　アイドルを夢見る女の子"], ["favorite", "友達と長話"], ["guild", "ニュージェネレーションズ"], ["guild_id", "100"], ["height", "159"], ["race", "ヒューマン"], ["self_text", ""], ["unit_id", 112401], ["unit_name", "Uzuki (IM@S CG)"], ["voice", "大橋彩香"], ["voice_id", 0], ["weight", "45"]]
+          },
+          {
+            "id": 110001,
+            "old": [["age", "18"], ["birth_day", "10"], ["birth_month", "4"], ["blood_type", "O"], ["catch_copy", "天真爛漫で人気者のカリスマモデル"], ["favorite", "ファッション"], ["guild", "ルーセント学院"], ["guild_id", "14"], ["height", "167"], ["race", "魔族"], ["self_text", "ヒデサイ、ちょっす～！　うち、漢字と計算は\\nちょっち…てか、おに苦手なんだ～\\nでもでも、ファッションだったら任せて～！"], ["unit_id", 110001], ["unit_name", "Suzuna (Summer)"], ["voice", "上坂すみれ"], ["voice_id", 0], ["weight", "48"]],
+            "new": [["age", "17"], ["birth_day", "10"], ["birth_month", "4"], ["blood_type", "O"], ["catch_copy", "天真爛漫で人気者のカリスマモデル"], ["favorite", "ファッション"], ["guild", "ルーセント学院"], ["guild_id", "14"], ["height", "167"], ["race", "魔族"], ["self_text", "ヒデサイ、ちょっす～！　うち、漢字と計算は\\nちょっち…てか、おに苦手なんだ～\\nでもでも、ファッションだったら任せて～！"], ["unit_id", 110001], ["unit_name", "Suzuna (Summer)"], ["voice", "上坂すみれ"], ["voice_id", 0], ["weight", "48"]]
+          },
+          {
+            "id": 109901,
+            "old": [["age", "114"], ["birth_day", "23"], ["birth_month", "9"], ["blood_type", "?"], ["catch_copy", "銀髪のおっとりハーフエルフ"], ["favorite", "パックの毛繕い、勉強"], ["guild", "？？？"], ["guild_id", ""], ["height", "164"], ["race", "ハーフエルフ"], ["self_text", ""], ["unit_id", 109901], ["unit_name", "Emilia"], ["voice", "高橋李依"], ["voice_id", 0], ["weight", "??"]],
+            "new": [["age", "-"], ["birth_day", "23"], ["birth_month", "9"], ["blood_type", "?"], ["catch_copy", "銀髪のおっとりハーフエルフ"], ["favorite", "パックの毛繕い、勉強"], ["guild", "？？？"], ["guild_id", ""], ["height", "164"], ["race", "ハーフエルフ"], ["self_text", ""], ["unit_id", 109901], ["unit_name", "Emilia"], ["voice", "高橋李依"], ["voice_id", 0], ["weight", "??"]]
+          },
+          {
+            "id": 105301,
+            "old": [["age", "18"], ["birth_day", "28"], ["birth_month", "7"], ["blood_type", "A"], ["catch_copy", "見た目も中身もお子ちゃまな異国の軍人"], ["favorite", "お菓子屋通い"], ["guild", "ヴァイスフリューゲル　ランドソル支部"], ["guild_id", "15"], ["height", "140"], ["race", "ヒューマン"], ["self_text", "「白き翼」こと、ヴァイスフリューゲル…\\nその名に恥じぬよう、天高く舞い、\\n華麗に敵を倒してみせる！"], ["unit_id", 105301], ["unit_name", "Monika"], ["voice", "辻あゆみ"], ["voice_id", 0], ["weight", "33"]],
+            "new": [["age", "17"], ["birth_day", "28"], ["birth_month", "7"], ["blood_type", "A"], ["catch_copy", "見た目も中身もお子ちゃまな異国の軍人"], ["favorite", "お菓子屋通い"], ["guild", "ヴァイスフリューゲル　ランドソル支部"], ["guild_id", "15"], ["height", "140"], ["race", "ヒューマン"], ["self_text", "「白き翼」こと、ヴァイスフリューゲル…\\nその名に恥じぬよう、天高く舞い、\\n華麗に敵を倒してみせる！"], ["unit_id", 105301], ["unit_name", "Monika"], ["voice", "辻あゆみ"], ["voice_id", 0], ["weight", "33"]]
+          },
+          {
+            "id": 110501,
+            "old": [["age", "19"], ["birth_day", "7"], ["birth_month", "7"], ["blood_type", "A"], ["catch_copy", "いつでも「なんくるないさ～」な天然娘"], ["favorite", "踊り、空手"], ["guild", "自警団（カォン）"], ["guild_id", "10"], ["height", "158"], ["race", "獣人族"], ["self_text", "ハイターイ！　歌って踊って、\\n最高に盛り上がるさ～！\\nやさやさ、キミも一緒に踊るさ～！"], ["unit_id", 110501], ["unit_name", "Kaori (Summer)"], ["voice", "高森奈津美"], ["voice_id", 0], ["weight", "53"]],
+            "new": [["age", "17"], ["birth_day", "7"], ["birth_month", "7"], ["blood_type", "A"], ["catch_copy", "いつでも「なんくるないさ～」な天然娘"], ["favorite", "踊り、空手"], ["guild", "自警団（カォン）"], ["guild_id", "10"], ["height", "158"], ["race", "獣人族"], ["self_text", "ハイターイ！　歌って踊って、\\n最高に盛り上がるさ～！\\nやさやさ、キミも一緒に踊るさ～！"], ["unit_id", 110501], ["unit_name", "Kaori (Summer)"], ["voice", "高森奈津美"], ["voice_id", 0], ["weight", "53"]]
+          },
+          {
+            "id": 101701,
+            "old": [["age", "19"], ["birth_day", "7"], ["birth_month", "7"], ["blood_type", "A"], ["catch_copy", "いつでも「なんくるないさ～」な天然娘"], ["favorite", "踊り、空手"], ["guild", "自警団（カォン）"], ["guild_id", "10"], ["height", "158"], ["race", "獣人族"], ["self_text", "ハイターイ！　歌って踊って、\\n最高に盛り上がるさ～！\\nやさやさ、キミも一緒に踊るさ～！"], ["unit_id", 101701], ["unit_name", "Kaori"], ["voice", "高森奈津美"], ["voice_id", 0], ["weight", "53"]],
+            "new": [["age", "17"], ["birth_day", "7"], ["birth_month", "7"], ["blood_type", "A"], ["catch_copy", "いつでも「なんくるないさ～」な天然娘"], ["favorite", "踊り、空手"], ["guild", "自警団（カォン）"], ["guild_id", "10"], ["height", "158"], ["race", "獣人族"], ["self_text", "ハイターイ！　歌って踊って、\\n最高に盛り上がるさ～！\\nやさやさ、キミも一緒に踊るさ～！"], ["unit_id", 101701], ["unit_name", "Kaori"], ["voice", "高森奈津美"], ["voice_id", 0], ["weight", "53"]]
+          },
+          {
+            "id": 107901,
+            "old": [["age", "18"], ["birth_day", "1"], ["birth_month", "3"], ["blood_type", "AB"], ["catch_copy", "弱きを助け強きをくじく猫娘"], ["favorite", "猫とたわむれること"], ["guild", "メルクリウス財団"], ["guild_id", "12"], ["height", "158"], ["race", "獣人族"], ["self_text", "お金もうけの話なら、ぜひともあたしに\\n持ってくるにゃ！　稼げるなら１ルピだって\\n見逃さないのが、あたしの信条にゃ～♪"], ["unit_id", 107901], ["unit_name", "Tamaki (Summer)"], ["voice", "沼倉愛美"], ["voice_id", 0], ["weight", "48"]],
+            "new": [["age", "19"], ["birth_day", "1"], ["birth_month", "3"], ["blood_type", "AB"], ["catch_copy", "弱きを助け強きをくじく猫娘"], ["favorite", "猫とたわむれること"], ["guild", "メルクリウス財団"], ["guild_id", "12"], ["height", "158"], ["race", "獣人族"], ["self_text", "お金もうけの話なら、ぜひともあたしに\\n持ってくるにゃ！　稼げるなら１ルピだって\\n見逃さないのが、あたしの信条にゃ～♪"], ["unit_id", 107901], ["unit_name", "Tamaki (Summer)"], ["voice", "沼倉愛美"], ["voice_id", 0], ["weight", "48"]]
+          },
+          {
+            "id": 132101,
+            "old": [["age", "17"], ["birth_day", "2"], ["birth_month", "2"], ["blood_type", "?"], ["catch_copy", "鬼がかりの万能妹メイド"], ["favorite", "演劇鑑賞、詩文"], ["guild", "？？？"], ["guild_id", ""], ["height", "154"], ["race", "鬼族"], ["self_text", ""], ["unit_id", 132101], ["unit_name", "Rem (Summer)"], ["voice", "水瀬いのり"], ["voice_id", 0], ["weight", "??"]],
+            "new": [["age", "-"], ["birth_day", "2"], ["birth_month", "2"], ["blood_type", "?"], ["catch_copy", "鬼がかりの万能妹メイド"], ["favorite", "演劇鑑賞、詩文"], ["guild", "？？？"], ["guild_id", ""], ["height", "154"], ["race", "鬼族"], ["self_text", ""], ["unit_id", 132101], ["unit_name", "Rem (Summer)"], ["voice", "水瀬いのり"], ["voice_id", 0], ["weight", "??"]]
+          },
+          {
+            "id": 180901,
+            "old": [["age", "17"], ["birth_day", "-"], ["birth_month", "-"], ["blood_type", "-"], ["catch_copy", "気高き友情で結ばれた好敵手"], ["favorite", "切磋琢磨"], ["guild", "メルクリウス財団、サレンディア救護院"], ["guild_id", "501"], ["height", "-"], ["race", "ヒューマン、エルフ"], ["self_text", ""], ["unit_id", 180901], ["unit_name", "Akino & Saren"], ["voice", "松嵜麗、堀江由衣"], ["voice_id", 0], ["weight", "-"]],
+            "new": [["age", "-"], ["birth_day", "-"], ["birth_month", "-"], ["blood_type", "-"], ["catch_copy", "気高き友情で結ばれた好敵手"], ["favorite", "切磋琢磨"], ["guild", "メルクリウス財団、サレンディア救護院"], ["guild_id", "501"], ["height", "-"], ["race", "ヒューマン、エルフ"], ["self_text", ""], ["unit_id", 180901], ["unit_name", "Akino & Saren"], ["voice", "松嵜麗、堀江由衣"], ["voice_id", 0], ["weight", "-"]]
+          },
+          {
+            "id": 117901,
+            "old": [["age", "18"], ["birth_day", "10"], ["birth_month", "4"], ["blood_type", "O"], ["catch_copy", "天真爛漫で人気者のカリスマモデル"], ["favorite", "ファッション"], ["guild", "ルーセント学院"], ["guild_id", "14"], ["height", "167"], ["race", "魔族"], ["self_text", "ヒデサイ、ちょっす～！　うち、漢字と計算は\\nちょっち…てか、おに苦手なんだ～\\nでもでも、ファッションだったら任せて～！"], ["unit_id", 117901], ["unit_name", "Suzuna (Halloween)"], ["voice", "上坂すみれ"], ["voice_id", 0], ["weight", "48"]],
+            "new": [["age", "17"], ["birth_day", "10"], ["birth_month", "4"], ["blood_type", "O"], ["catch_copy", "天真爛漫で人気者のカリスマモデル"], ["favorite", "ファッション"], ["guild", "ルーセント学院"], ["guild_id", "14"], ["height", "167"], ["race", "魔族"], ["self_text", "ヒデサイ、ちょっす～！　うち、漢字と計算は\\nちょっち…てか、おに苦手なんだ～\\nでもでも、ファッションだったら任せて～！"], ["unit_id", 117901], ["unit_name", "Suzuna (Halloween)"], ["voice", "上坂すみれ"], ["voice_id", 0], ["weight", "48"]]
+          },
+          {
+            "id": 136001,
+            "old": [["age", "28"], ["birth_day", "15"], ["birth_month", "1"], ["blood_type", "AB"], ["catch_copy", "新たな道を歩み始めた女郎蜘蛛"], ["favorite", "光を追うこと、整理整頓"], ["guild", "？？？"], ["guild_id", ""], ["height", "240"], ["race", "妖魔人"], ["self_text", ""], ["unit_id", 136001], ["unit_name", "Arache"], ["voice", "遠藤綾"], ["voice_id", 0], ["weight", "108"]],
+            "new": [["age", "28"], ["birth_day", "15"], ["birth_month", "1"], ["blood_type", "AB"], ["catch_copy", "新たな道を歩み始めた女郎蜘蛛"], ["favorite", "光を追うこと、整理整頓"], ["guild", "？？？"], ["guild_id", ""], ["height", "240"], ["race", "妖魔人"], ["self_text", ""], ["unit_id", 136001], ["unit_name", "Arachne"], ["voice", "遠藤綾"], ["voice_id", 0], ["weight", "108"]]
+          },
+          {
+            "id": 133001,
+            "old": [["age", "20"], ["birth_day", "31"], ["birth_month", "10"], ["blood_type", "AB"], ["catch_copy", "怜悧で幽愁、オバケでオトボケな守護騎士"], ["favorite", "水墨画"], ["guild", "？？？"], ["guild_id", ""], ["height", "166"], ["race", "ヒューマン"], ["self_text", ""], ["unit_id", 133001], ["unit_name", "Grace"], ["voice", "富田美憂"], ["voice_id", 0], ["weight", "0"]],
+            "new": [["age", "21"], ["birth_day", "31"], ["birth_month", "10"], ["blood_type", "AB"], ["catch_copy", "怜悧で幽愁、オバケでオトボケな守護騎士"], ["favorite", "水墨画"], ["guild", "？？？"], ["guild_id", ""], ["height", "166"], ["race", "ヒューマン"], ["self_text", ""], ["unit_id", 133001], ["unit_name", "Grace"], ["voice", "富田美憂"], ["voice_id", 0], ["weight", "0"]]
+          },
+          {
+            "id": 133201,
+            "old": [["age", "18"], ["birth_day", "28"], ["birth_month", "7"], ["blood_type", "A"], ["catch_copy", "見た目も中身もお子ちゃまな異国の軍人"], ["favorite", "お菓子屋通い"], ["guild", "ヴァイスフリューゲル　ランドソル支部"], ["guild_id", "15"], ["height", "140"], ["race", "ヒューマン"], ["self_text", "「白き翼」こと、ヴァイスフリューゲル…\\nその名に恥じぬよう、天高く舞い、\\n華麗に敵を倒してみせる！"], ["unit_id", 133201], ["unit_name", "Monika (New Year)"], ["voice", "辻あゆみ"], ["voice_id", 0], ["weight", "33"]],
+            "new": [["age", "17"], ["birth_day", "28"], ["birth_month", "7"], ["blood_type", "A"], ["catch_copy", "見た目も中身もお子ちゃまな異国の軍人"], ["favorite", "お菓子屋通い"], ["guild", "ヴァイスフリューゲル　ランドソル支部"], ["guild_id", "15"], ["height", "140"], ["race", "ヒューマン"], ["self_text", "「白き翼」こと、ヴァイスフリューゲル…\\nその名に恥じぬよう、天高く舞い、\\n華麗に敵を倒してみせる！"], ["unit_id", 133201], ["unit_name", "Monika (New Year)"], ["voice", "辻あゆみ"], ["voice_id", 0], ["weight", "33"]]
+          },
+          {
+            "id": 115801,
+            "old": [["age", "18"], ["birth_day", "14"], ["birth_month", "3"], ["blood_type", "A"], ["catch_copy", "乙女チックなもふもふアニマル"], ["favorite", "毛繕い、お喋り"], ["guild", "牧場（エリザベスパーク）"], ["guild_id", "11"], ["height", "150"], ["race", "獣人族"], ["self_text", "私、ごく普通の、どこにでもいる女の子よ！\\nみ、見た目以外はね…"], ["unit_id", 115801], ["unit_name", "Lima (Cinderella)"], ["voice", "徳井青空"], ["voice_id", 0], ["weight", "100"]],
+            "new": [["age", "17"], ["birth_day", "14"], ["birth_month", "3"], ["blood_type", "A"], ["catch_copy", "乙女チックなもふもふアニマル"], ["favorite", "毛繕い、お喋り"], ["guild", "牧場（エリザベスパーク）"], ["guild_id", "11"], ["height", "150"], ["race", "獣人族"], ["self_text", "私、ごく普通の、どこにでもいる女の子よ！\\nみ、見た目以外はね…"], ["unit_id", 115801], ["unit_name", "Lima (Cinderella)"], ["voice", "徳井青空"], ["voice_id", 0], ["weight", "100"]]
+          },
+          {
+            "id": 181101,
+            "old": [["age", "18"], ["birth_day", "-"], ["birth_month", "-"], ["blood_type", "-"], ["catch_copy", "真実も偽りも超えるきょうだい"], ["favorite", "弟を愛でること＆兄に甘えること"], ["guild", "ラビリンス"], ["guild_id", "3"], ["height", "-"], ["race", "ヒューマン、ヒューマン"], ["self_text", ""], ["unit_id", 181101], ["unit_name", "Shizuru & Rino"], ["voice", "生天目仁美、阿澄佳奈"], ["voice_id", 0], ["weight", "-"]],
+            "new": [["age", "-"], ["birth_day", "-"], ["birth_month", "-"], ["blood_type", "-"], ["catch_copy", "真実も偽りも超えるきょうだい"], ["favorite", "弟を愛でること＆兄に甘えること"], ["guild", "ラビリンス"], ["guild_id", "3"], ["height", "-"], ["race", "ヒューマン、ヒューマン"], ["self_text", ""], ["unit_id", 181101], ["unit_name", "Shizuru & Rino"], ["voice", "生天目仁美、阿澄佳奈"], ["voice_id", 0], ["weight", "-"]]
+          },
+          {
+            "id": 112601,
+            "old": [["age", "15"], ["birth_day", "1"], ["birth_month", "12"], ["blood_type", "B"], ["catch_copy", "スーパースターを目指す元気娘☆☆★"], ["favorite", "ショッピング"], ["guild", "ニュージェネレーションズ"], ["guild_id", "100"], ["height", "161"], ["race", "ヒューマン"], ["self_text", ""], ["unit_id", 112601], ["unit_name", "Mio (IM@S CG)"], ["voice", "原紗友里"], ["voice_id", 0], ["weight", "46"]],
+            "new": [["age", "-"], ["birth_day", "1"], ["birth_month", "12"], ["blood_type", "B"], ["catch_copy", "スーパースターを目指す元気娘☆☆★"], ["favorite", "ショッピング"], ["guild", "ニュージェネレーションズ"], ["guild_id", "100"], ["height", "161"], ["race", "ヒューマン"], ["self_text", ""], ["unit_id", 112601], ["unit_name", "Mio (IM@S CG)"], ["voice", "原紗友里"], ["voice_id", 0], ["weight", "46"]]
+          },
+          {
+            "id": 125201,
+            "old": [["age", "18"], ["birth_day", "28"], ["birth_month", "7"], ["blood_type", "A"], ["catch_copy", "見た目も中身もお子ちゃまな異国の軍人"], ["favorite", "お菓子屋通い"], ["guild", "ヴァイスフリューゲル　ランドソル支部"], ["guild_id", "15"], ["height", "140"], ["race", "ヒューマン"], ["self_text", "「白き翼」こと、ヴァイスフリューゲル…\\nその名に恥じぬよう、天高く舞い、\\n華麗に敵を倒してみせる！"], ["unit_id", 125201], ["unit_name", "Monika (Cafe)"], ["voice", "辻あゆみ"], ["voice_id", 0], ["weight", "33"]],
+            "new": [["age", "17"], ["birth_day", "28"], ["birth_month", "7"], ["blood_type", "A"], ["catch_copy", "見た目も中身もお子ちゃまな異国の軍人"], ["favorite", "お菓子屋通い"], ["guild", "ヴァイスフリューゲル　ランドソル支部"], ["guild_id", "15"], ["height", "140"], ["race", "ヒューマン"], ["self_text", "「白き翼」こと、ヴァイスフリューゲル…\\nその名に恥じぬよう、天高く舞い、\\n華麗に敵を倒してみせる！"], ["unit_id", 125201], ["unit_name", "Monika (Cafe)"], ["voice", "辻あゆみ"], ["voice_id", 0], ["weight", "33"]]
+          },
+          {
+            "id": 114201,
+            "old": [["age", "18"], ["birth_day", "28"], ["birth_month", "7"], ["blood_type", "A"], ["catch_copy", "見た目も中身もお子ちゃまな異国の軍人"], ["favorite", "お菓子屋通い"], ["guild", "ヴァイスフリューゲル　ランドソル支部"], ["guild_id", "15"], ["height", "140"], ["race", "ヒューマン"], ["self_text", "「白き翼」こと、ヴァイスフリューゲル…\\nその名に恥じぬよう、天高く舞い、\\n華麗に敵を倒してみせる！"], ["unit_id", 114201], ["unit_name", "Monika (Magical)"], ["voice", "辻あゆみ"], ["voice_id", 0], ["weight", "33"]],
+            "new": [["age", "17"], ["birth_day", "28"], ["birth_month", "7"], ["blood_type", "A"], ["catch_copy", "見た目も中身もお子ちゃまな異国の軍人"], ["favorite", "お菓子屋通い"], ["guild", "ヴァイスフリューゲル　ランドソル支部"], ["guild_id", "15"], ["height", "140"], ["race", "ヒューマン"], ["self_text", "「白き翼」こと、ヴァイスフリューゲル…\\nその名に恥じぬよう、天高く舞い、\\n華麗に敵を倒してみせる！"], ["unit_id", 114201], ["unit_name", "Monika (Magical)"], ["voice", "辻あゆみ"], ["voice_id", 0], ["weight", "33"]]
+          },
+          {
+            "id": 112501,
+            "old": [["age", "15"], ["birth_day", "10"], ["birth_month", "8"], ["blood_type", "B"], ["catch_copy", "クールビューティーな「蒼の剣士」"], ["favorite", "犬の散歩"], ["guild", "ニュージェネレーションズ"], ["guild_id", "100"], ["height", "165"], ["race", "ヒューマン"], ["self_text", ""], ["unit_id", 112501], ["unit_name", "Rin (IM@S CG)"], ["voice", "福原綾香"], ["voice_id", 0], ["weight", "44"]],
+            "new": [["age", "-"], ["birth_day", "10"], ["birth_month", "8"], ["blood_type", "B"], ["catch_copy", "クールビューティーな「蒼の剣士」"], ["favorite", "犬の散歩"], ["guild", "ニュージェネレーションズ"], ["guild_id", "100"], ["height", "165"], ["race", "ヒューマン"], ["self_text", ""], ["unit_id", 112501], ["unit_name", "Rin (IM@S CG)"], ["voice", "福原綾香"], ["voice_id", 0], ["weight", "44"]]
+          },
+          {
+            "id": 109801,
+            "old": [["age", "17"], ["birth_day", "2"], ["birth_month", "2"], ["blood_type", "?"], ["catch_copy", "毒舌系鬼姉メイド"], ["favorite", "読書"], ["guild", "？？？"], ["guild_id", ""], ["height", "154"], ["race", "鬼族"], ["self_text", ""], ["unit_id", 109801], ["unit_name", "Ram"], ["voice", "村川梨衣"], ["voice_id", 0], ["weight", "??"]],
+            "new": [["age", "-"], ["birth_day", "2"], ["birth_month", "2"], ["blood_type", "?"], ["catch_copy", "毒舌系鬼姉メイド"], ["favorite", "読書"], ["guild", "？？？"], ["guild_id", ""], ["height", "154"], ["race", "鬼族"], ["self_text", ""], ["unit_id", 109801], ["unit_name", "Ram"], ["voice", "村川梨衣"], ["voice_id", 0], ["weight", "??"]]
+          },
+          {
+            "id": 109701,
+            "old": [["age", "17"], ["birth_day", "2"], ["birth_month", "2"], ["blood_type", "?"], ["catch_copy", "鬼がかりの万能妹メイド"], ["favorite", "演劇鑑賞、詩文"], ["guild", "？？？"], ["guild_id", ""], ["height", "154"], ["race", "鬼族"], ["self_text", ""], ["unit_id", 109701], ["unit_name", "Rem"], ["voice", "水瀬いのり"], ["voice_id", 0], ["weight", "??"]],
+            "new": [["age", "-"], ["birth_day", "2"], ["birth_month", "2"], ["blood_type", "?"], ["catch_copy", "鬼がかりの万能妹メイド"], ["favorite", "演劇鑑賞、詩文"], ["guild", "？？？"], ["guild_id", ""], ["height", "154"], ["race", "鬼族"], ["self_text", ""], ["unit_id", 109701], ["unit_name", "Rem"], ["voice", "水瀬いのり"], ["voice_id", 0], ["weight", "??"]]
+          },
+          {
+            "id": 125101,
+            "old": [["age", "18"], ["birth_day", "1"], ["birth_month", "3"], ["blood_type", "AB"], ["catch_copy", "弱きを助け強きをくじく猫娘"], ["favorite", "猫とたわむれること"], ["guild", "メルクリウス財団"], ["guild_id", "12"], ["height", "158"], ["race", "獣人族"], ["self_text", "お金もうけの話なら、ぜひともあたしに\\n持ってくるにゃ！　稼げるなら１ルピだって\\n見逃さないのが、あたしの信条にゃ～♪"], ["unit_id", 125101], ["unit_name", "Tamaki (Cafe)"], ["voice", "沼倉愛美"], ["voice_id", 0], ["weight", "48"]],
+            "new": [["age", "19"], ["birth_day", "1"], ["birth_month", "3"], ["blood_type", "AB"], ["catch_copy", "弱きを助け強きをくじく猫娘"], ["favorite", "猫とたわむれること"], ["guild", "メルクリウス財団"], ["guild_id", "12"], ["height", "158"], ["race", "獣人族"], ["self_text", "お金もうけの話なら、ぜひともあたしに\\n持ってくるにゃ！　稼げるなら１ルピだって\\n見逃さないのが、あたしの信条にゃ～♪"], ["unit_id", 125101], ["unit_name", "Tamaki (Cafe)"], ["voice", "沼倉愛美"], ["voice_id", 0], ["weight", "48"]]
+          },
+          {
+            "id": 104601,
+            "old": [["age", "18"], ["birth_day", "1"], ["birth_month", "3"], ["blood_type", "AB"], ["catch_copy", "弱きを助け強きをくじく猫娘"], ["favorite", "猫とたわむれること"], ["guild", "メルクリウス財団"], ["guild_id", "12"], ["height", "158"], ["race", "獣人族"], ["self_text", "お金もうけの話なら、ぜひともあたしに\\n持ってくるにゃ！　稼げるなら１ルピだって\\n見逃さないのが、あたしの信条にゃ～♪"], ["unit_id", 104601], ["unit_name", "Tamaki"], ["voice", "沼倉愛美"], ["voice_id", 0], ["weight", "48"]],
+            "new": [["age", "19"], ["birth_day", "1"], ["birth_month", "3"], ["blood_type", "AB"], ["catch_copy", "弱きを助け強きをくじく猫娘"], ["favorite", "猫とたわむれること"], ["guild", "メルクリウス財団"], ["guild_id", "12"], ["height", "158"], ["race", "獣人族"], ["self_text", "お金もうけの話なら、ぜひともあたしに\\n持ってくるにゃ！　稼げるなら１ルピだって\\n見逃さないのが、あたしの信条にゃ～♪"], ["unit_id", 104601], ["unit_name", "Tamaki"], ["voice", "沼倉愛美"], ["voice_id", 0], ["weight", "48"]]
+          },
+          {
+            "id": 180801,
+            "old": [["age", "17"], ["birth_day", "-"], ["birth_month", "-"], ["blood_type", "-"], ["catch_copy", "勇気！　友情！　リリカルズ！"], ["favorite", "みんなで冒険すること"], ["guild", "リトルリリカル"], ["guild_id", "5"], ["height", "-"], ["race", "ヒューマン、獣人族、エルフ"], ["self_text", ""], ["unit_id", 180801], ["unit_name", "Misogi & Mimi & Kyoka"], ["voice", "諸星すみれ、日高里菜、小倉唯"], ["voice_id", 0], ["weight", "-"]],
+            "new": [["age", "-"], ["birth_day", "-"], ["birth_month", "-"], ["blood_type", "-"], ["catch_copy", "勇気！　友情！　リリカルズ！"], ["favorite", "みんなで冒険すること"], ["guild", "リトルリリカル"], ["guild_id", "5"], ["height", "-"], ["race", "ヒューマン、獣人族、エルフ"], ["self_text", ""], ["unit_id", 180801], ["unit_name", "Misogi & Mimi & Kyoka"], ["voice", "諸星すみれ、日高里菜、小倉唯"], ["voice_id", 0], ["weight", "-"]]
+          },
+          {
+            "id": 101601,
+            "old": [["age", "18"], ["birth_day", "10"], ["birth_month", "4"], ["blood_type", "O"], ["catch_copy", "天真爛漫で人気者のカリスマモデル"], ["favorite", "ファッション"], ["guild", "ルーセント学院"], ["guild_id", "14"], ["height", "167"], ["race", "魔族"], ["self_text", "ヒデサイ、ちょっす～！　うち、漢字と計算は\\nちょっち…てか、おに苦手なんだ～\\nでもでも、ファッションだったら任せて～！"], ["unit_id", 101601], ["unit_name", "Suzuna"], ["voice", "上坂すみれ"], ["voice_id", 0], ["weight", "48"]],
+            "new": [["age", "17"], ["birth_day", "10"], ["birth_month", "4"], ["blood_type", "O"], ["catch_copy", "天真爛漫で人気者のカリスマモデル"], ["favorite", "ファッション"], ["guild", "ルーセント学院"], ["guild_id", "14"], ["height", "167"], ["race", "魔族"], ["self_text", "ヒデサイ、ちょっす～！　うち、漢字と計算は\\nちょっち…てか、おに苦手なんだ～\\nでもでも、ファッションだったら任せて～！"], ["unit_id", 101601], ["unit_name", "Suzuna"], ["voice", "上坂すみれ"], ["voice_id", 0], ["weight", "48"]]
+          }
+        ]
+      }
+    },
+    "skill_action": {
+      "data_changes": {
+        "added": [
+          [["action_detail_1", 1], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 130101208], ["action_type", 4], ["action_value_1", 1.0], ["action_value_2", 0.5], ["action_value_3", 0.5], ["action_value_4", 0.15], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "自分のＨＰを{0}回復"], ["level_up_disp", "ＨＰ回復量+{0}"], ["target_area", 2], ["target_assignment", 2], ["target_count", 1], ["target_number", 0], ["target_range", 2160], ["target_type", 7]],
+          [["action_detail_1", 60], ["action_detail_2", 1], ["action_detail_3", 0], ["action_id", 130101202], ["action_type", 10], ["action_value_1", 1.0], ["action_value_2", 180.0], ["action_value_3", 0.0], ["action_value_4", 12.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "自分以外の味方全体の物理クリティカルを{0}アップ"], ["level_up_disp", ""], ["target_area", 3], ["target_assignment", 2], ["target_count", 99], ["target_number", 0], ["target_range", 2160], ["target_type", 34]],
+          [["action_detail_1", 10], ["action_detail_2", 1], ["action_detail_3", 0], ["action_id", 130101201], ["action_type", 10], ["action_value_1", 1.0], ["action_value_2", 32.0], ["action_value_3", 32.0], ["action_value_4", 12.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 1.0], ["class_id", 1], ["description", "自分以外の味方全体の物理攻撃力を{0}アップ"], ["level_up_disp", "物理攻撃力アップ+{0}"], ["target_area", 3], ["target_assignment", 2], ["target_count", 99], ["target_number", 0], ["target_range", 2160], ["target_type", 34]],
+          [["action_detail_1", 60], ["action_detail_2", 1], ["action_detail_3", 0], ["action_id", 130201204], ["action_type", 10], ["action_value_1", 1.0], ["action_value_2", 200.0], ["action_value_3", 0.0], ["action_value_4", 12.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "自分の物理クリティカルを{0}アップ"], ["level_up_disp", ""], ["target_area", 2], ["target_assignment", 2], ["target_count", 1], ["target_number", 0], ["target_range", 2160], ["target_type", 7]],
+          [["action_detail_1", 110], ["action_detail_2", 1], ["action_detail_3", 0], ["action_id", 130201205], ["action_type", 10], ["action_value_1", 1.0], ["action_value_2", 12.0], ["action_value_3", 0.0], ["action_value_4", 12.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 1.0], ["class_id", 1], ["description", "自分の物理クリダメを{0}％アップ"], ["level_up_disp", ""], ["target_area", 2], ["target_assignment", 2], ["target_count", 1], ["target_number", 0], ["target_range", 2160], ["target_type", 7]],
+          [["action_detail_1", 1], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 130001201], ["action_type", 1], ["action_value_1", 25.0], ["action_value_2", 25.0], ["action_value_3", 2.0], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "範囲内の敵に{0}の物理ダメージ"], ["level_up_disp", "物理ダメージ+{0}"], ["target_area", 1], ["target_assignment", 1], ["target_count", 99], ["target_number", 0], ["target_range", 500], ["target_type", 3]],
+          [["action_detail_1", 900], ["action_detail_2", 130201209], ["action_detail_3", 130201208], ["action_id", 130201207], ["action_type", 28], ["action_value_1", 1.0], ["action_value_2", 2.0], ["action_value_3", 0.0], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", ""], ["level_up_disp", ""], ["target_area", 2], ["target_assignment", 2], ["target_count", 1], ["target_number", 0], ["target_range", 2160], ["target_type", 7]],
+          [["action_detail_1", 10], ["action_detail_2", 1], ["action_detail_3", 0], ["action_id", 130201203], ["action_type", 10], ["action_value_1", 1.0], ["action_value_2", 50.0], ["action_value_3", 50.0], ["action_value_4", 12.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 1.0], ["class_id", 1], ["description", "自分の物理攻撃力を{0}アップ"], ["level_up_disp", "物理攻撃力アップ+{0}"], ["target_area", 2], ["target_assignment", 2], ["target_count", 1], ["target_number", 0], ["target_range", 2160], ["target_type", 7]],
+          [["action_detail_1", 1], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 130001202], ["action_type", 1], ["action_value_1", 25.0], ["action_value_2", 25.0], ["action_value_3", 2.0], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "範囲内の敵に{0}の物理ダメージ"], ["level_up_disp", "物理ダメージ+{0}"], ["target_area", 1], ["target_assignment", 1], ["target_count", 99], ["target_number", 0], ["target_range", 500], ["target_type", 3]],
+          [["action_detail_1", 1], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 130201206], ["action_type", 4], ["action_value_1", 1.0], ["action_value_2", 10.0], ["action_value_3", 10.0], ["action_value_4", 0.5], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "自分のＨＰを{0}回復"], ["level_up_disp", "ＨＰ回復量+{0}"], ["target_area", 2], ["target_assignment", 2], ["target_count", 1], ["target_number", 0], ["target_range", 2160], ["target_type", 7]],
+          [["action_detail_1", 21], ["action_detail_2", 1], ["action_detail_3", 0], ["action_id", 130001203], ["action_type", 10], ["action_value_1", 1.0], ["action_value_2", 0.4], ["action_value_3", 0.4], ["action_value_4", 12.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "範囲内の敵の物理防御力を{0}ダウン"], ["level_up_disp", "物理防御力ダウン+{0}"], ["target_area", 1], ["target_assignment", 1], ["target_count", 99], ["target_number", 0], ["target_range", 500], ["target_type", 3]],
+          [["action_detail_1", 1], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 130001204], ["action_type", 4], ["action_value_1", 1.0], ["action_value_2", 8.0], ["action_value_3", 8.0], ["action_value_4", 1.2], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "自分のＨＰを{0}回復"], ["level_up_disp", "ＨＰ回復量+{0}"], ["target_area", 1], ["target_assignment", 2], ["target_count", 1], ["target_number", 0], ["target_range", 0], ["target_type", 7]],
+          [["action_detail_1", 1], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 130201209], ["action_type", 16], ["action_value_1", 300.0], ["action_value_2", 0.0], ["action_value_3", 0.0], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "ＨＰが最大の場合、自分のＴＰを{0}回復"], ["level_up_disp", ""], ["target_area", 3], ["target_assignment", 2], ["target_count", 1], ["target_number", 0], ["target_range", 2160], ["target_type", 7]],
+          [["action_detail_1", 60], ["action_detail_2", 1], ["action_detail_3", 0], ["action_id", 130101207], ["action_type", 10], ["action_value_1", 1.0], ["action_value_2", 90.0], ["action_value_3", 0.0], ["action_value_4", 12.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "自分の物理クリティカルを{0}アップ"], ["level_up_disp", ""], ["target_area", 3], ["target_assignment", 2], ["target_count", 1], ["target_number", 0], ["target_range", 2160], ["target_type", 7]],
+          [["action_detail_1", 1], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 130001209], ["action_type", 1], ["action_value_1", 12.5], ["action_value_2", 12.5], ["action_value_3", 1.0], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "敵単体に{0}の物理ダメージ"], ["level_up_disp", "物理ダメージ+{0}"], ["target_area", 1], ["target_assignment", 1], ["target_count", 1], ["target_number", 0], ["target_range", 500], ["target_type", 45]],
+          [["action_detail_1", 193], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 130201201], ["action_type", 124], ["action_value_1", 0.0], ["action_value_2", 0.0], ["action_value_3", 8.0], ["action_value_4", 0.0], ["action_value_5", 3.0], ["action_value_6", 0.5], ["action_value_7", 0.0], ["class_id", 1], ["description", "味方単体に【味方バリアー♡】を付与"], ["level_up_disp", ""], ["target_area", 1], ["target_assignment", 2], ["target_count", 1], ["target_number", 99], ["target_range", 2160], ["target_type", 34]],
+          [["action_detail_1", 1], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 130201202], ["action_type", 4], ["action_value_1", 1.0], ["action_value_2", 4.0], ["action_value_3", 4.0], ["action_value_4", 0.3], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "味方単体のＨＰを{0}回復"], ["level_up_disp", "ＨＰ回復量+{0}"], ["target_area", 1], ["target_assignment", 2], ["target_count", 1], ["target_number", 99], ["target_range", 2160], ["target_type", 34]],
+          [["action_detail_1", 1], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 130101203], ["action_type", 4], ["action_value_1", 1.0], ["action_value_2", 1.0], ["action_value_3", 1.0], ["action_value_4", 0.3], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "自分以外の味方全体のＨＰを{0}回復"], ["level_up_disp", "ＨＰ回復量+{0}"], ["target_area", 3], ["target_assignment", 2], ["target_count", 99], ["target_number", 0], ["target_range", 2160], ["target_type", 34]],
+          [["action_detail_1", 1], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 130101204], ["action_type", 16], ["action_value_1", 150.0], ["action_value_2", 0.0], ["action_value_3", 0.0], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "自分以外の味方全体のＴＰを{0}回復"], ["level_up_disp", "ＴＰ回復量+{0}"], ["target_area", 3], ["target_assignment", 2], ["target_count", 99], ["target_number", 0], ["target_range", 2160], ["target_type", 34]],
+          [["action_detail_1", 110], ["action_detail_2", 1], ["action_detail_3", 0], ["action_id", 130101210], ["action_type", 10], ["action_value_1", 1.0], ["action_value_2", 3.0], ["action_value_3", 0.0], ["action_value_4", 12.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "自分の物理クリダメを{0}％アップ"], ["level_up_disp", ""], ["target_area", 2], ["target_assignment", 2], ["target_count", 1], ["target_number", 0], ["target_range", 2160], ["target_type", 7]],
+          [["action_detail_1", 180], ["action_detail_2", 1], ["action_detail_3", 0], ["action_id", 130001207], ["action_type", 10], ["action_value_1", 1.0], ["action_value_2", 5.0], ["action_value_3", 0.0], ["action_value_4", 180.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "自分が与える物理ダメージを{0}％アップ"], ["level_up_disp", ""], ["target_area", 2], ["target_assignment", 2], ["target_count", 1], ["target_number", 0], ["target_range", 2160], ["target_type", 7]],
+          [["action_detail_1", 10], ["action_detail_2", 1], ["action_detail_3", 0], ["action_id", 130101206], ["action_type", 10], ["action_value_1", 1.0], ["action_value_2", 16.0], ["action_value_3", 16.0], ["action_value_4", 12.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 1.0], ["class_id", 1], ["description", "自分の物理攻撃力を{0}アップ"], ["level_up_disp", "物理攻撃力アップ+{0}"], ["target_area", 3], ["target_assignment", 2], ["target_count", 1], ["target_number", 0], ["target_range", 2160], ["target_type", 7]],
+          [["action_detail_1", 1], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 130201208], ["action_type", 16], ["action_value_1", 80.0], ["action_value_2", 0.0], ["action_value_3", 0.0], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "自分のＴＰを{0}回復"], ["level_up_disp", ""], ["target_area", 3], ["target_assignment", 2], ["target_count", 1], ["target_number", 0], ["target_range", 2160], ["target_type", 7]],
+          [["action_detail_1", 1], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 130101209], ["action_type", 16], ["action_value_1", 75.0], ["action_value_2", 0.0], ["action_value_3", 0.0], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "自分のＴＰを{0}回復"], ["level_up_disp", "ＴＰ回復量+{0}"], ["target_area", 2], ["target_assignment", 2], ["target_count", 1], ["target_number", 0], ["target_range", 2160], ["target_type", 7]],
+          [["action_detail_1", 1001], ["action_detail_2", 130001209], ["action_detail_3", 0], ["action_id", 130001208], ["action_type", 28], ["action_value_1", 1.0], ["action_value_2", 0.0], ["action_value_3", 0.0], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", ""], ["level_up_disp", ""], ["target_area", 1], ["target_assignment", 2], ["target_count", 1], ["target_number", 0], ["target_range", 0], ["target_type", 7]],
+          [["action_detail_1", 1001], ["action_detail_2", 130001206], ["action_detail_3", 0], ["action_id", 130001205], ["action_type", 28], ["action_value_1", 1.0], ["action_value_2", 0.0], ["action_value_3", 0.0], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", ""], ["level_up_disp", ""], ["target_area", 1], ["target_assignment", 2], ["target_count", 1], ["target_number", 0], ["target_range", 0], ["target_type", 7]],
+          [["action_detail_1", 10], ["action_detail_2", 1], ["action_detail_3", 0], ["action_id", 130001206], ["action_type", 10], ["action_value_1", 1.0], ["action_value_2", 15.0], ["action_value_3", 15.0], ["action_value_4", 180.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "自分の物理攻撃力を{0}アップ"], ["level_up_disp", "物理攻撃力アップ+{0}"], ["target_area", 2], ["target_assignment", 2], ["target_count", 1], ["target_number", 0], ["target_range", 2160], ["target_type", 7]],
+          [["action_detail_1", 110], ["action_detail_2", 1], ["action_detail_3", 0], ["action_id", 130101205], ["action_type", 10], ["action_value_1", 1.0], ["action_value_2", 6.0], ["action_value_3", 0.0], ["action_value_4", 12.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "自分以外の味方全体の物理クリダメを{0}％アップ"], ["level_up_disp", ""], ["target_area", 3], ["target_assignment", 2], ["target_count", 99], ["target_number", 0], ["target_range", 2160], ["target_type", 34]]
+        ],
+        "modified": [
+          {
+            "id": 130200204,
+            "old": [["action_detail_1", 110], ["action_detail_2", 1], ["action_detail_3", 0], ["action_id", 130200204], ["action_type", 10], ["action_value_1", 1.0], ["action_value_2", 7.0], ["action_value_3", 0.0], ["action_value_4", 12.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 1.0], ["class_id", 1], ["description", "自分の物理攻撃クリティカル時のダメージを{0}％アップ"], ["level_up_disp", ""], ["target_area", 2], ["target_assignment", 2], ["target_count", 1], ["target_number", 0], ["target_range", 2160], ["target_type", 7]],
+            "new": [["action_detail_1", 110], ["action_detail_2", 1], ["action_detail_3", 0], ["action_id", 130200204], ["action_type", 10], ["action_value_1", 1.0], ["action_value_2", 7.0], ["action_value_3", 0.0], ["action_value_4", 12.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 1.0], ["class_id", 1], ["description", "自分の物理クリダメを{0}％アップ"], ["level_up_disp", ""], ["target_area", 2], ["target_assignment", 2], ["target_count", 1], ["target_number", 0], ["target_range", 2160], ["target_type", 7]]
+          }
+        ]
+      }
+    },
+    "dome_mission_data": {
+      "data_changes": {
+        "added": [
+          [["condition_num", 15], ["condition_value_1", 15], ["description", "★を累計15個獲得しよう"], ["disp_group", 5], ["mission_condition", 4101], ["mission_id", 101700005], ["mission_reward_id", 101705], ["schedule_id", 1017], ["unknown_8", 0]],
+          [["condition_num", 18], ["condition_value_1", 18], ["description", "★を累計18個獲得しよう"], ["disp_group", 6], ["mission_condition", 4101], ["mission_id", 101700006], ["mission_reward_id", 101706], ["schedule_id", 1017], ["unknown_8", 0]],
+          [["condition_num", 6], ["condition_value_1", 6], ["description", "★を累計6個獲得しよう"], ["disp_group", 2], ["mission_condition", 4101], ["mission_id", 101700002], ["mission_reward_id", 101702], ["schedule_id", 1017], ["unknown_8", 0]],
+          [["condition_num", 36], ["condition_value_1", 36], ["description", "★を累計36個獲得しよう"], ["disp_group", 12], ["mission_condition", 4101], ["mission_id", 101700012], ["mission_reward_id", 101712], ["schedule_id", 1017], ["unknown_8", 1]],
+          [["condition_num", 27], ["condition_value_1", 27], ["description", "★を累計27個獲得しよう"], ["disp_group", 9], ["mission_condition", 4101], ["mission_id", 101700009], ["mission_reward_id", 101709], ["schedule_id", 1017], ["unknown_8", 1]],
+          [["condition_num", 12], ["condition_value_1", 12], ["description", "★を累計12個獲得しよう"], ["disp_group", 4], ["mission_condition", 4101], ["mission_id", 101700004], ["mission_reward_id", 101704], ["schedule_id", 1017], ["unknown_8", 0]],
+          [["condition_num", 42], ["condition_value_1", 42], ["description", "★を累計42個獲得しよう"], ["disp_group", 14], ["mission_condition", 4101], ["mission_id", 101700014], ["mission_reward_id", 101714], ["schedule_id", 1017], ["unknown_8", 0]],
+          [["condition_num", 45], ["condition_value_1", 45], ["description", "★を累計45個獲得しよう"], ["disp_group", 15], ["mission_condition", 4101], ["mission_id", 101700015], ["mission_reward_id", 101715], ["schedule_id", 1017], ["unknown_8", 1]],
+          [["condition_num", 51], ["condition_value_1", 51], ["description", "★を累計51個獲得しよう"], ["disp_group", 17], ["mission_condition", 4101], ["mission_id", 101700017], ["mission_reward_id", 101717], ["schedule_id", 1017], ["unknown_8", 1]],
+          [["condition_num", 24], ["condition_value_1", 24], ["description", "★を累計24個獲得しよう"], ["disp_group", 8], ["mission_condition", 4101], ["mission_id", 101700008], ["mission_reward_id", 101708], ["schedule_id", 1017], ["unknown_8", 0]],
+          [["condition_num", 3], ["condition_value_1", 3], ["description", "★を累計3個獲得しよう"], ["disp_group", 1], ["mission_condition", 4101], ["mission_id", 101700001], ["mission_reward_id", 101701], ["schedule_id", 1017], ["unknown_8", 0]],
+          [["condition_num", 9], ["condition_value_1", 9], ["description", "★を累計9個獲得しよう"], ["disp_group", 3], ["mission_condition", 4101], ["mission_id", 101700003], ["mission_reward_id", 101703], ["schedule_id", 1017], ["unknown_8", 1]],
+          [["condition_num", 30], ["condition_value_1", 30], ["description", "★を累計30個獲得しよう"], ["disp_group", 10], ["mission_condition", 4101], ["mission_id", 101700010], ["mission_reward_id", 101710], ["schedule_id", 1017], ["unknown_8", 0]],
+          [["condition_num", 48], ["condition_value_1", 48], ["description", "★を累計48個獲得しよう"], ["disp_group", 16], ["mission_condition", 4101], ["mission_id", 101700016], ["mission_reward_id", 101716], ["schedule_id", 1017], ["unknown_8", 0]],
+          [["condition_num", 21], ["condition_value_1", 21], ["description", "★を累計21個獲得しよう"], ["disp_group", 7], ["mission_condition", 4101], ["mission_id", 101700007], ["mission_reward_id", 101707], ["schedule_id", 1017], ["unknown_8", 1]],
+          [["condition_num", 39], ["condition_value_1", 39], ["description", "★を累計39個獲得しよう"], ["disp_group", 13], ["mission_condition", 4101], ["mission_id", 101700013], ["mission_reward_id", 101713], ["schedule_id", 1017], ["unknown_8", 0]],
+          [["condition_num", 33], ["condition_value_1", 33], ["description", "★を累計33個獲得しよう"], ["disp_group", 11], ["mission_condition", 4101], ["mission_id", 101700011], ["mission_reward_id", 101711], ["schedule_id", 1017], ["unknown_8", 0]],
+          [["condition_num", 54], ["condition_value_1", 54], ["description", "★を累計54個獲得しよう"], ["disp_group", 18], ["mission_condition", 4101], ["mission_id", 101700018], ["mission_reward_id", 101718], ["schedule_id", 1017], ["unknown_8", 0]]
+        ]
+      }
+    },
+    "unit_data": {
+      "data_changes": {
+        "modified": [
+          {
+            "id": 136001,
+            "old": [["atk_type", 1], ["comment", "【物理】後衛で、喪われた光を求めてもがく元『六凶』。\\n敵のＵＢを遅延する【遮絶の操糸】や、味方単体のＵＢを\\n連続発動可能にする【賦活の糸】を戦場に張り巡らせる。"], ["cutin1_star6", 136001], ["cutin2_star6", 0], ["cutin_1", 136001], ["cutin_2", 0], ["end_time", "2025/11/03 11:59:59"], ["exskill_display", 0], ["guild_id", 0], ["is_collab", 0], ["is_limited", 1], ["kana", "あらくね"], ["motion_type", 0], ["move_speed", 450], ["normal_atk_cast_time", 2.09], ["only_disp_owned", 0], ["original_unit_id", 0], ["prefab_id", 136001], ["prefab_id_battle", 0], ["rarity", 3], ["se_type", 11], ["search_area_width", 732], ["start_time", "2025/10/31 12:00:00"], ["unit_id", 136001], ["unit_name", "Arache"]],
+            "new": [["atk_type", 1], ["comment", "【物理】後衛で、喪われた光を求めてもがく元『六凶』。\\n敵のＵＢを遅延する【遮絶の操糸】や、味方単体のＵＢを\\n連続発動可能にする【賦活の糸】を戦場に張り巡らせる。"], ["cutin1_star6", 136001], ["cutin2_star6", 0], ["cutin_1", 136001], ["cutin_2", 0], ["end_time", "2025/11/03 11:59:59"], ["exskill_display", 0], ["guild_id", 0], ["is_collab", 0], ["is_limited", 1], ["kana", "あらくね"], ["motion_type", 0], ["move_speed", 450], ["normal_atk_cast_time", 2.09], ["only_disp_owned", 0], ["original_unit_id", 0], ["prefab_id", 136001], ["prefab_id_battle", 0], ["rarity", 3], ["se_type", 11], ["search_area_width", 732], ["start_time", "2025/10/31 12:00:00"], ["unit_id", 136001], ["unit_name", "Arachne"]]
+          }
+        ]
+      }
+    },
+    "unique_equipment_craft": {
+      "data_changes": {
+        "added": [
+          [["consume_num_1", 50], ["consume_num_10", 0], ["consume_num_2", 3], ["consume_num_3", 0], ["consume_num_4", 0], ["consume_num_5", 0], ["consume_num_6", 0], ["consume_num_7", 0], ["consume_num_8", 0], ["consume_num_9", 0], ["crafted_cost", 1000000], ["equip_id", 133011], ["item_id_1", 31301], ["item_id_10", 0], ["item_id_2", 140000], ["item_id_3", 0], ["item_id_4", 0], ["item_id_5", 0], ["item_id_6", 0], ["item_id_7", 0], ["item_id_8", 0], ["item_id_9", 0], ["reward_type_1", 2], ["reward_type_10", 0], ["reward_type_2", 4], ["reward_type_3", 0], ["reward_type_4", 0], ["reward_type_5", 0], ["reward_type_6", 0], ["reward_type_7", 0], ["reward_type_8", 0], ["reward_type_9", 0]],
+          [["consume_num_1", 50], ["consume_num_10", 0], ["consume_num_2", 3], ["consume_num_3", 0], ["consume_num_4", 0], ["consume_num_5", 0], ["consume_num_6", 0], ["consume_num_7", 0], ["consume_num_8", 0], ["consume_num_9", 0], ["crafted_cost", 1000000], ["equip_id", 133021], ["item_id_1", 31302], ["item_id_10", 0], ["item_id_2", 140000], ["item_id_3", 0], ["item_id_4", 0], ["item_id_5", 0], ["item_id_6", 0], ["item_id_7", 0], ["item_id_8", 0], ["item_id_9", 0], ["reward_type_1", 2], ["reward_type_10", 0], ["reward_type_2", 4], ["reward_type_3", 0], ["reward_type_4", 0], ["reward_type_5", 0], ["reward_type_6", 0], ["reward_type_7", 0], ["reward_type_8", 0], ["reward_type_9", 0]],
+          [["consume_num_1", 50], ["consume_num_10", 0], ["consume_num_2", 3], ["consume_num_3", 0], ["consume_num_4", 0], ["consume_num_5", 0], ["consume_num_6", 0], ["consume_num_7", 0], ["consume_num_8", 0], ["consume_num_9", 0], ["crafted_cost", 1000000], ["equip_id", 133001], ["item_id_1", 31300], ["item_id_10", 0], ["item_id_2", 140000], ["item_id_3", 0], ["item_id_4", 0], ["item_id_5", 0], ["item_id_6", 0], ["item_id_7", 0], ["item_id_8", 0], ["item_id_9", 0], ["reward_type_1", 2], ["reward_type_10", 0], ["reward_type_2", 4], ["reward_type_3", 0], ["reward_type_4", 0], ["reward_type_5", 0], ["reward_type_6", 0], ["reward_type_7", 0], ["reward_type_8", 0], ["reward_type_9", 0]]
+        ]
+      }
+    },
+    "unit_skill_data": {
+      "data_changes": {
+        "modified": [
+          {
+            "id": 130001,
+            "old": [["ex_skill_1", 1300501], ["ex_skill_2", 0], ["ex_skill_3", 0], ["ex_skill_4", 0], ["ex_skill_5", 0], ["ex_skill_evolution_1", 1300511], ["ex_skill_evolution_2", 0], ["ex_skill_evolution_3", 0], ["ex_skill_evolution_4", 0], ["ex_skill_evolution_5", 0], ["main_skill_1", 1300002], ["main_skill_10", 0], ["main_skill_2", 1300003], ["main_skill_3", 0], ["main_skill_4", 0], ["main_skill_5", 0], ["main_skill_6", 0], ["main_skill_7", 0], ["main_skill_8", 0], ["main_skill_9", 0], ["main_skill_evolution_1", 0], ["main_skill_evolution_2", 0], ["sp_skill_1", 1300101], ["sp_skill_2", 0], ["sp_skill_3", 0], ["sp_skill_4", 0], ["sp_skill_5", 0], ["sp_skill_evolution_1", 0], ["sp_skill_evolution_2", 0], ["sp_union_burst", 0], ["union_burst", 1300001], ["union_burst_evolution", 0], ["unit_id", 130001]],
+            "new": [["ex_skill_1", 1300501], ["ex_skill_2", 0], ["ex_skill_3", 0], ["ex_skill_4", 0], ["ex_skill_5", 0], ["ex_skill_evolution_1", 1300511], ["ex_skill_evolution_2", 0], ["ex_skill_evolution_3", 0], ["ex_skill_evolution_4", 0], ["ex_skill_evolution_5", 0], ["main_skill_1", 1300002], ["main_skill_10", 0], ["main_skill_2", 1300003], ["main_skill_3", 0], ["main_skill_4", 0], ["main_skill_5", 0], ["main_skill_6", 0], ["main_skill_7", 0], ["main_skill_8", 0], ["main_skill_9", 0], ["main_skill_evolution_1", 1300012], ["main_skill_evolution_2", 0], ["sp_skill_1", 1300101], ["sp_skill_2", 0], ["sp_skill_3", 0], ["sp_skill_4", 0], ["sp_skill_5", 0], ["sp_skill_evolution_1", 0], ["sp_skill_evolution_2", 0], ["sp_union_burst", 0], ["union_burst", 1300001], ["union_burst_evolution", 0], ["unit_id", 130001]]
+          },
+          {
+            "id": 130201,
+            "old": [["ex_skill_1", 1302501], ["ex_skill_2", 0], ["ex_skill_3", 0], ["ex_skill_4", 0], ["ex_skill_5", 0], ["ex_skill_evolution_1", 1302511], ["ex_skill_evolution_2", 0], ["ex_skill_evolution_3", 0], ["ex_skill_evolution_4", 0], ["ex_skill_evolution_5", 0], ["main_skill_1", 1302002], ["main_skill_10", 0], ["main_skill_2", 1302003], ["main_skill_3", 0], ["main_skill_4", 0], ["main_skill_5", 0], ["main_skill_6", 0], ["main_skill_7", 0], ["main_skill_8", 0], ["main_skill_9", 0], ["main_skill_evolution_1", 0], ["main_skill_evolution_2", 0], ["sp_skill_1", 0], ["sp_skill_2", 0], ["sp_skill_3", 0], ["sp_skill_4", 0], ["sp_skill_5", 0], ["sp_skill_evolution_1", 0], ["sp_skill_evolution_2", 0], ["sp_union_burst", 0], ["union_burst", 1302001], ["union_burst_evolution", 0], ["unit_id", 130201]],
+            "new": [["ex_skill_1", 1302501], ["ex_skill_2", 0], ["ex_skill_3", 0], ["ex_skill_4", 0], ["ex_skill_5", 0], ["ex_skill_evolution_1", 1302511], ["ex_skill_evolution_2", 0], ["ex_skill_evolution_3", 0], ["ex_skill_evolution_4", 0], ["ex_skill_evolution_5", 0], ["main_skill_1", 1302002], ["main_skill_10", 0], ["main_skill_2", 1302003], ["main_skill_3", 0], ["main_skill_4", 0], ["main_skill_5", 0], ["main_skill_6", 0], ["main_skill_7", 0], ["main_skill_8", 0], ["main_skill_9", 0], ["main_skill_evolution_1", 1302012], ["main_skill_evolution_2", 0], ["sp_skill_1", 0], ["sp_skill_2", 0], ["sp_skill_3", 0], ["sp_skill_4", 0], ["sp_skill_5", 0], ["sp_skill_evolution_1", 0], ["sp_skill_evolution_2", 0], ["sp_union_burst", 0], ["union_burst", 1302001], ["union_burst_evolution", 0], ["unit_id", 130201]]
+          },
+          {
+            "id": 130101,
+            "old": [["ex_skill_1", 1301501], ["ex_skill_2", 0], ["ex_skill_3", 0], ["ex_skill_4", 0], ["ex_skill_5", 0], ["ex_skill_evolution_1", 1301511], ["ex_skill_evolution_2", 0], ["ex_skill_evolution_3", 0], ["ex_skill_evolution_4", 0], ["ex_skill_evolution_5", 0], ["main_skill_1", 1301002], ["main_skill_10", 0], ["main_skill_2", 1301003], ["main_skill_3", 0], ["main_skill_4", 0], ["main_skill_5", 0], ["main_skill_6", 0], ["main_skill_7", 0], ["main_skill_8", 0], ["main_skill_9", 0], ["main_skill_evolution_1", 0], ["main_skill_evolution_2", 0], ["sp_skill_1", 1301101], ["sp_skill_2", 0], ["sp_skill_3", 0], ["sp_skill_4", 0], ["sp_skill_5", 0], ["sp_skill_evolution_1", 0], ["sp_skill_evolution_2", 0], ["sp_union_burst", 0], ["union_burst", 1301001], ["union_burst_evolution", 0], ["unit_id", 130101]],
+            "new": [["ex_skill_1", 1301501], ["ex_skill_2", 0], ["ex_skill_3", 0], ["ex_skill_4", 0], ["ex_skill_5", 0], ["ex_skill_evolution_1", 1301511], ["ex_skill_evolution_2", 0], ["ex_skill_evolution_3", 0], ["ex_skill_evolution_4", 0], ["ex_skill_evolution_5", 0], ["main_skill_1", 1301002], ["main_skill_10", 0], ["main_skill_2", 1301003], ["main_skill_3", 0], ["main_skill_4", 0], ["main_skill_5", 0], ["main_skill_6", 0], ["main_skill_7", 0], ["main_skill_8", 0], ["main_skill_9", 0], ["main_skill_evolution_1", 1301012], ["main_skill_evolution_2", 0], ["sp_skill_1", 1301101], ["sp_skill_2", 0], ["sp_skill_3", 0], ["sp_skill_4", 0], ["sp_skill_5", 0], ["sp_skill_evolution_1", 0], ["sp_skill_evolution_2", 0], ["sp_union_burst", 0], ["union_burst", 1301001], ["union_burst_evolution", 0], ["unit_id", 130101]]
+          }
+        ]
+      }
+    },
+    "event_story_data": {
+      "data_changes": {
+        "modified": [
+          {
+            "id": 5154,
+            "old": [["disp_order", 1], ["end_time", "2030/04/24 14:59:59"], ["start_time", "2024/09/25 15:00:00"], ["story_group_id", 5154], ["story_type", 5], ["thumbnail_id", 0], ["title", "ノゾミの一日店長記　\\nこちらアルケス錬金堂"], ["value", 10154]],
+            "new": [["disp_order", 1], ["end_time", "2030/04/24 14:59:59"], ["start_time", "2024/09/25 15:00:00"], ["story_group_id", 5154], ["story_type", 5], ["thumbnail_id", 0], ["title", "ノゾミの一日店長記　\\nこちらアルケス錬金堂"], ["value", 10173]]
+          }
+        ]
+      }
+    },
+    "skill_data": {
+      "data_changes": {
+        "added": [
+          [["action_1", 130001201], ["action_10", 0], ["action_2", 130001202], ["action_3", 130001203], ["action_4", 130001204], ["action_5", 130001205], ["action_6", 130001206], ["action_7", 130001207], ["action_8", 130001208], ["action_9", 130001209], ["boss_ub_cool_time", 0.0], ["depend_action_1", 0], ["depend_action_10", 0], ["depend_action_2", 0], ["depend_action_3", 130001202], ["depend_action_4", 0], ["depend_action_5", 0], ["depend_action_6", 0], ["depend_action_7", 130001206], ["depend_action_8", 0], ["depend_action_9", 0], ["description", "前方範囲内の敵すべてに物理大ダメージを２回与え、物理防御力を小ダウンさせる。さらに、自分のＨＰを大回復する。このスキルがクリティカルした場合、自分の物理攻撃力を中アップ、物理攻撃のダメージを小アップし、追加で前方範囲内の最も物理防御力の低い敵１キャラに物理中ダメージを与える。"], ["icon_type", 2001], ["name", "チェーンエッジ+"], ["skill_area_width", 0], ["skill_cast_time", 1.05], ["skill_id", 1300012], ["skill_type", 0]],
+          [["action_1", 130201201], ["action_10", 0], ["action_2", 130201202], ["action_3", 130201203], ["action_4", 130201204], ["action_5", 130201205], ["action_6", 130201206], ["action_7", 130201207], ["action_8", 130201208], ["action_9", 130201209], ["boss_ub_cool_time", 0.0], ["depend_action_1", 0], ["depend_action_10", 0], ["depend_action_2", 0], ["depend_action_3", 0], ["depend_action_4", 0], ["depend_action_5", 0], ["depend_action_6", 0], ["depend_action_7", 0], ["depend_action_8", 0], ["depend_action_9", 0], ["description", "前方の自分以外の一番前の味方１キャラに【味方バリアー♡】を付与してＨＰを小回復する。【味方バリアー♡】が付与されている間、自分への攻撃を【味方バリアー♡】が付与されている味方１キャラが代わりに受ける。さらに自分の物理攻撃力と物理クリティカルを特大アップ、物理攻撃クリティカル時のダメージを小アップして、ＨＰを中回復、ＴＰを小回復する。ＨＰが最大の場合、ＴＰの回復量がアップする。"], ["icon_type", 2003], ["name", "かばって♡味方シールド+"], ["skill_area_width", 0], ["skill_cast_time", 1.05], ["skill_id", 1302012], ["skill_type", 0]],
+          [["action_1", 130101201], ["action_10", 130101210], ["action_2", 130101202], ["action_3", 130101203], ["action_4", 130101204], ["action_5", 130101205], ["action_6", 130101206], ["action_7", 130101207], ["action_8", 130101208], ["action_9", 130101209], ["boss_ub_cool_time", 0.0], ["depend_action_1", 0], ["depend_action_10", 0], ["depend_action_2", 0], ["depend_action_3", 0], ["depend_action_4", 0], ["depend_action_5", 0], ["depend_action_6", 0], ["depend_action_7", 0], ["depend_action_8", 0], ["depend_action_9", 0], ["description", "自分以外の味方全体の物理攻撃力と物理クリティカルを特大アップ、物理攻撃クリティカル時のダメージを小アップさせ、ＨＰとＴＰを中回復させる。さらに、自分の物理攻撃力を中アップ、物理クリティカルを大アップ、物理攻撃クリティカル時のダメージを小アップし、ＨＰとＴＰを小回復する。"], ["icon_type", 2003], ["name", "カレー、いかがです？+"], ["skill_area_width", 0], ["skill_cast_time", 1.05], ["skill_id", 1301012], ["skill_type", 0]]
+        ]
+      }
+    },
+    "story_data": {
+      "data_changes": {
+        "added": [
+          [["condition_free_flag", 0], ["disp_order", 1], ["end_time", "2030/12/17 14:59:59"], ["gojuon_order", 830112], ["order", 4], ["start_time", "2015/04/01 15:00:00"], ["story_group_id", 4014], ["story_type", 4], ["thumbnail_id", 0], ["title", "レイドイベント"], ["value", 0]]
+        ],
+        "modified": [
+          {
+            "id": 4001,
+            "old": [["condition_free_flag", 0], ["disp_order", 1], ["end_time", "2030/12/17 14:59:59"], ["gojuon_order", 118211], ["order", 5], ["start_time", "2015/04/01 15:00:00"], ["story_group_id", 4001], ["story_type", 4], ["thumbnail_id", 0], ["title", "ギルドハウス"], ["value", 0]],
+            "new": [["condition_free_flag", 0], ["disp_order", 1], ["end_time", "2030/12/17 14:59:59"], ["gojuon_order", 118211], ["order", 7], ["start_time", "2015/04/01 15:00:00"], ["story_group_id", 4001], ["story_type", 4], ["thumbnail_id", 0], ["title", "ギルドハウス"], ["value", 0]]
+          },
+          {
+            "id": 9001,
+            "old": [["condition_free_flag", 0], ["disp_order", 0], ["end_time", "2030/12/17 14:59:59"], ["gojuon_order", 40211], ["order", 6], ["start_time", "2015/04/01 15:00:00"], ["story_group_id", 9001], ["story_type", 9], ["thumbnail_id", 0], ["title", "王都終末決戦"], ["value", 0]],
+            "new": [["condition_free_flag", 0], ["disp_order", 0], ["end_time", "2030/12/17 14:59:59"], ["gojuon_order", 40211], ["order", 8], ["start_time", "2015/04/01 15:00:00"], ["story_group_id", 9001], ["story_type", 9], ["thumbnail_id", 0], ["title", "王都終末決戦"], ["value", 0]]
+          },
+          {
+            "id": 4010,
+            "old": [["condition_free_flag", 0], ["disp_order", 1], ["end_time", "2030/12/17 14:59:59"], ["gojuon_order", 5000], ["order", 7], ["start_time", "2015/04/01 15:00:00"], ["story_group_id", 4010], ["story_type", 4], ["thumbnail_id", 0], ["title", "バースデーストーリー"], ["value", 0]],
+            "new": [["condition_free_flag", 0], ["disp_order", 1], ["end_time", "2030/12/17 14:59:59"], ["gojuon_order", 5000], ["order", 9], ["start_time", "2015/04/01 15:00:00"], ["story_group_id", 4010], ["story_type", 4], ["thumbnail_id", 0], ["title", "バースデーストーリー"], ["value", 0]]
+          },
+          {
+            "id": 9010,
+            "old": [["condition_free_flag", 0], ["disp_order", 0], ["end_time", "2030/12/17 14:59:59"], ["gojuon_order", 40211], ["order", 6], ["start_time", "2015/04/01 15:00:00"], ["story_group_id", 9010], ["story_type", 4], ["thumbnail_id", 0], ["title", "7th Anniversary"], ["value", 0]],
+            "new": [["condition_free_flag", 0], ["disp_order", 0], ["end_time", "2030/12/17 14:59:59"], ["gojuon_order", 40211], ["order", 8], ["start_time", "2015/04/01 15:00:00"], ["story_group_id", 9010], ["story_type", 4], ["thumbnail_id", 0], ["title", "7th Anniversary"], ["value", 0]]
+          },
+          {
+            "id": 4008,
+            "old": [["condition_free_flag", 0], ["disp_order", 1], ["end_time", "2030/12/17 14:59:59"], ["gojuon_order", 3411], ["order", 3], ["start_time", "2015/04/01 15:00:00"], ["story_group_id", 4008], ["story_type", 4], ["thumbnail_id", 0], ["title", "アドベンチャー"], ["value", 0]],
+            "new": [["condition_free_flag", 0], ["disp_order", 1], ["end_time", "2030/12/17 14:59:59"], ["gojuon_order", 3411], ["order", 5], ["start_time", "2015/04/01 15:00:00"], ["story_group_id", 4008], ["story_type", 4], ["thumbnail_id", 0], ["title", "アドベンチャー"], ["value", 0]]
+          },
+          {
+            "id": 4011,
+            "old": [["condition_free_flag", 0], ["disp_order", 1], ["end_time", "2030/12/17 14:59:59"], ["gojuon_order", 8111], ["order", 4], ["start_time", "2015/04/01 15:00:00"], ["story_group_id", 4011], ["story_type", 4], ["thumbnail_id", 0], ["title", "バトルスタジアム"], ["value", 0]],
+            "new": [["condition_free_flag", 0], ["disp_order", 1], ["end_time", "2030/12/17 14:59:59"], ["gojuon_order", 8111], ["order", 6], ["start_time", "2015/04/01 15:00:00"], ["story_group_id", 4011], ["story_type", 4], ["thumbnail_id", 0], ["title", "バトルスタジアム"], ["value", 0]]
+          },
+          {
+            "id": 9005,
+            "old": [["condition_free_flag", 0], ["disp_order", 0], ["end_time", "2030/12/17 14:59:59"], ["gojuon_order", 40211], ["order", 6], ["start_time", "2015/04/01 15:00:00"], ["story_group_id", 9005], ["story_type", 4], ["thumbnail_id", 0], ["title", "4.5 Year Anniversary"], ["value", 0]],
+            "new": [["condition_free_flag", 0], ["disp_order", 0], ["end_time", "2030/12/17 14:59:59"], ["gojuon_order", 40211], ["order", 8], ["start_time", "2015/04/01 15:00:00"], ["story_group_id", 9005], ["story_type", 4], ["thumbnail_id", 0], ["title", "4.5 Year Anniversary"], ["value", 0]]
+          },
+          {
+            "id": 9012,
+            "old": [["condition_free_flag", 0], ["disp_order", 0], ["end_time", "2030/12/17 14:59:59"], ["gojuon_order", 40211], ["order", 6], ["start_time", "2015/04/01 15:00:00"], ["story_group_id", 9012], ["story_type", 4], ["thumbnail_id", 0], ["title", "7.5 Year Anniversary"], ["value", 0]],
+            "new": [["condition_free_flag", 0], ["disp_order", 0], ["end_time", "2030/12/17 14:59:59"], ["gojuon_order", 40211], ["order", 8], ["start_time", "2015/04/01 15:00:00"], ["story_group_id", 9012], ["story_type", 4], ["thumbnail_id", 0], ["title", "7.5 Year Anniversary"], ["value", 0]]
+          },
+          {
+            "id": 4007,
+            "old": [["condition_free_flag", 0], ["disp_order", 1], ["end_time", "2030/12/17 14:59:59"], ["gojuon_order", 503411], ["order", 6], ["start_time", "2015/04/01 15:00:00"], ["story_group_id", 4007], ["story_type", 4], ["thumbnail_id", 0], ["title", "バトルオブランドソル"], ["value", 0]],
+            "new": [["condition_free_flag", 0], ["disp_order", 1], ["end_time", "2030/12/17 14:59:59"], ["gojuon_order", 503411], ["order", 8], ["start_time", "2015/04/01 15:00:00"], ["story_group_id", 4007], ["story_type", 4], ["thumbnail_id", 0], ["title", "バトルオブランドソル"], ["value", 0]]
+          },
+          {
+            "id": 9008,
+            "old": [["condition_free_flag", 0], ["disp_order", 0], ["end_time", "2030/12/17 14:59:59"], ["gojuon_order", 40211], ["order", 6], ["start_time", "2015/04/01 15:00:00"], ["story_group_id", 9008], ["story_type", 4], ["thumbnail_id", 0], ["title", "6th Anniversary"], ["value", 0]],
+            "new": [["condition_free_flag", 0], ["disp_order", 0], ["end_time", "2030/12/17 14:59:59"], ["gojuon_order", 40211], ["order", 8], ["start_time", "2015/04/01 15:00:00"], ["story_group_id", 9008], ["story_type", 4], ["thumbnail_id", 0], ["title", "6th Anniversary"], ["value", 0]]
+          },
+          {
+            "id": 9002,
+            "old": [["condition_free_flag", 0], ["disp_order", 0], ["end_time", "2030/12/17 14:59:59"], ["gojuon_order", 40211], ["order", 6], ["start_time", "2015/04/01 15:00:00"], ["story_group_id", 9002], ["story_type", 4], ["thumbnail_id", 0], ["title", "3rd Anniversary"], ["value", 0]],
+            "new": [["condition_free_flag", 0], ["disp_order", 0], ["end_time", "2030/12/17 14:59:59"], ["gojuon_order", 40211], ["order", 8], ["start_time", "2015/04/01 15:00:00"], ["story_group_id", 9002], ["story_type", 4], ["thumbnail_id", 0], ["title", "3rd Anniversary"], ["value", 0]]
+          },
+          {
+            "id": 4013,
+            "old": [["condition_free_flag", 0], ["disp_order", 1], ["end_time", "2030/12/17 14:59:59"], ["gojuon_order", 830111], ["order", 4], ["start_time", "2015/04/01 15:00:00"], ["story_group_id", 4013], ["story_type", 4], ["thumbnail_id", 0], ["title", "黎明界ラビリンス"], ["value", 0]],
+            "new": [["condition_free_flag", 0], ["disp_order", 1], ["end_time", "2030/12/17 14:59:59"], ["gojuon_order", 830111], ["order", 6], ["start_time", "2015/04/01 15:00:00"], ["story_group_id", 4013], ["story_type", 4], ["thumbnail_id", 0], ["title", "黎明界ラビリンス"], ["value", 0]]
+          },
+          {
+            "id": 9009,
+            "old": [["condition_free_flag", 0], ["disp_order", 0], ["end_time", "2030/12/17 14:59:59"], ["gojuon_order", 40211], ["order", 6], ["start_time", "2015/04/01 15:00:00"], ["story_group_id", 9009], ["story_type", 4], ["thumbnail_id", 0], ["title", "6.5 Year Anniversary"], ["value", 0]],
+            "new": [["condition_free_flag", 0], ["disp_order", 0], ["end_time", "2030/12/17 14:59:59"], ["gojuon_order", 40211], ["order", 8], ["start_time", "2015/04/01 15:00:00"], ["story_group_id", 9009], ["story_type", 4], ["thumbnail_id", 0], ["title", "6.5 Year Anniversary"], ["value", 0]]
+          },
+          {
+            "id": 4006,
+            "old": [["condition_free_flag", 0], ["disp_order", 1], ["end_time", "2030/12/17 14:59:59"], ["gojuon_order", 845411], ["order", 6], ["start_time", "2015/04/01 15:00:00"], ["story_group_id", 4006], ["story_type", 4], ["thumbnail_id", 0], ["title", "ロボリマ来襲！"], ["value", 0]],
+            "new": [["condition_free_flag", 0], ["disp_order", 1], ["end_time", "2030/12/17 14:59:59"], ["gojuon_order", 845411], ["order", 8], ["start_time", "2015/04/01 15:00:00"], ["story_group_id", 4006], ["story_type", 4], ["thumbnail_id", 0], ["title", "ロボリマ来襲！"], ["value", 0]]
+          },
+          {
+            "id": 9006,
+            "old": [["condition_free_flag", 0], ["disp_order", 0], ["end_time", "2030/12/17 14:59:59"], ["gojuon_order", 40211], ["order", 6], ["start_time", "2015/04/01 15:00:00"], ["story_group_id", 9006], ["story_type", 4], ["thumbnail_id", 0], ["title", "5th Anniversary"], ["value", 0]],
+            "new": [["condition_free_flag", 0], ["disp_order", 0], ["end_time", "2030/12/17 14:59:59"], ["gojuon_order", 40211], ["order", 8], ["start_time", "2015/04/01 15:00:00"], ["story_group_id", 9006], ["story_type", 4], ["thumbnail_id", 0], ["title", "5th Anniversary"], ["value", 0]]
+          },
+          {
+            "id": 4003,
+            "old": [["condition_free_flag", 0], ["disp_order", 1], ["end_time", "2030/12/17 14:59:59"], ["gojuon_order", 309411], ["order", 3], ["start_time", "2015/04/01 15:00:00"], ["story_group_id", 4003], ["story_type", 4], ["thumbnail_id", 0], ["title", "ダンジョン"], ["value", 0]],
+            "new": [["condition_free_flag", 0], ["disp_order", 1], ["end_time", "2030/12/17 14:59:59"], ["gojuon_order", 309411], ["order", 5], ["start_time", "2015/04/01 15:00:00"], ["story_group_id", 4003], ["story_type", 4], ["thumbnail_id", 0], ["title", "ダンジョン"], ["value", 0]]
+          },
+          {
+            "id": 9007,
+            "old": [["condition_free_flag", 0], ["disp_order", 0], ["end_time", "2030/12/17 14:59:59"], ["gojuon_order", 40211], ["order", 6], ["start_time", "2015/04/01 15:00:00"], ["story_group_id", 9007], ["story_type", 4], ["thumbnail_id", 0], ["title", "5.5 Year Anniversary"], ["value", 0]],
+            "new": [["condition_free_flag", 0], ["disp_order", 0], ["end_time", "2030/12/17 14:59:59"], ["gojuon_order", 40211], ["order", 8], ["start_time", "2015/04/01 15:00:00"], ["story_group_id", 9007], ["story_type", 4], ["thumbnail_id", 0], ["title", "5.5 Year Anniversary"], ["value", 0]]
+          },
+          {
+            "id": 9004,
+            "old": [["condition_free_flag", 0], ["disp_order", 0], ["end_time", "2030/12/17 14:59:59"], ["gojuon_order", 40211], ["order", 6], ["start_time", "2015/04/01 15:00:00"], ["story_group_id", 9004], ["story_type", 4], ["thumbnail_id", 0], ["title", "4th Anniversary"], ["value", 0]],
+            "new": [["condition_free_flag", 0], ["disp_order", 0], ["end_time", "2030/12/17 14:59:59"], ["gojuon_order", 40211], ["order", 8], ["start_time", "2015/04/01 15:00:00"], ["story_group_id", 9004], ["story_type", 4], ["thumbnail_id", 0], ["title", "4th Anniversary"], ["value", 0]]
+          },
+          {
+            "id": 4002,
+            "old": [["condition_free_flag", 0], ["disp_order", 1], ["end_time", "2030/12/17 14:59:59"], ["gojuon_order", 8111], ["order", 4], ["start_time", "2015/04/01 15:00:00"], ["story_group_id", 4002], ["story_type", 4], ["thumbnail_id", 0], ["title", "アリーナ"], ["value", 0]],
+            "new": [["condition_free_flag", 0], ["disp_order", 1], ["end_time", "2030/12/17 14:59:59"], ["gojuon_order", 8111], ["order", 6], ["start_time", "2015/04/01 15:00:00"], ["story_group_id", 4002], ["story_type", 4], ["thumbnail_id", 0], ["title", "アリーナ"], ["value", 0]]
+          }
+        ]
+      }
+    },
+    "dome_mission_reward_data": {
+      "data_changes": {
+        "added": [
+          [["id", 522], ["mission_reward_id", 101718], ["reward_id", 90008], ["reward_num", 2000], ["reward_type", 2]],
+          [["id", 513], ["mission_reward_id", 101713], ["reward_id", 94002], ["reward_num", 1000000], ["reward_type", 12]],
+          [["id", 512], ["mission_reward_id", 101712], ["reward_id", 25001], ["reward_num", 9], ["reward_type", 2]],
+          [["id", 495], ["mission_reward_id", 101703], ["reward_id", 25001], ["reward_num", 12], ["reward_type", 2]],
+          [["id", 517], ["mission_reward_id", 101716], ["reward_id", 94002], ["reward_num", 1000000], ["reward_type", 12]],
+          [["id", 521], ["mission_reward_id", 101718], ["reward_id", 94002], ["reward_num", 2000000], ["reward_type", 12]],
+          [["id", 519], ["mission_reward_id", 101717], ["reward_id", 91002], ["reward_num", 40], ["reward_type", 8]],
+          [["id", 509], ["mission_reward_id", 101710], ["reward_id", 20004], ["reward_num", 400], ["reward_type", 2]],
+          [["id", 508], ["mission_reward_id", 101710], ["reward_id", 94002], ["reward_num", 1000000], ["reward_type", 12]],
+          [["id", 515], ["mission_reward_id", 101714], ["reward_id", 90008], ["reward_num", 1500], ["reward_type", 2]],
+          [["id", 505], ["mission_reward_id", 101708], ["reward_id", 23003], ["reward_num", 200], ["reward_type", 2]],
+          [["id", 499], ["mission_reward_id", 101705], ["reward_id", 23003], ["reward_num", 150], ["reward_type", 2]],
+          [["id", 520], ["mission_reward_id", 101717], ["reward_id", 90008], ["reward_num", 1500], ["reward_type", 2]],
+          [["id", 498], ["mission_reward_id", 101705], ["reward_id", 90008], ["reward_num", 1000], ["reward_type", 2]],
+          [["id", 502], ["mission_reward_id", 101707], ["reward_id", 94002], ["reward_num", 1000000], ["reward_type", 12]],
+          [["id", 493], ["mission_reward_id", 101702], ["reward_id", 90008], ["reward_num", 1000], ["reward_type", 2]],
+          [["id", 511], ["mission_reward_id", 101712], ["reward_id", 91002], ["reward_num", 40], ["reward_type", 8]],
+          [["id", 501], ["mission_reward_id", 101707], ["reward_id", 91002], ["reward_num", 40], ["reward_type", 8]],
+          [["id", 497], ["mission_reward_id", 101704], ["reward_id", 20004], ["reward_num", 300], ["reward_type", 2]],
+          [["id", 507], ["mission_reward_id", 101709], ["reward_id", 25001], ["reward_num", 10], ["reward_type", 2]],
+          [["id", 492], ["mission_reward_id", 101701], ["reward_id", 20004], ["reward_num", 300], ["reward_type", 2]],
+          [["id", 494], ["mission_reward_id", 101702], ["reward_id", 23003], ["reward_num", 150], ["reward_type", 2]],
+          [["id", 503], ["mission_reward_id", 101707], ["reward_id", 20004], ["reward_num", 300], ["reward_type", 2]],
+          [["id", 514], ["mission_reward_id", 101713], ["reward_id", 20004], ["reward_num", 400], ["reward_type", 2]],
+          [["id", 510], ["mission_reward_id", 101711], ["reward_id", 90008], ["reward_num", 1500], ["reward_type", 2]],
+          [["id", 506], ["mission_reward_id", 101709], ["reward_id", 41000], ["reward_num", 1], ["reward_type", 2]],
+          [["id", 504], ["mission_reward_id", 101708], ["reward_id", 90008], ["reward_num", 1000], ["reward_type", 2]],
+          [["id", 491], ["mission_reward_id", 101701], ["reward_id", 94002], ["reward_num", 3000000], ["reward_type", 12]],
+          [["id", 500], ["mission_reward_id", 101706], ["reward_id", 25001], ["reward_num", 10], ["reward_type", 2]],
+          [["id", 516], ["mission_reward_id", 101715], ["reward_id", 41000], ["reward_num", 1], ["reward_type", 2]],
+          [["id", 496], ["mission_reward_id", 101704], ["reward_id", 94002], ["reward_num", 1000000], ["reward_type", 12]],
+          [["id", 518], ["mission_reward_id", 101716], ["reward_id", 20004], ["reward_num", 500], ["reward_type", 2]]
+        ]
+      }
+    },
+    "dome_schedule_data": {
+      "data_changes": {
+        "added": [
+          [["close_time", "2025/11/18 14:59:59"], ["count_start_time", "2025/11/13 20:59:59"], ["end_time", "2025/11/14 20:59:59"], ["schedule_id", 1017], ["start_time", "2025/11/10 12:00:00"]]
+        ]
+      }
+    },
+    "hatsune_schedule": {
+      "data_changes": {
+        "added": [
+          [["backgroud_pos_x", 0], ["backgroud_pos_y", 0], ["backgroud_size_x", 0], ["backgroud_size_y", 0], ["background", 0], ["banner_unit_id", 0], ["close_time", "2030/12/30 12:00:00"], ["count_start_time", "2030/12/30 12:00:00"], ["end_time", "2030/12/30 12:00:00"], ["event_id", 10173], ["original_event_id", 10154], ["que_id", "0"], ["series_event_id", 0], ["sheet_id", "0"], ["start_time", "2030/12/30 12:00:00"], ["teaser_dialog_type", 0], ["teaser_time", "2025/11/10 15:00:00"]]
+        ]
+      }
+    },
+    "unit_unique_equipment": {
+      "data_changes": {
+        "added": [
+          [["equip_id", 133011], ["equip_slot", 1], ["unit_id", 130101]],
+          [["equip_id", 133021], ["equip_slot", 1], ["unit_id", 130201]],
+          [["equip_id", 133001], ["equip_slot", 1], ["unit_id", 130001]]
+        ]
+      }
+    },
+    "unique_equip_enhance_rate": {
+      "data_changes": {
+        "added": [
+          [["accuracy", 0.0], ["atk", 4.25], ["def", 0.0], ["dodge", 0.0], ["energy_recovery_rate", 0.0], ["energy_reduce_rate", 0.0], ["equipment_id", 133021], ["hp", 0.0], ["hp_recovery_rate", 0.0], ["id", 1330211], ["life_steal", 0.0], ["magic_critical", 0.0], ["magic_def", 0.0], ["magic_penetrate", 0.0], ["magic_str", 0.0], ["max_lv", -1], ["min_lv", 261], ["physical_critical", 0.0], ["physical_penetrate", 0.0], ["wave_energy_recovery", 0.0], ["wave_hp_recovery", 0.0]],
+          [["accuracy", 0.0], ["atk", 0.0], ["def", 0.0], ["dodge", 0.0], ["energy_recovery_rate", 0.05], ["energy_reduce_rate", 0.0], ["equipment_id", 133001], ["hp", 30.0], ["hp_recovery_rate", 0.0], ["id", 1330010], ["life_steal", 0.0], ["magic_critical", 0.0], ["magic_def", 0.0], ["magic_penetrate", 0.0], ["magic_str", 0.0], ["max_lv", 260], ["min_lv", 2], ["physical_critical", 1.5], ["physical_penetrate", 0.0], ["wave_energy_recovery", 0.0], ["wave_hp_recovery", 0.0]],
+          [["accuracy", 0.0], ["atk", 3.0], ["def", 0.0], ["dodge", 0.0], ["energy_recovery_rate", 0.0], ["energy_reduce_rate", 0.0], ["equipment_id", 133011], ["hp", 0.0], ["hp_recovery_rate", 0.0], ["id", 1330110], ["life_steal", 0.0], ["magic_critical", 0.0], ["magic_def", 0.0], ["magic_penetrate", 0.0], ["magic_str", 0.0], ["max_lv", -1], ["min_lv", 2], ["physical_critical", 0.0], ["physical_penetrate", 0.0], ["wave_energy_recovery", 1.5], ["wave_hp_recovery", 0.0]],
+          [["accuracy", 0.0], ["atk", 0.0], ["def", 0.0], ["dodge", 0.0], ["energy_recovery_rate", 0.0], ["energy_reduce_rate", 0.0], ["equipment_id", 133001], ["hp", 32.1], ["hp_recovery_rate", 0.0], ["id", 1330011], ["life_steal", 0.0], ["magic_critical", 0.0], ["magic_def", 0.0], ["magic_penetrate", 0.0], ["magic_str", 0.0], ["max_lv", -1], ["min_lv", 261], ["physical_critical", 1.5], ["physical_penetrate", 0.0], ["wave_energy_recovery", 0.0], ["wave_hp_recovery", 0.0]],
+          [["accuracy", 0.0], ["atk", 4.0], ["def", 0.0], ["dodge", 0.0], ["energy_recovery_rate", 0.05], ["energy_reduce_rate", 0.0], ["equipment_id", 133021], ["hp", 0.0], ["hp_recovery_rate", 0.0], ["id", 1330210], ["life_steal", 0.0], ["magic_critical", 0.0], ["magic_def", 0.0], ["magic_penetrate", 0.0], ["magic_str", 0.0], ["max_lv", 260], ["min_lv", 2], ["physical_critical", 0.0], ["physical_penetrate", 0.0], ["wave_energy_recovery", 0.0], ["wave_hp_recovery", 0.0]]
+        ]
+      }
+    },
+    "dome_quest_reward": {
+      "data_changes": {
+        "added": [
+          [["quest_id", 1017003], ["reward_id_1", 91002], ["reward_id_2", 94002], ["reward_id_3", 90008], ["reward_id_4", 25021], ["reward_id_5", 25013], ["reward_num_1", 10], ["reward_num_2", 500000], ["reward_num_3", 200], ["reward_num_4", 125], ["reward_num_5", 1000], ["reward_type_1", 8], ["reward_type_2", 12], ["reward_type_3", 2], ["reward_type_4", 2], ["reward_type_5", 2]],
+          [["quest_id", 1017010], ["reward_id_1", 91002], ["reward_id_2", 94002], ["reward_id_3", 90008], ["reward_id_4", 25001], ["reward_id_5", 25015], ["reward_num_1", 10], ["reward_num_2", 500000], ["reward_num_3", 200], ["reward_num_4", 10], ["reward_num_5", 1000], ["reward_type_1", 8], ["reward_type_2", 12], ["reward_type_3", 2], ["reward_type_4", 2], ["reward_type_5", 2]],
+          [["quest_id", 1017004], ["reward_id_1", 91002], ["reward_id_2", 94002], ["reward_id_3", 90008], ["reward_id_4", 25021], ["reward_id_5", 25014], ["reward_num_1", 10], ["reward_num_2", 500000], ["reward_num_3", 200], ["reward_num_4", 125], ["reward_num_5", 1000], ["reward_type_1", 8], ["reward_type_2", 12], ["reward_type_3", 2], ["reward_type_4", 2], ["reward_type_5", 2]],
+          [["quest_id", 1017001], ["reward_id_1", 91002], ["reward_id_2", 94002], ["reward_id_3", 90008], ["reward_id_4", 25021], ["reward_id_5", 25011], ["reward_num_1", 10], ["reward_num_2", 500000], ["reward_num_3", 200], ["reward_num_4", 125], ["reward_num_5", 1000], ["reward_type_1", 8], ["reward_type_2", 12], ["reward_type_3", 2], ["reward_type_4", 2], ["reward_type_5", 2]],
+          [["quest_id", 1017005], ["reward_id_1", 91002], ["reward_id_2", 94002], ["reward_id_3", 90008], ["reward_id_4", 25021], ["reward_id_5", 25015], ["reward_num_1", 10], ["reward_num_2", 500000], ["reward_num_3", 200], ["reward_num_4", 125], ["reward_num_5", 1000], ["reward_type_1", 8], ["reward_type_2", 12], ["reward_type_3", 2], ["reward_type_4", 2], ["reward_type_5", 2]],
+          [["quest_id", 1017014], ["reward_id_1", 91002], ["reward_id_2", 94002], ["reward_id_3", 90008], ["reward_id_4", 25021], ["reward_id_5", 25014], ["reward_num_1", 10], ["reward_num_2", 500000], ["reward_num_3", 200], ["reward_num_4", 125], ["reward_num_5", 1000], ["reward_type_1", 8], ["reward_type_2", 12], ["reward_type_3", 2], ["reward_type_4", 2], ["reward_type_5", 2]],
+          [["quest_id", 1017007], ["reward_id_1", 91002], ["reward_id_2", 94002], ["reward_id_3", 90008], ["reward_id_4", 25021], ["reward_id_5", 25012], ["reward_num_1", 10], ["reward_num_2", 500000], ["reward_num_3", 200], ["reward_num_4", 125], ["reward_num_5", 1000], ["reward_type_1", 8], ["reward_type_2", 12], ["reward_type_3", 2], ["reward_type_4", 2], ["reward_type_5", 2]],
+          [["quest_id", 1017018], ["reward_id_1", 91002], ["reward_id_2", 94002], ["reward_id_3", 90008], ["reward_id_4", 25021], ["reward_id_5", 0], ["reward_num_1", 10], ["reward_num_2", 500000], ["reward_num_3", 200], ["reward_num_4", 125], ["reward_num_5", 0], ["reward_type_1", 8], ["reward_type_2", 12], ["reward_type_3", 2], ["reward_type_4", 2], ["reward_type_5", 0]],
+          [["quest_id", 1017002], ["reward_id_1", 91002], ["reward_id_2", 94002], ["reward_id_3", 90008], ["reward_id_4", 25021], ["reward_id_5", 25012], ["reward_num_1", 10], ["reward_num_2", 500000], ["reward_num_3", 200], ["reward_num_4", 125], ["reward_num_5", 1000], ["reward_type_1", 8], ["reward_type_2", 12], ["reward_type_3", 2], ["reward_type_4", 2], ["reward_type_5", 2]],
+          [["quest_id", 1017006], ["reward_id_1", 91002], ["reward_id_2", 94002], ["reward_id_3", 90008], ["reward_id_4", 25021], ["reward_id_5", 25011], ["reward_num_1", 10], ["reward_num_2", 500000], ["reward_num_3", 200], ["reward_num_4", 125], ["reward_num_5", 1000], ["reward_type_1", 8], ["reward_type_2", 12], ["reward_type_3", 2], ["reward_type_4", 2], ["reward_type_5", 2]],
+          [["quest_id", 1017017], ["reward_id_1", 91002], ["reward_id_2", 94002], ["reward_id_3", 90008], ["reward_id_4", 25021], ["reward_id_5", 0], ["reward_num_1", 10], ["reward_num_2", 500000], ["reward_num_3", 200], ["reward_num_4", 125], ["reward_num_5", 0], ["reward_type_1", 8], ["reward_type_2", 12], ["reward_type_3", 2], ["reward_type_4", 2], ["reward_type_5", 0]],
+          [["quest_id", 1017015], ["reward_id_1", 91002], ["reward_id_2", 94002], ["reward_id_3", 90008], ["reward_id_4", 25021], ["reward_id_5", 25015], ["reward_num_1", 10], ["reward_num_2", 500000], ["reward_num_3", 200], ["reward_num_4", 125], ["reward_num_5", 1000], ["reward_type_1", 8], ["reward_type_2", 12], ["reward_type_3", 2], ["reward_type_4", 2], ["reward_type_5", 2]],
+          [["quest_id", 1017008], ["reward_id_1", 91002], ["reward_id_2", 94002], ["reward_id_3", 90008], ["reward_id_4", 25021], ["reward_id_5", 25013], ["reward_num_1", 10], ["reward_num_2", 500000], ["reward_num_3", 200], ["reward_num_4", 125], ["reward_num_5", 1000], ["reward_type_1", 8], ["reward_type_2", 12], ["reward_type_3", 2], ["reward_type_4", 2], ["reward_type_5", 2]],
+          [["quest_id", 1017009], ["reward_id_1", 91002], ["reward_id_2", 94002], ["reward_id_3", 90008], ["reward_id_4", 25021], ["reward_id_5", 25014], ["reward_num_1", 10], ["reward_num_2", 500000], ["reward_num_3", 200], ["reward_num_4", 125], ["reward_num_5", 1000], ["reward_type_1", 8], ["reward_type_2", 12], ["reward_type_3", 2], ["reward_type_4", 2], ["reward_type_5", 2]],
+          [["quest_id", 1017011], ["reward_id_1", 91002], ["reward_id_2", 94002], ["reward_id_3", 90008], ["reward_id_4", 25021], ["reward_id_5", 25011], ["reward_num_1", 10], ["reward_num_2", 500000], ["reward_num_3", 200], ["reward_num_4", 125], ["reward_num_5", 1000], ["reward_type_1", 8], ["reward_type_2", 12], ["reward_type_3", 2], ["reward_type_4", 2], ["reward_type_5", 2]],
+          [["quest_id", 1017013], ["reward_id_1", 91002], ["reward_id_2", 94002], ["reward_id_3", 90008], ["reward_id_4", 25021], ["reward_id_5", 25013], ["reward_num_1", 10], ["reward_num_2", 500000], ["reward_num_3", 200], ["reward_num_4", 125], ["reward_num_5", 1000], ["reward_type_1", 8], ["reward_type_2", 12], ["reward_type_3", 2], ["reward_type_4", 2], ["reward_type_5", 2]],
+          [["quest_id", 1017012], ["reward_id_1", 91002], ["reward_id_2", 94002], ["reward_id_3", 90008], ["reward_id_4", 25021], ["reward_id_5", 25012], ["reward_num_1", 10], ["reward_num_2", 500000], ["reward_num_3", 200], ["reward_num_4", 125], ["reward_num_5", 1000], ["reward_type_1", 8], ["reward_type_2", 12], ["reward_type_3", 2], ["reward_type_4", 2], ["reward_type_5", 2]],
+          [["quest_id", 1017016], ["reward_id_1", 91002], ["reward_id_2", 94002], ["reward_id_3", 90008], ["reward_id_4", 25021], ["reward_id_5", 0], ["reward_num_1", 10], ["reward_num_2", 500000], ["reward_num_3", 200], ["reward_num_4", 125], ["reward_num_5", 0], ["reward_type_1", 8], ["reward_type_2", 12], ["reward_type_3", 2], ["reward_type_4", 2], ["reward_type_5", 0]]
+        ]
+      }
+    },
+    "dome_quest_data": {
+      "data_changes": {
+        "added": [
+          [["background", 100003], ["battle_effect_id_1", 6], ["battle_effect_id_2", 24], ["battle_effect_id_3", 0], ["battle_effect_id_4", 0], ["battle_effect_id_5", 0], ["bg_position", 50], ["challenge_id_1", 100302], ["challenge_id_2", 100305], ["challenge_id_3", 100101], ["difficulty", 3], ["display_unit_id", 136001], ["limit_time", 90], ["quest_id", 1017016], ["round_id", 16], ["schedule_id", 1017], ["start_time", "2025/11/12 12:00:00"], ["unit_enhance_id_1", 111602], ["unit_enhance_id_2", 111602], ["unit_enhance_id_3", 111604], ["unit_enhance_id_4", 111606], ["unit_enhance_id_5", 111606], ["unit_id_1", 100701], ["unit_id_2", 108901], ["unit_id_3", 113401], ["unit_id_4", 136001], ["unit_id_5", 123001]],
+          [["background", 100003], ["battle_effect_id_1", 13], ["battle_effect_id_2", 0], ["battle_effect_id_3", 0], ["battle_effect_id_4", 0], ["battle_effect_id_5", 0], ["bg_position", 50], ["challenge_id_1", 100203], ["challenge_id_2", 100303], ["challenge_id_3", 100305], ["difficulty", 1], ["display_unit_id", 100101], ["limit_time", 90], ["quest_id", 1017001], ["round_id", 1], ["schedule_id", 1017], ["start_time", "2025/11/10 12:00:00"], ["unit_enhance_id_1", 100101], ["unit_enhance_id_2", 100101], ["unit_enhance_id_3", 100101], ["unit_enhance_id_4", 100101], ["unit_enhance_id_5", 100101], ["unit_id_1", 100101], ["unit_id_2", 125001], ["unit_id_3", 100301], ["unit_id_4", 105901], ["unit_id_5", 100201]],
+          [["background", 100003], ["battle_effect_id_1", 13], ["battle_effect_id_2", 0], ["battle_effect_id_3", 0], ["battle_effect_id_4", 0], ["battle_effect_id_5", 0], ["bg_position", 50], ["challenge_id_1", 100304], ["challenge_id_2", 100101], ["challenge_id_3", 100102], ["difficulty", 1], ["display_unit_id", 100501], ["limit_time", 90], ["quest_id", 1017003], ["round_id", 3], ["schedule_id", 1017], ["start_time", "2025/11/10 12:00:00"], ["unit_enhance_id_1", 100301], ["unit_enhance_id_2", 100301], ["unit_enhance_id_3", 100301], ["unit_enhance_id_4", 100301], ["unit_enhance_id_5", 100301], ["unit_id_1", 100501], ["unit_id_2", 103701], ["unit_id_3", 107001], ["unit_id_4", 123001], ["unit_id_5", 118601]],
+          [["background", 100003], ["battle_effect_id_1", 14], ["battle_effect_id_2", 0], ["battle_effect_id_3", 0], ["battle_effect_id_4", 0], ["battle_effect_id_5", 0], ["bg_position", 50], ["challenge_id_1", 100202], ["challenge_id_2", 100302], ["challenge_id_3", 100304], ["difficulty", 1], ["display_unit_id", 118501], ["limit_time", 90], ["quest_id", 1017004], ["round_id", 4], ["schedule_id", 1017], ["start_time", "2025/11/10 12:00:00"], ["unit_enhance_id_1", 100401], ["unit_enhance_id_2", 100401], ["unit_enhance_id_3", 100401], ["unit_enhance_id_4", 100402], ["unit_enhance_id_5", 100402], ["unit_id_1", 100701], ["unit_id_2", 103401], ["unit_id_3", 101801], ["unit_id_4", 118501], ["unit_id_5", 129001]],
+          [["background", 100003], ["battle_effect_id_1", 13], ["battle_effect_id_2", 14], ["battle_effect_id_3", 0], ["battle_effect_id_4", 0], ["battle_effect_id_5", 0], ["bg_position", 50], ["challenge_id_1", 100303], ["challenge_id_2", 100101], ["challenge_id_3", 100102], ["difficulty", 1], ["display_unit_id", 180301], ["limit_time", 90], ["quest_id", 1017008], ["round_id", 8], ["schedule_id", 1017], ["start_time", "2025/11/10 12:00:00"], ["unit_enhance_id_1", 100801], ["unit_enhance_id_2", 100801], ["unit_enhance_id_3", 100801], ["unit_enhance_id_4", 100801], ["unit_enhance_id_5", 100801], ["unit_id_1", 105401], ["unit_id_2", 106601], ["unit_id_3", 180301], ["unit_id_4", 102601], ["unit_id_5", 110301]],
+          [["background", 100003], ["battle_effect_id_1", 10], ["battle_effect_id_2", 3], ["battle_effect_id_3", 28], ["battle_effect_id_4", 0], ["battle_effect_id_5", 0], ["bg_position", 50], ["challenge_id_1", 100202], ["challenge_id_2", 100205], ["challenge_id_3", 100101], ["difficulty", 2], ["display_unit_id", 129601], ["limit_time", 90], ["quest_id", 1017012], ["round_id", 12], ["schedule_id", 1017], ["start_time", "2025/11/10 12:00:00"], ["unit_enhance_id_1", 101202], ["unit_enhance_id_2", 101202], ["unit_enhance_id_3", 101206], ["unit_enhance_id_4", 101206], ["unit_enhance_id_5", 101206], ["unit_id_1", 100501], ["unit_id_2", 105501], ["unit_id_3", 129601], ["unit_id_4", 123001], ["unit_id_5", 129001]],
+          [["background", 100003], ["battle_effect_id_1", 14], ["battle_effect_id_2", 0], ["battle_effect_id_3", 0], ["battle_effect_id_4", 0], ["battle_effect_id_5", 0], ["bg_position", 50], ["challenge_id_1", 100202], ["challenge_id_2", 100302], ["challenge_id_3", 100304], ["difficulty", 1], ["display_unit_id", 104601], ["limit_time", 90], ["quest_id", 1017006], ["round_id", 6], ["schedule_id", 1017], ["start_time", "2025/11/10 12:00:00"], ["unit_enhance_id_1", 100601], ["unit_enhance_id_2", 100601], ["unit_enhance_id_3", 100601], ["unit_enhance_id_4", 100601], ["unit_enhance_id_5", 100601], ["unit_id_1", 104501], ["unit_id_2", 104601], ["unit_id_3", 102601], ["unit_id_4", 107701], ["unit_id_5", 108301]],
+          [["background", 100003], ["battle_effect_id_1", 13], ["battle_effect_id_2", 0], ["battle_effect_id_3", 0], ["battle_effect_id_4", 0], ["battle_effect_id_5", 0], ["bg_position", 50], ["challenge_id_1", 100303], ["challenge_id_2", 100101], ["challenge_id_3", 100102], ["difficulty", 1], ["display_unit_id", 118001], ["limit_time", 90], ["quest_id", 1017005], ["round_id", 5], ["schedule_id", 1017], ["start_time", "2025/11/10 12:00:00"], ["unit_enhance_id_1", 100501], ["unit_enhance_id_2", 100501], ["unit_enhance_id_3", 100501], ["unit_enhance_id_4", 100502], ["unit_enhance_id_5", 100501], ["unit_id_1", 101401], ["unit_id_2", 112201], ["unit_id_3", 118001], ["unit_id_4", 118501], ["unit_id_5", 100801]],
+          [["background", 100003], ["battle_effect_id_1", 12], ["battle_effect_id_2", 30], ["battle_effect_id_3", 0], ["battle_effect_id_4", 0], ["battle_effect_id_5", 0], ["bg_position", 50], ["challenge_id_1", 100203], ["challenge_id_2", 100307], ["challenge_id_3", 100303], ["difficulty", 2], ["display_unit_id", 113901], ["limit_time", 90], ["quest_id", 1017014], ["round_id", 14], ["schedule_id", 1017], ["start_time", "2025/11/11 12:00:00"], ["unit_enhance_id_1", 101404], ["unit_enhance_id_2", 101402], ["unit_enhance_id_3", 101406], ["unit_enhance_id_4", 101406], ["unit_enhance_id_5", 101404], ["unit_id_1", 113901], ["unit_id_2", 105401], ["unit_id_3", 135601], ["unit_id_4", 135901], ["unit_id_5", 110301]],
+          [["background", 100003], ["battle_effect_id_1", 4], ["battle_effect_id_2", 22], ["battle_effect_id_3", 0], ["battle_effect_id_4", 0], ["battle_effect_id_5", 0], ["bg_position", 50], ["challenge_id_1", 100202], ["challenge_id_2", 100205], ["challenge_id_3", 100101], ["difficulty", 2], ["display_unit_id", 106601], ["limit_time", 90], ["quest_id", 1017015], ["round_id", 15], ["schedule_id", 1017], ["start_time", "2025/11/11 12:00:00"], ["unit_enhance_id_1", 101505], ["unit_enhance_id_2", 101502], ["unit_enhance_id_3", 101502], ["unit_enhance_id_4", 101505], ["unit_enhance_id_5", 101504], ["unit_id_1", 114701], ["unit_id_2", 106601], ["unit_id_3", 103401], ["unit_id_4", 123501], ["unit_id_5", 112201]],
+          [["background", 100003], ["battle_effect_id_1", 8], ["battle_effect_id_2", 1], ["battle_effect_id_3", 26], ["battle_effect_id_4", 0], ["battle_effect_id_5", 0], ["bg_position", 50], ["challenge_id_1", 100302], ["challenge_id_2", 100101], ["challenge_id_3", 100102], ["difficulty", 2], ["display_unit_id", 131001], ["limit_time", 90], ["quest_id", 1017010], ["round_id", 10], ["schedule_id", 1017], ["start_time", "2025/11/10 12:00:00"], ["unit_enhance_id_1", 101005], ["unit_enhance_id_2", 101006], ["unit_enhance_id_3", 101005], ["unit_enhance_id_4", 101005], ["unit_enhance_id_5", 101002], ["unit_id_1", 130901], ["unit_id_2", 135401], ["unit_id_3", 107001], ["unit_id_4", 131001], ["unit_id_5", 100201]],
+          [["background", 100003], ["battle_effect_id_1", 9], ["battle_effect_id_2", 2], ["battle_effect_id_3", 27], ["battle_effect_id_4", 0], ["battle_effect_id_5", 0], ["bg_position", 50], ["challenge_id_1", 100202], ["challenge_id_2", 100302], ["challenge_id_3", 100303], ["difficulty", 2], ["display_unit_id", 103301], ["limit_time", 90], ["quest_id", 1017011], ["round_id", 11], ["schedule_id", 1017], ["start_time", "2025/11/10 12:00:00"], ["unit_enhance_id_1", 101101], ["unit_enhance_id_2", 101102], ["unit_enhance_id_3", 101105], ["unit_enhance_id_4", 101106], ["unit_enhance_id_5", 101102], ["unit_id_1", 103301], ["unit_id_2", 103401], ["unit_id_3", 126101], ["unit_id_4", 123001], ["unit_id_5", 101201]],
+          [["background", 100003], ["battle_effect_id_1", 11], ["battle_effect_id_2", 29], ["battle_effect_id_3", 0], ["battle_effect_id_4", 0], ["battle_effect_id_5", 0], ["bg_position", 50], ["challenge_id_1", 100302], ["challenge_id_2", 100101], ["challenge_id_3", 100102], ["difficulty", 2], ["display_unit_id", 105201], ["limit_time", 90], ["quest_id", 1017013], ["round_id", 13], ["schedule_id", 1017], ["start_time", "2025/11/11 12:00:00"], ["unit_enhance_id_1", 101302], ["unit_enhance_id_2", 101302], ["unit_enhance_id_3", 101302], ["unit_enhance_id_4", 101302], ["unit_enhance_id_5", 101302], ["unit_id_1", 105201], ["unit_id_2", 103001], ["unit_id_3", 102801], ["unit_id_4", 101001], ["unit_id_5", 100801]],
+          [["background", 100003], ["battle_effect_id_1", 19], ["battle_effect_id_2", 0], ["battle_effect_id_3", 0], ["battle_effect_id_4", 0], ["battle_effect_id_5", 0], ["bg_position", 50], ["challenge_id_1", 100203], ["challenge_id_2", 100302], ["challenge_id_3", 100101], ["difficulty", 3], ["display_unit_id", 118601], ["limit_time", 90], ["quest_id", 1017018], ["round_id", 18], ["schedule_id", 1017], ["start_time", "2025/11/12 12:00:00"], ["unit_enhance_id_1", 111802], ["unit_enhance_id_2", 111804], ["unit_enhance_id_3", 111804], ["unit_enhance_id_4", 111804], ["unit_enhance_id_5", 111806], ["unit_id_1", 108901], ["unit_id_2", 111701], ["unit_id_3", 111601], ["unit_id_4", 112201], ["unit_id_5", 118601]],
+          [["background", 100003], ["battle_effect_id_1", 7], ["battle_effect_id_2", 25], ["battle_effect_id_3", 0], ["battle_effect_id_4", 0], ["battle_effect_id_5", 0], ["bg_position", 50], ["challenge_id_1", 100203], ["challenge_id_2", 100303], ["challenge_id_3", 100101], ["difficulty", 3], ["display_unit_id", 135801], ["limit_time", 90], ["quest_id", 1017017], ["round_id", 17], ["schedule_id", 1017], ["start_time", "2025/11/12 12:00:00"], ["unit_enhance_id_1", 111705], ["unit_enhance_id_2", 111702], ["unit_enhance_id_3", 111705], ["unit_enhance_id_4", 111706], ["unit_enhance_id_5", 111706], ["unit_id_1", 128801], ["unit_id_2", 105401], ["unit_id_3", 119201], ["unit_id_4", 118501], ["unit_id_5", 135801]],
+          [["background", 100003], ["battle_effect_id_1", 13], ["battle_effect_id_2", 14], ["battle_effect_id_3", 20], ["battle_effect_id_4", 0], ["battle_effect_id_5", 0], ["bg_position", 50], ["challenge_id_1", 100202], ["challenge_id_2", 100302], ["challenge_id_3", 100303], ["difficulty", 1], ["display_unit_id", 122801], ["limit_time", 90], ["quest_id", 1017009], ["round_id", 9], ["schedule_id", 1017], ["start_time", "2025/11/10 12:00:00"], ["unit_enhance_id_1", 100901], ["unit_enhance_id_2", 100901], ["unit_enhance_id_3", 100901], ["unit_enhance_id_4", 100901], ["unit_enhance_id_5", 100901], ["unit_id_1", 122801], ["unit_id_2", 130201], ["unit_id_3", 103401], ["unit_id_4", 101801], ["unit_id_5", 105001]],
+          [["background", 100003], ["battle_effect_id_1", 13], ["battle_effect_id_2", 14], ["battle_effect_id_3", 0], ["battle_effect_id_4", 0], ["battle_effect_id_5", 0], ["bg_position", 50], ["challenge_id_1", 100202], ["challenge_id_2", 100205], ["challenge_id_3", 100101], ["difficulty", 1], ["display_unit_id", 126401], ["limit_time", 90], ["quest_id", 1017007], ["round_id", 7], ["schedule_id", 1017], ["start_time", "2025/11/10 12:00:00"], ["unit_enhance_id_1", 100701], ["unit_enhance_id_2", 100701], ["unit_enhance_id_3", 100702], ["unit_enhance_id_4", 100701], ["unit_enhance_id_5", 100701], ["unit_id_1", 105801], ["unit_id_2", 120701], ["unit_id_3", 126401], ["unit_id_4", 124801], ["unit_id_5", 111001]],
+          [["background", 100003], ["battle_effect_id_1", 14], ["battle_effect_id_2", 0], ["battle_effect_id_3", 0], ["battle_effect_id_4", 0], ["battle_effect_id_5", 0], ["bg_position", 50], ["challenge_id_1", 100203], ["challenge_id_2", 100205], ["challenge_id_3", 100101], ["difficulty", 1], ["display_unit_id", 104701], ["limit_time", 90], ["quest_id", 1017002], ["round_id", 2], ["schedule_id", 1017], ["start_time", "2025/11/10 12:00:00"], ["unit_enhance_id_1", 100201], ["unit_enhance_id_2", 100201], ["unit_enhance_id_3", 100201], ["unit_enhance_id_4", 100201], ["unit_enhance_id_5", 100201], ["unit_id_1", 104701], ["unit_id_2", 105801], ["unit_id_3", 104901], ["unit_id_4", 101101], ["unit_id_5", 106001]]
+        ]
+      }
+    },
+    "unique_equipment_data": {
+      "data_changes": {
+        "added": [
+          [["accuracy", 0.0], ["atk", 80.0], ["craft_flg", 1], ["def", 0.0], ["description", "フブキが開発した特製ランチャー。\\n弾速、重量、快適な居住性という各\\n種要求を完璧に満たした仕様に、イ\\nズナも「きゅきゅっ♪」と大満足。"], ["dodge", 0.0], ["enable_donation", 0], ["energy_recovery_rate", 1.0], ["energy_reduce_rate", 0.0], ["equipment_enhance_point", 0], ["equipment_id", 133021], ["equipment_name", "イズナランチャー♡かすたむ"], ["hp", 0.0], ["hp_recovery_rate", 0.0], ["life_steal", 0.0], ["magic_critical", 0.0], ["magic_def", 0.0], ["magic_penetrate", 0.0], ["magic_str", 0.0], ["physical_critical", 0.0], ["physical_penetrate", 0.0], ["promotion_level", 98], ["require_level", 1], ["sale_price", 0], ["wave_energy_recovery", 0.0], ["wave_hp_recovery", 0.0]],
+          [["accuracy", 0.0], ["atk", 60.0], ["craft_flg", 1], ["def", 0.0], ["description", "ワカナが手縫いしたエプロン。姉妹\\nの無茶振りに応える日々を共にした\\n思い入れのある一枚で、ほのかに香\\nばしいカレーの匂いを漂わせる。"], ["dodge", 0.0], ["enable_donation", 0], ["energy_recovery_rate", 0.0], ["energy_reduce_rate", 0.0], ["equipment_enhance_point", 0], ["equipment_id", 133011], ["equipment_name", "ワカナのお手製エプロン"], ["hp", 0.0], ["hp_recovery_rate", 0.0], ["life_steal", 0.0], ["magic_critical", 0.0], ["magic_def", 0.0], ["magic_penetrate", 0.0], ["magic_str", 0.0], ["physical_critical", 0.0], ["physical_penetrate", 0.0], ["promotion_level", 98], ["require_level", 1], ["sale_price", 0], ["wave_energy_recovery", 30.0], ["wave_hp_recovery", 0.0]],
+          [["accuracy", 0.0], ["atk", 0.0], ["craft_flg", 1], ["def", 0.0], ["description", "ヤマトがフブキに作らせた蛇腹剣。\\n分離し奔る刃が獲物を逃がさない。\\n手入れ係のワカナは隙間に指を挟み\\n悲鳴をあげることもしばしば。"], ["dodge", 0.0], ["enable_donation", 0], ["energy_recovery_rate", 1.0], ["energy_reduce_rate", 0.0], ["equipment_enhance_point", 0], ["equipment_id", 133001], ["equipment_name", "スネークワインド"], ["hp", 600.0], ["hp_recovery_rate", 0.0], ["life_steal", 0.0], ["magic_critical", 0.0], ["magic_def", 0.0], ["magic_penetrate", 0.0], ["magic_str", 0.0], ["physical_critical", 30.0], ["physical_penetrate", 0.0], ["promotion_level", 98], ["require_level", 1], ["sale_price", 0], ["wave_energy_recovery", 0.0], ["wave_hp_recovery", 0.0]]
+        ]
+      }
+    },
+    "extra_effect_data": {
+      "data_changes": {
+        "added": [
+          [["content_type", 44], ["enemy_id_1", 1100000301], ["enemy_id_2", 1100000302], ["enemy_id_3", 0], ["enemy_id_4", 0], ["enemy_id_5", 0], ["exec_timing_1", 1], ["exec_timing_2", 1], ["exec_timing_3", 0], ["exec_timing_4", 0], ["exec_timing_5", 0], ["extra_effect_id", 441017008], ["set_id", 0], ["target_value_1", 1017008], ["target_value_2", 0]],
+          [["content_type", 44], ["enemy_id_1", 1100000301], ["enemy_id_2", 0], ["enemy_id_3", 0], ["enemy_id_4", 0], ["enemy_id_5", 0], ["exec_timing_1", 1], ["exec_timing_2", 0], ["exec_timing_3", 0], ["exec_timing_4", 0], ["exec_timing_5", 0], ["extra_effect_id", 441017003], ["set_id", 0], ["target_value_1", 1017003], ["target_value_2", 0]],
+          [["content_type", 44], ["enemy_id_1", 1100000307], ["enemy_id_2", 0], ["enemy_id_3", 0], ["enemy_id_4", 0], ["enemy_id_5", 0], ["exec_timing_1", 1], ["exec_timing_2", 0], ["exec_timing_3", 0], ["exec_timing_4", 0], ["exec_timing_5", 0], ["extra_effect_id", 441017018], ["set_id", 0], ["target_value_1", 1017018], ["target_value_2", 0]],
+          [["content_type", 44], ["enemy_id_1", 1100000302], ["enemy_id_2", 0], ["enemy_id_3", 0], ["enemy_id_4", 0], ["enemy_id_5", 0], ["exec_timing_1", 1], ["exec_timing_2", 0], ["exec_timing_3", 0], ["exec_timing_4", 0], ["exec_timing_5", 0], ["extra_effect_id", 441017002], ["set_id", 0], ["target_value_1", 1017002], ["target_value_2", 0]],
+          [["content_type", 44], ["enemy_id_1", 1100000301], ["enemy_id_2", 0], ["enemy_id_3", 0], ["enemy_id_4", 0], ["enemy_id_5", 0], ["exec_timing_1", 1], ["exec_timing_2", 0], ["exec_timing_3", 0], ["exec_timing_4", 0], ["exec_timing_5", 0], ["extra_effect_id", 441017001], ["set_id", 0], ["target_value_1", 1017001], ["target_value_2", 0]],
+          [["content_type", 44], ["enemy_id_1", 1100000203], ["enemy_id_2", 1100000403], ["enemy_id_3", 0], ["enemy_id_4", 0], ["enemy_id_5", 0], ["exec_timing_1", 1], ["exec_timing_2", 1], ["exec_timing_3", 0], ["exec_timing_4", 0], ["exec_timing_5", 0], ["extra_effect_id", 441017016], ["set_id", 0], ["target_value_1", 1017016], ["target_value_2", 0]],
+          [["content_type", 44], ["enemy_id_1", 1100000209], ["enemy_id_2", 1100000409], ["enemy_id_3", 0], ["enemy_id_4", 0], ["enemy_id_5", 0], ["exec_timing_1", 1], ["exec_timing_2", 1], ["exec_timing_3", 0], ["exec_timing_4", 0], ["exec_timing_5", 0], ["extra_effect_id", 441017014], ["set_id", 0], ["target_value_1", 1017014], ["target_value_2", 0]],
+          [["content_type", 44], ["enemy_id_1", 1100000301], ["enemy_id_2", 0], ["enemy_id_3", 0], ["enemy_id_4", 0], ["enemy_id_5", 0], ["exec_timing_1", 1], ["exec_timing_2", 0], ["exec_timing_3", 0], ["exec_timing_4", 0], ["exec_timing_5", 0], ["extra_effect_id", 441017005], ["set_id", 0], ["target_value_1", 1017005], ["target_value_2", 0]],
+          [["content_type", 44], ["enemy_id_1", 1100000301], ["enemy_id_2", 1100000302], ["enemy_id_3", 1100000308], ["enemy_id_4", 0], ["enemy_id_5", 0], ["exec_timing_1", 1], ["exec_timing_2", 1], ["exec_timing_3", 1], ["exec_timing_4", 0], ["exec_timing_5", 0], ["extra_effect_id", 441017009], ["set_id", 0], ["target_value_1", 1017009], ["target_value_2", 0]],
+          [["content_type", 44], ["enemy_id_1", 1100000107], ["enemy_id_2", 1100000205], ["enemy_id_3", 1100000405], ["enemy_id_4", 0], ["enemy_id_5", 0], ["exec_timing_1", 1], ["exec_timing_2", 1], ["exec_timing_3", 1], ["exec_timing_4", 0], ["exec_timing_5", 0], ["extra_effect_id", 441017010], ["set_id", 0], ["target_value_1", 1017010], ["target_value_2", 0]],
+          [["content_type", 44], ["enemy_id_1", 1100000204], ["enemy_id_2", 1100000404], ["enemy_id_3", 0], ["enemy_id_4", 0], ["enemy_id_5", 0], ["exec_timing_1", 1], ["exec_timing_2", 1], ["exec_timing_3", 0], ["exec_timing_4", 0], ["exec_timing_5", 0], ["extra_effect_id", 441017017], ["set_id", 0], ["target_value_1", 1017017], ["target_value_2", 0]],
+          [["content_type", 44], ["enemy_id_1", 1100000102], ["enemy_id_2", 1100000206], ["enemy_id_3", 1100000406], ["enemy_id_4", 0], ["enemy_id_5", 0], ["exec_timing_1", 1], ["exec_timing_2", 1], ["exec_timing_3", 1], ["exec_timing_4", 0], ["exec_timing_5", 0], ["extra_effect_id", 441017011], ["set_id", 0], ["target_value_1", 1017011], ["target_value_2", 0]],
+          [["content_type", 44], ["enemy_id_1", 1100000302], ["enemy_id_2", 0], ["enemy_id_3", 0], ["enemy_id_4", 0], ["enemy_id_5", 0], ["exec_timing_1", 1], ["exec_timing_2", 0], ["exec_timing_3", 0], ["exec_timing_4", 0], ["exec_timing_5", 0], ["extra_effect_id", 441017006], ["set_id", 0], ["target_value_1", 1017006], ["target_value_2", 0]],
+          [["content_type", 44], ["enemy_id_1", 1100000302], ["enemy_id_2", 0], ["enemy_id_3", 0], ["enemy_id_4", 0], ["enemy_id_5", 0], ["exec_timing_1", 1], ["exec_timing_2", 0], ["exec_timing_3", 0], ["exec_timing_4", 0], ["exec_timing_5", 0], ["extra_effect_id", 441017004], ["set_id", 0], ["target_value_1", 1017004], ["target_value_2", 0]],
+          [["content_type", 44], ["enemy_id_1", 1100000201], ["enemy_id_2", 1100000401], ["enemy_id_3", 0], ["enemy_id_4", 0], ["enemy_id_5", 0], ["exec_timing_1", 1], ["exec_timing_2", 1], ["exec_timing_3", 0], ["exec_timing_4", 0], ["exec_timing_5", 0], ["extra_effect_id", 441017015], ["set_id", 0], ["target_value_1", 1017015], ["target_value_2", 0]],
+          [["content_type", 44], ["enemy_id_1", 1100000208], ["enemy_id_2", 1100000408], ["enemy_id_3", 0], ["enemy_id_4", 0], ["enemy_id_5", 0], ["exec_timing_1", 1], ["exec_timing_2", 1], ["exec_timing_3", 0], ["exec_timing_4", 0], ["exec_timing_5", 0], ["extra_effect_id", 441017013], ["set_id", 0], ["target_value_1", 1017013], ["target_value_2", 0]],
+          [["content_type", 44], ["enemy_id_1", 1100000108], ["enemy_id_2", 1100000207], ["enemy_id_3", 1100000407], ["enemy_id_4", 0], ["enemy_id_5", 0], ["exec_timing_1", 1], ["exec_timing_2", 1], ["exec_timing_3", 1], ["exec_timing_4", 0], ["exec_timing_5", 0], ["extra_effect_id", 441017012], ["set_id", 0], ["target_value_1", 1017012], ["target_value_2", 0]],
+          [["content_type", 44], ["enemy_id_1", 1100000301], ["enemy_id_2", 1100000302], ["enemy_id_3", 0], ["enemy_id_4", 0], ["enemy_id_5", 0], ["exec_timing_1", 1], ["exec_timing_2", 1], ["exec_timing_3", 0], ["exec_timing_4", 0], ["exec_timing_5", 0], ["extra_effect_id", 441017007], ["set_id", 0], ["target_value_1", 1017007], ["target_value_2", 0]]
+        ]
+      }
+    }
+  }
+}
