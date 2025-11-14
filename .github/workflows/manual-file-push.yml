@@ -27,5 +27,5 @@ jobs:
         curl -X POST \
              -H "Content-Type: multipart/form-data" \
              -H "Auth-Token: $AUTH_TOKEN" \
-             -F "file=@results/cn_$LAST_VERSION.json" \
+             -F "file=@results/jp_$LAST_VERSION.json" \
              $TARGET_URL || { echo 'Curl command failed.'; exit 1; }
