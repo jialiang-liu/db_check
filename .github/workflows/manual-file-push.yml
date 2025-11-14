@@ -22,7 +22,7 @@ jobs:
       env:
         AUTH_TOKEN: ${{ secrets.POST_AUTH_TOKEN }}
         TARGET_URL: ${{ secrets.POST_TARGET_URL }}
-        LAST_VERSION: ${{ vars.LAST_VERSION_CN }}
+        LAST_VERSION: ${{ vars.LAST_VERSION_JP }}
       run: |
         curl -X POST \
              -H "Content-Type: multipart/form-data" \
