@@ -1,0 +1,296 @@
+{
+  "tables": {
+    "only_in_old_db": [],
+    "only_in_new_db": []
+  },
+  "table_changes": {
+    "unit_promotion_status": {
+      "data_changes": {
+        "added": [
+          [["accuracy", 0.0], ["atk", 0.0], ["def", 20.0], ["dodge", 0.0], ["energy_recovery_rate", 14.0], ["energy_reduce_rate", 0.0], ["hp", 2140.0], ["hp_recovery_rate", 65.0], ["life_steal", 3.0], ["magic_critical", 45.0], ["magic_def", 82.0], ["magic_penetrate", 0.0], ["magic_str", 2045.0], ["physical_critical", 0.0], ["physical_penetrate", 0.0], ["promotion_level", 10], ["unit_id", 135201], ["wave_energy_recovery", 205.0], ["wave_hp_recovery", 320.0]]
+        ]
+      }
+    },
+    "unit_ex_equipment_slot": {
+      "data_changes": {
+        "added": [
+          [["slot_category_1", 109], ["slot_category_2", 203], ["slot_category_3", 304], ["unit_id", 135201]]
+        ]
+      }
+    },
+    "unit_rarity": {
+      "data_changes": {
+        "added": [
+          [["accuracy", 0.0], ["accuracy_growth", 0.0], ["atk", 0.0], ["atk_growth", 0.0], ["consume_gold", 10000], ["consume_num", 15], ["def", 2.51], ["def_growth", 0.28], ["dodge", 0.0], ["dodge_growth", 0.0], ["energy_recovery_rate", 0.0], ["energy_recovery_rate_growth", 0.0], ["energy_reduce_rate", 0.0], ["energy_reduce_rate_growth", 0.0], ["hp", 372.9], ["hp_growth", 41.43], ["hp_recovery_rate", 0.0], ["hp_recovery_rate_growth", 0.0], ["life_steal", 0.0], ["life_steal_growth", 0.0], ["magic_critical", 20.0], ["magic_critical_growth", 0.0], ["magic_def", 2.28], ["magic_def_growth", 0.25], ["magic_penetrate", 0.0], ["magic_penetrate_growth", 0.0], ["magic_str", 47.51], ["magic_str_growth", 5.28], ["physical_critical", 0.0], ["physical_critical_growth", 0.0], ["physical_penetrate", 0.0], ["physical_penetrate_growth", 0.0], ["rarity", 1], ["unit_id", 135201], ["unit_material_id", 31352], ["wave_energy_recovery", 0.0], ["wave_energy_recovery_growth", 0.0], ["wave_hp_recovery", 0.0], ["wave_hp_recovery_growth", 0.0]]
+        ]
+      }
+    },
+    "gacha_exchange_lineup": {
+      "data_changes": {
+        "added": [
+          [["end_time", "2025/12/01 15:59:59"], ["exchange_id", 397], ["gacha_bonus_id", 0], ["id", 1131], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2025/11/24 16:00:00"], ["unit_id", 113301]],
+          [["end_time", "2025/12/01 15:59:59"], ["exchange_id", 397], ["gacha_bonus_id", 0], ["id", 1133], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2025/11/24 16:00:00"], ["unit_id", 110401]],
+          [["end_time", "2025/12/01 15:59:59"], ["exchange_id", 398], ["gacha_bonus_id", 1185], ["id", 1134], ["pickup_gacha_id", 30398], ["rarity", 3], ["start_time", "2025/11/24 16:00:00"], ["unit_id", 135201]],
+          [["end_time", "2025/12/01 15:59:59"], ["exchange_id", 397], ["gacha_bonus_id", 0], ["id", 1130], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2025/11/24 16:00:00"], ["unit_id", 133601]],
+          [["end_time", "2025/12/01 15:59:59"], ["exchange_id", 397], ["gacha_bonus_id", 0], ["id", 1132], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2025/11/24 16:00:00"], ["unit_id", 113101]]
+        ]
+      }
+    },
+    "unit_data": {
+      "data_changes": {
+        "added": [
+          [["atk_type", 2], ["comment", "【魔法】位於中衛，漂浮於水中享受夏日美食的天然少女。\\nＴＰ、攻擊支援與護盾的效果量會依我方人數而產生變化，\\n用加總物理與魔法攻擊力的傷害，將夏天的回憶刻在心中。"], ["cutin1_star6", 135201], ["cutin2_star6", 0], ["cutin_1", 135201], ["cutin_2", 0], ["end_time", "2025/12/01 15:59:59"], ["exskill_display", 0], ["guild_id", 0], ["is_limited", 1], ["kana", "普蕾西亞（夏日）"], ["motion_type", 7], ["move_speed", 450], ["normal_atk_cast_time", 2.09], ["only_disp_owned", 0], ["original_unit_id", 0], ["prefab_id", 135201], ["prefab_id_battle", 0], ["rarity", 3], ["se_type", 7], ["search_area_width", 548], ["start_time", "2025/11/24 16:00:00"], ["unit_id", 135201], ["unit_name", "普蕾西亞（夏日）"], ["unknown_1", 0]]
+        ],
+        "modified": [
+          {
+            "id": 133601,
+            "old": [["atk_type", 1], ["comment", "【物理】位於中衛，與眷屬合力戰鬥，胸懷榮耀的蛇少女。\\n用依照【魔眼】的數量提升效果量的技能傷害以及弱化，\\n將範圍內敵人逼至絕境，再用銳利的眼瞳使其石化。"], ["cutin1_star6", 133601], ["cutin2_star6", 0], ["cutin_1", 133601], ["cutin_2", 0], ["end_time", "2025/06/01 15:59:59"], ["exskill_display", 0], ["guild_id", 0], ["is_limited", 1], ["kana", "梅杜莎"], ["motion_type", 0], ["move_speed", 450], ["normal_atk_cast_time", 2.09], ["only_disp_owned", 0], ["original_unit_id", 0], ["prefab_id", 133601], ["prefab_id_battle", 0], ["rarity", 3], ["se_type", 0], ["search_area_width", 445], ["start_time", "2025/05/21 16:00:00"], ["unit_id", 133601], ["unit_name", "梅杜莎"], ["unknown_1", 0]],
+            "new": [["atk_type", 1], ["comment", "【物理】位於中衛，與眷屬合力戰鬥，胸懷榮耀的蛇少女。\\n用依照【魔眼】的數量提升效果量的技能傷害以及弱化，\\n將範圍內敵人逼至絕境，再用銳利的眼瞳使其石化。"], ["cutin1_star6", 133601], ["cutin2_star6", 0], ["cutin_1", 133601], ["cutin_2", 0], ["end_time", "2025/12/01 15:59:59"], ["exskill_display", 0], ["guild_id", 0], ["is_limited", 1], ["kana", "梅杜莎"], ["motion_type", 0], ["move_speed", 450], ["normal_atk_cast_time", 2.09], ["only_disp_owned", 0], ["original_unit_id", 0], ["prefab_id", 133601], ["prefab_id_battle", 0], ["rarity", 3], ["se_type", 0], ["search_area_width", 445], ["start_time", "2025/11/24 16:00:00"], ["unit_id", 133601], ["unit_name", "梅杜莎"], ["unknown_1", 0]]
+          },
+          {
+            "id": 113101,
+            "old": [["atk_type", 1], ["comment", "【物理】位於前衛，揮舞優雅太刀使人魅惑的若夏大姐頭。\\n以隨著造成傷害的次數提升攻擊力的技能，跟所攜帶的雙刀\\n的數刃斬擊，將眼前的敵人切碎。"], ["cutin1_star6", 113101], ["cutin2_star6", 0], ["cutin_1", 113101], ["cutin_2", 0], ["end_time", "2024/12/01 15:59:59"], ["exskill_display", 0], ["guild_id", 6], ["is_limited", 1], ["kana", "流夏（夏日）"], ["motion_type", 27], ["move_speed", 450], ["normal_atk_cast_time", 1.3], ["only_disp_owned", 0], ["original_unit_id", 0], ["prefab_id", 113101], ["prefab_id_battle", 0], ["rarity", 3], ["se_type", 27], ["search_area_width", 192], ["start_time", "2024/11/23 16:00:00"], ["unit_id", 113101], ["unit_name", "流夏（夏日）"], ["unknown_1", 0]],
+            "new": [["atk_type", 1], ["comment", "【物理】位於前衛，揮舞優雅太刀使人魅惑的若夏大姐頭。\\n以隨著造成傷害的次數提升攻擊力的技能，跟所攜帶的雙刀\\n的數刃斬擊，將眼前的敵人切碎。"], ["cutin1_star6", 113101], ["cutin2_star6", 0], ["cutin_1", 113101], ["cutin_2", 0], ["end_time", "2025/12/01 15:59:59"], ["exskill_display", 0], ["guild_id", 6], ["is_limited", 1], ["kana", "流夏（夏日）"], ["motion_type", 27], ["move_speed", 450], ["normal_atk_cast_time", 1.3], ["only_disp_owned", 0], ["original_unit_id", 0], ["prefab_id", 113101], ["prefab_id_battle", 0], ["rarity", 3], ["se_type", 27], ["search_area_width", 192], ["start_time", "2025/11/24 16:00:00"], ["unit_id", 113101], ["unit_name", "流夏（夏日）"], ["unknown_1", 0]]
+          },
+          {
+            "id": 110401,
+            "old": [["atk_type", 1], ["comment", "【物理】位於前衛，擅長攻擊單一目標的海之狼女。\\n當僅有一個攻擊目標時，才能夠發揮技能與必殺技的\\n真正價值，並以絕大的破壞力斬除敵人。"], ["cutin1_star6", 110401], ["cutin2_star6", 0], ["cutin_1", 110401], ["cutin_2", 0], ["end_time", "2024/12/01 15:59:59"], ["exskill_display", 0], ["guild_id", 4], ["is_limited", 1], ["kana", "真琴（夏日）"], ["motion_type", 5], ["move_speed", 450], ["normal_atk_cast_time", 2.125], ["only_disp_owned", 0], ["original_unit_id", 0], ["prefab_id", 110401], ["prefab_id_battle", 0], ["rarity", 3], ["se_type", 5], ["search_area_width", 180], ["start_time", "2024/11/23 16:00:00"], ["unit_id", 110401], ["unit_name", "真琴（夏日）"], ["unknown_1", 0]],
+            "new": [["atk_type", 1], ["comment", "【物理】位於前衛，擅長攻擊單一目標的海之狼女。\\n當僅有一個攻擊目標時，才能夠發揮技能與必殺技的\\n真正價值，並以絕大的破壞力斬除敵人。"], ["cutin1_star6", 110401], ["cutin2_star6", 0], ["cutin_1", 110401], ["cutin_2", 0], ["end_time", "2025/12/01 15:59:59"], ["exskill_display", 0], ["guild_id", 4], ["is_limited", 1], ["kana", "真琴（夏日）"], ["motion_type", 5], ["move_speed", 450], ["normal_atk_cast_time", 2.125], ["only_disp_owned", 0], ["original_unit_id", 0], ["prefab_id", 110401], ["prefab_id_battle", 0], ["rarity", 3], ["se_type", 5], ["search_area_width", 180], ["start_time", "2025/11/24 16:00:00"], ["unit_id", 110401], ["unit_name", "真琴（夏日）"], ["unknown_1", 0]]
+          }
+        ]
+      }
+    },
+    "unit_enemy_data": {
+      "data_changes": {
+        "added": [
+          [["atk_type", 2], ["comment", "有著普蕾西亞（夏日）樣貌的特殊魔物"], ["cutin", 0], ["cutin_star6", 0], ["motion_type", 7], ["move_speed", 450], ["normal_atk_cast_time", 2.09], ["prefab_id", 135201], ["se_type", 7], ["search_area_width", 548], ["unit_id", 635201], ["unit_name", "普蕾西亞（夏日）的闇影"], ["visual_change_flag", 1]]
+        ]
+      }
+    },
+    "skill_action": {
+      "data_changes": {
+        "added": [
+          [["action_detail_1", 135200306], ["action_detail_2", 2], ["action_detail_3", 0], ["action_id", 135200305], ["action_type", 26], ["action_value_1", 7.0], ["action_value_2", 0.15], ["action_value_3", 0.0], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", ""], ["level_up_disp", ""], ["target_area", 2], ["target_assignment", 2], ["target_count", 1], ["target_number", 0], ["target_range", 2160], ["target_type", 7]],
+          [["action_detail_1", 135200110], ["action_detail_2", 2], ["action_detail_3", 0], ["action_id", 135200109], ["action_type", 27], ["action_value_1", 4.0], ["action_value_2", 0.6], ["action_value_3", 0.0], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", ""], ["level_up_disp", ""], ["target_area", 3], ["target_assignment", 2], ["target_count", 99], ["target_number", 0], ["target_range", 2160], ["target_type", 3]],
+          [["action_detail_1", 135200302], ["action_detail_2", 2], ["action_detail_3", 0], ["action_id", 135200301], ["action_type", 27], ["action_value_1", 4.0], ["action_value_2", 0.2], ["action_value_3", 0.0], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", ""], ["level_up_disp", ""], ["target_area", 3], ["target_assignment", 2], ["target_count", 99], ["target_number", 0], ["target_range", 2160], ["target_type", 3]],
+          [["action_detail_1", 2], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 135200306], ["action_type", 4], ["action_value_1", 1.0], ["action_value_2", 3.0], ["action_value_3", 3.0], ["action_value_4", 0.15], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "回復我方全體{0}的HP"], ["level_up_disp", "HP回復量+{0}"], ["target_area", 3], ["target_assignment", 2], ["target_count", 99], ["target_number", 0], ["target_range", 2160], ["target_type", 3]],
+          [["action_detail_1", 135200310], ["action_detail_2", 1], ["action_detail_3", 0], ["action_id", 135200309], ["action_type", 27], ["action_value_1", 4.0], ["action_value_2", 1.0], ["action_value_3", 0.0], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", ""], ["level_up_disp", ""], ["target_area", 3], ["target_assignment", 2], ["target_count", 99], ["target_number", 0], ["target_range", 2160], ["target_type", 3]],
+          [["action_detail_1", 1], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 135200106], ["action_type", 1], ["action_value_1", 50.0], ["action_value_2", 50.0], ["action_value_3", 4.0], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "對敵方單體造成{0}的物理傷害"], ["level_up_disp", "物理傷害+{0}"], ["target_area", 1], ["target_assignment", 1], ["target_count", 1], ["target_number", 0], ["target_range", 2160], ["target_type", 3]],
+          [["action_detail_1", 135200202], ["action_detail_2", 1], ["action_detail_3", 0], ["action_id", 135200201], ["action_type", 26], ["action_value_1", 7.0], ["action_value_2", 3.6], ["action_value_3", 0.0], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", ""], ["level_up_disp", ""], ["target_area", 2], ["target_assignment", 2], ["target_count", 1], ["target_number", 0], ["target_range", 2160], ["target_type", 7]],
+          [["action_detail_1", 4], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 135250101], ["action_type", 90], ["action_value_1", 1.0], ["action_value_2", 15.0], ["action_value_3", 15.0], ["action_value_4", 1.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "提升自身{0}的魔法攻擊力"], ["level_up_disp", "魔法攻擊力提升+{0}"], ["target_area", 0], ["target_assignment", 0], ["target_count", 0], ["target_number", 0], ["target_range", 0], ["target_type", 0]],
+          [["action_detail_1", 135200304], ["action_detail_2", 2], ["action_detail_3", 0], ["action_id", 135200303], ["action_type", 27], ["action_value_1", 4.0], ["action_value_2", 0.2], ["action_value_3", 0.0], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", ""], ["level_up_disp", ""], ["target_area", 3], ["target_assignment", 2], ["target_count", 99], ["target_number", 0], ["target_range", 2160], ["target_type", 3]],
+          [["action_detail_1", 135210102], ["action_detail_2", 2], ["action_detail_3", 0], ["action_id", 135210101], ["action_type", 26], ["action_value_1", 4.0], ["action_value_2", 0.0], ["action_value_3", 0.0], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "傷害與ＨＰ恢復是加總物理攻擊力與魔法攻擊力的數值"], ["level_up_disp", ""], ["target_area", 2], ["target_assignment", 2], ["target_count", 1], ["target_number", 0], ["target_range", -1], ["target_type", 7]],
+          [["action_detail_1", 135200308], ["action_detail_2", 1], ["action_detail_3", 0], ["action_id", 135200307], ["action_type", 27], ["action_value_1", 4.0], ["action_value_2", 1.0], ["action_value_3", 0.0], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", ""], ["level_up_disp", ""], ["target_area", 3], ["target_assignment", 2], ["target_count", 99], ["target_number", 0], ["target_range", 2160], ["target_type", 3]],
+          [["action_detail_1", 2], ["action_detail_2", 1], ["action_detail_3", 0], ["action_id", 135200103], ["action_type", 1], ["action_value_1", 50.0], ["action_value_2", 50.0], ["action_value_3", 4.0], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "對敵方單體造成{0}防禦力較低者可防禦的魔法傷害"], ["level_up_disp", "魔法傷害+{0}"], ["target_area", 1], ["target_assignment", 1], ["target_count", 1], ["target_number", 0], ["target_range", 2160], ["target_type", 3]],
+          [["action_detail_1", 135200106], ["action_detail_2", 1], ["action_detail_3", 0], ["action_id", 135200105], ["action_type", 26], ["action_value_1", 8.0], ["action_value_2", 4.0], ["action_value_3", 0.0], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", ""], ["level_up_disp", ""], ["target_area", 2], ["target_assignment", 2], ["target_count", 1], ["target_number", 0], ["target_range", 2160], ["target_type", 7]],
+          [["action_detail_1", 135200106], ["action_detail_2", 3], ["action_detail_3", 0], ["action_id", 135200104], ["action_type", 107], ["action_value_1", 0.0], ["action_value_2", 0.0], ["action_value_3", 0.0], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", ""], ["level_up_disp", ""], ["target_area", 2], ["target_assignment", 2], ["target_count", 1], ["target_number", 0], ["target_range", 2160], ["target_type", 7]],
+          [["action_detail_1", 110], ["action_detail_2", 1], ["action_detail_3", 0], ["action_id", 135200206], ["action_type", 10], ["action_value_1", 1.0], ["action_value_2", 8.0], ["action_value_3", 0.0], ["action_value_4", 12.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "使全體我方的物理暴擊傷害提升{0}%"], ["level_up_disp", ""], ["target_area", 3], ["target_assignment", 2], ["target_count", 99], ["target_number", 0], ["target_range", 2160], ["target_type", 3]],
+          [["action_detail_1", 60], ["action_detail_2", 1], ["action_detail_3", 0], ["action_id", 135200110], ["action_type", 10], ["action_value_1", 1.0], ["action_value_2", 100.0], ["action_value_3", 0.0], ["action_value_4", 18.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "使全體夥伴的物理暴擊提升{0}"], ["level_up_disp", ""], ["target_area", 3], ["target_assignment", 2], ["target_count", 99], ["target_number", 0], ["target_range", 2160], ["target_type", 3]],
+          [["action_detail_1", 135200202], ["action_detail_2", 3], ["action_detail_3", 0], ["action_id", 135200209], ["action_type", 107], ["action_value_1", 0.0], ["action_value_2", 0.0], ["action_value_3", 0.0], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", ""], ["level_up_disp", ""], ["target_area", 2], ["target_assignment", 2], ["target_count", 1], ["target_number", 0], ["target_range", 2160], ["target_type", 7]],
+          [["action_detail_1", 2], ["action_detail_2", 1], ["action_detail_3", 0], ["action_id", 135200202], ["action_type", 1], ["action_value_1", 45.0], ["action_value_2", 45.0], ["action_value_3", 3.6], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "對敵方單體造成{0}防禦力較低者可防禦的魔法傷害"], ["level_up_disp", "魔法傷害+{0}"], ["target_area", 1], ["target_assignment", 1], ["target_count", 1], ["target_number", 0], ["target_range", 2160], ["target_type", 3]],
+          [["action_detail_1", 135200204], ["action_detail_2", 2], ["action_detail_3", 0], ["action_id", 135200203], ["action_type", 27], ["action_value_1", 4.0], ["action_value_2", 0.2], ["action_value_3", 0.0], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", ""], ["level_up_disp", ""], ["target_area", 3], ["target_assignment", 2], ["target_count", 99], ["target_number", 0], ["target_range", 2160], ["target_type", 3]],
+          [["action_detail_1", 4], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 135251101], ["action_type", 90], ["action_value_1", 1.0], ["action_value_2", 240.0], ["action_value_3", 15.0], ["action_value_4", 1.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "提升自身{0}的魔法攻擊力"], ["level_up_disp", "魔法攻擊力提升+{0}"], ["target_area", 0], ["target_assignment", 0], ["target_count", 0], ["target_number", 0], ["target_range", 0], ["target_type", 0]],
+          [["action_detail_1", 135200103], ["action_detail_2", 1], ["action_detail_3", 0], ["action_id", 135200102], ["action_type", 26], ["action_value_1", 7.0], ["action_value_2", 4.0], ["action_value_3", 0.0], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", ""], ["level_up_disp", ""], ["target_area", 2], ["target_assignment", 2], ["target_count", 1], ["target_number", 0], ["target_range", 2160], ["target_type", 7]],
+          [["action_detail_1", 135200103], ["action_detail_2", 3], ["action_detail_3", 0], ["action_id", 135200101], ["action_type", 107], ["action_value_1", 0.0], ["action_value_2", 0.0], ["action_value_3", 0.0], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", ""], ["level_up_disp", ""], ["target_area", 2], ["target_assignment", 2], ["target_count", 1], ["target_number", 0], ["target_range", 2160], ["target_type", 7]],
+          [["action_detail_1", 10], ["action_detail_2", 1], ["action_detail_3", 0], ["action_id", 135200204], ["action_type", 10], ["action_value_1", 1.0], ["action_value_2", 20.0], ["action_value_3", 20.0], ["action_value_4", 12.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "提升我方全體{0}的物理攻擊力"], ["level_up_disp", "物理攻擊力提升+{0}"], ["target_area", 3], ["target_assignment", 2], ["target_count", 99], ["target_number", 0], ["target_range", 2160], ["target_type", 3]],
+          [["action_detail_1", 110], ["action_detail_2", 1], ["action_detail_3", 0], ["action_id", 135200304], ["action_type", 10], ["action_value_1", 1.0], ["action_value_2", 8.0], ["action_value_3", 0.0], ["action_value_4", 12.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "使全體我方的物理暴擊傷害提升{0}%"], ["level_up_disp", ""], ["target_area", 3], ["target_assignment", 2], ["target_count", 99], ["target_number", 0], ["target_range", 2160], ["target_type", 3]],
+          [["action_detail_1", 1], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 135200310], ["action_type", 16], ["action_value_1", 20.0], ["action_value_2", 0.0], ["action_value_3", 1.0], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "使自身以外的我方全體的TP恢復{0}"], ["level_up_disp", ""], ["target_area", 2], ["target_assignment", 2], ["target_count", 99], ["target_number", 0], ["target_range", 2160], ["target_type", 34]],
+          [["action_detail_1", 135200108], ["action_detail_2", 2], ["action_detail_3", 0], ["action_id", 135200107], ["action_type", 27], ["action_value_1", 4.0], ["action_value_2", 0.2], ["action_value_3", 0.0], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", ""], ["level_up_disp", ""], ["target_area", 3], ["target_assignment", 2], ["target_count", 99], ["target_number", 0], ["target_range", 2160], ["target_type", 3]],
+          [["action_detail_1", 135210101], ["action_detail_2", 2], ["action_detail_3", 0], ["action_id", 135210102], ["action_type", 26], ["action_value_1", 4.0], ["action_value_2", 0.0], ["action_value_3", 0.0], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "暴擊是加總物理暴擊率與魔法暴擊率的數值"], ["level_up_disp", ""], ["target_area", 2], ["target_assignment", 2], ["target_count", 1], ["target_number", 0], ["target_range", -1], ["target_type", 7]],
+          [["action_detail_1", 135200208], ["action_detail_2", 1], ["action_detail_3", 0], ["action_id", 135200207], ["action_type", 27], ["action_value_1", 4.0], ["action_value_2", 0.2], ["action_value_3", 0.0], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", ""], ["level_up_disp", ""], ["target_area", 3], ["target_assignment", 2], ["target_count", 99], ["target_number", 0], ["target_range", 2160], ["target_type", 3]],
+          [["action_detail_1", 30], ["action_detail_2", 1], ["action_detail_3", 0], ["action_id", 135200302], ["action_type", 10], ["action_value_1", 1.0], ["action_value_2", 40.0], ["action_value_3", 40.0], ["action_value_4", 180.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "提升自身{0}的魔法攻擊力"], ["level_up_disp", "魔法攻擊力提升+{0}"], ["target_area", 2], ["target_assignment", 2], ["target_count", 1], ["target_number", 0], ["target_range", 2160], ["target_type", 7]],
+          [["action_detail_1", 1], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 135200208], ["action_type", 6], ["action_value_1", 20.0], ["action_value_2", 20.0], ["action_value_3", 12.0], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "展開{0}傷害量的物理無效護盾"], ["level_up_disp", "無效傷害量+{0}"], ["target_area", 3], ["target_assignment", 2], ["target_count", 99], ["target_number", 0], ["target_range", 2160], ["target_type", 3]],
+          [["action_detail_1", 1], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 135200308], ["action_type", 16], ["action_value_1", 30.0], ["action_value_2", 0.0], ["action_value_3", 1.0], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "回復自身{0}的TP"], ["level_up_disp", ""], ["target_area", 2], ["target_assignment", 2], ["target_count", 1], ["target_number", 0], ["target_range", 2160], ["target_type", 7]],
+          [["action_detail_1", 10], ["action_detail_2", 1], ["action_detail_3", 0], ["action_id", 135200108], ["action_type", 10], ["action_value_1", 1.0], ["action_value_2", 30.0], ["action_value_3", 30.0], ["action_value_4", 18.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "提升我方全體{0}的物理攻擊力"], ["level_up_disp", "物理攻擊力提升+{0}"], ["target_area", 3], ["target_assignment", 2], ["target_count", 99], ["target_number", 0], ["target_range", 2160], ["target_type", 3]],
+          [["action_detail_1", 135200206], ["action_detail_2", 2], ["action_detail_3", 0], ["action_id", 135200205], ["action_type", 27], ["action_value_1", 4.0], ["action_value_2", 0.2], ["action_value_3", 0.0], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", ""], ["level_up_disp", ""], ["target_area", 3], ["target_assignment", 2], ["target_count", 99], ["target_number", 0], ["target_range", 2160], ["target_type", 3]]
+        ]
+      }
+    },
+    "chara_story_status": {
+      "data_changes": {
+        "added": [
+          [["chara_id_1", 1352], ["chara_id_10", 0], ["chara_id_11", 0], ["chara_id_12", 0], ["chara_id_13", 0], ["chara_id_14", 0], ["chara_id_15", 0], ["chara_id_16", 0], ["chara_id_17", 0], ["chara_id_18", 0], ["chara_id_19", 0], ["chara_id_2", 1261], ["chara_id_20", 0], ["chara_id_3", 0], ["chara_id_4", 0], ["chara_id_5", 0], ["chara_id_6", 0], ["chara_id_7", 0], ["chara_id_8", 0], ["chara_id_9", 0], ["status_rate_1", 30], ["status_rate_2", 0], ["status_rate_3", 0], ["status_rate_4", 0], ["status_rate_5", 0], ["status_type_1", 4], ["status_type_2", 0], ["status_type_3", 0], ["status_type_4", 0], ["status_type_5", 0], ["story_id", 1352003], ["unlock_story_name", "普蕾西亞（夏日）のエピソード第3話"]],
+          [["chara_id_1", 1352], ["chara_id_10", 0], ["chara_id_11", 0], ["chara_id_12", 0], ["chara_id_13", 0], ["chara_id_14", 0], ["chara_id_15", 0], ["chara_id_16", 0], ["chara_id_17", 0], ["chara_id_18", 0], ["chara_id_19", 0], ["chara_id_2", 1261], ["chara_id_20", 0], ["chara_id_3", 0], ["chara_id_4", 0], ["chara_id_5", 0], ["chara_id_6", 0], ["chara_id_7", 0], ["chara_id_8", 0], ["chara_id_9", 0], ["status_rate_1", 50], ["status_rate_2", 0], ["status_rate_3", 0], ["status_rate_4", 0], ["status_rate_5", 0], ["status_type_1", 4], ["status_type_2", 0], ["status_type_3", 0], ["status_type_4", 0], ["status_type_5", 0], ["story_id", 1352004], ["unlock_story_name", "普蕾西亞（夏日）のエピソード第4話"]],
+          [["chara_id_1", 1352], ["chara_id_10", 0], ["chara_id_11", 0], ["chara_id_12", 0], ["chara_id_13", 0], ["chara_id_14", 0], ["chara_id_15", 0], ["chara_id_16", 0], ["chara_id_17", 0], ["chara_id_18", 0], ["chara_id_19", 0], ["chara_id_2", 1261], ["chara_id_20", 0], ["chara_id_3", 0], ["chara_id_4", 0], ["chara_id_5", 0], ["chara_id_6", 0], ["chara_id_7", 0], ["chara_id_8", 0], ["chara_id_9", 0], ["status_rate_1", 10], ["status_rate_2", 0], ["status_rate_3", 0], ["status_rate_4", 0], ["status_rate_5", 0], ["status_type_1", 4], ["status_type_2", 0], ["status_type_3", 0], ["status_type_4", 0], ["status_type_5", 0], ["story_id", 1352002], ["unlock_story_name", "普蕾西亞（夏日）のエピソード第2話"]]
+        ],
+        "modified": [
+          {
+            "id": 1261004,
+            "old": [["chara_id_1", 1261], ["chara_id_10", 0], ["chara_id_11", 0], ["chara_id_12", 0], ["chara_id_13", 0], ["chara_id_14", 0], ["chara_id_15", 0], ["chara_id_16", 0], ["chara_id_17", 0], ["chara_id_18", 0], ["chara_id_19", 0], ["chara_id_2", 0], ["chara_id_20", 0], ["chara_id_3", 0], ["chara_id_4", 0], ["chara_id_5", 0], ["chara_id_6", 0], ["chara_id_7", 0], ["chara_id_8", 0], ["chara_id_9", 0], ["status_rate_1", 50], ["status_rate_2", 0], ["status_rate_3", 0], ["status_rate_4", 0], ["status_rate_5", 0], ["status_type_1", 4], ["status_type_2", 0], ["status_type_3", 0], ["status_type_4", 0], ["status_type_5", 0], ["story_id", 1261004], ["unlock_story_name", "普蕾西亞（墮落）のエピソード第4話"]],
+            "new": [["chara_id_1", 1261], ["chara_id_10", 0], ["chara_id_11", 0], ["chara_id_12", 0], ["chara_id_13", 0], ["chara_id_14", 0], ["chara_id_15", 0], ["chara_id_16", 0], ["chara_id_17", 0], ["chara_id_18", 0], ["chara_id_19", 0], ["chara_id_2", 1352], ["chara_id_20", 0], ["chara_id_3", 0], ["chara_id_4", 0], ["chara_id_5", 0], ["chara_id_6", 0], ["chara_id_7", 0], ["chara_id_8", 0], ["chara_id_9", 0], ["status_rate_1", 50], ["status_rate_2", 0], ["status_rate_3", 0], ["status_rate_4", 0], ["status_rate_5", 0], ["status_type_1", 4], ["status_type_2", 0], ["status_type_3", 0], ["status_type_4", 0], ["status_type_5", 0], ["story_id", 1261004], ["unlock_story_name", "普蕾西亞（墮落）のエピソード第4話"]]
+          },
+          {
+            "id": 1261003,
+            "old": [["chara_id_1", 1261], ["chara_id_10", 0], ["chara_id_11", 0], ["chara_id_12", 0], ["chara_id_13", 0], ["chara_id_14", 0], ["chara_id_15", 0], ["chara_id_16", 0], ["chara_id_17", 0], ["chara_id_18", 0], ["chara_id_19", 0], ["chara_id_2", 0], ["chara_id_20", 0], ["chara_id_3", 0], ["chara_id_4", 0], ["chara_id_5", 0], ["chara_id_6", 0], ["chara_id_7", 0], ["chara_id_8", 0], ["chara_id_9", 0], ["status_rate_1", 30], ["status_rate_2", 0], ["status_rate_3", 0], ["status_rate_4", 0], ["status_rate_5", 0], ["status_type_1", 4], ["status_type_2", 0], ["status_type_3", 0], ["status_type_4", 0], ["status_type_5", 0], ["story_id", 1261003], ["unlock_story_name", "普蕾西亞（墮落）のエピソード第3話"]],
+            "new": [["chara_id_1", 1261], ["chara_id_10", 0], ["chara_id_11", 0], ["chara_id_12", 0], ["chara_id_13", 0], ["chara_id_14", 0], ["chara_id_15", 0], ["chara_id_16", 0], ["chara_id_17", 0], ["chara_id_18", 0], ["chara_id_19", 0], ["chara_id_2", 1352], ["chara_id_20", 0], ["chara_id_3", 0], ["chara_id_4", 0], ["chara_id_5", 0], ["chara_id_6", 0], ["chara_id_7", 0], ["chara_id_8", 0], ["chara_id_9", 0], ["status_rate_1", 30], ["status_rate_2", 0], ["status_rate_3", 0], ["status_rate_4", 0], ["status_rate_5", 0], ["status_type_1", 4], ["status_type_2", 0], ["status_type_3", 0], ["status_type_4", 0], ["status_type_5", 0], ["story_id", 1261003], ["unlock_story_name", "普蕾西亞（墮落）のエピソード第3話"]]
+          },
+          {
+            "id": 1261002,
+            "old": [["chara_id_1", 1261], ["chara_id_10", 0], ["chara_id_11", 0], ["chara_id_12", 0], ["chara_id_13", 0], ["chara_id_14", 0], ["chara_id_15", 0], ["chara_id_16", 0], ["chara_id_17", 0], ["chara_id_18", 0], ["chara_id_19", 0], ["chara_id_2", 0], ["chara_id_20", 0], ["chara_id_3", 0], ["chara_id_4", 0], ["chara_id_5", 0], ["chara_id_6", 0], ["chara_id_7", 0], ["chara_id_8", 0], ["chara_id_9", 0], ["status_rate_1", 10], ["status_rate_2", 0], ["status_rate_3", 0], ["status_rate_4", 0], ["status_rate_5", 0], ["status_type_1", 4], ["status_type_2", 0], ["status_type_3", 0], ["status_type_4", 0], ["status_type_5", 0], ["story_id", 1261002], ["unlock_story_name", "普蕾西亞（墮落）のエピソード第2話"]],
+            "new": [["chara_id_1", 1261], ["chara_id_10", 0], ["chara_id_11", 0], ["chara_id_12", 0], ["chara_id_13", 0], ["chara_id_14", 0], ["chara_id_15", 0], ["chara_id_16", 0], ["chara_id_17", 0], ["chara_id_18", 0], ["chara_id_19", 0], ["chara_id_2", 1352], ["chara_id_20", 0], ["chara_id_3", 0], ["chara_id_4", 0], ["chara_id_5", 0], ["chara_id_6", 0], ["chara_id_7", 0], ["chara_id_8", 0], ["chara_id_9", 0], ["status_rate_1", 10], ["status_rate_2", 0], ["status_rate_3", 0], ["status_rate_4", 0], ["status_rate_5", 0], ["status_type_1", 4], ["status_type_2", 0], ["status_type_3", 0], ["status_type_4", 0], ["status_type_5", 0], ["story_id", 1261002], ["unlock_story_name", "普蕾西亞（墮落）のエピソード第2話"]]
+          }
+        ]
+      }
+    },
+    "room_unit_comments": {
+      "data_changes": {
+        "added": [
+          [["beloved_step", 1], ["description", "喜歡，向日葵。\\n很大，\\n種子也，很好吃。"], ["face_id", 1], ["id", 9272], ["insert_word_type", 0], ["time", 0], ["trigger", 1], ["unit_id", 135201], ["voice_id", 2]]
+        ]
+      }
+    },
+    "item_data": {
+      "data_changes": {
+        "added": [
+          [["description", "據說能使普蕾西亞（夏日）突破力量極限並更為提升的戒指。裝備後能使角色Lv突破極限並超越主角Lv。"], ["end_time", "2030/08/01 14:59:00"], ["gojuon_order", 0], ["item_id", 41352], ["item_name", "普蕾西亞（夏日）專用戒指"], ["item_type", 22], ["limit_num", 9999], ["price", 0], ["promotion_level", 1], ["sell_check_disp", 0], ["start_time", "2015/12/17 15:00:00"], ["value", 0]],
+          [["description", "封印有普蕾西亞（夏日）的記憶碎片的道具。收集一定數量，則可以解放角色深藏的力量。"], ["end_time", "2030/08/01 14:59:59"], ["gojuon_order", 5283222], ["item_id", 31352], ["item_name", "普蕾西亞（夏日）的記憶碎片"], ["item_type", 11], ["limit_num", 99999], ["price", 0], ["promotion_level", 1], ["sell_check_disp", 0], ["start_time", "2015/12/17 15:00:00"], ["value", 31352]]
+        ]
+      }
+    },
+    "unit_role_data": {
+      "data_changes": {
+        "added": [
+          [["unit_id", 135201], ["unit_role_id", 3]]
+        ]
+      }
+    },
+    "actual_unit_background": {
+      "data_changes": {
+        "added": [
+          [["bg_id", 510080], ["face_type", 4], ["unit_id", 135231], ["unit_name", "普蕾西亞‧懷茲曼"]]
+        ]
+      }
+    },
+    "unit_talent": {
+      "data_changes": {
+        "added": [
+          [["setting_id", 13520101], ["talent_id", 3], ["unit_id", 135201]]
+        ]
+      }
+    },
+    "guild": {
+      "data_changes": {
+        "modified": [
+          {
+            "id": 20,
+            "old": [["description", ""], ["guild_id", 20], ["guild_master", 1258], ["guild_name", "幻變少女"], ["member1", 1258], ["member10", 0], ["member11", 0], ["member12", 0], ["member13", 0], ["member14", 0], ["member15", 0], ["member16", 0], ["member17", 0], ["member18", 0], ["member19", 0], ["member2", 1260], ["member20", 0], ["member21", 0], ["member22", 0], ["member23", 0], ["member24", 0], ["member25", 0], ["member26", 0], ["member27", 0], ["member28", 0], ["member29", 0], ["member3", 1261], ["member30", 0], ["member4", 1316], ["member5", 0], ["member6", 0], ["member7", 0], ["member8", 0], ["member9", 0]],
+            "new": [["description", ""], ["guild_id", 20], ["guild_master", 1258], ["guild_name", "幻變少女"], ["member1", 1258], ["member10", 0], ["member11", 0], ["member12", 0], ["member13", 0], ["member14", 0], ["member15", 0], ["member16", 0], ["member17", 0], ["member18", 0], ["member19", 0], ["member2", 1260], ["member20", 0], ["member21", 0], ["member22", 0], ["member23", 0], ["member24", 0], ["member25", 0], ["member26", 0], ["member27", 0], ["member28", 0], ["member29", 0], ["member3", 1261], ["member30", 0], ["member4", 1316], ["member5", 1352], ["member6", 0], ["member7", 0], ["member8", 0], ["member9", 0]]
+          }
+        ]
+      }
+    },
+    "skill_data": {
+      "data_changes": {
+        "added": [
+          [["action_1", 135200301], ["action_10", 135200308], ["action_2", 135200302], ["action_3", 135200303], ["action_4", 135200304], ["action_5", 135200305], ["action_6", 135200306], ["action_7", 135200307], ["action_8", 135200309], ["action_9", 0.0], ["boss_ub_cool_time", 135200310], ["depend_action_1", 0], ["depend_action_10", 0], ["depend_action_2", 0], ["depend_action_3", 0], ["depend_action_4", 0], ["depend_action_5", 0], ["depend_action_6", 0], ["depend_action_7", 0], ["depend_action_8", 0], ["depend_action_9", 0], ["description", "特大幅度提升自身的魔法攻擊力，小幅度提升我方全體物理攻擊暴擊時的傷害，並小幅度恢復ＨＰ。同時，小幅度恢復自身的ＴＰ，小幅度恢復自身以外的我方全體的ＴＰ。魔法攻擊力提升和物理攻擊暴擊時的傷害提升的效果量，以及ＴＰ的恢復量，會依照我方人數而有所變化。"], ["icon_type", 2003], ["name", "冰涼好吃"], ["skill_area_width", 0], ["skill_cast_time", 1.05], ["skill_id", 1352003], ["skill_type", 0]],
+          [["action_1", 135250101], ["action_10", 0], ["action_2", 0], ["action_3", 0], ["action_4", 0], ["action_5", 0], ["action_6", 0], ["action_7", 0], ["action_8", 0], ["action_9", 0.0], ["boss_ub_cool_time", 0], ["depend_action_1", 0], ["depend_action_10", 0], ["depend_action_2", 0], ["depend_action_3", 0], ["depend_action_4", 0], ["depend_action_5", 0], ["depend_action_6", 0], ["depend_action_7", 0], ["depend_action_8", 0], ["depend_action_9", 0], ["description", "戰鬥開始時，中幅度提升自己的魔法攻擊力。"], ["icon_type", 3003], ["name", "快樂夏天"], ["skill_area_width", 0], ["skill_cast_time", 0.0], ["skill_id", 1352501], ["skill_type", 0]],
+          [["action_1", 135251101], ["action_10", 0], ["action_2", 0], ["action_3", 0], ["action_4", 0], ["action_5", 0], ["action_6", 0], ["action_7", 0], ["action_8", 0], ["action_9", 0.0], ["boss_ub_cool_time", 0], ["depend_action_1", 0], ["depend_action_10", 0], ["depend_action_2", 0], ["depend_action_3", 0], ["depend_action_4", 0], ["depend_action_5", 0], ["depend_action_6", 0], ["depend_action_7", 0], ["depend_action_8", 0], ["depend_action_9", 0], ["description", "戰鬥開始時，大幅度提升自己的魔法攻擊力。"], ["icon_type", 3003], ["name", "快樂夏天+"], ["skill_area_width", 0], ["skill_cast_time", 0.0], ["skill_id", 1352511], ["skill_type", 0]],
+          [["action_1", 135200201], ["action_10", 135200208], ["action_2", 135200202], ["action_3", 135200203], ["action_4", 135200204], ["action_5", 135200205], ["action_6", 135200206], ["action_7", 135200207], ["action_8", 135200209], ["action_9", 0.0], ["boss_ub_cool_time", 0], ["depend_action_1", 0], ["depend_action_10", 0], ["depend_action_2", 0], ["depend_action_3", 0], ["depend_action_4", 0], ["depend_action_5", 0], ["depend_action_6", 0], ["depend_action_7", 0], ["depend_action_8", 0], ["depend_action_9", 0], ["description", "目標的物理防禦力低於魔法防禦力時，對面前的１名敵人造成視為物理傷害的大幅度魔法傷害。同時，特大幅度提升我方全體的物理攻擊力，小幅度提升物理攻擊暴擊時的傷害，並展開物理無效的護盾。物理攻擊力提升和物理攻擊暴擊時的傷害提升的效果量，以及護盾的無效傷害量，會依照我方人數而有所變化。"], ["icon_type", 2002], ["name", "種子連射"], ["skill_area_width", 0], ["skill_cast_time", 1.05], ["skill_id", 1352002], ["skill_type", 0]],
+          [["action_1", 135210101], ["action_10", 0], ["action_2", 135210102], ["action_3", 0], ["action_4", 0], ["action_5", 0], ["action_6", 0], ["action_7", 0], ["action_8", 0], ["action_9", 0.0], ["boss_ub_cool_time", 0], ["depend_action_1", 135210102], ["depend_action_10", 0], ["depend_action_2", 135210101], ["depend_action_3", 0], ["depend_action_4", 0], ["depend_action_5", 0], ["depend_action_6", 0], ["depend_action_7", 0], ["depend_action_8", 0], ["depend_action_9", 0], ["description", "【持續發動】自身的必殺技以及技能的傷害與恢復ＨＰ跟物理與魔法攻擊力的總和，會與加總的物理與魔法暴擊率的數值相同。"], ["icon_type", 2017], ["name", "超級快樂"], ["skill_area_width", 0], ["skill_cast_time", 1.05], ["skill_id", 1352101], ["skill_type", 0]],
+          [["action_1", 135200101], ["action_10", 135200108], ["action_2", 135200102], ["action_3", 135200103], ["action_4", 135200104], ["action_5", 135200105], ["action_6", 135200106], ["action_7", 135200107], ["action_8", 135200109], ["action_9", 0.0], ["boss_ub_cool_time", 135200110], ["depend_action_1", 0], ["depend_action_10", 0], ["depend_action_2", 0], ["depend_action_3", 0], ["depend_action_4", 0], ["depend_action_5", 0], ["depend_action_6", 0], ["depend_action_7", 0], ["depend_action_8", 0], ["depend_action_9", 0], ["description", "目標的物理防禦力低於魔法防禦力時，對面前的１名敵方角色給予視為物理傷害的特大幅度魔法傷害，再追加特大幅度的物理傷害。同時，特大幅度提升我方全體的物理攻擊力，並大幅度提升物理暴擊率。提升物理攻擊力與物理暴擊率的效果量，會依照我方人數而有所變化。"], ["icon_type", 1002], ["name", "大豬臀部墜擊"], ["skill_area_width", 0], ["skill_cast_time", 0.0], ["skill_id", 1352001], ["skill_type", 0]]
+        ]
+      }
+    },
+    "promotion_bonus": {
+      "data_changes": {
+        "added": [
+          [["accuracy", 0.0], ["atk", 2700.0], ["def", 0.0], ["dodge", 0.0], ["energy_recovery_rate", 10.0], ["energy_reduce_rate", 0.0], ["hp", 0.0], ["hp_recovery_rate", 0.0], ["life_steal", 0.0], ["magic_critical", 0.0], ["magic_def", 0.0], ["magic_penetrate", 0.0], ["magic_str", 36], ["physical_critical", 0.0], ["physical_penetrate", 0.0], ["promotion_level", 0.0], ["unit_id", 135201], ["wave_energy_recovery", 0.0], ["wave_hp_recovery", 0.0]]
+        ]
+      }
+    },
+    "unit_promotion": {
+      "data_changes": {
+        "added": [
+          [["equip_slot_1", 105227], ["equip_slot_2", 105226], ["equip_slot_3", 105524], ["equip_slot_4", 105375], ["equip_slot_5", 105616], ["equip_slot_6", 105615], ["promotion_level", 16], ["unit_id", 135201]]
+        ]
+      }
+    },
+    "unit_attack_pattern": {
+      "data_changes": {
+        "added": [
+          [["atk_pattern_1", 1001], ["atk_pattern_10", 0], ["atk_pattern_11", 0], ["atk_pattern_12", 0], ["atk_pattern_13", 0], ["atk_pattern_14", 0], ["atk_pattern_15", 0], ["atk_pattern_16", 0], ["atk_pattern_17", 0], ["atk_pattern_18", 0], ["atk_pattern_19", 0], ["atk_pattern_2", 1002], ["atk_pattern_20", 0], ["atk_pattern_3", 1], ["atk_pattern_4", 1002], ["atk_pattern_5", 1], ["atk_pattern_6", 1001], ["atk_pattern_7", 1002], ["atk_pattern_8", 1], ["atk_pattern_9", 1001], ["loop_end", 9], ["loop_start", 5], ["pattern_id", 13520101], ["unit_id", 135201]]
+        ]
+      }
+    },
+    "story_detail": {
+      "data_changes": {
+        "added": [
+          [["can_bookmark", 1], ["end_time", "2030/12/17 14:59:59"], ["force_unlock_time", "2030/12/17 14:59:59"], ["force_unlock_time_2", "2030/12/17 14:59:59"], ["lock_all_text", 0], ["love_level", 8], ["pre_story_id", 1352003], ["pre_story_id_2", 0], ["read_process_flag", 1], ["requirement_id", 135201], ["reward_id_1", 91002], ["reward_id_2", 0], ["reward_id_3", 0], ["reward_type_1", 8], ["reward_type_2", 0], ["reward_type_3", 0], ["reward_value_1", 50], ["reward_value_2", 0], ["reward_value_3", 0], ["start_time", "2015/04/01 15:00:00"], ["story_end", 0], ["story_group_id", 1352], ["story_id", 1352004], ["story_quest_id", 0], ["sub_title", "戲水的皇冠"], ["title", "普蕾西亞（夏日） 第4話"], ["unlock_quest_id", 0], ["visible_type", 0]],
+          [["can_bookmark", 1], ["end_time", "2030/12/17 14:59:59"], ["force_unlock_time", "2025/11/24 05:00:00"], ["force_unlock_time_2", "2030/12/17 14:59:59"], ["lock_all_text", 0], ["love_level", 0], ["pre_story_id", 0], ["pre_story_id_2", 0], ["read_process_flag", 1], ["requirement_id", 135201], ["reward_id_1", 91002], ["reward_id_2", 0], ["reward_id_3", 0], ["reward_type_1", 8], ["reward_type_2", 0], ["reward_type_3", 0], ["reward_value_1", 20], ["reward_value_2", 0], ["reward_value_3", 0], ["start_time", "2015/04/01 15:00:00"], ["story_end", 0], ["story_group_id", 1352], ["story_id", 1352001], ["story_quest_id", 0], ["sub_title", "幸福的大豬"], ["title", "普蕾西亞（夏日） 第1話"], ["unlock_quest_id", 0], ["visible_type", 0]],
+          [["can_bookmark", 1], ["end_time", "2030/12/17 14:59:59"], ["force_unlock_time", "2030/12/17 14:59:59"], ["force_unlock_time_2", "2030/12/17 14:59:59"], ["lock_all_text", 0], ["love_level", 4], ["pre_story_id", 1352001], ["pre_story_id_2", 0], ["read_process_flag", 1], ["requirement_id", 135201], ["reward_id_1", 91002], ["reward_id_2", 0], ["reward_id_3", 0], ["reward_type_1", 8], ["reward_type_2", 0], ["reward_type_3", 0], ["reward_value_1", 20], ["reward_value_2", 0], ["reward_value_3", 0], ["start_time", "2015/04/01 15:00:00"], ["story_end", 0], ["story_group_id", 1352], ["story_id", 1352002], ["story_quest_id", 0], ["sub_title", "跨種族的家人"], ["title", "普蕾西亞（夏日） 第2話"], ["unlock_quest_id", 0], ["visible_type", 0]],
+          [["can_bookmark", 1], ["end_time", "2030/12/17 14:59:59"], ["force_unlock_time", "2030/12/17 14:59:59"], ["force_unlock_time_2", "2030/12/17 14:59:59"], ["lock_all_text", 0], ["love_level", 5], ["pre_story_id", 1352002], ["pre_story_id_2", 0], ["read_process_flag", 1], ["requirement_id", 135201], ["reward_id_1", 91002], ["reward_id_2", 0], ["reward_id_3", 0], ["reward_type_1", 8], ["reward_type_2", 0], ["reward_type_3", 0], ["reward_value_1", 20], ["reward_value_2", 0], ["reward_value_3", 0], ["start_time", "2015/04/01 15:00:00"], ["story_end", 0], ["story_group_id", 1352], ["story_id", 1352003], ["story_quest_id", 0], ["sub_title", "孤島的比戈爾"], ["title", "普蕾西亞（夏日） 第3話"], ["unlock_quest_id", 0], ["visible_type", 0]]
+        ]
+      }
+    },
+    "spskill_label_data": {
+      "data_changes": {
+        "added": [
+          [["normal_label_text", "平常時"], ["sp_label_text", "特殊效果"], ["unit_id", 135201]]
+        ]
+      }
+    },
+    "campaign_schedule": {
+      "data_changes": {
+        "added": [
+          [["beginner_id", 0], ["campaign_category", 100], ["campaign_type", 1], ["duplication_order", 0], ["end_time", "2025/12/01 04:59:59"], ["icon_image", 100], ["id", 2558], ["level_id", 0], ["lv_from", 1], ["lv_to", -1], ["shiori_group_id", 0], ["start_time", "2025/11/26 05:00:00"], ["system_id", 8004], ["value", 1500.0]],
+          [["beginner_id", 0], ["campaign_category", 94], ["campaign_type", 1], ["duplication_order", 0], ["end_time", "2025/12/01 04:59:59"], ["icon_image", 100], ["id", 2556], ["level_id", 0], ["lv_from", 1], ["lv_to", -1], ["shiori_group_id", 0], ["start_time", "2025/11/26 05:00:00"], ["system_id", 109], ["value", 1500.0]],
+          [["beginner_id", 0], ["campaign_category", 91], ["campaign_type", 1], ["duplication_order", 0], ["end_time", "2025/12/01 04:59:59"], ["icon_image", 100], ["id", 2553], ["level_id", 0], ["lv_from", 1], ["lv_to", -1], ["shiori_group_id", 0], ["start_time", "2025/11/26 05:00:00"], ["system_id", 101], ["value", 1500.0]],
+          [["beginner_id", 0], ["campaign_category", 101], ["campaign_type", 1], ["duplication_order", 0], ["end_time", "2025/12/01 04:59:59"], ["icon_image", 100], ["id", 2559], ["level_id", 0], ["lv_from", 1], ["lv_to", -1], ["shiori_group_id", 0], ["start_time", "2025/11/26 05:00:00"], ["system_id", 8005], ["value", 1500.0]],
+          [["beginner_id", 0], ["campaign_category", 651], ["campaign_type", 1], ["duplication_order", 0], ["end_time", "2025/12/01 04:59:59"], ["icon_image", 100], ["id", 2560], ["level_id", 0], ["lv_from", 1], ["lv_to", -1], ["shiori_group_id", 0], ["start_time", "2025/11/26 05:00:00"], ["system_id", 130], ["value", 1500.0]],
+          [["beginner_id", 0], ["campaign_category", 95], ["campaign_type", 1], ["duplication_order", 0], ["end_time", "2025/12/01 04:59:59"], ["icon_image", 100], ["id", 2557], ["level_id", 0], ["lv_from", 1], ["lv_to", -1], ["shiori_group_id", 0], ["start_time", "2025/11/26 05:00:00"], ["system_id", 112], ["value", 1500.0]],
+          [["beginner_id", 0], ["campaign_category", 93], ["campaign_type", 1], ["duplication_order", 0], ["end_time", "2025/12/01 04:59:59"], ["icon_image", 100], ["id", 2555], ["level_id", 0], ["lv_from", 1], ["lv_to", -1], ["shiori_group_id", 0], ["start_time", "2025/11/26 05:00:00"], ["system_id", 111], ["value", 1500.0]],
+          [["beginner_id", 0], ["campaign_category", 92], ["campaign_type", 1], ["duplication_order", 0], ["end_time", "2025/12/01 04:59:59"], ["icon_image", 100], ["id", 2554], ["level_id", 0], ["lv_from", 1], ["lv_to", -1], ["shiori_group_id", 0], ["start_time", "2025/11/26 05:00:00"], ["system_id", 102], ["value", 1500.0]]
+        ]
+      }
+    },
+    "unit_profile": {
+      "data_changes": {
+        "added": [
+          [["age", "10"], ["birth_day", "1"], ["birth_month", "3"], ["blood_type", "O"], ["catch_copy", "繼承正義靈魂的爆食系天才純真女孩"], ["favorite", "吃飯"], ["guild", "幻變少女"], ["guild_id", "20"], ["height", "135"], ["race", "獸人族"], ["self_text", ""], ["unit_id", 135201], ["unit_name", "普蕾西亞（夏日）"], ["voice", "高尾奏音"], ["voice_id", 0], ["weight", "34"]]
+        ]
+      }
+    },
+    "unit_skill_data": {
+      "data_changes": {
+        "added": [
+          [["ex_skill_1", 1352501], ["ex_skill_2", 0], ["ex_skill_3", 0], ["ex_skill_4", 0], ["ex_skill_5", 0], ["ex_skill_evolution_1", 1352511], ["ex_skill_evolution_2", 0], ["ex_skill_evolution_3", 0], ["ex_skill_evolution_4", 0], ["ex_skill_evolution_5", 0], ["main_skill_1", 1352002], ["main_skill_10", 0], ["main_skill_2", 1352003], ["main_skill_3", 0], ["main_skill_4", 0], ["main_skill_5", 0], ["main_skill_6", 0], ["main_skill_7", 0], ["main_skill_8", 0], ["main_skill_9", 0], ["main_skill_evolution_1", 0], ["main_skill_evolution_2", 0], ["sp_skill_1", 1352101], ["sp_skill_2", 0], ["sp_skill_3", 0], ["sp_skill_4", 0], ["sp_skill_5", 0], ["sp_skill_evolution_1", 0], ["sp_skill_evolution_2", 0], ["sp_union_burst", 0], ["union_burst", 1352001], ["union_burst_evolution", 0], ["unit_id", 135201]]
+        ]
+      }
+    },
+    "gacha_data": {
+      "data_changes": {
+        "added": [
+          [["b445862d0ab66dcf0d21148e77310f8e2f88e53c87861cd1b30c6271489741b7", 0], ["chara_odds_star1", "20397_1"], ["chara_odds_star2", "20397_2"], ["chara_odds_star3", "20397_3"], ["description", "白金轉蛋僅會出現角色喔！"], ["description_2", ""], ["description_sp", ""], ["discount_price", 50], ["end_time", "2025/12/01 15:59:59"], ["exchange_id", 398], ["ff12a2d323be4140b5b5f0e3db8f93c207d4d0594eff84913f280ebb8f5fbfcd", 0], ["free_gacha_count", 0], ["free_gacha_interval_time", 0], ["free_gacha_type", 0], ["gacha10_special_odds_star1", "0"], ["gacha10_special_odds_star2", ""], ["gacha10_special_odds_star3", "0"], ["gacha_bonus_id", 0], ["gacha_cost_type", 2], ["gacha_detail", 2], ["gacha_id", 20397], ["gacha_name", "白金轉蛋"], ["gacha_odds", "0"], ["gacha_odds_star2", "0"], ["gacha_times_limit10", 0], ["gacha_type", 1], ["movie_id", 200001], ["parallel_id", 0], ["pick_up_chara_text", "無精選角色"], ["pickup_badge", 0], ["pickup_id", 0], ["price", 150], ["prizegacha_id", 0], ["rarity_odds", "300000"], ["special_id", 0], ["start_time", "2025/11/24 16:00:00"], ["tab_name", "0"], ["ticket_id", 24001], ["ticket_id_10", 24004], ["title_id", 0]],
+          [["b445862d0ab66dcf0d21148e77310f8e2f88e53c87861cd1b30c6271489741b7", 0], ["chara_odds_star1", "30398_1"], ["chara_odds_star2", "30398_2"], ["chara_odds_star3", "30398_3"], ["description", "限定「普蕾西亞（夏日）」登場！\\n期間內出現率UP！"], ["description_2", ""], ["description_sp", ""], ["discount_price", 50], ["end_time", "2025/12/01 15:59:59"], ["exchange_id", 398], ["ff12a2d323be4140b5b5f0e3db8f93c207d4d0594eff84913f280ebb8f5fbfcd", 1], ["free_gacha_count", 0], ["free_gacha_interval_time", 0], ["free_gacha_type", 0], ["gacha10_special_odds_star1", "0"], ["gacha10_special_odds_star2", "[3C404E]每次讓目標角色加入時[FFBB00,CE4F00][-]獲得[-]角色記憶碎片200個！"], ["gacha10_special_odds_star3", "0"], ["gacha_bonus_id", 1185], ["gacha_cost_type", 2], ["gacha_detail", 2], ["gacha_id", 30398], ["gacha_name", "精選轉蛋"], ["gacha_odds", "0"], ["gacha_odds_star2", "0"], ["gacha_times_limit10", 0], ["gacha_type", 1], ["movie_id", 300398], ["parallel_id", 0], ["pick_up_chara_text", "普蕾西亞（夏日）"], ["pickup_badge", 0], ["pickup_id", 0], ["price", 150], ["prizegacha_id", 0], ["rarity_odds", "300000"], ["special_id", 0], ["start_time", "2025/11/24 16:00:00"], ["tab_name", "0"], ["ticket_id", 24001], ["ticket_id_10", 24004], ["title_id", 0]],
+          [["b445862d0ab66dcf0d21148e77310f8e2f88e53c87861cd1b30c6271489741b7", 0], ["chara_odds_star1", "30397_1"], ["chara_odds_star2", "30397_2"], ["chara_odds_star3", "30397_3"], ["description", "可自選精選角色！\\n『10 連轉蛋』確定有1個5等以上！"], ["description_2", ""], ["description_sp", ""], ["discount_price", 50], ["end_time", "2025/12/01 15:59:59"], ["exchange_id", 397], ["ff12a2d323be4140b5b5f0e3db8f93c207d4d0594eff84913f280ebb8f5fbfcd", 0], ["free_gacha_count", 0], ["free_gacha_interval_time", 0], ["free_gacha_type", 0], ["gacha10_special_odds_star1", "0"], ["gacha10_special_odds_star2", ""], ["gacha10_special_odds_star3", "0"], ["gacha_bonus_id", 0], ["gacha_cost_type", 2], ["gacha_detail", 2], ["gacha_id", 30397], ["gacha_name", "可自選的獎勵轉蛋"], ["gacha_odds", "0"], ["gacha_odds_star2", "0"], ["gacha_times_limit10", 0], ["gacha_type", 1], ["movie_id", 300397], ["parallel_id", 0], ["pick_up_chara_text", "梅杜莎\\n七七香（夏日）\\n流夏（夏日）\\n真琴（夏日）"], ["pickup_badge", 0], ["pickup_id", 45], ["price", 150], ["prizegacha_id", 100166], ["rarity_odds", "300000"], ["special_id", 0], ["start_time", "2025/11/24 16:00:00"], ["tab_name", "0"], ["ticket_id", 24001], ["ticket_id_10", 24004], ["title_id", 1]],
+          [["b445862d0ab66dcf0d21148e77310f8e2f88e53c87861cd1b30c6271489741b7", 0], ["chara_odds_star1", "0"], ["chara_odds_star2", "0"], ["chara_odds_star3", "0"], ["description", "取得道具獎勵或記憶碎片吧！"], ["description_2", ""], ["description_sp", ""], ["discount_price", 0], ["end_time", "2025/12/01 15:59:59"], ["exchange_id", 0], ["ff12a2d323be4140b5b5f0e3db8f93c207d4d0594eff84913f280ebb8f5fbfcd", 0], ["free_gacha_count", 10], ["free_gacha_interval_time", 0], ["free_gacha_type", 1], ["gacha10_special_odds_star1", "0"], ["gacha10_special_odds_star2", ""], ["gacha10_special_odds_star3", "0"], ["gacha_bonus_id", 0], ["gacha_cost_type", 3], ["gacha_detail", 1], ["gacha_id", 10397], ["gacha_name", "一般轉蛋"], ["gacha_odds", "10397"], ["gacha_odds_star2", ""], ["gacha_times_limit10", 0], ["gacha_type", 0], ["movie_id", 0], ["parallel_id", 0], ["pick_up_chara_text", ""], ["pickup_badge", 0], ["pickup_id", 0], ["price", 0], ["prizegacha_id", 0], ["rarity_odds", "0"], ["special_id", 0], ["start_time", "2025/11/24 16:00:00"], ["tab_name", "0"], ["ticket_id", 0], ["ticket_id_10", 0], ["title_id", 0]]
+        ]
+      }
+    },
+    "chara_identity": {
+      "data_changes": {
+        "added": [
+          [["chara_type", 261], ["chara_type_2", 0], ["chara_type_3", 0], ["unit_id", 135201]]
+        ]
+      }
+    },
+    "unit_comments": {
+      "data_changes": {
+        "added": [
+          [["all_comments_flag", 0], ["change_face", 1], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 0.0], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "哥。生日快樂。\\n我馬上，就會，變成大人。\\n所以要。等我喔。"], ["face_id", 1], ["face_id_2", 0], ["face_id_3", 0], ["id", 1352012], ["target_unit_id", 0], ["unit_id", 135231], ["use_type", 2], ["voice_id", 6]],
+          [["all_comments_flag", 0], ["change_face", 2], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 0.0], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "生日、快樂。\\n我釣了，\\n魚。\\n一起，吃吧？"], ["face_id", 2], ["face_id_2", 0], ["face_id_3", 0], ["id", 1352011], ["target_unit_id", 0], ["unit_id", 135201], ["use_type", 2], ["voice_id", 6]],
+          [["all_comments_flag", 0], ["change_face", 1], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 0.0], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "（盯……）\\n有、很多魚……\\n但是。牠們還小。\\n還要忍耐。"], ["face_id", 1], ["face_id_2", 0], ["face_id_3", 0], ["id", 1352007], ["target_unit_id", 0], ["unit_id", 135231], ["use_type", 1], ["voice_id", 2]],
+          [["all_comments_flag", 0], ["change_face", 1], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 0.0], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "雙馬尾，\\n吸滿，海水。\\n哥，左邊的馬尾，\\n幫我擰乾？"], ["face_id", 1], ["face_id_2", 0], ["face_id_3", 0], ["id", 1352008], ["target_unit_id", 0], ["unit_id", 135231], ["use_type", 1], ["voice_id", 3]],
+          [["all_comments_flag", 0], ["change_face", 2], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 0.0], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "BBQ。\\n海之家。\\n攤販。\\n海邊，是好地方。"], ["face_id", 2], ["face_id_2", 0], ["face_id_3", 0], ["id", 1352001], ["target_unit_id", 0], ["unit_id", 135201], ["use_type", 1], ["voice_id", 1]],
+          [["all_comments_flag", 0], ["change_face", 1], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 0.0], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "補充水分，很重要。\\n哥，給你，飲料。\\n這很好喝、喔？"], ["face_id", 1], ["face_id_2", 0], ["face_id_3", 0], ["id", 1352010], ["target_unit_id", 0], ["unit_id", 135231], ["use_type", 1], ["voice_id", 5]],
+          [["all_comments_flag", 0], ["change_face", 2], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 5.3], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "哥的、\\n泳裝，\\n是鳳梨。\\n好像很好吃。"], ["face_id", 6], ["face_id_2", 0], ["face_id_3", 0], ["id", 1352005], ["target_unit_id", 0], ["unit_id", 135201], ["use_type", 1], ["voice_id", 5]],
+          [["all_comments_flag", 0], ["change_face", 2], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 0.0], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "哥。來玩吧。\\n天，還很亮、喔。\\n海，很有趣、喔。"], ["face_id", 2], ["face_id_2", 0], ["face_id_3", 0], ["id", 1352004], ["target_unit_id", 0], ["unit_id", 135201], ["use_type", 1], ["voice_id", 4]],
+          [["all_comments_flag", 0], ["change_face", 2], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 3.4], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "在海邊，也要巡邏。\\n啊。\\n發現，貝殼。\\n好漂亮。"], ["face_id", 1], ["face_id_2", 0], ["face_id_3", 0], ["id", 1352003], ["target_unit_id", 0], ["unit_id", 135201], ["use_type", 1], ["voice_id", 3]],
+          [["all_comments_flag", 0], ["change_face", 7], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 0.0], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "噗嗚……\\n沙灘，好熱……\\n快變成、\\n烤豬了。"], ["face_id", 7], ["face_id_2", 0], ["face_id_3", 0], ["id", 1352002], ["target_unit_id", 0], ["unit_id", 135201], ["use_type", 1], ["voice_id", 2]],
+          [["all_comments_flag", 0], ["change_face", 1], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 0.0], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "冰魔法──\\n冰冰的，普蕾西亞。\\n把哥給，抱住。\\n來涼快，抱住。"], ["face_id", 1], ["face_id_2", 0], ["face_id_3", 0], ["id", 1352009], ["target_unit_id", 0], ["unit_id", 135231], ["use_type", 1], ["voice_id", 4]],
+          [["all_comments_flag", 0], ["change_face", 1], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 0.0], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "哥。也要來，漂浮嗎？\\n很舒服，很好玩。\\n隨波、逐流。\\n冒險，開始。"], ["face_id", 1], ["face_id_2", 0], ["face_id_3", 0], ["id", 1352006], ["target_unit_id", 0], ["unit_id", 135231], ["use_type", 1], ["voice_id", 1]]
+        ]
+      }
+    }
+  }
+}
