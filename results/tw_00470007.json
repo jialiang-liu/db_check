@@ -1,0 +1,62 @@
+{
+  "tables": {
+    "only_in_old_db": [],
+    "only_in_new_db": []
+  },
+  "table_changes": {
+    "wave_group_data": {
+      "data_changes": {
+        "added": [
+          [["drop_gold_1", 0], ["drop_gold_2", 0], ["drop_gold_3", 0], ["drop_gold_4", 0], ["drop_gold_5", 0], ["drop_reward_id_1", 0], ["drop_reward_id_2", 0], ["drop_reward_id_3", 0], ["drop_reward_id_4", 0], ["drop_reward_id_5", 0], ["enemy_id_1", 660066201], ["enemy_id_2", 0], ["enemy_id_3", 0], ["enemy_id_4", 0], ["enemy_id_5", 0], ["guest_enemy_id", 0], ["guest_lane", 0], ["id", 660066002], ["odds", 100], ["wave_group_id", 660066002]],
+          [["drop_gold_1", 0], ["drop_gold_2", 0], ["drop_gold_3", 0], ["drop_gold_4", 0], ["drop_gold_5", 0], ["drop_reward_id_1", 0], ["drop_reward_id_2", 0], ["drop_reward_id_3", 0], ["drop_reward_id_4", 0], ["drop_reward_id_5", 0], ["enemy_id_1", 660066301], ["enemy_id_2", 0], ["enemy_id_3", 0], ["enemy_id_4", 0], ["enemy_id_5", 0], ["guest_enemy_id", 0], ["guest_lane", 0], ["id", 660066003], ["odds", 100], ["wave_group_id", 660066003]],
+          [["drop_gold_1", 0], ["drop_gold_2", 0], ["drop_gold_3", 0], ["drop_gold_4", 0], ["drop_gold_5", 0], ["drop_reward_id_1", 0], ["drop_reward_id_2", 0], ["drop_reward_id_3", 0], ["drop_reward_id_4", 0], ["drop_reward_id_5", 0], ["enemy_id_1", 660066101], ["enemy_id_2", 0], ["enemy_id_3", 0], ["enemy_id_4", 0], ["enemy_id_5", 0], ["guest_enemy_id", 0], ["guest_lane", 0], ["id", 660066001], ["odds", 100], ["wave_group_id", 660066001]]
+        ]
+      }
+    },
+    "shiori_event_list": {
+      "data_changes": {
+        "added": [
+          [["banner_y", 0], ["condition_chara_id", 0], ["condition_main_quest_id", 0], ["condition_shiori_quest_id", 0], ["condition_story_id", 0], ["end_time", "2030/04/19 15:00:00"], ["event_id", 20066], ["gojuon_order", 2394], ["help_index", "1,39"], ["original_event_id", 10124], ["original_start_time", "2023/12/01 16:00:00"], ["series_event_id", 0], ["start_time", "2025/11/26 16:00:00"]]
+        ]
+      }
+    },
+    "seven_schedule": {
+      "data_changes": {
+        "added": [
+          [["end_time", "2025/12/24 04:59:59"], ["event_id", 10207], ["event_type", 1], ["gacha_id", 1020701], ["gacha_ticket_id", 62071], ["mission_group_id", 102], ["schedule_id", 1007], ["start_time", "2025/12/01 16:00:00"], ["teaser_time", "2025/11/28 16:00:00"], ["unknown_1", 1001]]
+        ]
+      }
+    },
+    "unit_data": {
+      "data_changes": {
+        "modified": [
+          {
+            "id": 127001,
+            "old": [["atk_type", 1], ["comment", "【物理】位於前衛，追求新刺激的泳裝被虐狂女孩。\\n持有自身HP越低，效果量就越增加的技能，並藉著提升\\n技能的物理攻擊力和UB的傷害，躍入勝利的大海。"], ["cutin1_star6", 127001], ["cutin2_star6", 0], ["cutin_1", 127001], ["cutin_2", 0], ["end_time", "2023/12/15 15:59:59"], ["exskill_display", 0], ["guild_id", 0], ["is_limited", 1], ["kana", "空花（夏日）"], ["motion_type", 52], ["move_speed", 450], ["normal_atk_cast_time", 1.97], ["only_disp_owned", 1], ["original_unit_id", 0], ["prefab_id", 127001], ["prefab_id_battle", 0], ["rarity", 1], ["se_type", 2], ["search_area_width", 133], ["start_time", "2023/12/01 16:00:00"], ["unit_id", 127001], ["unit_name", "空花（夏日）"], ["unknown_1", 0]],
+            "new": [["atk_type", 1], ["comment", "【物理】位於前衛，追求新刺激的泳裝被虐狂女孩。\\n持有自身HP越低，效果量就越增加的技能，並藉著提升\\n技能的物理攻擊力和UB的傷害，躍入勝利的大海。"], ["cutin1_star6", 127001], ["cutin2_star6", 0], ["cutin_1", 127001], ["cutin_2", 0], ["end_time", "2030/12/31 15:00:00"], ["exskill_display", 0], ["guild_id", 0], ["is_limited", 1], ["kana", "空花（夏日）"], ["motion_type", 52], ["move_speed", 450], ["normal_atk_cast_time", 1.97], ["only_disp_owned", 0], ["original_unit_id", 0], ["prefab_id", 127001], ["prefab_id_battle", 0], ["rarity", 1], ["se_type", 2], ["search_area_width", 133], ["start_time", "2025/11/26 16:00:00"], ["unit_id", 127001], ["unit_name", "空花（夏日）"], ["unknown_1", 0]]
+          }
+        ]
+      }
+    },
+    "event_story_data": {
+      "data_changes": {
+        "modified": [
+          {
+            "id": 5124,
+            "old": [["disp_order", 1], ["end_time", "2030/04/24 14:59:59"], ["start_time", "2023/11/29 16:00:00"], ["story_group_id", 5124], ["story_type", 5], ["thumbnail_id", 0], ["title", "戰慄幽奇海岸　\\n～夏日度假村驚悚怪談～"], ["value", 10151]],
+            "new": [["disp_order", 1], ["end_time", "2030/04/24 14:59:59"], ["start_time", "2023/11/29 16:00:00"], ["story_group_id", 5124], ["story_type", 5], ["thumbnail_id", 0], ["title", "戰慄幽奇海岸　\\n～夏日度假村驚悚怪談～"], ["value", 20066]]
+          }
+        ]
+      }
+    },
+    "enemy_parameter": {
+      "data_changes": {
+        "added": [
+          [["accuracy", 50], ["atk", 0], ["break_durability", 0], ["def", 400], ["dodge", 0], ["enemy_id", 660066301], ["energy_recovery_rate", 30], ["energy_reduce_rate", 0], ["ex_skill_lv_1", 0], ["ex_skill_lv_2", 0], ["ex_skill_lv_3", 0], ["ex_skill_lv_4", 0], ["ex_skill_lv_5", 0], ["hp", 8000000], ["hp_recovery_rate", 0], ["level", 120], ["life_steal", 0], ["magic_critical", 0], ["magic_def", 350], ["magic_penetrate", 0], ["magic_str", 5000], ["main_skill_lv_1", 800], ["main_skill_lv_10", 0], ["main_skill_lv_2", 500], ["main_skill_lv_3", 350], ["main_skill_lv_4", 300], ["main_skill_lv_5", 0], ["main_skill_lv_6", 0], ["main_skill_lv_7", 0], ["main_skill_lv_8", 0], ["main_skill_lv_9", 0], ["name", "怨恨亡靈"], ["physical_critical", 0], ["physical_penetrate", 0], ["promotion_level", 1], ["rarity", 1], ["resist_status_id", 300000022], ["resist_variation_id", 0], ["union_burst_level", 2000], ["unique_equipment_flag_1", 0], ["unit_id", 319302], ["virtual_hp", 0], ["wave_energy_recovery", 0], ["wave_hp_recovery", 0]],
+          [["accuracy", 50], ["atk", 0], ["break_durability", 0], ["def", 50], ["dodge", 0], ["enemy_id", 660066201], ["energy_recovery_rate", 30], ["energy_reduce_rate", 0], ["ex_skill_lv_1", 0], ["ex_skill_lv_2", 0], ["ex_skill_lv_3", 0], ["ex_skill_lv_4", 0], ["ex_skill_lv_5", 0], ["hp", 740000], ["hp_recovery_rate", 0], ["level", 50], ["life_steal", 0], ["magic_critical", 0], ["magic_def", 50], ["magic_penetrate", 0], ["magic_str", 150], ["main_skill_lv_1", 250], ["main_skill_lv_10", 0], ["main_skill_lv_2", 180], ["main_skill_lv_3", 0], ["main_skill_lv_4", 200], ["main_skill_lv_5", 0], ["main_skill_lv_6", 0], ["main_skill_lv_7", 0], ["main_skill_lv_8", 0], ["main_skill_lv_9", 0], ["name", "怨恨亡靈"], ["physical_critical", 0], ["physical_penetrate", 0], ["promotion_level", 1], ["rarity", 1], ["resist_status_id", 300000022], ["resist_variation_id", 0], ["union_burst_level", 300], ["unique_equipment_flag_1", 0], ["unit_id", 319301], ["virtual_hp", 0], ["wave_energy_recovery", 0], ["wave_hp_recovery", 0]],
+          [["accuracy", 50], ["atk", 0], ["break_durability", 0], ["def", 20], ["dodge", 0], ["enemy_id", 660066101], ["energy_recovery_rate", 30], ["energy_reduce_rate", 0], ["ex_skill_lv_1", 0], ["ex_skill_lv_2", 0], ["ex_skill_lv_3", 0], ["ex_skill_lv_4", 0], ["ex_skill_lv_5", 0], ["hp", 55000], ["hp_recovery_rate", 0], ["level", 25], ["life_steal", 0], ["magic_critical", 0], ["magic_def", 20], ["magic_penetrate", 0], ["magic_str", 20], ["main_skill_lv_1", 40], ["main_skill_lv_10", 0], ["main_skill_lv_2", 20], ["main_skill_lv_3", 0], ["main_skill_lv_4", 40], ["main_skill_lv_5", 0], ["main_skill_lv_6", 0], ["main_skill_lv_7", 0], ["main_skill_lv_8", 0], ["main_skill_lv_9", 0], ["name", "怨恨亡靈"], ["physical_critical", 0], ["physical_penetrate", 0], ["promotion_level", 1], ["rarity", 1], ["resist_status_id", 300000022], ["resist_variation_id", 0], ["union_burst_level", 60], ["unique_equipment_flag_1", 0], ["unit_id", 319300], ["virtual_hp", 0], ["wave_energy_recovery", 0], ["wave_hp_recovery", 0]]
+        ]
+      }
+    }
+  }
+}
