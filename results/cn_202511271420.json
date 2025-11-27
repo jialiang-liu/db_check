@@ -1,0 +1,54 @@
+{
+  "tables": {
+    "only_in_old_db": [],
+    "only_in_new_db": []
+  },
+  "table_changes": {
+    "campaign_schedule": {
+      "data_changes": {
+        "added": [
+          [["beginner_id", 0], ["campaign_category", 49], ["campaign_type", 3], ["duplication_order", 0], ["end_time", "2025/12/15 10:59:59"], ["icon_image", 42], ["id", 6138], ["level_id", 0], ["lv_from", 1], ["lv_to", 270], ["shiori_group_id", 0], ["start_time", "2025/12/15 05:00:00"], ["system_id", 111], ["value", 3000.0]],
+          [["beginner_id", 0], ["campaign_category", 38], ["campaign_type", 1], ["duplication_order", 0], ["end_time", "2025/12/30 10:59:59"], ["icon_image", 30], ["id", 6141], ["level_id", 0], ["lv_from", 1], ["lv_to", -1], ["shiori_group_id", 0], ["start_time", "2025/12/15 05:00:00"], ["system_id", 112], ["value", 2000.0]],
+          [["beginner_id", 0], ["campaign_category", 39], ["campaign_type", 3], ["duplication_order", 0], ["end_time", "2025/12/15 10:59:59"], ["icon_image", 32], ["id", 6136], ["level_id", 0], ["lv_from", 1], ["lv_to", 270], ["shiori_group_id", 0], ["start_time", "2025/12/15 05:00:00"], ["system_id", 111], ["value", 3000.0]],
+          [["beginner_id", 0], ["campaign_category", 37], ["campaign_type", 1], ["duplication_order", 0], ["end_time", "2025/12/30 10:59:59"], ["icon_image", 30], ["id", 6140], ["level_id", 0], ["lv_from", 1], ["lv_to", -1], ["shiori_group_id", 0], ["start_time", "2025/12/15 05:00:00"], ["system_id", 109], ["value", 2000.0]],
+          [["beginner_id", 0], ["campaign_category", 49], ["campaign_type", 1], ["duplication_order", 0], ["end_time", "2025/12/30 10:59:59"], ["icon_image", 40], ["id", 6139], ["level_id", 0], ["lv_from", 1], ["lv_to", -1], ["shiori_group_id", 0], ["start_time", "2025/12/15 05:00:00"], ["system_id", 111], ["value", 2000.0]],
+          [["beginner_id", 0], ["campaign_category", 39], ["campaign_type", 1], ["duplication_order", 0], ["end_time", "2025/12/30 10:59:59"], ["icon_image", 30], ["id", 6137], ["level_id", 0], ["lv_from", 1], ["lv_to", -1], ["shiori_group_id", 0], ["start_time", "2025/12/15 05:00:00"], ["system_id", 111], ["value", 2000.0]],
+          [["beginner_id", 0], ["campaign_category", 44], ["campaign_type", 1], ["duplication_order", 0], ["end_time", "2025/12/30 10:59:59"], ["icon_image", 40], ["id", 6143], ["level_id", 0], ["lv_from", 1], ["lv_to", -1], ["shiori_group_id", 0], ["start_time", "2025/12/15 05:00:00"], ["system_id", 103], ["value", 2000.0]],
+          [["beginner_id", 0], ["campaign_category", 34], ["campaign_type", 1], ["duplication_order", 0], ["end_time", "2025/12/30 10:59:59"], ["icon_image", 30], ["id", 6142], ["level_id", 0], ["lv_from", 1], ["lv_to", -1], ["shiori_group_id", 0], ["start_time", "2025/12/15 05:00:00"], ["system_id", 103], ["value", 2000.0]]
+        ],
+        "deleted": [
+          [["beginner_id", 0], ["campaign_category", 38], ["campaign_type", 1], ["duplication_order", 0], ["end_time", "2026/01/10 04:59:59"], ["icon_image", 30], ["id", 6087], ["level_id", 0], ["lv_from", 1], ["lv_to", -1], ["shiori_group_id", 0], ["start_time", "2025/12/15 05:00:00"], ["system_id", 112], ["value", 2000.0]],
+          [["beginner_id", 0], ["campaign_category", 49], ["campaign_type", 3], ["duplication_order", 0], ["end_time", "2025/12/15 10:59:59"], ["icon_image", 42], ["id", 6135], ["level_id", 0], ["lv_from", 1], ["lv_to", 270], ["shiori_group_id", 0], ["start_time", "2025/12/15 05:00:00"], ["system_id", 111], ["value", 3000.0]],
+          [["beginner_id", 0], ["campaign_category", 44], ["campaign_type", 1], ["duplication_order", 0], ["end_time", "2026/01/14 04:59:59"], ["icon_image", 40], ["id", 6089], ["level_id", 0], ["lv_from", 1], ["lv_to", -1], ["shiori_group_id", 0], ["start_time", "2025/12/15 05:00:00"], ["system_id", 103], ["value", 2000.0]],
+          [["beginner_id", 0], ["campaign_category", 34], ["campaign_type", 1], ["duplication_order", 0], ["end_time", "2026/01/14 04:59:59"], ["icon_image", 30], ["id", 6088], ["level_id", 0], ["lv_from", 1], ["lv_to", -1], ["shiori_group_id", 0], ["start_time", "2025/12/15 05:00:00"], ["system_id", 103], ["value", 2000.0]],
+          [["beginner_id", 0], ["campaign_category", 49], ["campaign_type", 1], ["duplication_order", 0], ["end_time", "2026/01/10 04:59:59"], ["icon_image", 40], ["id", 6085], ["level_id", 0], ["lv_from", 1], ["lv_to", -1], ["shiori_group_id", 0], ["start_time", "2025/12/15 05:00:00"], ["system_id", 111], ["value", 2000.0]],
+          [["beginner_id", 0], ["campaign_category", 37], ["campaign_type", 1], ["duplication_order", 0], ["end_time", "2026/01/10 04:59:59"], ["icon_image", 30], ["id", 6086], ["level_id", 0], ["lv_from", 1], ["lv_to", -1], ["shiori_group_id", 0], ["start_time", "2025/12/15 05:00:00"], ["system_id", 109], ["value", 2000.0]],
+          [["beginner_id", 0], ["campaign_category", 39], ["campaign_type", 1], ["duplication_order", 0], ["end_time", "2026/01/10 04:59:59"], ["icon_image", 30], ["id", 6083], ["level_id", 0], ["lv_from", 1], ["lv_to", -1], ["shiori_group_id", 0], ["start_time", "2025/12/15 05:00:00"], ["system_id", 111], ["value", 2000.0]],
+          [["beginner_id", 0], ["campaign_category", 39], ["campaign_type", 3], ["duplication_order", 0], ["end_time", "2025/12/15 10:59:59"], ["icon_image", 32], ["id", 6129], ["level_id", 0], ["lv_from", 1], ["lv_to", 270], ["shiori_group_id", 0], ["start_time", "2025/12/15 05:00:00"], ["system_id", 111], ["value", 3000.0]]
+        ]
+      }
+    },
+    "skill_data": {
+      "data_changes": {
+        "modified": [
+          {
+            "id": 1115001,
+            "old": [["action_1", 111500101], ["action_10", 0], ["action_2", 111500102], ["action_3", 111500103], ["action_4", 111500104], ["action_5", 111500105], ["action_6", 111500106], ["action_7", 111500107], ["action_8", 0], ["action_9", 0], ["boss_ub_cool_time", 0.0], ["depend_action_1", 0], ["depend_action_10", 0], ["depend_action_2", 0], ["depend_action_3", 0], ["depend_action_4", 0], ["depend_action_5", 111500104], ["depend_action_6", 111500105], ["depend_action_7", 111500104], ["depend_action_8", 0], ["depend_action_9", 0], ["description", "未持有硬币时，对前方一名敌人造成物理伤害（特大），特大幅度提升自身的物理攻击力，并获得硬币。持有硬币时，可消耗硬币，对其造成必定命中的物理伤害（特大）。"], ["icon_type", 1001], ["name", "二元阿瓦隆"], ["skill_area_width", 0], ["skill_cast_time", 0.0], ["skill_id", 1115001], ["skill_type", 1]],
+            "new": [["action_1", 111500101], ["action_10", 0], ["action_2", 111500102], ["action_3", 111500103], ["action_4", 111500104], ["action_5", 111500105], ["action_6", 111500106], ["action_7", 111500107], ["action_8", 0], ["action_9", 0], ["boss_ub_cool_time", 0.0], ["depend_action_1", 0], ["depend_action_10", 0], ["depend_action_2", 0], ["depend_action_3", 0], ["depend_action_4", 0], ["depend_action_5", 111500104], ["depend_action_6", 111500105], ["depend_action_7", 111500104], ["depend_action_8", 0], ["depend_action_9", 0], ["description", "未持有硬币时，对前方一名敌人造成物理伤害（特大），特大幅度提升自身的物理攻击力，并获得硬币。持有硬币时，可消耗硬币，对其造成必定命中的物理伤害（特大）。"], ["icon_type", 1001], ["name", "双重圣域"], ["skill_area_width", 0], ["skill_cast_time", 0.0], ["skill_id", 1115001], ["skill_type", 1]]
+          }
+        ]
+      }
+    },
+    "story_detail": {
+      "data_changes": {
+        "modified": [
+          {
+            "id": 1079003,
+            "old": [["end_time", "2099/12/31 23:59:59"], ["force_unlock_time", "2099/12/31 23:59:59"], ["force_unlock_time_2", "2099/12/31 23:59:59"], ["lock_all_text", 0], ["love_level", 5], ["pre_story_id", 1079002], ["pre_story_id_2", 0], ["requirement_id", 107901], ["reward_id_1", 91002], ["reward_id_2", 0], ["reward_id_3", 0], ["reward_type_1", 8], ["reward_type_2", 0], ["reward_type_3", 0], ["reward_value_1", 20], ["reward_value_2", 0], ["reward_value_3", 1], ["start_time", "2020/09/15 11:00:00"], ["story_end", 0], ["story_group_id", 1079], ["story_id", 1079003], ["story_quest_id", 0], ["sub_title", "寻找马尔冈的秘宝"], ["title", "珠希（夏日） 第3话"], ["unknown_1", 1], ["unknown_2", 0], ["unlock_quest_id", 0], ["visible_type", 0]],
+            "new": [["end_time", "2099/12/31 23:59:59"], ["force_unlock_time", "2099/12/31 23:59:59"], ["force_unlock_time_2", "2099/12/31 23:59:59"], ["lock_all_text", 0], ["love_level", 5], ["pre_story_id", 1079002], ["pre_story_id_2", 0], ["requirement_id", 107901], ["reward_id_1", 91002], ["reward_id_2", 0], ["reward_id_3", 0], ["reward_type_1", 8], ["reward_type_2", 0], ["reward_type_3", 0], ["reward_value_1", 20], ["reward_value_2", 0], ["reward_value_3", 1], ["start_time", "2020/09/15 11:00:00"], ["story_end", 0], ["story_group_id", 1079], ["story_id", 1079003], ["story_quest_id", 0], ["sub_title", "寻找马尔简的秘宝"], ["title", "珠希（夏日） 第3话"], ["unknown_1", 1], ["unknown_2", 0], ["unlock_quest_id", 0], ["visible_type", 0]]
+          }
+        ]
+      }
+    }
+  }
+}
