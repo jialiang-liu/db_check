@@ -1,0 +1,9 @@
+{
+  "tables": {
+    "only_in_old_db": [],
+    "only_in_new_db": [
+      "abyss_schedule"
+    ]
+  },
+  "table_changes": {}
+}
