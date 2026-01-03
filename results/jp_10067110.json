@@ -1,0 +1,41 @@
+{
+  "tables": {
+    "only_in_old_db": [],
+    "only_in_new_db": []
+  },
+  "table_changes": {
+    "gacha_data": {
+      "data_changes": {
+        "modified": [
+          {
+            "id": 70145,
+            "old": [["chara_odds_star1", "70145_1"], ["chara_odds_star2", "70145_2"], ["chara_odds_star3", "70145_3"], ["description", "有償ジュエル限定\\n★3確定プラチナガチャ開催！"], ["description_2", "[3C404E]10キャラ目は[FFBB00,CE4F00]★3キャラ確定！[-] マスターピース×１獲得可能！[-]"], ["description_sp", ""], ["discount_price", 50], ["end_time", "2026/01/15 11:59:59"], ["exchange_id", 426], ["free_gacha_count", 0], ["free_gacha_interval_time", 0], ["free_gacha_type", 0], ["gacha10_special_odds_star1", "0"], ["gacha10_special_odds_star2", "0"], ["gacha10_special_odds_star3", "0"], ["gacha_bonus_id", 1200], ["gacha_cost_type", 2], ["gacha_detail", 2], ["gacha_id", 70145], ["gacha_name", "★3確定プラチナガチャ"], ["gacha_odds", "0"], ["gacha_odds_star2", "0"], ["gacha_times_limit10", 1], ["gacha_type", 1], ["movie_id", 700137], ["parallel_id", 0], ["pick_up_chara_text", "ピックアップキャラなし"], ["pickup_badge", 0], ["pickup_id", 0], ["price", 1500], ["prizegacha_id", 0], ["rarity_odds", "300000"], ["special_id", 70145], ["start_time", "2026/01/03 12:00:00"], ["tab_name", "スペシャル"], ["ticket_id", 24001], ["ticket_id_10", 0], ["title_id", 0]],
+            "new": [["chara_odds_star1", "70145_1"], ["chara_odds_star2", "70145_2"], ["chara_odds_star3", "70145_3"], ["description", "有償ジュエル限定\\n★3確定プラチナガチャ開催！"], ["description_2", "[3C404E]10キャラ目は[FFBB00,CE4F00]★3キャラ確定！[-] マスターピース×１獲得可能！[-]"], ["description_sp", ""], ["discount_price", 50], ["end_time", "2026/01/15 11:59:59"], ["exchange_id", 426], ["free_gacha_count", 0], ["free_gacha_interval_time", 0], ["free_gacha_type", 0], ["gacha10_special_odds_star1", "0"], ["gacha10_special_odds_star2", "0"], ["gacha10_special_odds_star3", "0"], ["gacha_bonus_id", 1201], ["gacha_cost_type", 2], ["gacha_detail", 2], ["gacha_id", 70145], ["gacha_name", "★3確定プラチナガチャ"], ["gacha_odds", "0"], ["gacha_odds_star2", "0"], ["gacha_times_limit10", 1], ["gacha_type", 1], ["movie_id", 700137], ["parallel_id", 0], ["pick_up_chara_text", "ピックアップキャラなし"], ["pickup_badge", 0], ["pickup_id", 0], ["price", 1500], ["prizegacha_id", 0], ["rarity_odds", "300000"], ["special_id", 70145], ["start_time", "2026/01/03 12:00:00"], ["tab_name", "スペシャル"], ["ticket_id", 24001], ["ticket_id_10", 0], ["title_id", 0]]
+          }
+        ]
+      }
+    },
+    "unit_data": {
+      "data_changes": {
+        "modified": [
+          {
+            "id": 137601,
+            "old": [["atk_type", 2], ["comment", "【魔法】後衛で、主さまを想い“進化”した嚮導の巫女。\\n極大ダメージのＵＢで敵を穿ち、【進化超越】の権能によ\\nって、味方のバフやダメージを、限界を超え成長させる。"], ["cutin1_star6", 137601], ["cutin2_star6", 0], ["cutin_1", 137601], ["cutin_2", 0], ["end_time", "2026/01/03 11:59:59"], ["exskill_display", 0], ["guild_id", 0], ["is_collab", 0], ["is_limited", 1], ["kana", "こっころ"], ["motion_type", 0], ["move_speed", 450], ["normal_atk_cast_time", 2.09], ["only_disp_owned", 0], ["original_unit_id", 0], ["prefab_id", 137601], ["prefab_id_battle", 0], ["rarity", 3], ["se_type", 7], ["search_area_width", 733], ["start_time", "2025/12/31 12:00:00"], ["unit_id", 137601], ["unit_name", "Kokkoro (Big Kok)"]],
+            "new": [["atk_type", 2], ["comment", "【魔法】後衛で、主さまを想い“進化”した嚮導の巫女。\\n極大ダメージのＵＢで敵を穿ち、【進化超越】の権能によ\\nって、味方のバフやダメージを、限界を超え成長させる。"], ["cutin1_star6", 137601], ["cutin2_star6", 0], ["cutin_1", 137601], ["cutin_2", 0], ["end_time", "2026/01/03 11:59:59"], ["exskill_display", 0], ["guild_id", 0], ["is_collab", 0], ["is_limited", 1], ["kana", "こっころ"], ["motion_type", 0], ["move_speed", 450], ["normal_atk_cast_time", 2.09], ["only_disp_owned", 0], ["original_unit_id", 0], ["prefab_id", 137601], ["prefab_id_battle", 0], ["rarity", 3], ["se_type", 7], ["search_area_width", 733], ["start_time", "2025/12/31 12:00:00"], ["unit_id", 137601], ["unit_name", "Kokkoro (Little Guidance)"]]
+          }
+        ]
+      }
+    },
+    "unit_profile": {
+      "data_changes": {
+        "modified": [
+          {
+            "id": 137601,
+            "old": [["age", "11"], ["birth_day", "11"], ["birth_month", "5"], ["blood_type", "B"], ["catch_copy", "主を想い、“進化”したガイド役"], ["favorite", "瞑想、動植物の飼育"], ["guild", "美食殿"], ["guild_id", "1"], ["height", "164"], ["race", "エルフ"], ["self_text", "主さまのガイド役を仰せつかりました\\nわたくし、主さまに満足していただけるよう\\n誠心誠意尽くさせていただきます"], ["unit_id", 137601], ["unit_name", "Kokkoro (Big Kok)"], ["voice", "伊藤美来"], ["voice_id", 0], ["weight", "48"]],
+            "new": [["age", "11"], ["birth_day", "11"], ["birth_month", "5"], ["blood_type", "B"], ["catch_copy", "主を想い、“進化”したガイド役"], ["favorite", "瞑想、動植物の飼育"], ["guild", "美食殿"], ["guild_id", "1"], ["height", "164"], ["race", "エルフ"], ["self_text", "主さまのガイド役を仰せつかりました\\nわたくし、主さまに満足していただけるよう\\n誠心誠意尽くさせていただきます"], ["unit_id", 137601], ["unit_name", "Kokkoro (Little Guidance)"], ["voice", "伊藤美来"], ["voice_id", 0], ["weight", "48"]]
+          }
+        ]
+      }
+    }
+  }
+}
