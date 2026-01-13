@@ -1,0 +1,64 @@
+{
+  "tables": {
+    "only_in_old_db": [],
+    "only_in_new_db": []
+  },
+  "table_changes": {
+    "unit_comments": {
+      "data_changes": {
+        "modified": [
+          {
+            "id": 1812004,
+            "old": [["all_comments_flag", 0], ["change_face", 2], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 0.0], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "听说大家都来找我了，\\n我真的好开心。\\n这次，轮到我用我的力量\\n来守护大家了。"], ["face_id", 2], ["face_id_2", 0], ["face_id_3", 0], ["id", 1812004], ["target_unit_id", 0], ["unit_id", 181201], ["use_type", 1], ["voice_id", 4]],
+            "new": [["all_comments_flag", 0], ["change_face", 2], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 0.0], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "听说大家都在找我，\\n我真的好开心。\\n这次，轮到我用这份力量\\n来守护大家了。"], ["face_id", 2], ["face_id_2", 0], ["face_id_3", 0], ["id", 1812004], ["target_unit_id", 0], ["unit_id", 181201], ["use_type", 1], ["voice_id", 4]]
+          },
+          {
+            "id": 1812006,
+            "old": [["all_comments_flag", 0], ["change_face", 1], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 0.0], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "真的很感激你一直\\n等我、相信我，\\n所以不管说多少次\\n我都要说——我回来了！"], ["face_id", 1], ["face_id_2", 0], ["face_id_3", 0], ["id", 1812006], ["target_unit_id", 0], ["unit_id", 181231], ["use_type", 1], ["voice_id", 1]],
+            "new": [["all_comments_flag", 0], ["change_face", 1], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 0.0], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "真的很感激你一直\\n等我、相信我，\\n所以不管重复多少次\\n我都要说——我回来了！"], ["face_id", 1], ["face_id_2", 0], ["face_id_3", 0], ["id", 1812006], ["target_unit_id", 0], ["unit_id", 181231], ["use_type", 1], ["voice_id", 1]]
+          },
+          {
+            "id": 1812009,
+            "old": [["all_comments_flag", 0], ["change_face", 1], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 0.0], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "可以再牵一次我的手吗？\\n那样的话，我就不打算再放手了。\\n因为你对我来说……真的很重要。"], ["face_id", 1], ["face_id_2", 0], ["face_id_3", 0], ["id", 1812009], ["target_unit_id", 0], ["unit_id", 181231], ["use_type", 1], ["voice_id", 4]],
+            "new": [["all_comments_flag", 0], ["change_face", 1], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 0.0], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "可以再牵一次我的手吗？\\n这次我绝对不会放开。\\n因为你对我来说……真的很重要。"], ["face_id", 1], ["face_id_2", 0], ["face_id_3", 0], ["id", 1812009], ["target_unit_id", 0], ["unit_id", 181231], ["use_type", 1], ["voice_id", 4]]
+          },
+          {
+            "id": 1812007,
+            "old": [["all_comments_flag", 0], ["change_face", 1], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 0.0], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "现在的我，有了这样\\n又大又美的翅膀，\\n这次换我来紧紧抱住你。"], ["face_id", 1], ["face_id_2", 0], ["face_id_3", 0], ["id", 1812007], ["target_unit_id", 0], ["unit_id", 181231], ["use_type", 1], ["voice_id", 2]],
+            "new": [["all_comments_flag", 0], ["change_face", 1], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 0.0], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "现在的我 拥有这么美丽\\n又巨大的翅膀呢，\\n这次换我来紧紧抱住你。"], ["face_id", 1], ["face_id_2", 0], ["face_id_3", 0], ["id", 1812007], ["target_unit_id", 0], ["unit_id", 181231], ["use_type", 1], ["voice_id", 2]]
+          },
+          {
+            "id": 1812012,
+            "old": [["all_comments_flag", 0], ["change_face", 1], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 0.0], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "就像你们为我做的那样，\\n我也想做一个蛋糕，\\n一个满载爱意的特制蛋糕……\\n等我做好后，你愿意吃了它吗？"], ["face_id", 1], ["face_id_2", 0], ["face_id_3", 0], ["id", 1812012], ["target_unit_id", 0], ["unit_id", 181231], ["use_type", 2], ["voice_id", 6]],
+            "new": [["all_comments_flag", 0], ["change_face", 1], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 0.0], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "就像你们为我做的那样，\\n我也想试着做蛋糕，\\n饱含心意的特制蛋糕……\\n完成后你愿意尝尝吗？"], ["face_id", 1], ["face_id_2", 0], ["face_id_3", 0], ["id", 1812012], ["target_unit_id", 0], ["unit_id", 181231], ["use_type", 2], ["voice_id", 6]]
+          },
+          {
+            "id": 1812003,
+            "old": [["all_comments_flag", 0], ["change_face", 2], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 6.3], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "我现在最想和大家一起做的，\\n可能就是那种边走边吃的旅行了……\\n为了这个，我们也得\\n努力拯救世界。"], ["face_id", 10], ["face_id_2", 0], ["face_id_3", 0], ["id", 1812003], ["target_unit_id", 0], ["unit_id", 181201], ["use_type", 1], ["voice_id", 3]],
+            "new": [["all_comments_flag", 0], ["change_face", 2], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 6.3], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "现在最想和大家做的，\\n果然还是美食巡礼的旅行了……\\n为此也得努力\\n拯救世界才行。"], ["face_id", 10], ["face_id_2", 0], ["face_id_3", 0], ["id", 1812003], ["target_unit_id", 0], ["unit_id", 181201], ["use_type", 1], ["voice_id", 3]]
+          },
+          {
+            "id": 1812005,
+            "old": [["all_comments_flag", 0], ["change_face", 1], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 7.6], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "我再次意识到\\n和你在一起的时间\\n并不是理所当然的。\\n所以，我才想要好好珍惜。"], ["face_id", 2], ["face_id_2", 0], ["face_id_3", 0], ["id", 1812005], ["target_unit_id", 0], ["unit_id", 181201], ["use_type", 1], ["voice_id", 5]],
+            "new": [["all_comments_flag", 0], ["change_face", 1], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 7.6], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "我重新意识到\\n和你在一起的时光\\n并不是理所当然的，\\n所以更要好好珍惜。"], ["face_id", 2], ["face_id_2", 0], ["face_id_3", 0], ["id", 1812005], ["target_unit_id", 0], ["unit_id", 181201], ["use_type", 1], ["voice_id", 5]]
+          },
+          {
+            "id": 1812002,
+            "old": [["all_comments_flag", 0], ["change_face", 2], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 5.4], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "老实说，我现在还\\n不怎么有回来的感觉……\\n不过一看到你的脸，\\n还是觉得心里踏实多了。"], ["face_id", 6], ["face_id_2", 0], ["face_id_3", 0], ["id", 1812002], ["target_unit_id", 0], ["unit_id", 181201], ["use_type", 1], ["voice_id", 2]],
+            "new": [["all_comments_flag", 0], ["change_face", 2], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 5.4], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "老实说，我现在还\\n没什么回归的实感……\\n不过一看到你的脸，\\n还是觉得心里踏实多了。"], ["face_id", 6], ["face_id_2", 0], ["face_id_3", 0], ["id", 1812002], ["target_unit_id", 0], ["unit_id", 181201], ["use_type", 1], ["voice_id", 2]]
+          },
+          {
+            "id": 1812011,
+            "old": [["all_comments_flag", 0], ["change_face", 2], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 5.4], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "生日快乐！\\n又能为你庆祝，我真开心。\\n我会为你举办一场超棒的派对，\\n你就等着吧。"], ["face_id", 10], ["face_id_2", 0], ["face_id_3", 0], ["id", 1812011], ["target_unit_id", 0], ["unit_id", 181201], ["use_type", 2], ["voice_id", 6]],
+            "new": [["all_comments_flag", 0], ["change_face", 2], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 5.4], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "生日快乐！\\n能再次为你庆祝好开心。\\n我会准备最棒的派对，\\n好好期待吧。"], ["face_id", 10], ["face_id_2", 0], ["face_id_3", 0], ["id", 1812011], ["target_unit_id", 0], ["unit_id", 181201], ["use_type", 2], ["voice_id", 6]]
+          },
+          {
+            "id": 1812001,
+            "old": [["all_comments_flag", 0], ["change_face", 2], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 0.0], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "谢谢你来接我。\\n我本来都做好心理准备\\n再也见不到你了……\\n没想到居然会有这样的奇迹。"], ["face_id", 2], ["face_id_2", 0], ["face_id_3", 0], ["id", 1812001], ["target_unit_id", 0], ["unit_id", 181201], ["use_type", 1], ["voice_id", 1]],
+            "new": [["all_comments_flag", 0], ["change_face", 2], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 0.0], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "谢谢你来接我。\\n本来我已经做好\\n再也见不到你的心理准备了……\\n没想到居然会有这样的奇迹。"], ["face_id", 2], ["face_id_2", 0], ["face_id_3", 0], ["id", 1812001], ["target_unit_id", 0], ["unit_id", 181201], ["use_type", 1], ["voice_id", 1]]
+          }
+        ]
+      }
+    }
+  }
+}
