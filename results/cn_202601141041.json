@@ -1,0 +1,459 @@
+{
+  "tables": {
+    "only_in_old_db": [],
+    "only_in_new_db": []
+  },
+  "table_changes": {
+    "gacha_exchange_lineup": {
+      "data_changes": {
+        "modified": [
+          {
+            "id": 9132,
+            "old": [["end_time", "2099/1/1 23:59:59"], ["exchange_id", 100006], ["gacha_bonus_id", 100007], ["id", 9132], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2026/11/14 11:00:00"], ["unit_id", 111401]],
+            "new": [["end_time", "2099/1/1 23:59:59"], ["exchange_id", 100006], ["gacha_bonus_id", 100007], ["id", 9132], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2026/1/14 11:00:00"], ["unit_id", 111401]]
+          },
+          {
+            "id": 9156,
+            "old": [["end_time", "2099/1/1 23:59:59"], ["exchange_id", 100006], ["gacha_bonus_id", 100007], ["id", 9156], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2026/11/14 11:00:00"], ["unit_id", 116501]],
+            "new": [["end_time", "2099/1/1 23:59:59"], ["exchange_id", 100006], ["gacha_bonus_id", 100007], ["id", 9156], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2026/1/14 11:00:00"], ["unit_id", 116501]]
+          },
+          {
+            "id": 9131,
+            "old": [["end_time", "2099/1/1 23:59:59"], ["exchange_id", 100006], ["gacha_bonus_id", 100007], ["id", 9131], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2026/11/14 11:00:00"], ["unit_id", 111301]],
+            "new": [["end_time", "2099/1/1 23:59:59"], ["exchange_id", 100006], ["gacha_bonus_id", 100007], ["id", 9131], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2026/1/14 11:00:00"], ["unit_id", 111301]]
+          },
+          {
+            "id": 9107,
+            "old": [["end_time", "2099/1/1 23:59:59"], ["exchange_id", 100006], ["gacha_bonus_id", 100007], ["id", 9107], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2026/11/14 11:00:00"], ["unit_id", 101101]],
+            "new": [["end_time", "2099/1/1 23:59:59"], ["exchange_id", 100006], ["gacha_bonus_id", 100007], ["id", 9107], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2026/1/14 11:00:00"], ["unit_id", 101101]]
+          },
+          {
+            "id": 9121,
+            "old": [["end_time", "2099/1/1 23:59:59"], ["exchange_id", 100006], ["gacha_bonus_id", 100007], ["id", 9121], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2026/11/14 11:00:00"], ["unit_id", 104401]],
+            "new": [["end_time", "2099/1/1 23:59:59"], ["exchange_id", 100006], ["gacha_bonus_id", 100007], ["id", 9121], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2026/1/14 11:00:00"], ["unit_id", 104401]]
+          },
+          {
+            "id": 9151,
+            "old": [["end_time", "2099/1/1 23:59:59"], ["exchange_id", 100006], ["gacha_bonus_id", 100007], ["id", 9151], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2026/11/14 11:00:00"], ["unit_id", 115701]],
+            "new": [["end_time", "2099/1/1 23:59:59"], ["exchange_id", 100006], ["gacha_bonus_id", 100007], ["id", 9151], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2026/1/14 11:00:00"], ["unit_id", 115701]]
+          },
+          {
+            "id": 9139,
+            "old": [["end_time", "2099/1/1 23:59:59"], ["exchange_id", 100006], ["gacha_bonus_id", 100007], ["id", 9139], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2026/11/14 11:00:00"], ["unit_id", 112801]],
+            "new": [["end_time", "2099/1/1 23:59:59"], ["exchange_id", 100006], ["gacha_bonus_id", 100007], ["id", 9139], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2026/1/14 11:00:00"], ["unit_id", 112801]]
+          },
+          {
+            "id": 9150,
+            "old": [["end_time", "2099/1/1 23:59:59"], ["exchange_id", 100006], ["gacha_bonus_id", 100007], ["id", 9150], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2026/11/14 11:00:00"], ["unit_id", 106401]],
+            "new": [["end_time", "2099/1/1 23:59:59"], ["exchange_id", 100006], ["gacha_bonus_id", 100007], ["id", 9150], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2026/1/14 11:00:00"], ["unit_id", 106401]]
+          },
+          {
+            "id": 9106,
+            "old": [["end_time", "2099/1/1 23:59:59"], ["exchange_id", 100006], ["gacha_bonus_id", 100007], ["id", 9106], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2026/11/14 11:00:00"], ["unit_id", 101001]],
+            "new": [["end_time", "2099/1/1 23:59:59"], ["exchange_id", 100006], ["gacha_bonus_id", 100007], ["id", 9106], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2026/1/14 11:00:00"], ["unit_id", 101001]]
+          },
+          {
+            "id": 9177,
+            "old": [["end_time", "2099/1/1 23:59:59"], ["exchange_id", 100006], ["gacha_bonus_id", 100007], ["id", 9177], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2026/11/14 11:00:00"], ["unit_id", 122701]],
+            "new": [["end_time", "2099/1/1 23:59:59"], ["exchange_id", 100006], ["gacha_bonus_id", 100007], ["id", 9177], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2026/1/14 11:00:00"], ["unit_id", 122701]]
+          },
+          {
+            "id": 9184,
+            "old": [["end_time", "2099/1/1 23:59:59"], ["exchange_id", 100006], ["gacha_bonus_id", 100007], ["id", 9184], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2026/11/14 11:00:00"], ["unit_id", 125201]],
+            "new": [["end_time", "2099/1/1 23:59:59"], ["exchange_id", 100006], ["gacha_bonus_id", 100007], ["id", 9184], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2026/1/14 11:00:00"], ["unit_id", 125201]]
+          },
+          {
+            "id": 9128,
+            "old": [["end_time", "2099/1/1 23:59:59"], ["exchange_id", 100006], ["gacha_bonus_id", 100007], ["id", 9128], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2026/11/14 11:00:00"], ["unit_id", 109601]],
+            "new": [["end_time", "2099/1/1 23:59:59"], ["exchange_id", 100006], ["gacha_bonus_id", 100007], ["id", 9128], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2026/1/14 11:00:00"], ["unit_id", 109601]]
+          },
+          {
+            "id": 9162,
+            "old": [["end_time", "2099/1/1 23:59:59"], ["exchange_id", 100006], ["gacha_bonus_id", 100007], ["id", 9162], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2026/11/14 11:00:00"], ["unit_id", 117501]],
+            "new": [["end_time", "2099/1/1 23:59:59"], ["exchange_id", 100006], ["gacha_bonus_id", 100007], ["id", 9162], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2026/1/14 11:00:00"], ["unit_id", 117501]]
+          },
+          {
+            "id": 9163,
+            "old": [["end_time", "2099/1/1 23:59:59"], ["exchange_id", 100006], ["gacha_bonus_id", 100007], ["id", 9163], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2026/11/14 11:00:00"], ["unit_id", 117601]],
+            "new": [["end_time", "2099/1/1 23:59:59"], ["exchange_id", 100006], ["gacha_bonus_id", 100007], ["id", 9163], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2026/1/14 11:00:00"], ["unit_id", 117601]]
+          },
+          {
+            "id": 9160,
+            "old": [["end_time", "2099/1/1 23:59:59"], ["exchange_id", 100006], ["gacha_bonus_id", 100007], ["id", 9160], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2026/11/14 11:00:00"], ["unit_id", 117101]],
+            "new": [["end_time", "2099/1/1 23:59:59"], ["exchange_id", 100006], ["gacha_bonus_id", 100007], ["id", 9160], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2026/1/14 11:00:00"], ["unit_id", 117101]]
+          },
+          {
+            "id": 9125,
+            "old": [["end_time", "2099/1/1 23:59:59"], ["exchange_id", 100006], ["gacha_bonus_id", 100007], ["id", 9125], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2026/11/14 11:00:00"], ["unit_id", 109201]],
+            "new": [["end_time", "2099/1/1 23:59:59"], ["exchange_id", 100006], ["gacha_bonus_id", 100007], ["id", 9125], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2026/1/14 11:00:00"], ["unit_id", 109201]]
+          },
+          {
+            "id": 9167,
+            "old": [["end_time", "2099/1/1 23:59:59"], ["exchange_id", 100006], ["gacha_bonus_id", 100007], ["id", 9167], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2026/11/14 11:00:00"], ["unit_id", 119301]],
+            "new": [["end_time", "2099/1/1 23:59:59"], ["exchange_id", 100006], ["gacha_bonus_id", 100007], ["id", 9167], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2026/1/14 11:00:00"], ["unit_id", 119301]]
+          },
+          {
+            "id": 9173,
+            "old": [["end_time", "2099/1/1 23:59:59"], ["exchange_id", 100006], ["gacha_bonus_id", 100007], ["id", 9173], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2026/11/14 11:00:00"], ["unit_id", 121901]],
+            "new": [["end_time", "2099/1/1 23:59:59"], ["exchange_id", 100006], ["gacha_bonus_id", 100007], ["id", 9173], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2026/1/14 11:00:00"], ["unit_id", 121901]]
+          },
+          {
+            "id": 9169,
+            "old": [["end_time", "2099/1/1 23:59:59"], ["exchange_id", 100006], ["gacha_bonus_id", 100007], ["id", 9169], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2026/11/14 11:00:00"], ["unit_id", 121301]],
+            "new": [["end_time", "2099/1/1 23:59:59"], ["exchange_id", 100006], ["gacha_bonus_id", 100007], ["id", 9169], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2026/1/14 11:00:00"], ["unit_id", 121301]]
+          },
+          {
+            "id": 9178,
+            "old": [["end_time", "2099/1/1 23:59:59"], ["exchange_id", 100006], ["gacha_bonus_id", 100007], ["id", 9178], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2026/11/14 11:00:00"], ["unit_id", 123101]],
+            "new": [["end_time", "2099/1/1 23:59:59"], ["exchange_id", 100006], ["gacha_bonus_id", 100007], ["id", 9178], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2026/1/14 11:00:00"], ["unit_id", 123101]]
+          },
+          {
+            "id": 9123,
+            "old": [["end_time", "2099/1/1 23:59:59"], ["exchange_id", 100006], ["gacha_bonus_id", 100007], ["id", 9123], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2026/11/14 11:00:00"], ["unit_id", 105601]],
+            "new": [["end_time", "2099/1/1 23:59:59"], ["exchange_id", 100006], ["gacha_bonus_id", 100007], ["id", 9123], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2026/1/14 11:00:00"], ["unit_id", 105601]]
+          },
+          {
+            "id": 9161,
+            "old": [["end_time", "2099/1/1 23:59:59"], ["exchange_id", 100006], ["gacha_bonus_id", 100007], ["id", 9161], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2026/11/14 11:00:00"], ["unit_id", 117301]],
+            "new": [["end_time", "2099/1/1 23:59:59"], ["exchange_id", 100006], ["gacha_bonus_id", 100007], ["id", 9161], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2026/1/14 11:00:00"], ["unit_id", 117301]]
+          },
+          {
+            "id": 9127,
+            "old": [["end_time", "2099/1/1 23:59:59"], ["exchange_id", 100006], ["gacha_bonus_id", 100007], ["id", 9127], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2026/11/14 11:00:00"], ["unit_id", 109501]],
+            "new": [["end_time", "2099/1/1 23:59:59"], ["exchange_id", 100006], ["gacha_bonus_id", 100007], ["id", 9127], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2026/1/14 11:00:00"], ["unit_id", 109501]]
+          },
+          {
+            "id": 9118,
+            "old": [["end_time", "2099/1/1 23:59:59"], ["exchange_id", 100006], ["gacha_bonus_id", 100007], ["id", 9118], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2026/11/14 11:00:00"], ["unit_id", 104701]],
+            "new": [["end_time", "2099/1/1 23:59:59"], ["exchange_id", 100006], ["gacha_bonus_id", 100007], ["id", 9118], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2026/1/14 11:00:00"], ["unit_id", 104701]]
+          },
+          {
+            "id": 9137,
+            "old": [["end_time", "2099/1/1 23:59:59"], ["exchange_id", 100006], ["gacha_bonus_id", 100007], ["id", 9137], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2026/11/14 11:00:00"], ["unit_id", 110901]],
+            "new": [["end_time", "2099/1/1 23:59:59"], ["exchange_id", 100006], ["gacha_bonus_id", 100007], ["id", 9137], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2026/1/14 11:00:00"], ["unit_id", 110901]]
+          },
+          {
+            "id": 9120,
+            "old": [["end_time", "2099/1/1 23:59:59"], ["exchange_id", 100006], ["gacha_bonus_id", 100007], ["id", 9120], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2026/11/14 11:00:00"], ["unit_id", 103601]],
+            "new": [["end_time", "2099/1/1 23:59:59"], ["exchange_id", 100006], ["gacha_bonus_id", 100007], ["id", 9120], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2026/1/14 11:00:00"], ["unit_id", 103601]]
+          },
+          {
+            "id": 9159,
+            "old": [["end_time", "2099/1/1 23:59:59"], ["exchange_id", 100006], ["gacha_bonus_id", 100007], ["id", 9159], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2026/11/14 11:00:00"], ["unit_id", 116901]],
+            "new": [["end_time", "2099/1/1 23:59:59"], ["exchange_id", 100006], ["gacha_bonus_id", 100007], ["id", 9159], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2026/1/14 11:00:00"], ["unit_id", 116901]]
+          },
+          {
+            "id": 9113,
+            "old": [["end_time", "2099/1/1 23:59:59"], ["exchange_id", 100006], ["gacha_bonus_id", 100007], ["id", 9113], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2026/11/14 11:00:00"], ["unit_id", 103201]],
+            "new": [["end_time", "2099/1/1 23:59:59"], ["exchange_id", 100006], ["gacha_bonus_id", 100007], ["id", 9113], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2026/1/14 11:00:00"], ["unit_id", 103201]]
+          },
+          {
+            "id": 9192,
+            "old": [["end_time", "2099/1/1 23:59:59"], ["exchange_id", 100006], ["gacha_bonus_id", 100007], ["id", 9192], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2026/11/14 11:00:00"], ["unit_id", 126101]],
+            "new": [["end_time", "2099/1/1 23:59:59"], ["exchange_id", 100006], ["gacha_bonus_id", 100007], ["id", 9192], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2026/1/14 11:00:00"], ["unit_id", 126101]]
+          },
+          {
+            "id": 9119,
+            "old": [["end_time", "2099/1/1 23:59:59"], ["exchange_id", 100006], ["gacha_bonus_id", 100007], ["id", 9119], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2026/11/14 11:00:00"], ["unit_id", 106301]],
+            "new": [["end_time", "2099/1/1 23:59:59"], ["exchange_id", 100006], ["gacha_bonus_id", 100007], ["id", 9119], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2026/1/14 11:00:00"], ["unit_id", 106301]]
+          },
+          {
+            "id": 9134,
+            "old": [["end_time", "2099/1/1 23:59:59"], ["exchange_id", 100006], ["gacha_bonus_id", 100007], ["id", 9134], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2026/11/14 11:00:00"], ["unit_id", 111701]],
+            "new": [["end_time", "2099/1/1 23:59:59"], ["exchange_id", 100006], ["gacha_bonus_id", 100007], ["id", 9134], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2026/1/14 11:00:00"], ["unit_id", 111701]]
+          },
+          {
+            "id": 9180,
+            "old": [["end_time", "2099/1/1 23:59:59"], ["exchange_id", 100006], ["gacha_bonus_id", 100007], ["id", 9180], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2026/11/14 11:00:00"], ["unit_id", 123701]],
+            "new": [["end_time", "2099/1/1 23:59:59"], ["exchange_id", 100006], ["gacha_bonus_id", 100007], ["id", 9180], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2026/1/14 11:00:00"], ["unit_id", 123701]]
+          },
+          {
+            "id": 9181,
+            "old": [["end_time", "2099/1/1 23:59:59"], ["exchange_id", 100006], ["gacha_bonus_id", 100007], ["id", 9181], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2026/11/14 11:00:00"], ["unit_id", 123901]],
+            "new": [["end_time", "2099/1/1 23:59:59"], ["exchange_id", 100006], ["gacha_bonus_id", 100007], ["id", 9181], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2026/1/14 11:00:00"], ["unit_id", 123901]]
+          },
+          {
+            "id": 9176,
+            "old": [["end_time", "2099/1/1 23:59:59"], ["exchange_id", 100006], ["gacha_bonus_id", 100007], ["id", 9176], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2026/11/14 11:00:00"], ["unit_id", 122601]],
+            "new": [["end_time", "2099/1/1 23:59:59"], ["exchange_id", 100006], ["gacha_bonus_id", 100007], ["id", 9176], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2026/1/14 11:00:00"], ["unit_id", 122601]]
+          },
+          {
+            "id": 9112,
+            "old": [["end_time", "2099/1/1 23:59:59"], ["exchange_id", 100006], ["gacha_bonus_id", 100007], ["id", 9112], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2026/11/14 11:00:00"], ["unit_id", 103001]],
+            "new": [["end_time", "2099/1/1 23:59:59"], ["exchange_id", 100006], ["gacha_bonus_id", 100007], ["id", 9112], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2026/1/14 11:00:00"], ["unit_id", 103001]]
+          },
+          {
+            "id": 9190,
+            "old": [["end_time", "2099/1/1 23:59:59"], ["exchange_id", 100006], ["gacha_bonus_id", 100007], ["id", 9190], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2026/11/14 11:00:00"], ["unit_id", 126301]],
+            "new": [["end_time", "2099/1/1 23:59:59"], ["exchange_id", 100006], ["gacha_bonus_id", 100007], ["id", 9190], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2026/1/14 11:00:00"], ["unit_id", 126301]]
+          },
+          {
+            "id": 9168,
+            "old": [["end_time", "2099/1/1 23:59:59"], ["exchange_id", 100006], ["gacha_bonus_id", 100007], ["id", 9168], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2026/11/14 11:00:00"], ["unit_id", 116401]],
+            "new": [["end_time", "2099/1/1 23:59:59"], ["exchange_id", 100006], ["gacha_bonus_id", 100007], ["id", 9168], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2026/1/14 11:00:00"], ["unit_id", 116401]]
+          },
+          {
+            "id": 9105,
+            "old": [["end_time", "2099/1/1 23:59:59"], ["exchange_id", 100006], ["gacha_bonus_id", 100007], ["id", 9105], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2026/11/14 11:00:00"], ["unit_id", 100901]],
+            "new": [["end_time", "2099/1/1 23:59:59"], ["exchange_id", 100006], ["gacha_bonus_id", 100007], ["id", 9105], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2026/1/14 11:00:00"], ["unit_id", 100901]]
+          },
+          {
+            "id": 9154,
+            "old": [["end_time", "2099/1/1 23:59:59"], ["exchange_id", 100006], ["gacha_bonus_id", 100007], ["id", 9154], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2026/11/14 11:00:00"], ["unit_id", 116301]],
+            "new": [["end_time", "2099/1/1 23:59:59"], ["exchange_id", 100006], ["gacha_bonus_id", 100007], ["id", 9154], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2026/1/14 11:00:00"], ["unit_id", 116301]]
+          },
+          {
+            "id": 9122,
+            "old": [["end_time", "2099/1/1 23:59:59"], ["exchange_id", 100006], ["gacha_bonus_id", 100007], ["id", 9122], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2026/11/14 11:00:00"], ["unit_id", 103701]],
+            "new": [["end_time", "2099/1/1 23:59:59"], ["exchange_id", 100006], ["gacha_bonus_id", 100007], ["id", 9122], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2026/1/14 11:00:00"], ["unit_id", 103701]]
+          },
+          {
+            "id": 9135,
+            "old": [["end_time", "2099/1/1 23:59:59"], ["exchange_id", 100006], ["gacha_bonus_id", 100007], ["id", 9135], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2026/11/14 11:00:00"], ["unit_id", 112201]],
+            "new": [["end_time", "2099/1/1 23:59:59"], ["exchange_id", 100006], ["gacha_bonus_id", 100007], ["id", 9135], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2026/1/14 11:00:00"], ["unit_id", 112201]]
+          },
+          {
+            "id": 9157,
+            "old": [["end_time", "2099/1/1 23:59:59"], ["exchange_id", 100006], ["gacha_bonus_id", 100007], ["id", 9157], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2026/11/14 11:00:00"], ["unit_id", 116601]],
+            "new": [["end_time", "2099/1/1 23:59:59"], ["exchange_id", 100006], ["gacha_bonus_id", 100007], ["id", 9157], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2026/1/14 11:00:00"], ["unit_id", 116601]]
+          },
+          {
+            "id": 9115,
+            "old": [["end_time", "2099/1/1 23:59:59"], ["exchange_id", 100006], ["gacha_bonus_id", 100007], ["id", 9115], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2026/11/14 11:00:00"], ["unit_id", 104901]],
+            "new": [["end_time", "2099/1/1 23:59:59"], ["exchange_id", 100006], ["gacha_bonus_id", 100007], ["id", 9115], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2026/1/14 11:00:00"], ["unit_id", 104901]]
+          },
+          {
+            "id": 9191,
+            "old": [["end_time", "2099/1/1 23:59:59"], ["exchange_id", 100006], ["gacha_bonus_id", 100007], ["id", 9191], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2026/11/14 11:00:00"], ["unit_id", 126001]],
+            "new": [["end_time", "2099/1/1 23:59:59"], ["exchange_id", 100006], ["gacha_bonus_id", 100007], ["id", 9191], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2026/1/14 11:00:00"], ["unit_id", 126001]]
+          },
+          {
+            "id": 9165,
+            "old": [["end_time", "2099/1/1 23:59:59"], ["exchange_id", 100006], ["gacha_bonus_id", 100007], ["id", 9165], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2026/11/14 11:00:00"], ["unit_id", 119001]],
+            "new": [["end_time", "2099/1/1 23:59:59"], ["exchange_id", 100006], ["gacha_bonus_id", 100007], ["id", 9165], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2026/1/14 11:00:00"], ["unit_id", 119001]]
+          },
+          {
+            "id": 9124,
+            "old": [["end_time", "2099/1/1 23:59:59"], ["exchange_id", 100006], ["gacha_bonus_id", 100007], ["id", 9124], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2026/11/14 11:00:00"], ["unit_id", 101401]],
+            "new": [["end_time", "2099/1/1 23:59:59"], ["exchange_id", 100006], ["gacha_bonus_id", 100007], ["id", 9124], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2026/1/14 11:00:00"], ["unit_id", 101401]]
+          },
+          {
+            "id": 9111,
+            "old": [["end_time", "2099/1/1 23:59:59"], ["exchange_id", 100006], ["gacha_bonus_id", 100007], ["id", 9111], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2026/11/14 11:00:00"], ["unit_id", 102901]],
+            "new": [["end_time", "2099/1/1 23:59:59"], ["exchange_id", 100006], ["gacha_bonus_id", 100007], ["id", 9111], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2026/1/14 11:00:00"], ["unit_id", 102901]]
+          },
+          {
+            "id": 9166,
+            "old": [["end_time", "2099/1/1 23:59:59"], ["exchange_id", 100006], ["gacha_bonus_id", 100007], ["id", 9166], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2026/11/14 11:00:00"], ["unit_id", 119101]],
+            "new": [["end_time", "2099/1/1 23:59:59"], ["exchange_id", 100006], ["gacha_bonus_id", 100007], ["id", 9166], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2026/1/14 11:00:00"], ["unit_id", 119101]]
+          },
+          {
+            "id": 9126,
+            "old": [["end_time", "2099/1/1 23:59:59"], ["exchange_id", 100006], ["gacha_bonus_id", 100007], ["id", 9126], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2026/11/14 11:00:00"], ["unit_id", 109401]],
+            "new": [["end_time", "2099/1/1 23:59:59"], ["exchange_id", 100006], ["gacha_bonus_id", 100007], ["id", 9126], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2026/1/14 11:00:00"], ["unit_id", 109401]]
+          },
+          {
+            "id": 9130,
+            "old": [["end_time", "2099/1/1 23:59:59"], ["exchange_id", 100006], ["gacha_bonus_id", 100007], ["id", 9130], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2026/11/14 11:00:00"], ["unit_id", 110801]],
+            "new": [["end_time", "2099/1/1 23:59:59"], ["exchange_id", 100006], ["gacha_bonus_id", 100007], ["id", 9130], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2026/1/14 11:00:00"], ["unit_id", 110801]]
+          },
+          {
+            "id": 9164,
+            "old": [["end_time", "2099/1/1 23:59:59"], ["exchange_id", 100006], ["gacha_bonus_id", 100007], ["id", 9164], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2026/11/14 11:00:00"], ["unit_id", 117901]],
+            "new": [["end_time", "2099/1/1 23:59:59"], ["exchange_id", 100006], ["gacha_bonus_id", 100007], ["id", 9164], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2026/1/14 11:00:00"], ["unit_id", 117901]]
+          },
+          {
+            "id": 9175,
+            "old": [["end_time", "2099/1/1 23:59:59"], ["exchange_id", 100006], ["gacha_bonus_id", 100007], ["id", 9175], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2026/11/14 11:00:00"], ["unit_id", 122301]],
+            "new": [["end_time", "2099/1/1 23:59:59"], ["exchange_id", 100006], ["gacha_bonus_id", 100007], ["id", 9175], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2026/1/14 11:00:00"], ["unit_id", 122301]]
+          },
+          {
+            "id": 9108,
+            "old": [["end_time", "2099/1/1 23:59:59"], ["exchange_id", 100006], ["gacha_bonus_id", 100007], ["id", 9108], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2026/11/14 11:00:00"], ["unit_id", 101201]],
+            "new": [["end_time", "2099/1/1 23:59:59"], ["exchange_id", 100006], ["gacha_bonus_id", 100007], ["id", 9108], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2026/1/14 11:00:00"], ["unit_id", 101201]]
+          },
+          {
+            "id": 9174,
+            "old": [["end_time", "2099/1/1 23:59:59"], ["exchange_id", 100006], ["gacha_bonus_id", 100007], ["id", 9174], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2026/11/14 11:00:00"], ["unit_id", 122201]],
+            "new": [["end_time", "2099/1/1 23:59:59"], ["exchange_id", 100006], ["gacha_bonus_id", 100007], ["id", 9174], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2026/1/14 11:00:00"], ["unit_id", 122201]]
+          },
+          {
+            "id": 9110,
+            "old": [["end_time", "2099/1/1 23:59:59"], ["exchange_id", 100006], ["gacha_bonus_id", 100007], ["id", 9110], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2026/11/14 11:00:00"], ["unit_id", 102801]],
+            "new": [["end_time", "2099/1/1 23:59:59"], ["exchange_id", 100006], ["gacha_bonus_id", 100007], ["id", 9110], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2026/1/14 11:00:00"], ["unit_id", 102801]]
+          },
+          {
+            "id": 9155,
+            "old": [["end_time", "2099/1/1 23:59:59"], ["exchange_id", 100006], ["gacha_bonus_id", 100007], ["id", 9155], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2026/11/14 11:00:00"], ["unit_id", 116201]],
+            "new": [["end_time", "2099/1/1 23:59:59"], ["exchange_id", 100006], ["gacha_bonus_id", 100007], ["id", 9155], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2026/1/14 11:00:00"], ["unit_id", 116201]]
+          },
+          {
+            "id": 9193,
+            "old": [["end_time", "2099/1/1 23:59:59"], ["exchange_id", 100006], ["gacha_bonus_id", 100007], ["id", 9193], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2026/11/14 11:00:00"], ["unit_id", 128001]],
+            "new": [["end_time", "2099/1/1 23:59:59"], ["exchange_id", 100006], ["gacha_bonus_id", 100007], ["id", 9193], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2026/1/14 11:00:00"], ["unit_id", 128001]]
+          },
+          {
+            "id": 9116,
+            "old": [["end_time", "2099/1/1 23:59:59"], ["exchange_id", 100006], ["gacha_bonus_id", 100007], ["id", 9116], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2026/11/14 11:00:00"], ["unit_id", 105301]],
+            "new": [["end_time", "2099/1/1 23:59:59"], ["exchange_id", 100006], ["gacha_bonus_id", 100007], ["id", 9116], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2026/1/14 11:00:00"], ["unit_id", 105301]]
+          },
+          {
+            "id": 9158,
+            "old": [["end_time", "2099/1/1 23:59:59"], ["exchange_id", 100006], ["gacha_bonus_id", 100007], ["id", 9158], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2026/11/14 11:00:00"], ["unit_id", 116701]],
+            "new": [["end_time", "2099/1/1 23:59:59"], ["exchange_id", 100006], ["gacha_bonus_id", 100007], ["id", 9158], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2026/1/14 11:00:00"], ["unit_id", 116701]]
+          },
+          {
+            "id": 9171,
+            "old": [["end_time", "2099/1/1 23:59:59"], ["exchange_id", 100006], ["gacha_bonus_id", 100007], ["id", 9171], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2026/11/14 11:00:00"], ["unit_id", 121601]],
+            "new": [["end_time", "2099/1/1 23:59:59"], ["exchange_id", 100006], ["gacha_bonus_id", 100007], ["id", 9171], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2026/1/14 11:00:00"], ["unit_id", 121601]]
+          },
+          {
+            "id": 9141,
+            "old": [["end_time", "2099/1/1 23:59:59"], ["exchange_id", 100006], ["gacha_bonus_id", 100007], ["id", 9141], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2026/11/14 11:00:00"], ["unit_id", 106601]],
+            "new": [["end_time", "2099/1/1 23:59:59"], ["exchange_id", 100006], ["gacha_bonus_id", 100007], ["id", 9141], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2026/1/14 11:00:00"], ["unit_id", 106601]]
+          },
+          {
+            "id": 9117,
+            "old": [["end_time", "2099/1/1 23:59:59"], ["exchange_id", 100006], ["gacha_bonus_id", 100007], ["id", 9117], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2026/11/14 11:00:00"], ["unit_id", 105701]],
+            "new": [["end_time", "2099/1/1 23:59:59"], ["exchange_id", 100006], ["gacha_bonus_id", 100007], ["id", 9117], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2026/1/14 11:00:00"], ["unit_id", 105701]]
+          },
+          {
+            "id": 9152,
+            "old": [["end_time", "2099/1/1 23:59:59"], ["exchange_id", 100006], ["gacha_bonus_id", 100007], ["id", 9152], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2026/11/14 11:00:00"], ["unit_id", 115901]],
+            "new": [["end_time", "2099/1/1 23:59:59"], ["exchange_id", 100006], ["gacha_bonus_id", 100007], ["id", 9152], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2026/1/14 11:00:00"], ["unit_id", 115901]]
+          },
+          {
+            "id": 9185,
+            "old": [["end_time", "2099/1/1 23:59:59"], ["exchange_id", 100006], ["gacha_bonus_id", 100007], ["id", 9185], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2026/11/14 11:00:00"], ["unit_id", 125401]],
+            "new": [["end_time", "2099/1/1 23:59:59"], ["exchange_id", 100006], ["gacha_bonus_id", 100007], ["id", 9185], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2026/1/14 11:00:00"], ["unit_id", 125401]]
+          },
+          {
+            "id": 9153,
+            "old": [["end_time", "2099/1/1 23:59:59"], ["exchange_id", 100006], ["gacha_bonus_id", 100007], ["id", 9153], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2026/11/14 11:00:00"], ["unit_id", 116001]],
+            "new": [["end_time", "2099/1/1 23:59:59"], ["exchange_id", 100006], ["gacha_bonus_id", 100007], ["id", 9153], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2026/1/14 11:00:00"], ["unit_id", 116001]]
+          },
+          {
+            "id": 9147,
+            "old": [["end_time", "2099/1/1 23:59:59"], ["exchange_id", 100006], ["gacha_bonus_id", 100007], ["id", 9147], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2026/11/14 11:00:00"], ["unit_id", 114201]],
+            "new": [["end_time", "2099/1/1 23:59:59"], ["exchange_id", 100006], ["gacha_bonus_id", 100007], ["id", 9147], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2026/1/14 11:00:00"], ["unit_id", 114201]]
+          },
+          {
+            "id": 9114,
+            "old": [["end_time", "2099/1/1 23:59:59"], ["exchange_id", 100006], ["gacha_bonus_id", 100007], ["id", 9114], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2026/11/14 11:00:00"], ["unit_id", 104301]],
+            "new": [["end_time", "2099/1/1 23:59:59"], ["exchange_id", 100006], ["gacha_bonus_id", 100007], ["id", 9114], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2026/1/14 11:00:00"], ["unit_id", 104301]]
+          },
+          {
+            "id": 9129,
+            "old": [["end_time", "2099/1/1 23:59:59"], ["exchange_id", 100006], ["gacha_bonus_id", 100007], ["id", 9129], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2026/11/14 11:00:00"], ["unit_id", 110701]],
+            "new": [["end_time", "2099/1/1 23:59:59"], ["exchange_id", 100006], ["gacha_bonus_id", 100007], ["id", 9129], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2026/1/14 11:00:00"], ["unit_id", 110701]]
+          },
+          {
+            "id": 9188,
+            "old": [["end_time", "2099/1/1 23:59:59"], ["exchange_id", 100006], ["gacha_bonus_id", 100007], ["id", 9188], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2026/11/14 11:00:00"], ["unit_id", 127301]],
+            "new": [["end_time", "2099/1/1 23:59:59"], ["exchange_id", 100006], ["gacha_bonus_id", 100007], ["id", 9188], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2026/1/14 11:00:00"], ["unit_id", 127301]]
+          },
+          {
+            "id": 9172,
+            "old": [["end_time", "2099/1/1 23:59:59"], ["exchange_id", 100006], ["gacha_bonus_id", 100007], ["id", 9172], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2026/11/14 11:00:00"], ["unit_id", 122001]],
+            "new": [["end_time", "2099/1/1 23:59:59"], ["exchange_id", 100006], ["gacha_bonus_id", 100007], ["id", 9172], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2026/1/14 11:00:00"], ["unit_id", 122001]]
+          },
+          {
+            "id": 9149,
+            "old": [["end_time", "2099/1/1 23:59:59"], ["exchange_id", 100006], ["gacha_bonus_id", 100007], ["id", 9149], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2026/11/14 11:00:00"], ["unit_id", 114501]],
+            "new": [["end_time", "2099/1/1 23:59:59"], ["exchange_id", 100006], ["gacha_bonus_id", 100007], ["id", 9149], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2026/1/14 11:00:00"], ["unit_id", 114501]]
+          },
+          {
+            "id": 9145,
+            "old": [["end_time", "2099/1/1 23:59:59"], ["exchange_id", 100006], ["gacha_bonus_id", 100007], ["id", 9145], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2026/11/14 11:00:00"], ["unit_id", 113801]],
+            "new": [["end_time", "2099/1/1 23:59:59"], ["exchange_id", 100006], ["gacha_bonus_id", 100007], ["id", 9145], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2026/1/14 11:00:00"], ["unit_id", 113801]]
+          },
+          {
+            "id": 9140,
+            "old": [["end_time", "2099/1/1 23:59:59"], ["exchange_id", 100006], ["gacha_bonus_id", 100007], ["id", 9140], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2026/11/14 11:00:00"], ["unit_id", 112901]],
+            "new": [["end_time", "2099/1/1 23:59:59"], ["exchange_id", 100006], ["gacha_bonus_id", 100007], ["id", 9140], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2026/1/14 11:00:00"], ["unit_id", 112901]]
+          },
+          {
+            "id": 9142,
+            "old": [["end_time", "2099/1/1 23:59:59"], ["exchange_id", 100006], ["gacha_bonus_id", 100007], ["id", 9142], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2026/11/14 11:00:00"], ["unit_id", 113301]],
+            "new": [["end_time", "2099/1/1 23:59:59"], ["exchange_id", 100006], ["gacha_bonus_id", 100007], ["id", 9142], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2026/1/14 11:00:00"], ["unit_id", 113301]]
+          },
+          {
+            "id": 9109,
+            "old": [["end_time", "2099/1/1 23:59:59"], ["exchange_id", 100006], ["gacha_bonus_id", 100007], ["id", 9109], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2026/11/14 11:00:00"], ["unit_id", 101801]],
+            "new": [["end_time", "2099/1/1 23:59:59"], ["exchange_id", 100006], ["gacha_bonus_id", 100007], ["id", 9109], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2026/1/14 11:00:00"], ["unit_id", 101801]]
+          },
+          {
+            "id": 9189,
+            "old": [["end_time", "2099/1/1 23:59:59"], ["exchange_id", 100006], ["gacha_bonus_id", 100007], ["id", 9189], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2026/11/14 11:00:00"], ["unit_id", 126801]],
+            "new": [["end_time", "2099/1/1 23:59:59"], ["exchange_id", 100006], ["gacha_bonus_id", 100007], ["id", 9189], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2026/1/14 11:00:00"], ["unit_id", 126801]]
+          },
+          {
+            "id": 9179,
+            "old": [["end_time", "2099/1/1 23:59:59"], ["exchange_id", 100006], ["gacha_bonus_id", 100007], ["id", 9179], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2026/11/14 11:00:00"], ["unit_id", 123201]],
+            "new": [["end_time", "2099/1/1 23:59:59"], ["exchange_id", 100006], ["gacha_bonus_id", 100007], ["id", 9179], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2026/1/14 11:00:00"], ["unit_id", 123201]]
+          },
+          {
+            "id": 9144,
+            "old": [["end_time", "2099/1/1 23:59:59"], ["exchange_id", 100006], ["gacha_bonus_id", 100007], ["id", 9144], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2026/11/14 11:00:00"], ["unit_id", 113701]],
+            "new": [["end_time", "2099/1/1 23:59:59"], ["exchange_id", 100006], ["gacha_bonus_id", 100007], ["id", 9144], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2026/1/14 11:00:00"], ["unit_id", 113701]]
+          },
+          {
+            "id": 9187,
+            "old": [["end_time", "2099/1/1 23:59:59"], ["exchange_id", 100006], ["gacha_bonus_id", 100007], ["id", 9187], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2026/11/14 11:00:00"], ["unit_id", 127601]],
+            "new": [["end_time", "2099/1/1 23:59:59"], ["exchange_id", 100006], ["gacha_bonus_id", 100007], ["id", 9187], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2026/1/14 11:00:00"], ["unit_id", 127601]]
+          },
+          {
+            "id": 9183,
+            "old": [["end_time", "2099/1/1 23:59:59"], ["exchange_id", 100006], ["gacha_bonus_id", 100007], ["id", 9183], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2026/11/14 11:00:00"], ["unit_id", 125101]],
+            "new": [["end_time", "2099/1/1 23:59:59"], ["exchange_id", 100006], ["gacha_bonus_id", 100007], ["id", 9183], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2026/1/14 11:00:00"], ["unit_id", 125101]]
+          },
+          {
+            "id": 9143,
+            "old": [["end_time", "2099/1/1 23:59:59"], ["exchange_id", 100006], ["gacha_bonus_id", 100007], ["id", 9143], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2026/11/14 11:00:00"], ["unit_id", 113601]],
+            "new": [["end_time", "2099/1/1 23:59:59"], ["exchange_id", 100006], ["gacha_bonus_id", 100007], ["id", 9143], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2026/1/14 11:00:00"], ["unit_id", 113601]]
+          },
+          {
+            "id": 9170,
+            "old": [["end_time", "2099/1/1 23:59:59"], ["exchange_id", 100006], ["gacha_bonus_id", 100007], ["id", 9170], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2026/11/14 11:00:00"], ["unit_id", 121401]],
+            "new": [["end_time", "2099/1/1 23:59:59"], ["exchange_id", 100006], ["gacha_bonus_id", 100007], ["id", 9170], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2026/1/14 11:00:00"], ["unit_id", 121401]]
+          },
+          {
+            "id": 9133,
+            "old": [["end_time", "2099/1/1 23:59:59"], ["exchange_id", 100006], ["gacha_bonus_id", 100007], ["id", 9133], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2026/11/14 11:00:00"], ["unit_id", 106501]],
+            "new": [["end_time", "2099/1/1 23:59:59"], ["exchange_id", 100006], ["gacha_bonus_id", 100007], ["id", 9133], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2026/1/14 11:00:00"], ["unit_id", 106501]]
+          },
+          {
+            "id": 9138,
+            "old": [["end_time", "2099/1/1 23:59:59"], ["exchange_id", 100006], ["gacha_bonus_id", 100007], ["id", 9138], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2026/11/14 11:00:00"], ["unit_id", 112701]],
+            "new": [["end_time", "2099/1/1 23:59:59"], ["exchange_id", 100006], ["gacha_bonus_id", 100007], ["id", 9138], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2026/1/14 11:00:00"], ["unit_id", 112701]]
+          },
+          {
+            "id": 9148,
+            "old": [["end_time", "2099/1/1 23:59:59"], ["exchange_id", 100006], ["gacha_bonus_id", 100007], ["id", 9148], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2026/11/14 11:00:00"], ["unit_id", 114301]],
+            "new": [["end_time", "2099/1/1 23:59:59"], ["exchange_id", 100006], ["gacha_bonus_id", 100007], ["id", 9148], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2026/1/14 11:00:00"], ["unit_id", 114301]]
+          },
+          {
+            "id": 9136,
+            "old": [["end_time", "2099/1/1 23:59:59"], ["exchange_id", 100006], ["gacha_bonus_id", 100007], ["id", 9136], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2026/11/14 11:00:00"], ["unit_id", 111001]],
+            "new": [["end_time", "2099/1/1 23:59:59"], ["exchange_id", 100006], ["gacha_bonus_id", 100007], ["id", 9136], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2026/1/14 11:00:00"], ["unit_id", 111001]]
+          },
+          {
+            "id": 9186,
+            "old": [["end_time", "2099/1/1 23:59:59"], ["exchange_id", 100006], ["gacha_bonus_id", 100007], ["id", 9186], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2026/11/14 11:00:00"], ["unit_id", 125801]],
+            "new": [["end_time", "2099/1/1 23:59:59"], ["exchange_id", 100006], ["gacha_bonus_id", 100007], ["id", 9186], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2026/1/14 11:00:00"], ["unit_id", 125801]]
+          },
+          {
+            "id": 9146,
+            "old": [["end_time", "2099/1/1 23:59:59"], ["exchange_id", 100006], ["gacha_bonus_id", 100007], ["id", 9146], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2026/11/14 11:00:00"], ["unit_id", 114001]],
+            "new": [["end_time", "2099/1/1 23:59:59"], ["exchange_id", 100006], ["gacha_bonus_id", 100007], ["id", 9146], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2026/1/14 11:00:00"], ["unit_id", 114001]]
+          },
+          {
+            "id": 9182,
+            "old": [["end_time", "2099/1/1 23:59:59"], ["exchange_id", 100006], ["gacha_bonus_id", 100007], ["id", 9182], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2026/11/14 11:00:00"], ["unit_id", 124201]],
+            "new": [["end_time", "2099/1/1 23:59:59"], ["exchange_id", 100006], ["gacha_bonus_id", 100007], ["id", 9182], ["pickup_gacha_id", 0], ["rarity", 3], ["start_time", "2026/1/14 11:00:00"], ["unit_id", 124201]]
+          }
+        ]
+      }
+    }
+  }
+}
