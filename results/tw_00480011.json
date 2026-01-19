@@ -1,0 +1,107 @@
+{
+  "tables": {
+    "only_in_old_db": [],
+    "only_in_new_db": []
+  },
+  "table_changes": {
+    "seven_schedule": {
+      "data_changes": {
+        "added": [
+          [["end_time", "2026/02/24 04:59:59"], ["event_id", 10209], ["event_type", 1], ["gacha_id", 1020901], ["gacha_ticket_id", 62091], ["mission_group_id", 102], ["schedule_id", 1009], ["start_time", "2026/02/01 16:00:00"], ["teaser_time", "2026/01/29 16:00:00"], ["unknown_1", 1001]]
+        ]
+      }
+    },
+    "story_detail": {
+      "data_changes": {
+        "added": [
+          [["can_bookmark", 1], ["end_time", "2030/12/17 14:59:59"], ["force_unlock_time", "2030/12/17 14:59:59"], ["force_unlock_time_2", "2030/12/17 14:59:59"], ["lock_all_text", 0], ["love_level", 0], ["pre_story_id", 0], ["pre_story_id_2", 0], ["read_process_flag", 1], ["requirement_id", 0], ["reward_id_1", 0], ["reward_id_2", 0], ["reward_id_3", 0], ["reward_type_1", 0], ["reward_type_2", 0], ["reward_type_3", 0], ["reward_value_1", 0], ["reward_value_2", 0], ["reward_value_3", 0], ["start_time", "2026/01/31 05:00:00"], ["story_end", 0], ["story_group_id", 9012], ["story_id", 9012002], ["story_quest_id", 0], ["sub_title", "初次向星空許下的願望"], ["title", "7.5 Year Anniversary 第2話"], ["unlock_quest_id", 0], ["visible_type", 2]],
+          [["can_bookmark", 1], ["end_time", "2030/12/17 14:59:59"], ["force_unlock_time", "2030/12/17 14:59:59"], ["force_unlock_time_2", "2030/12/17 14:59:59"], ["lock_all_text", 0], ["love_level", 0], ["pre_story_id", 0], ["pre_story_id_2", 0], ["read_process_flag", 1], ["requirement_id", 0], ["reward_id_1", 0], ["reward_id_2", 0], ["reward_id_3", 0], ["reward_type_1", 0], ["reward_type_2", 0], ["reward_type_3", 0], ["reward_value_1", 0], ["reward_value_2", 0], ["reward_value_3", 0], ["start_time", "2026/01/30 05:00:00"], ["story_end", 0], ["story_group_id", 9012], ["story_id", 9012001], ["story_quest_id", 0], ["sub_title", "在繁星降臨的海邊許下的願望"], ["title", "7.5 Year Anniversary 第1話"], ["unlock_quest_id", 0], ["visible_type", 2]],
+          [["can_bookmark", 1], ["end_time", "2030/12/17 14:59:59"], ["force_unlock_time", "2030/12/17 14:59:59"], ["force_unlock_time_2", "2030/12/17 14:59:59"], ["lock_all_text", 0], ["love_level", 0], ["pre_story_id", 0], ["pre_story_id_2", 0], ["read_process_flag", 1], ["requirement_id", 0], ["reward_id_1", 0], ["reward_id_2", 0], ["reward_id_3", 0], ["reward_type_1", 0], ["reward_type_2", 0], ["reward_type_3", 0], ["reward_value_1", 0], ["reward_value_2", 0], ["reward_value_3", 0], ["start_time", "2026/02/01 05:00:00"], ["story_end", 0], ["story_group_id", 9012], ["story_id", 9012003], ["story_quest_id", 0], ["sub_title", "讓心願奔向星星彼端"], ["title", "7.5 Year Anniversary 第3話"], ["unlock_quest_id", 0], ["visible_type", 2]]
+        ]
+      }
+    },
+    "campaign_schedule": {
+      "data_changes": {
+        "added": [
+          [["beginner_id", 0], ["campaign_category", 81], ["campaign_type", 1], ["duplication_order", 0], ["end_time", "2026/02/01 04:59:59"], ["icon_image", 80], ["id", 2617], ["level_id", 0], ["lv_from", 352], ["lv_to", -1], ["shiori_group_id", 0], ["start_time", "2026/01/25 05:00:00"], ["system_id", 101], ["value", 1500.0]],
+          [["beginner_id", 0], ["campaign_category", 352], ["campaign_type", 1], ["duplication_order", 0], ["end_time", "2026/02/01 04:59:59"], ["icon_image", 80], ["id", 2625], ["level_id", 0], ["lv_from", 1], ["lv_to", -1], ["shiori_group_id", 0], ["start_time", "2026/01/25 05:00:00"], ["system_id", 8005], ["value", 1500.0]],
+          [["beginner_id", 0], ["campaign_category", 83], ["campaign_type", 1], ["duplication_order", 0], ["end_time", "2026/02/01 04:59:59"], ["icon_image", 80], ["id", 2621], ["level_id", 0], ["lv_from", 352], ["lv_to", -1], ["shiori_group_id", 0], ["start_time", "2026/01/25 05:00:00"], ["system_id", 111], ["value", 1500.0]],
+          [["beginner_id", 0], ["campaign_category", 351], ["campaign_type", 1], ["duplication_order", 0], ["end_time", "2026/02/01 04:59:59"], ["icon_image", 80], ["id", 2624], ["level_id", 0], ["lv_from", 1], ["lv_to", -1], ["shiori_group_id", 0], ["start_time", "2026/01/25 05:00:00"], ["system_id", 8004], ["value", 1500.0]],
+          [["beginner_id", 0], ["campaign_category", 82], ["campaign_type", 1], ["duplication_order", 0], ["end_time", "2026/02/01 04:59:59"], ["icon_image", 80], ["id", 2618], ["level_id", 0], ["lv_from", 1], ["lv_to", 49], ["shiori_group_id", 0], ["start_time", "2026/01/25 05:00:00"], ["system_id", 102], ["value", 1500.0]],
+          [["beginner_id", 0], ["campaign_category", 93], ["campaign_type", 1], ["duplication_order", 0], ["end_time", "2026/02/01 04:59:59"], ["icon_image", 100], ["id", 2629], ["level_id", 0], ["lv_from", 1], ["lv_to", -1], ["shiori_group_id", 0], ["start_time", "2026/01/27 05:00:00"], ["system_id", 111], ["value", 1500.0]],
+          [["beginner_id", 0], ["campaign_category", 91], ["campaign_type", 1], ["duplication_order", 0], ["end_time", "2026/02/01 04:59:59"], ["icon_image", 100], ["id", 2627], ["level_id", 0], ["lv_from", 1], ["lv_to", -1], ["shiori_group_id", 0], ["start_time", "2026/01/27 05:00:00"], ["system_id", 101], ["value", 1500.0]],
+          [["beginner_id", 0], ["campaign_category", 84], ["campaign_type", 1], ["duplication_order", 0], ["end_time", "2026/02/01 04:59:59"], ["icon_image", 80], ["id", 2622], ["level_id", 0], ["lv_from", 1], ["lv_to", -1], ["shiori_group_id", 0], ["start_time", "2026/01/25 05:00:00"], ["system_id", 109], ["value", 1500.0]],
+          [["beginner_id", 0], ["campaign_category", 82], ["campaign_type", 1], ["duplication_order", 0], ["end_time", "2026/02/01 04:59:59"], ["icon_image", 80], ["id", 2619], ["level_id", 0], ["lv_from", 352], ["lv_to", -1], ["shiori_group_id", 0], ["start_time", "2026/01/25 05:00:00"], ["system_id", 102], ["value", 1500.0]],
+          [["beginner_id", 0], ["campaign_category", 651], ["campaign_type", 1], ["duplication_order", 0], ["end_time", "2026/02/01 04:59:59"], ["icon_image", 100], ["id", 2634], ["level_id", 0], ["lv_from", 1], ["lv_to", -1], ["shiori_group_id", 0], ["start_time", "2026/01/27 05:00:00"], ["system_id", 130], ["value", 1500.0]],
+          [["beginner_id", 0], ["campaign_category", 101], ["campaign_type", 1], ["duplication_order", 0], ["end_time", "2026/02/01 04:59:59"], ["icon_image", 100], ["id", 2633], ["level_id", 0], ["lv_from", 1], ["lv_to", -1], ["shiori_group_id", 0], ["start_time", "2026/01/27 05:00:00"], ["system_id", 8005], ["value", 1500.0]],
+          [["beginner_id", 0], ["campaign_category", 83], ["campaign_type", 1], ["duplication_order", 0], ["end_time", "2026/02/01 04:59:59"], ["icon_image", 80], ["id", 2620], ["level_id", 0], ["lv_from", 1], ["lv_to", 49], ["shiori_group_id", 0], ["start_time", "2026/01/25 05:00:00"], ["system_id", 111], ["value", 1500.0]],
+          [["beginner_id", 0], ["campaign_category", 94], ["campaign_type", 1], ["duplication_order", 0], ["end_time", "2026/02/01 04:59:59"], ["icon_image", 100], ["id", 2630], ["level_id", 0], ["lv_from", 1], ["lv_to", -1], ["shiori_group_id", 0], ["start_time", "2026/01/27 05:00:00"], ["system_id", 109], ["value", 1500.0]],
+          [["beginner_id", 0], ["campaign_category", 641], ["campaign_type", 1], ["duplication_order", 0], ["end_time", "2026/02/01 04:59:59"], ["icon_image", 80], ["id", 2626], ["level_id", 0], ["lv_from", 1], ["lv_to", -1], ["shiori_group_id", 0], ["start_time", "2026/01/25 05:00:00"], ["system_id", 130], ["value", 1500.0]],
+          [["beginner_id", 0], ["campaign_category", 85], ["campaign_type", 1], ["duplication_order", 0], ["end_time", "2026/02/01 04:59:59"], ["icon_image", 80], ["id", 2623], ["level_id", 0], ["lv_from", 1], ["lv_to", -1], ["shiori_group_id", 0], ["start_time", "2026/01/25 05:00:00"], ["system_id", 112], ["value", 1500.0]],
+          [["beginner_id", 0], ["campaign_category", 92], ["campaign_type", 1], ["duplication_order", 0], ["end_time", "2026/02/01 04:59:59"], ["icon_image", 100], ["id", 2628], ["level_id", 0], ["lv_from", 1], ["lv_to", -1], ["shiori_group_id", 0], ["start_time", "2026/01/27 05:00:00"], ["system_id", 102], ["value", 1500.0]],
+          [["beginner_id", 0], ["campaign_category", 100], ["campaign_type", 1], ["duplication_order", 0], ["end_time", "2026/02/01 04:59:59"], ["icon_image", 100], ["id", 2632], ["level_id", 0], ["lv_from", 1], ["lv_to", -1], ["shiori_group_id", 0], ["start_time", "2026/01/27 05:00:00"], ["system_id", 8004], ["value", 1500.0]],
+          [["beginner_id", 0], ["campaign_category", 81], ["campaign_type", 1], ["duplication_order", 0], ["end_time", "2026/02/01 04:59:59"], ["icon_image", 80], ["id", 2616], ["level_id", 0], ["lv_from", 1], ["lv_to", 49], ["shiori_group_id", 0], ["start_time", "2026/01/25 05:00:00"], ["system_id", 101], ["value", 1500.0]],
+          [["beginner_id", 0], ["campaign_category", 95], ["campaign_type", 1], ["duplication_order", 0], ["end_time", "2026/02/01 04:59:59"], ["icon_image", 100], ["id", 2631], ["level_id", 0], ["lv_from", 1], ["lv_to", -1], ["shiori_group_id", 0], ["start_time", "2026/01/27 05:00:00"], ["system_id", 112], ["value", 1500.0]]
+        ]
+      }
+    },
+    "shiori_event_list": {
+      "data_changes": {
+        "added": [
+          [["banner_y", 0], ["condition_chara_id", 0], ["condition_main_quest_id", 0], ["condition_shiori_quest_id", 0], ["condition_story_id", 0], ["end_time", "2030/04/19 15:00:00"], ["event_id", 20069], ["gojuon_order", 203], ["help_index", "1"], ["original_event_id", 10126], ["original_start_time", "2024/01/01 16:00:00"], ["series_event_id", 0], ["start_time", "2026/01/26 16:00:00"]]
+        ]
+      }
+    },
+    "login_bonus_detail": {
+      "data_changes": {
+        "added": [
+          [["bg_id", 530223], ["character_id", 0], ["character_name", ""], ["count", 3], ["description", ""], ["id", 530], ["login_bonus_id", 80014], ["reward_id", 91002], ["reward_num", 100], ["reward_type", 8], ["voice_id", 0]],
+          [["bg_id", 530221], ["character_id", 0], ["character_name", ""], ["count", 1], ["description", ""], ["id", 528], ["login_bonus_id", 80014], ["reward_id", 91002], ["reward_num", 100], ["reward_type", 8], ["voice_id", 0]],
+          [["bg_id", 530218], ["character_id", 0], ["character_name", ""], ["count", 3], ["description", ""], ["id", 525], ["login_bonus_id", 80013], ["reward_id", 91002], ["reward_num", 100], ["reward_type", 8], ["voice_id", 0]],
+          [["bg_id", 530216], ["character_id", 0], ["character_name", ""], ["count", 1], ["description", ""], ["id", 523], ["login_bonus_id", 80013], ["reward_id", 91002], ["reward_num", 100], ["reward_type", 8], ["voice_id", 0]],
+          [["bg_id", 530220], ["character_id", 0], ["character_name", ""], ["count", 5], ["description", ""], ["id", 527], ["login_bonus_id", 80013], ["reward_id", 91002], ["reward_num", 100], ["reward_type", 8], ["voice_id", 0]],
+          [["bg_id", 530217], ["character_id", 0], ["character_name", ""], ["count", 2], ["description", ""], ["id", 524], ["login_bonus_id", 80013], ["reward_id", 91002], ["reward_num", 100], ["reward_type", 8], ["voice_id", 0]],
+          [["bg_id", 530222], ["character_id", 0], ["character_name", ""], ["count", 2], ["description", ""], ["id", 529], ["login_bonus_id", 80014], ["reward_id", 91002], ["reward_num", 100], ["reward_type", 8], ["voice_id", 0]],
+          [["bg_id", 530219], ["character_id", 0], ["character_name", ""], ["count", 4], ["description", ""], ["id", 526], ["login_bonus_id", 80013], ["reward_id", 91002], ["reward_num", 100], ["reward_type", 8], ["voice_id", 0]]
+        ]
+      }
+    },
+    "event_story_data": {
+      "data_changes": {
+        "modified": [
+          {
+            "id": 5126,
+            "old": [["disp_order", 1], ["end_time", "2030/04/24 14:59:59"], ["start_time", "2023/12/29 16:00:00"], ["story_group_id", 5126], ["story_type", 5], ["thumbnail_id", 0], ["title", "魔法師的青春時日　魔法學園與奇蹟之鐘"], ["value", 10155]],
+            "new": [["disp_order", 1], ["end_time", "2030/04/24 14:59:59"], ["start_time", "2023/12/29 16:00:00"], ["story_group_id", 5126], ["story_type", 5], ["thumbnail_id", 0], ["title", "魔法師的青春時日　魔法學園與奇蹟之鐘"], ["value", 20069]]
+          }
+        ]
+      }
+    },
+    "login_bonus_data": {
+      "data_changes": {
+        "added": [
+          [["adv_play_type", 1], ["bg_id", 0], ["count_num", 3], ["count_type", 1], ["end_time", "2026/02/02 04:59:59"], ["login_bonus_id", 80014], ["login_bonus_type", 10], ["name", "7.5 Year Anniversary 倒數登入獎勵"], ["odds_group_id", 0], ["stamp_id", 0], ["start_time", "2026/01/30 05:00:00"]],
+          [["adv_play_type", 0], ["bg_id", 0], ["count_num", 5], ["count_type", 1], ["end_time", "2026/01/30 04:59:59"], ["login_bonus_id", 80013], ["login_bonus_type", 8], ["name", "7.5 Year Anniversary 倒數登入獎勵"], ["odds_group_id", 0], ["stamp_id", 0], ["start_time", "2026/01/25 05:00:00"]]
+        ]
+      }
+    },
+    "enemy_parameter": {
+      "data_changes": {
+        "added": [
+          [["accuracy", 50], ["atk", 0], ["break_durability", 0], ["def", 200], ["dodge", 0], ["enemy_id", 660069301], ["energy_recovery_rate", 40], ["energy_reduce_rate", 0], ["ex_skill_lv_1", 0], ["ex_skill_lv_2", 0], ["ex_skill_lv_3", 0], ["ex_skill_lv_4", 0], ["ex_skill_lv_5", 0], ["hp", 6000000], ["hp_recovery_rate", 0], ["level", 120], ["life_steal", 0], ["magic_critical", 0], ["magic_def", 300], ["magic_penetrate", 0], ["magic_str", 1300], ["main_skill_lv_1", 200], ["main_skill_lv_10", 0], ["main_skill_lv_2", 200], ["main_skill_lv_3", 200], ["main_skill_lv_4", 300], ["main_skill_lv_5", 0], ["main_skill_lv_6", 0], ["main_skill_lv_7", 0], ["main_skill_lv_8", 0], ["main_skill_lv_9", 0], ["name", "被解放的暴魔‧阿爾杰什"], ["physical_critical", 0], ["physical_penetrate", 0], ["promotion_level", 1], ["rarity", 1], ["resist_status_id", 300000022], ["resist_variation_id", 0], ["union_burst_level", 200], ["unique_equipment_flag_1", 0], ["unit_id", 319502], ["virtual_hp", 0], ["wave_energy_recovery", 0], ["wave_hp_recovery", 0]],
+          [["accuracy", 50], ["atk", 0], ["break_durability", 0], ["def", 20], ["dodge", 0], ["enemy_id", 660069101], ["energy_recovery_rate", 10], ["energy_reduce_rate", 0], ["ex_skill_lv_1", 0], ["ex_skill_lv_2", 0], ["ex_skill_lv_3", 0], ["ex_skill_lv_4", 0], ["ex_skill_lv_5", 0], ["hp", 68000], ["hp_recovery_rate", 0], ["level", 25], ["life_steal", 0], ["magic_critical", 0], ["magic_def", 20], ["magic_penetrate", 0], ["magic_str", 20], ["main_skill_lv_1", 25], ["main_skill_lv_10", 0], ["main_skill_lv_2", 25], ["main_skill_lv_3", 25], ["main_skill_lv_4", 25], ["main_skill_lv_5", 0], ["main_skill_lv_6", 0], ["main_skill_lv_7", 0], ["main_skill_lv_8", 0], ["main_skill_lv_9", 0], ["name", "被解放的暴魔‧阿爾杰什"], ["physical_critical", 0], ["physical_penetrate", 0], ["promotion_level", 1], ["rarity", 1], ["resist_status_id", 300000022], ["resist_variation_id", 0], ["union_burst_level", 10], ["unique_equipment_flag_1", 0], ["unit_id", 319500], ["virtual_hp", 0], ["wave_energy_recovery", 0], ["wave_hp_recovery", 0]],
+          [["accuracy", 50], ["atk", 0], ["break_durability", 0], ["def", 50], ["dodge", 0], ["enemy_id", 660069201], ["energy_recovery_rate", 15], ["energy_reduce_rate", 0], ["ex_skill_lv_1", 0], ["ex_skill_lv_2", 0], ["ex_skill_lv_3", 0], ["ex_skill_lv_4", 0], ["ex_skill_lv_5", 0], ["hp", 800000], ["hp_recovery_rate", 0], ["level", 50], ["life_steal", 0], ["magic_critical", 0], ["magic_def", 50], ["magic_penetrate", 0], ["magic_str", 80], ["main_skill_lv_1", 50], ["main_skill_lv_10", 0], ["main_skill_lv_2", 50], ["main_skill_lv_3", 50], ["main_skill_lv_4", 50], ["main_skill_lv_5", 0], ["main_skill_lv_6", 0], ["main_skill_lv_7", 0], ["main_skill_lv_8", 0], ["main_skill_lv_9", 0], ["name", "被解放的暴魔‧阿爾杰什"], ["physical_critical", 0], ["physical_penetrate", 0], ["promotion_level", 1], ["rarity", 1], ["resist_status_id", 300000022], ["resist_variation_id", 0], ["union_burst_level", 50], ["unique_equipment_flag_1", 0], ["unit_id", 319501], ["virtual_hp", 0], ["wave_energy_recovery", 0], ["wave_hp_recovery", 0]]
+        ]
+      }
+    },
+    "wave_group_data": {
+      "data_changes": {
+        "added": [
+          [["drop_gold_1", 0], ["drop_gold_2", 0], ["drop_gold_3", 0], ["drop_gold_4", 0], ["drop_gold_5", 0], ["drop_reward_id_1", 0], ["drop_reward_id_2", 0], ["drop_reward_id_3", 0], ["drop_reward_id_4", 0], ["drop_reward_id_5", 0], ["enemy_id_1", 660069101], ["enemy_id_2", 0], ["enemy_id_3", 0], ["enemy_id_4", 0], ["enemy_id_5", 0], ["guest_enemy_id", 0], ["guest_lane", 0], ["id", 660069001], ["odds", 100], ["wave_group_id", 660069001]],
+          [["drop_gold_1", 0], ["drop_gold_2", 0], ["drop_gold_3", 0], ["drop_gold_4", 0], ["drop_gold_5", 0], ["drop_reward_id_1", 0], ["drop_reward_id_2", 0], ["drop_reward_id_3", 0], ["drop_reward_id_4", 0], ["drop_reward_id_5", 0], ["enemy_id_1", 660069201], ["enemy_id_2", 0], ["enemy_id_3", 0], ["enemy_id_4", 0], ["enemy_id_5", 0], ["guest_enemy_id", 0], ["guest_lane", 0], ["id", 660069002], ["odds", 100], ["wave_group_id", 660069002]],
+          [["drop_gold_1", 0], ["drop_gold_2", 0], ["drop_gold_3", 0], ["drop_gold_4", 0], ["drop_gold_5", 0], ["drop_reward_id_1", 0], ["drop_reward_id_2", 0], ["drop_reward_id_3", 0], ["drop_reward_id_4", 0], ["drop_reward_id_5", 0], ["enemy_id_1", 660069301], ["enemy_id_2", 0], ["enemy_id_3", 0], ["enemy_id_4", 0], ["enemy_id_5", 0], ["guest_enemy_id", 0], ["guest_lane", 0], ["id", 660069003], ["odds", 100], ["wave_group_id", 660069003]]
+        ]
+      }
+    }
+  }
+}
