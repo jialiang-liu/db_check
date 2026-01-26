@@ -1,0 +1,67 @@
+{
+  "tables": {
+    "only_in_old_db": [],
+    "only_in_new_db": []
+  },
+  "table_changes": {
+    "story_detail": {
+      "data_changes": {
+        "added": [
+          [["can_bookmark", 0], ["end_time", "2030/12/17 14:59:59"], ["force_unlock_time", "2030/12/17 14:59:59"], ["force_unlock_time_2", "2030/12/17 14:59:59"], ["lock_all_text", 0], ["love_level", 0], ["pre_story_id", 0], ["pre_story_id_2", 0], ["read_process_flag", 1], ["requirement_id", 0], ["reward_id_1", 31230], ["reward_id_2", 0], ["reward_id_3", 0], ["reward_type_1", 2], ["reward_type_2", 2], ["reward_type_3", 10], ["reward_value_1", 10], ["reward_value_2", 31186], ["reward_value_3", 0], ["start_time", "2026/02/18 05:00:00"], ["story_end", 0], ["story_group_id", 4010], ["story_id", 4010153], ["story_quest_id", 0], ["sub_title", "2月18日的劇情2"], ["title", ""], ["unlock_quest_id", 0], ["visible_type", 2]],
+          [["can_bookmark", 0], ["end_time", "2030/12/17 14:59:59"], ["force_unlock_time", "2030/12/17 14:59:59"], ["force_unlock_time_2", "2030/12/17 14:59:59"], ["lock_all_text", 0], ["love_level", 0], ["pre_story_id", 0], ["pre_story_id_2", 0], ["read_process_flag", 1], ["requirement_id", 0], ["reward_id_1", 31093], ["reward_id_2", 0], ["reward_id_3", 0], ["reward_type_1", 2], ["reward_type_2", 0], ["reward_type_3", 0], ["reward_value_1", 10], ["reward_value_2", 0], ["reward_value_3", 0], ["start_time", "2026/02/04 05:00:00"], ["story_end", 0], ["story_group_id", 4010], ["story_id", 4010149], ["story_quest_id", 0], ["sub_title", "2月4日的劇情2"], ["title", ""], ["unlock_quest_id", 0], ["visible_type", 2]],
+          [["can_bookmark", 0], ["end_time", "2030/12/17 14:59:59"], ["force_unlock_time", "2030/12/17 14:59:59"], ["force_unlock_time_2", "2030/12/17 14:59:59"], ["lock_all_text", 0], ["love_level", 0], ["pre_story_id", 0], ["pre_story_id_2", 0], ["read_process_flag", 1], ["requirement_id", 0], ["reward_id_1", 31071], ["reward_id_2", 0], ["reward_id_3", 0], ["reward_type_1", 2], ["reward_type_2", 0], ["reward_type_3", 0], ["reward_value_1", 10], ["reward_value_2", 0], ["reward_value_3", 0], ["start_time", "2026/02/07 05:00:00"], ["story_end", 0], ["story_group_id", 4010], ["story_id", 4010151], ["story_quest_id", 0], ["sub_title", "2月7日的劇情2"], ["title", ""], ["unlock_quest_id", 0], ["visible_type", 2]],
+          [["can_bookmark", 0], ["end_time", "2030/12/17 14:59:59"], ["force_unlock_time", "2030/12/17 14:59:59"], ["force_unlock_time_2", "2030/12/17 14:59:59"], ["lock_all_text", 0], ["love_level", 0], ["pre_story_id", 0], ["pre_story_id_2", 0], ["read_process_flag", 1], ["requirement_id", 0], ["reward_id_1", 31290], ["reward_id_2", 0], ["reward_id_3", 0], ["reward_type_1", 2], ["reward_type_2", 0], ["reward_type_3", 0], ["reward_value_1", 10], ["reward_value_2", 0], ["reward_value_3", 0], ["start_time", "2026/02/15 05:00:00"], ["story_end", 0], ["story_group_id", 4010], ["story_id", 4010152], ["story_quest_id", 0], ["sub_title", "2月15日的劇情"], ["title", ""], ["unlock_quest_id", 0], ["visible_type", 2]],
+          [["can_bookmark", 0], ["end_time", "2030/12/17 14:59:59"], ["force_unlock_time", "2030/12/17 14:59:59"], ["force_unlock_time_2", "2030/12/17 14:59:59"], ["lock_all_text", 0], ["love_level", 0], ["pre_story_id", 0], ["pre_story_id_2", 0], ["read_process_flag", 1], ["requirement_id", 0], ["reward_id_1", 31110], ["reward_id_2", 0], ["reward_id_3", 0], ["reward_type_1", 2], ["reward_type_2", 0], ["reward_type_3", 0], ["reward_value_1", 10], ["reward_value_2", 0], ["reward_value_3", 0], ["start_time", "2026/02/28 05:00:00"], ["story_end", 0], ["story_group_id", 4010], ["story_id", 4010154], ["story_quest_id", 0], ["sub_title", "2月28日的劇情2"], ["title", ""], ["unlock_quest_id", 0], ["visible_type", 2]],
+          [["can_bookmark", 0], ["end_time", "2030/12/17 14:59:59"], ["force_unlock_time", "2030/12/17 14:59:59"], ["force_unlock_time_2", "2030/12/17 14:59:59"], ["lock_all_text", 0], ["love_level", 0], ["pre_story_id", 0], ["pre_story_id_2", 0], ["read_process_flag", 1], ["requirement_id", 0], ["reward_id_1", 31277], ["reward_id_2", 0], ["reward_id_3", 0], ["reward_type_1", 2], ["reward_type_2", 2], ["reward_type_3", 10], ["reward_value_1", 10], ["reward_value_2", 31278], ["reward_value_3", 0], ["start_time", "2026/02/05 05:00:00"], ["story_end", 0], ["story_group_id", 4010], ["story_id", 4010150], ["story_quest_id", 0], ["sub_title", "2月5日的劇情"], ["title", ""], ["unlock_quest_id", 0], ["visible_type", 2]],
+          [["can_bookmark", 0], ["end_time", "2030/12/17 14:59:59"], ["force_unlock_time", "2030/12/17 14:59:59"], ["force_unlock_time_2", "2030/12/17 14:59:59"], ["lock_all_text", 0], ["love_level", 0], ["pre_story_id", 0], ["pre_story_id_2", 0], ["read_process_flag", 1], ["requirement_id", 0], ["reward_id_1", 31036], ["reward_id_2", 0], ["reward_id_3", 0], ["reward_type_1", 2], ["reward_type_2", 0], ["reward_type_3", 0], ["reward_value_1", 10], ["reward_value_2", 0], ["reward_value_3", 0], ["start_time", "2026/02/02 05:00:00"], ["story_end", 0], ["story_group_id", 4010], ["story_id", 4010148], ["story_quest_id", 0], ["sub_title", "2月2日的劇情2"], ["title", ""], ["unlock_quest_id", 0], ["visible_type", 2]]
+        ]
+      }
+    },
+    "daily_mission_data": {
+      "data_changes": {
+        "added": [
+          [["category_icon", 106], ["condition_num", 1], ["condition_value_1", 50000], ["condition_value_2", 45959], ["condition_value_3", 0], ["daily_mission_id", 18001120], ["description", "登入遊戲"], ["disp_group", 1], ["end_time", "2026/02/18 04:59:59"], ["max_level", 0], ["min_level", 0], ["mission_condition", 8001], ["mission_reward_id", 18001008], ["start_time", "2026/02/01 05:00:00"], ["system_id", 0], ["title_color_id", 0], ["visible_flag", 1]],
+          [["category_icon", 106], ["condition_num", 1], ["condition_value_1", 50000], ["condition_value_2", 45959], ["condition_value_3", 0], ["daily_mission_id", 18001121], ["description", "登入遊戲"], ["disp_group", 1], ["end_time", "2030/02/15 04:59:59"], ["max_level", 0], ["min_level", 0], ["mission_condition", 8001], ["mission_reward_id", 18001007], ["start_time", "2026/02/18 05:00:00"], ["system_id", 0], ["title_color_id", 0], ["visible_flag", 1]]
+        ],
+        "modified": [
+          {
+            "id": 18001119,
+            "old": [["category_icon", 106], ["condition_num", 1], ["condition_value_1", 50000], ["condition_value_2", 45959], ["condition_value_3", 0], ["daily_mission_id", 18001119], ["description", "登入遊戲"], ["disp_group", 1], ["end_time", "2030/02/15 04:59:59"], ["max_level", 0], ["min_level", 0], ["mission_condition", 8001], ["mission_reward_id", 18001007], ["start_time", "2026/01/08 10:00:00"], ["system_id", 0], ["title_color_id", 0], ["visible_flag", 1]],
+            "new": [["category_icon", 106], ["condition_num", 1], ["condition_value_1", 50000], ["condition_value_2", 45959], ["condition_value_3", 0], ["daily_mission_id", 18001119], ["description", "登入遊戲"], ["disp_group", 1], ["end_time", "2026/02/01 04:59:59"], ["max_level", 0], ["min_level", 0], ["mission_condition", 8001], ["mission_reward_id", 18001007], ["start_time", "2026/01/08 10:00:00"], ["system_id", 0], ["title_color_id", 0], ["visible_flag", 1]]
+          }
+        ]
+      }
+    },
+    "mission_reward_data": {
+      "data_changes": {
+        "added": [
+          [["end_time", "2030/12/31 23:59:59"], ["id", 355], ["lv_from", 1], ["lv_to", -1], ["mission_reward_id", 18001008], ["reward_id", 93001], ["reward_num", 400], ["reward_type", 6], ["start_time", "2018/01/01 05:00:00"]]
+        ]
+      }
+    },
+    "campaign_schedule": {
+      "data_changes": {
+        "added": [
+          [["beginner_id", 0], ["campaign_category", 45], ["campaign_type", 1], ["duplication_order", 0], ["end_time", "2026/02/18 04:59:59"], ["icon_image", 40], ["id", 2635], ["level_id", 0], ["lv_from", 1], ["lv_to", -1], ["shiori_group_id", 0], ["start_time", "2026/02/01 05:00:00"], ["system_id", 104], ["value", 2000.0]],
+          [["beginner_id", 0], ["campaign_category", 34], ["campaign_type", 1], ["duplication_order", 0], ["end_time", "2026/02/07 04:59:59"], ["icon_image", 30], ["id", 2638], ["level_id", 0], ["lv_from", 1], ["lv_to", -1], ["shiori_group_id", 0], ["start_time", "2026/02/01 05:00:00"], ["system_id", 103], ["value", 4000.0]],
+          [["beginner_id", 0], ["campaign_category", 37], ["campaign_type", 1], ["duplication_order", 0], ["end_time", "2026/02/07 04:59:59"], ["icon_image", 30], ["id", 2636], ["level_id", 0], ["lv_from", 1], ["lv_to", -1], ["shiori_group_id", 0], ["start_time", "2026/02/01 05:00:00"], ["system_id", 109], ["value", 2000.0]],
+          [["beginner_id", 0], ["campaign_category", 38], ["campaign_type", 1], ["duplication_order", 0], ["end_time", "2026/02/07 04:59:59"], ["icon_image", 30], ["id", 2637], ["level_id", 0], ["lv_from", 1], ["lv_to", -1], ["shiori_group_id", 0], ["start_time", "2026/02/01 05:00:00"], ["system_id", 112], ["value", 2000.0]],
+          [["beginner_id", 0], ["campaign_category", 44], ["campaign_type", 1], ["duplication_order", 0], ["end_time", "2026/02/07 04:59:59"], ["icon_image", 40], ["id", 2639], ["level_id", 0], ["lv_from", 1], ["lv_to", -1], ["shiori_group_id", 0], ["start_time", "2026/02/01 05:00:00"], ["system_id", 103], ["value", 4000.0]]
+        ]
+      }
+    },
+    "item_data": {
+      "data_changes": {
+        "added": [
+          [["description", "所有角色皆可使用的專用裝備１輝光水晶球。可製作專用裝備１並強化至Lv340。"], ["end_time", "2030/08/01 14:59:59"], ["gojuon_order", 0], ["item_id", 21954], ["item_name", "專用裝備１輝光水晶球 / Lv340"], ["item_type", 23], ["limit_num", 999], ["price", 0], ["promotion_level", 1], ["sell_check_disp", 0], ["start_time", "2026/02/01 00:00:00"], ["value", 10004]],
+          [["description", "能夠交換特定角色純淨記憶碎片的交換券。"], ["end_time", "2030/08/01 14:59:59"], ["gojuon_order", 0], ["item_id", 28035], ["item_name", "回歸純淨記憶碎片交換券"], ["item_type", 17], ["limit_num", 999], ["price", 0], ["promotion_level", 1], ["sell_check_disp", 0], ["start_time", "2026/02/01 05:00:00"], ["value", 0]],
+          [["description", "可以10連抽專用轉蛋的轉蛋券。第10名角色必中★3角色。"], ["end_time", "2030/08/01 14:59:59"], ["gojuon_order", 0], ["item_id", 24028], ["item_name", "回歸10連轉蛋券"], ["item_type", 17], ["limit_num", 999], ["price", 0], ["promotion_level", 1], ["sell_check_disp", 0], ["start_time", "2026/02/01 05:00:00"], ["value", 0]],
+          [["description", "可以交換特定角色的券。"], ["end_time", "2030/08/01 14:59:59"], ["gojuon_order", 0], ["item_id", 27024], ["item_name", "特別交換券（限定+）"], ["item_type", 17], ["limit_num", 999], ["price", 0], ["promotion_level", 1], ["sell_check_disp", 0], ["start_time", "2026/02/01 00:00:00"], ["value", 0]],
+          [["description", "能夠交換特定角色純淨記憶碎片的交換券。"], ["end_time", "2030/08/01 14:59:59"], ["gojuon_order", 0], ["item_id", 28037], ["item_name", "7.5th Anniv. 純淨記憶碎片交換券"], ["item_type", 17], ["limit_num", 999], ["price", 0], ["promotion_level", 1], ["sell_check_disp", 0], ["start_time", "2026/02/01 00:00:00"], ["value", 0]],
+          [["description", "可以10連抽專用轉蛋的轉蛋券。第10名角色必中★3角色。"], ["end_time", "2030/08/01 14:59:59"], ["gojuon_order", 0], ["item_id", 24029], ["item_name", "回歸SP10連轉蛋券"], ["item_type", 17], ["limit_num", 999], ["price", 0], ["promotion_level", 1], ["sell_check_disp", 0], ["start_time", "2026/02/01 05:00:00"], ["value", 0]],
+          [["description", "能夠交換特定角色記憶碎片的交換券。"], ["end_time", "2030/08/01 14:59:59"], ["gojuon_order", 0], ["item_id", 28036], ["item_name", "7.5th Anniv. 記憶碎片交換券"], ["item_type", 17], ["limit_num", 999], ["price", 0], ["promotion_level", 1], ["sell_check_disp", 0], ["start_time", "2026/02/01 00:00:00"], ["value", 0]]
+        ]
+      }
+    }
+  }
+}
