@@ -1,0 +1,127 @@
+{
+  "tables": {
+    "only_in_old_db": [],
+    "only_in_new_db": []
+  },
+  "table_changes": {
+    "abyss_schedule": {
+      "data_changes": {
+        "added": [
+          [["abyss_id", 92422], ["boss_ticket_id", 70016], ["end_time", "2026/02/10 04:59:59"], ["start_time", "2026/02/05 16:00:00"], ["talent_id", 2], ["title", "轟流深淵"]]
+        ]
+      }
+    },
+    "unit_attack_pattern": {
+      "data_changes": {
+        "added": [
+          [["atk_pattern_1", 1002], ["atk_pattern_10", 0], ["atk_pattern_11", 0], ["atk_pattern_12", 0], ["atk_pattern_13", 0], ["atk_pattern_14", 0], ["atk_pattern_15", 0], ["atk_pattern_16", 0], ["atk_pattern_17", 0], ["atk_pattern_18", 0], ["atk_pattern_19", 0], ["atk_pattern_2", 1001], ["atk_pattern_20", 0], ["atk_pattern_3", 1002], ["atk_pattern_4", 1002], ["atk_pattern_5", 0], ["atk_pattern_6", 0], ["atk_pattern_7", 0], ["atk_pattern_8", 0], ["atk_pattern_9", 0], ["loop_end", 4], ["loop_start", 1], ["pattern_id", 30960301], ["unit_id", 309603]]
+        ]
+      }
+    },
+    "enemy_talent_weakness": {
+      "data_changes": {
+        "added": [
+          [["enemy_id", 924222401], ["resist_id", 2000001]],
+          [["enemy_id", 924222204], ["resist_id", 2000001]],
+          [["enemy_id", 924222303], ["resist_id", 2000001]],
+          [["enemy_id", 924221301], ["resist_id", 2000001]],
+          [["enemy_id", 924223201], ["resist_id", 2000001]],
+          [["enemy_id", 924221401], ["resist_id", 2000001]],
+          [["enemy_id", 924223401], ["resist_id", 2000001]],
+          [["enemy_id", 924221101], ["resist_id", 2000001]],
+          [["enemy_id", 924222104], ["resist_id", 2000001]],
+          [["enemy_id", 924222304], ["resist_id", 2000001]],
+          [["enemy_id", 924223301], ["resist_id", 2000001]],
+          [["enemy_id", 924222403], ["resist_id", 2000001]],
+          [["enemy_id", 924222404], ["resist_id", 2000001]],
+          [["enemy_id", 924222301], ["resist_id", 2000001]],
+          [["enemy_id", 924222302], ["resist_id", 2000001]],
+          [["enemy_id", 924222101], ["resist_id", 2000001]],
+          [["enemy_id", 924222102], ["resist_id", 2000001]],
+          [["enemy_id", 924222103], ["resist_id", 2000001]],
+          [["enemy_id", 924221201], ["resist_id", 2000001]],
+          [["enemy_id", 924222202], ["resist_id", 2000001]],
+          [["enemy_id", 924223101], ["resist_id", 2000001]],
+          [["enemy_id", 924222203], ["resist_id", 2000001]],
+          [["enemy_id", 924222402], ["resist_id", 2000001]],
+          [["enemy_id", 924222201], ["resist_id", 2000001]]
+        ]
+      }
+    },
+    "gacha_data": {
+      "data_changes": {
+        "added": [
+          [["b445862d0ab66dcf0d21148e77310f8e2f88e53c87861cd1b30c6271489741b7", 0], ["chara_odds_star1", "110028_1"], ["chara_odds_star2", "110028_2"], ["chara_odds_star3", "110028_3"], ["description", "有償寶石限定\\n舉辦★3確定白金轉蛋！"], ["description_2", ""], ["description_sp", "111028_3"], ["discount_price", 50], ["end_time", "2026/02/08 15:59:59"], ["exchange_id", 409], ["ff12a2d323be4140b5b5f0e3db8f93c207d4d0594eff84913f280ebb8f5fbfcd", 0], ["free_gacha_count", 0], ["free_gacha_interval_time", 0], ["free_gacha_type", 0], ["gacha10_special_odds_star1", "[3C404E]第10位角色[FFBB00,CE4F00]必定出現水屬性的★3角色！[-]"], ["gacha10_special_odds_star2", "111028_2"], ["gacha10_special_odds_star3", "★3必中（水）"], ["gacha_bonus_id", 0], ["gacha_cost_type", 2], ["gacha_detail", 2], ["gacha_id", 110028], ["gacha_name", "水屬性 ★3必中白金轉蛋"], ["gacha_odds", "0"], ["gacha_odds_star2", "0"], ["gacha_times_limit10", 1], ["gacha_type", 1], ["movie_id", 1100027], ["parallel_id", 0], ["pick_up_chara_text", "無精選角色"], ["pickup_badge", 0], ["pickup_id", 0], ["price", 1500], ["prizegacha_id", 0], ["rarity_odds", "300000"], ["special_id", 110028], ["start_time", "2026/02/03 16:00:00"], ["tab_name", "111028_1"], ["ticket_id", 24001], ["ticket_id_10", 0], ["title_id", 0]]
+        ]
+      }
+    },
+    "item_data": {
+      "data_changes": {
+        "added": [
+          [["description", "可於深淵討伐戰期間得到的證明。使用證明即可挑戰Boss戰。"], ["end_time", "2030/04/24 14:59:59"], ["gojuon_order", 0], ["item_id", 70016], ["item_name", "討伐委託證"], ["item_type", 32], ["limit_num", 9999], ["price", 0], ["promotion_level", 1], ["sell_check_disp", 0], ["start_time", "2015/12/17 15:00:00"], ["value", 0]]
+        ]
+      }
+    },
+    "enemy_m_parts": {
+      "data_changes": {
+        "added": [
+          [["child_enemy_parameter_1", 924222102], ["child_enemy_parameter_2", 924222103], ["child_enemy_parameter_3", 924222104], ["child_enemy_parameter_4", 0], ["child_enemy_parameter_5", 0], ["enemy_id", 924222101], ["name", "10月深淵討伐戰詛咒鎧甲‧洛克斯（複部位）"]],
+          [["child_enemy_parameter_1", 924222402], ["child_enemy_parameter_2", 924222403], ["child_enemy_parameter_3", 924222404], ["child_enemy_parameter_4", 0], ["child_enemy_parameter_5", 0], ["enemy_id", 924222401], ["name", "10月深淵討伐戰詛咒鎧甲‧洛克斯（複部位）"]],
+          [["child_enemy_parameter_1", 924222302], ["child_enemy_parameter_2", 924222303], ["child_enemy_parameter_3", 924222304], ["child_enemy_parameter_4", 0], ["child_enemy_parameter_5", 0], ["enemy_id", 924222301], ["name", "10月深淵討伐戰詛咒鎧甲‧洛克斯（複部位）"]],
+          [["child_enemy_parameter_1", 924222202], ["child_enemy_parameter_2", 924222203], ["child_enemy_parameter_3", 924222204], ["child_enemy_parameter_4", 0], ["child_enemy_parameter_5", 0], ["enemy_id", 924222201], ["name", "10月深淵討伐戰詛咒鎧甲‧洛克斯（複部位）"]]
+        ]
+      }
+    },
+    "skill_action": {
+      "data_changes": {
+        "modified": [
+          {
+            "id": 304003301,
+            "old": [["action_detail_1", 1], ["action_detail_2", 0], ["action_detail_3", 0.0], ["action_id", 304003301], ["action_type", 1], ["action_value_1", 100.0], ["action_value_2", 10.0], ["action_value_3", 1.0], ["action_value_4", 0.01], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0], ["class_id", 1], ["description", ""], ["level_up_disp", ""], ["target_area", 3], ["target_assignment", 1], ["target_count", 50], ["target_number", 1], ["target_range", 3000], ["target_type", 38]],
+            "new": [["action_detail_1", 1], ["action_detail_2", 0], ["action_detail_3", 0.0], ["action_id", 304003301], ["action_type", 1], ["action_value_1", 100.0], ["action_value_2", 10.0], ["action_value_3", 1.0], ["action_value_4", 0.01], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0], ["class_id", 1], ["description", ""], ["level_up_disp", ""], ["target_area", 3], ["target_assignment", 1], ["target_count", 100], ["target_number", 1], ["target_range", 3000], ["target_type", 38]]
+          },
+          {
+            "id": 304003101,
+            "old": [["action_detail_1", 2], ["action_detail_2", 0], ["action_detail_3", 0.0], ["action_id", 304003101], ["action_type", 1], ["action_value_1", 66.0], ["action_value_2", 66.0], ["action_value_3", 1.0], ["action_value_4", 0.00247], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0], ["class_id", 1], ["description", ""], ["level_up_disp", ""], ["target_area", 3], ["target_assignment", 1], ["target_count", 50], ["target_number", 1], ["target_range", 3000], ["target_type", 38]],
+            "new": [["action_detail_1", 2], ["action_detail_2", 0], ["action_detail_3", 0.0], ["action_id", 304003101], ["action_type", 1], ["action_value_1", 66.0], ["action_value_2", 66.0], ["action_value_3", 1.0], ["action_value_4", 0.00247], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0], ["class_id", 1], ["description", ""], ["level_up_disp", ""], ["target_area", 3], ["target_assignment", 1], ["target_count", 100], ["target_number", 1], ["target_range", 3000], ["target_type", 38]]
+          },
+          {
+            "id": 304003108,
+            "old": [["action_detail_1", 2], ["action_detail_2", 0], ["action_detail_3", 0.0], ["action_id", 304003108], ["action_type", 1], ["action_value_1", 66.0], ["action_value_2", 66.0], ["action_value_3", 1.0], ["action_value_4", 0.00247], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0], ["class_id", 1], ["description", ""], ["level_up_disp", ""], ["target_area", 6], ["target_assignment", 1], ["target_count", 50], ["target_number", 99], ["target_range", 3000], ["target_type", 4]],
+            "new": [["action_detail_1", 2], ["action_detail_2", 0], ["action_detail_3", 0.0], ["action_id", 304003108], ["action_type", 1], ["action_value_1", 66.0], ["action_value_2", 66.0], ["action_value_3", 1.0], ["action_value_4", 0.00247], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0], ["class_id", 1], ["description", ""], ["level_up_disp", ""], ["target_area", 6], ["target_assignment", 1], ["target_count", 100], ["target_number", 99], ["target_range", 3000], ["target_type", 4]]
+          },
+          {
+            "id": 309601401,
+            "old": [["action_detail_1", 3], ["action_detail_2", 0], ["action_detail_3", 0.0], ["action_id", 309601401], ["action_type", 17], ["action_value_1", 100.0], ["action_value_2", 0.0], ["action_value_3", 40.0], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0], ["class_id", 1], ["description", ""], ["level_up_disp", ""], ["target_area", 3], ["target_assignment", 1], ["target_count", 0], ["target_number", 1], ["target_range", 0], ["target_type", 7]],
+            "new": [["action_detail_1", 3], ["action_detail_2", 0], ["action_detail_3", 0.0], ["action_id", 309601401], ["action_type", 17], ["action_value_1", 100.0], ["action_value_2", 0.0], ["action_value_3", 40.0], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0], ["class_id", 1], ["description", ""], ["level_up_disp", ""], ["target_area", 3], ["target_assignment", 2], ["target_count", 0], ["target_number", 1], ["target_range", 0], ["target_type", 7]]
+          }
+        ]
+      }
+    },
+    "unit_enemy_data": {
+      "data_changes": {
+        "added": [
+          [["atk_type", 1], ["comment", "【物理】用無盡的動力執行命令的魔鎧甲。\\n堅毅的雙肩會拒絕並碾碎侵略領域者。\\n\\n【特殊效果】\\n‧所有技能傷害不可恢復ＴＰ\\n【必殺技】\\n‧對最前方的１名敵人及其周圍造成物理傷害\\n‧對最前方的１名敵人及其周圍造成物理傷害\\n‧使最前方的１名敵人及其周圍陷入暈眩（必中）\\n【技能１】\\n‧對最前方的１名敵人及其周圍造成物理傷害\\n【普通攻擊】\\n‧對前方１名敵人造成物理傷害"], ["cutin", 0], ["cutin_star6", 0], ["motion_type", 0], ["move_speed", 270], ["normal_atk_cast_time", 1.8], ["prefab_id", 309603], ["se_type", 16], ["search_area_width", 3000], ["unit_id", 309603], ["unit_name", "詛咒鎧甲‧洛克斯（複部位）"], ["visual_change_flag", 0]]
+        ]
+      }
+    },
+    "unit_skill_data": {
+      "data_changes": {
+        "added": [
+          [["ex_skill_1", 0], ["ex_skill_2", 0], ["ex_skill_3", 0], ["ex_skill_4", 0], ["ex_skill_5", 0], ["ex_skill_evolution_1", 0], ["ex_skill_evolution_2", 0], ["ex_skill_evolution_3", 0], ["ex_skill_evolution_4", 0], ["ex_skill_evolution_5", 0], ["main_skill_1", 3096022], ["main_skill_10", 0], ["main_skill_2", 3096023], ["main_skill_3", 0], ["main_skill_4", 3096025], ["main_skill_5", 3096026], ["main_skill_6", 3096027], ["main_skill_7", 0], ["main_skill_8", 0], ["main_skill_9", 0], ["main_skill_evolution_1", 0], ["main_skill_evolution_2", 0], ["sp_skill_1", 0], ["sp_skill_2", 0], ["sp_skill_3", 0], ["sp_skill_4", 0], ["sp_skill_5", 0], ["sp_skill_evolution_1", 0], ["sp_skill_evolution_2", 0], ["sp_union_burst", 0], ["union_burst", 3096021], ["union_burst_evolution", 0], ["unit_id", 309603]]
+        ]
+      }
+    },
+    "skill_data": {
+      "data_changes": {
+        "modified": [
+          {
+            "id": 3096014,
+            "old": [["action_1", 309601401], ["action_10", 0], ["action_2", 309601402], ["action_3", 309601403], ["action_4", 0], ["action_5", 0], ["action_6", 0], ["action_7", 0], ["action_8", 0], ["action_9", 0], ["boss_ub_cool_time", 0.0], ["depend_action_1", 0], ["depend_action_10", 0], ["depend_action_2", 309601401], ["depend_action_3", 309601401], ["depend_action_4", 0], ["depend_action_5", 0], ["depend_action_6", 0], ["depend_action_7", 0], ["depend_action_8", 0], ["depend_action_9", 0], ["description", ""], ["icon_type", 1001], ["name", ""], ["skill_area_width", 0], ["skill_cast_time", 1.5], ["skill_id", 3096014], ["skill_type", 0]],
+            "new": [["action_1", 309601401], ["action_10", 0], ["action_2", 309601402], ["action_3", 309601403], ["action_4", 0], ["action_5", 0], ["action_6", 0], ["action_7", 0], ["action_8", 0], ["action_9", 0], ["boss_ub_cool_time", 0.0], ["depend_action_1", 0], ["depend_action_10", 0], ["depend_action_2", 0], ["depend_action_3", 0], ["depend_action_4", 0], ["depend_action_5", 0], ["depend_action_6", 0], ["depend_action_7", 0], ["depend_action_8", 0], ["depend_action_9", 0], ["description", ""], ["icon_type", 1001], ["name", ""], ["skill_area_width", 0], ["skill_cast_time", 1.5], ["skill_id", 3096014], ["skill_type", 0]]
+          }
+        ]
+      }
+    }
+  }
+}
