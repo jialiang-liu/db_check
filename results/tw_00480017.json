@@ -1,0 +1,32 @@
+{
+  "tables": {
+    "only_in_old_db": [],
+    "only_in_new_db": []
+  },
+  "table_changes": {
+    "campaign_schedule": {
+      "data_changes": {
+        "added": [
+          [["beginner_id", 0], ["campaign_category", 39], ["campaign_type", 3], ["duplication_order", 0], ["end_time", "2032/12/31 04:59:59"], ["icon_image", 33], ["id", 5154], ["level_id", 0], ["lv_from", 1], ["lv_to", 310], ["shiori_group_id", 0], ["start_time", "2026/02/12 05:00:00"], ["system_id", 111], ["value", 3000.0]],
+          [["beginner_id", 0], ["campaign_category", 49], ["campaign_type", 3], ["duplication_order", 0], ["end_time", "2032/12/31 04:59:59"], ["icon_image", 43], ["id", 5155], ["level_id", 0], ["lv_from", 1], ["lv_to", 310], ["shiori_group_id", 0], ["start_time", "2026/02/12 05:00:00"], ["system_id", 111], ["value", 3000.0]],
+          [["beginner_id", 0], ["campaign_category", 39], ["campaign_type", 3], ["duplication_order", 0], ["end_time", "2026/02/12 04:59:59"], ["icon_image", 33], ["id", 5152], ["level_id", 0], ["lv_from", 1], ["lv_to", 310], ["shiori_group_id", 0], ["start_time", "2026/02/07 05:00:00"], ["system_id", 111], ["value", 4000.0]],
+          [["beginner_id", 0], ["campaign_category", 49], ["campaign_type", 3], ["duplication_order", 0], ["end_time", "2026/02/12 04:59:59"], ["icon_image", 43], ["id", 5153], ["level_id", 0], ["lv_from", 1], ["lv_to", 310], ["shiori_group_id", 0], ["start_time", "2026/02/07 05:00:00"], ["system_id", 111], ["value", 4000.0]],
+          [["beginner_id", 0], ["campaign_category", 49], ["campaign_type", 1], ["duplication_order", 0], ["end_time", "2026/02/12 04:59:59"], ["icon_image", 40], ["id", 2643], ["level_id", 0], ["lv_from", 311], ["lv_to", -1], ["shiori_group_id", 0], ["start_time", "2026/02/07 05:00:00"], ["system_id", 111], ["value", 4000.0]],
+          [["beginner_id", 0], ["campaign_category", 39], ["campaign_type", 1], ["duplication_order", 0], ["end_time", "2026/02/12 04:59:59"], ["icon_image", 30], ["id", 2642], ["level_id", 0], ["lv_from", 311], ["lv_to", -1], ["shiori_group_id", 0], ["start_time", "2026/02/07 05:00:00"], ["system_id", 111], ["value", 4000.0]]
+        ],
+        "modified": [
+          {
+            "id": 5147,
+            "old": [["beginner_id", 0], ["campaign_category", 39], ["campaign_type", 3], ["duplication_order", 0], ["end_time", "2032/12/31 04:59:59"], ["icon_image", 33], ["id", 5147], ["level_id", 0], ["lv_from", 1], ["lv_to", 310], ["shiori_group_id", 0], ["start_time", "2025/12/15 16:00:00"], ["system_id", 111], ["value", 3000.0]],
+            "new": [["beginner_id", 0], ["campaign_category", 39], ["campaign_type", 3], ["duplication_order", 0], ["end_time", "2026/02/07 04:59:59"], ["icon_image", 33], ["id", 5147], ["level_id", 0], ["lv_from", 1], ["lv_to", 310], ["shiori_group_id", 0], ["start_time", "2025/12/15 16:00:00"], ["system_id", 111], ["value", 3000.0]]
+          },
+          {
+            "id": 5148,
+            "old": [["beginner_id", 0], ["campaign_category", 49], ["campaign_type", 3], ["duplication_order", 0], ["end_time", "2032/12/31 04:59:59"], ["icon_image", 43], ["id", 5148], ["level_id", 0], ["lv_from", 1], ["lv_to", 310], ["shiori_group_id", 0], ["start_time", "2025/12/15 16:00:00"], ["system_id", 111], ["value", 3000.0]],
+            "new": [["beginner_id", 0], ["campaign_category", 49], ["campaign_type", 3], ["duplication_order", 0], ["end_time", "2026/02/07 04:59:59"], ["icon_image", 43], ["id", 5148], ["level_id", 0], ["lv_from", 1], ["lv_to", 310], ["shiori_group_id", 0], ["start_time", "2025/12/15 16:00:00"], ["system_id", 111], ["value", 3000.0]]
+          }
+        ]
+      }
+    }
+  }
+}
