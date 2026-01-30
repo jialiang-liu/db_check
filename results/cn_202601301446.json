@@ -1,0 +1,19 @@
+{
+  "tables": {
+    "only_in_old_db": [],
+    "only_in_new_db": []
+  },
+  "table_changes": {
+    "skill_action": {
+      "data_changes": {
+        "modified": [
+          {
+            "id": 102501201,
+            "old": [["action_detail_1", 6189], ["action_detail_2", 102501203], ["action_detail_3", 102501202], ["action_id", 102501201], ["action_type", 28], ["action_value_1", 1.0], ["action_value_2", 2.0], ["action_value_3", 1.0], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "对范围内的敌人造成{0}魔法伤害"], ["level_up_disp", "魔法伤害+{0}"], ["target_area", 3], ["target_assignment", 2], ["target_count", 1], ["target_number", 0], ["target_range", 2160], ["target_type", 7]],
+            "new": [["action_detail_1", 6189], ["action_detail_2", 102501203], ["action_detail_3", 102501202], ["action_id", 102501201], ["action_type", 28], ["action_value_1", 1.0], ["action_value_2", 2.0], ["action_value_3", 1.0], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", ""], ["level_up_disp", ""], ["target_area", 3], ["target_assignment", 2], ["target_count", 1], ["target_number", 0], ["target_range", 2160], ["target_type", 7]]
+          }
+        ]
+      }
+    }
+  }
+}
