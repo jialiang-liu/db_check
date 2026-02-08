@@ -1,0 +1,180 @@
+{
+  "tables": {
+    "only_in_old_db": [],
+    "only_in_new_db": []
+  },
+  "table_changes": {
+    "unique_equip_enhance_rate": {
+      "data_changes": {
+        "added": [
+          [["accuracy", 0.0], ["atk", 0.0], ["def", 0.0], ["dodge", 0.0], ["energy_recovery_rate", 0.0], ["energy_reduce_rate", 0.0], ["equipment_id", 133201], ["hp", 0.0], ["hp_recovery_rate", 0.0], ["id", 1332010], ["life_steal", 0.0], ["magic_critical", 0.5], ["magic_def", 0.0], ["magic_penetrate", 0.0], ["magic_str", 4.5], ["max_lv", -1], ["min_lv", 2], ["physical_critical", 0.0], ["physical_penetrate", 0.0], ["wave_energy_recovery", 0.0], ["wave_hp_recovery", 0.0]],
+          [["accuracy", 0.0], ["atk", 2.5], ["def", 0.0], ["dodge", 0.0], ["energy_recovery_rate", 0.0], ["energy_reduce_rate", 0.0], ["equipment_id", 133211], ["hp", 0.0], ["hp_recovery_rate", 0.0], ["id", 1332110], ["life_steal", 0.0], ["magic_critical", 0.0], ["magic_def", 0.0], ["magic_penetrate", 0.0], ["magic_str", 0.0], ["max_lv", -1], ["min_lv", 2], ["physical_critical", 2.5], ["physical_penetrate", 0.0], ["wave_energy_recovery", 0.0], ["wave_hp_recovery", 0.0]],
+          [["accuracy", 0.0], ["atk", 0.0], ["def", 0.4], ["dodge", 0.0], ["energy_recovery_rate", 0.0], ["energy_reduce_rate", 0.0], ["equipment_id", 133191], ["hp", 0.0], ["hp_recovery_rate", 0.0], ["id", 1331910], ["life_steal", 0.0], ["magic_critical", 0.0], ["magic_def", 0.4], ["magic_penetrate", 0.0], ["magic_str", 1.5], ["max_lv", -1], ["min_lv", 2], ["physical_critical", 0.0], ["physical_penetrate", 0.0], ["wave_energy_recovery", 0.0], ["wave_hp_recovery", 0.0]]
+        ]
+      }
+    },
+    "skill_action": {
+      "data_changes": {
+        "added": [
+          [["action_detail_1", 1], ["action_detail_2", 431901], ["action_detail_3", 1], ["action_id", 131901201], ["action_type", 15], ["action_value_1", 0.0], ["action_value_2", 0.0], ["action_value_3", 1.0], ["action_value_4", 0.0], ["action_value_5", 1.0], ["action_value_6", 20.0], ["action_value_7", 20.0], ["class_id", 1], ["description", "製造冰之壁"], ["level_up_disp", "製造的冰之壁Lv+{0}"], ["target_area", 1], ["target_assignment", 1], ["target_count", 1], ["target_number", 2], ["target_range", 2160], ["target_type", 3]],
+          [["action_detail_1", 3], ["action_detail_2", 1], ["action_detail_3", 100], ["action_id", 132111108], ["action_type", 46], ["action_value_1", 1.0], ["action_value_2", 0.0], ["action_value_3", 0.0], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "對自身以外的我方全體造成最大HP1％的物理比例傷害"], ["level_up_disp", ""], ["target_area", 3], ["target_assignment", 2], ["target_count", 99], ["target_number", 0], ["target_range", 2160], ["target_type", 34]],
+          [["action_detail_1", 1], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 132111104], ["action_type", 1], ["action_value_1", 75.0], ["action_value_2", 75.0], ["action_value_3", 6.0], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "對敵方單體造成{0}的物理傷害"], ["level_up_disp", "物理傷害+{0}"], ["target_area", 1], ["target_assignment", 1], ["target_count", 1], ["target_number", 0], ["target_range", -1], ["target_type", 3]],
+          [["action_detail_1", 132111108], ["action_detail_2", 1], ["action_detail_3", 0], ["action_id", 132111107], ["action_type", 26], ["action_value_1", 2178.0], ["action_value_2", 0.8], ["action_value_3", 0.0], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", ""], ["level_up_disp", ""], ["target_area", 3], ["target_assignment", 2], ["target_count", 1], ["target_number", 0], ["target_range", 2160], ["target_type", 7]],
+          [["action_detail_1", 132111102], ["action_detail_2", 3], ["action_detail_3", 0], ["action_id", 132111101], ["action_type", 26], ["action_value_1", 2178.0], ["action_value_2", 0.4], ["action_value_3", 0.0], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", ""], ["level_up_disp", ""], ["target_area", 3], ["target_assignment", 2], ["target_count", 1], ["target_number", 0], ["target_range", 2160], ["target_type", 7]],
+          [["action_detail_1", 1], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 132111102], ["action_type", 1], ["action_value_1", 75.0], ["action_value_2", 75.0], ["action_value_3", 6.0], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "對敵方單體造成{0}的物理傷害"], ["level_up_disp", "物理傷害+{0}"], ["target_area", 1], ["target_assignment", 1], ["target_count", 1], ["target_number", 0], ["target_range", -1], ["target_type", 3]],
+          [["action_detail_1", 120], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 132001203], ["action_type", 10], ["action_value_1", 1.0], ["action_value_2", 12.0], ["action_value_3", 0.0], ["action_value_4", 18.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "提升範圍內的我方{0}％的魔法暴擊傷害"], ["level_up_disp", ""], ["target_area", 2], ["target_assignment", 2], ["target_count", 99], ["target_number", 0], ["target_range", 300], ["target_type", 3]],
+          [["action_detail_1", 1], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 132101201], ["action_type", 1], ["action_value_1", 65.0], ["action_value_2", 65.0], ["action_value_3", 5.2], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "對敵方單體造成{0}的物理傷害"], ["level_up_disp", "物理傷害+{0}"], ["target_area", 1], ["target_assignment", 1], ["target_count", 1], ["target_number", 0], ["target_range", -1], ["target_type", 3]],
+          [["action_detail_1", 4], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 131901203], ["action_type", 8], ["action_value_1", 0.0], ["action_value_2", 0.0], ["action_value_3", 2.0], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "使範圍內的敵人一段時間內無法行動"], ["level_up_disp", "凍結的確定成功Lv+1"], ["target_area", 2], ["target_assignment", 1], ["target_count", 99], ["target_number", 0], ["target_range", 200], ["target_type", 1]],
+          [["action_detail_1", 1], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 132111106], ["action_type", 16], ["action_value_1", 200.0], ["action_value_2", 0.0], ["action_value_3", 1.0], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "回復自身{0}的TP"], ["level_up_disp", ""], ["target_area", 3], ["target_assignment", 2], ["target_count", 1], ["target_number", 0], ["target_range", 2160], ["target_type", 7]],
+          [["action_detail_1", 1], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 132001205], ["action_type", 16], ["action_value_1", 60.0], ["action_value_2", 0.0], ["action_value_3", 1.0], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "讓範圍內的夥伴恢復{0}TP"], ["level_up_disp", ""], ["target_area", 2], ["target_assignment", 2], ["target_count", 99], ["target_number", 0], ["target_range", 300], ["target_type", 3]],
+          [["action_detail_1", 30], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 132001201], ["action_type", 10], ["action_value_1", 1.0], ["action_value_2", 18.0], ["action_value_3", 18.0], ["action_value_4", 18.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "提升範圍內的我方{0}的魔法攻擊力"], ["level_up_disp", "魔法攻擊力提升+{0}"], ["target_area", 2], ["target_assignment", 2], ["target_count", 99], ["target_number", 0], ["target_range", 300], ["target_type", 3]],
+          [["action_detail_1", 20], ["action_detail_2", 1], ["action_detail_3", 0], ["action_id", 131901204], ["action_type", 10], ["action_value_1", 1.0], ["action_value_2", 0.75], ["action_value_3", 0.75], ["action_value_4", 12.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "提升我方全體{0}的物理防禦力"], ["level_up_disp", "物理防禦力提升+{0}"], ["target_area", 2], ["target_assignment", 2], ["target_count", 99], ["target_number", 0], ["target_range", 2160], ["target_type", 3]],
+          [["action_detail_1", 10], ["action_detail_2", 1], ["action_detail_3", 0], ["action_id", 132101202], ["action_type", 10], ["action_value_1", 1.0], ["action_value_2", 25.0], ["action_value_3", 25.0], ["action_value_4", 12.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "提升自身{0}的物理攻擊力"], ["level_up_disp", "物理攻擊力提升+{0}"], ["target_area", 3], ["target_assignment", 2], ["target_count", 1], ["target_number", 0], ["target_range", 2160], ["target_type", 7]],
+          [["action_detail_1", 70], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 132001202], ["action_type", 10], ["action_value_1", 1.0], ["action_value_2", 120.0], ["action_value_3", 0.0], ["action_value_4", 18.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "使範圍內全體夥伴提升{0}的魔法暴擊"], ["level_up_disp", ""], ["target_area", 2], ["target_assignment", 2], ["target_count", 99], ["target_number", 0], ["target_range", 300], ["target_type", 3]],
+          [["action_detail_1", 2], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 132001204], ["action_type", 8], ["action_value_1", 1.6], ["action_value_2", 0.0], ["action_value_3", 18.0], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "使範圍內的我方行動速度上升60％"], ["level_up_disp", ""], ["target_area", 2], ["target_assignment", 2], ["target_count", 99], ["target_number", 0], ["target_range", 300], ["target_type", 3]],
+          [["action_detail_1", 21], ["action_detail_2", 1], ["action_detail_3", 0], ["action_id", 132111105], ["action_type", 10], ["action_value_1", 1.0], ["action_value_2", 0.2], ["action_value_3", 0.2], ["action_value_4", 12.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "降低敵方單體{0}的物理防禦力"], ["level_up_disp", "物理防禦力降低+{0}"], ["target_area", 1], ["target_assignment", 1], ["target_count", 1], ["target_number", 0], ["target_range", -1], ["target_type", 3]],
+          [["action_detail_1", 40], ["action_detail_2", 1], ["action_detail_3", 0], ["action_id", 131901205], ["action_type", 10], ["action_value_1", 1.0], ["action_value_2", 0.75], ["action_value_3", 0.75], ["action_value_4", 12.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "提升我方全體{0}的魔法防禦力"], ["level_up_disp", "魔法防禦力提升+{0}"], ["target_area", 2], ["target_assignment", 2], ["target_count", 99], ["target_number", 0], ["target_range", 2160], ["target_type", 3]],
+          [["action_detail_1", 132111104], ["action_detail_2", 3], ["action_detail_3", 0], ["action_id", 132111103], ["action_type", 26], ["action_value_1", 2178.0], ["action_value_2", 0.4], ["action_value_3", 0.0], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", ""], ["level_up_disp", ""], ["target_area", 3], ["target_assignment", 2], ["target_count", 1], ["target_number", 0], ["target_range", 2160], ["target_type", 7]],
+          [["action_detail_1", 1], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 131901202], ["action_type", 7], ["action_value_1", 0.0], ["action_value_2", 0.0], ["action_value_3", 0.0], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", ""], ["level_up_disp", ""], ["target_area", 1], ["target_assignment", 1], ["target_count", 1], ["target_number", 2], ["target_range", 2160], ["target_type", 3]],
+          [["action_detail_1", 5], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 131901206], ["action_type", 6], ["action_value_1", 32.0], ["action_value_2", 32.0], ["action_value_3", 12.0], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "展開{0}傷害比例的物理魔法無效屏障"], ["level_up_disp", "無效傷害量+{0}"], ["target_area", 3], ["target_assignment", 2], ["target_count", 99], ["target_number", 0], ["target_range", 2160], ["target_type", 3]]
+        ]
+      }
+    },
+    "unique_equipment_data": {
+      "data_changes": {
+        "added": [
+          [["accuracy", 0.0], ["atk", 0.0], ["craft_flg", 1], ["def", 8.0], ["description", "身為愛蜜莉雅的陪伴者，\\n自稱能歌善舞的夏日偶像貓。\\n穿著昴所打造的裝扮，\\n與愛蜜莉雅一起享受大海。"], ["dodge", 0.0], ["enable_donation", 0], ["energy_recovery_rate", 0.0], ["energy_reduce_rate", 0.0], ["equipment_enhance_point", 0], ["equipment_id", 133191], ["equipment_name", "帕克（夏日）"], ["hp", 0.0], ["hp_recovery_rate", 0.0], ["life_steal", 0.0], ["magic_critical", 0.0], ["magic_def", 8.0], ["magic_penetrate", 0], ["magic_str", 30.0], ["physical_critical", 0.0], ["physical_penetrate", 0.0], ["promotion_level", 98], ["require_level", 1], ["sale_price", 0.0], ["wave_energy_recovery", 0.0], ["wave_hp_recovery", 0.0]],
+          [["accuracy", 0.0], ["atk", 50.0], ["craft_flg", 1], ["def", 0.0], ["description", "塗上防水抹面，雷姆愛用的\\n帶刺鐵球。藉由精通釣魚技術，\\n能發揮出更加有如鬼助的威力\\n與高命中率。"], ["dodge", 0.0], ["enable_donation", 0], ["energy_recovery_rate", 0.0], ["energy_reduce_rate", 0.0], ["equipment_enhance_point", 0], ["equipment_id", 133211], ["equipment_name", "夏日流星錘"], ["hp", 0.0], ["hp_recovery_rate", 0.0], ["life_steal", 0.0], ["magic_critical", 0.0], ["magic_def", 0.0], ["magic_penetrate", 0], ["magic_str", 0.0], ["physical_critical", 50.0], ["physical_penetrate", 0.0], ["promotion_level", 98], ["require_level", 1], ["sale_price", 0.0], ["wave_energy_recovery", 0.0], ["wave_hp_recovery", 0.0]],
+          [["accuracy", 0.0], ["atk", 0.0], ["craft_flg", 1], ["def", 0.0], ["description", "艾姬多娜為了夏日茶會所準備的\\n茶壺。適合酷暑的涼爽玻璃製品，\\n能盡情觀察茶葉在水中翻滾的樣子。"], ["dodge", 0.0], ["enable_donation", 0], ["energy_recovery_rate", 0.0], ["energy_reduce_rate", 0.0], ["equipment_enhance_point", 0], ["equipment_id", 133201], ["equipment_name", "魔女的茶具套組"], ["hp", 0.0], ["hp_recovery_rate", 0.0], ["life_steal", 0.0], ["magic_critical", 10.0], ["magic_def", 0.0], ["magic_penetrate", 0], ["magic_str", 90.0], ["physical_critical", 0.0], ["physical_penetrate", 0.0], ["promotion_level", 98], ["require_level", 1], ["sale_price", 0.0], ["wave_energy_recovery", 0.0], ["wave_hp_recovery", 0.0]]
+        ]
+      }
+    },
+    "unit_unique_equipment": {
+      "data_changes": {
+        "added": [
+          [["equip_id", 133191], ["equip_slot", 1], ["unit_id", 131901]],
+          [["equip_id", 133211], ["equip_slot", 1], ["unit_id", 132101]],
+          [["equip_id", 133201], ["equip_slot", 1], ["unit_id", 132001]]
+        ],
+        "modified": [
+          {
+            "id": 113601,
+            "old": [["equip_id", 131362], ["equip_slot", 2], ["unit_id", 113601]],
+            "new": [["equip_id", 131361], ["equip_slot", 1], ["unit_id", 113601]]
+          },
+          {
+            "id": 112301,
+            "old": [["equip_id", 131232], ["equip_slot", 2], ["unit_id", 112301]],
+            "new": [["equip_id", 131231], ["equip_slot", 1], ["unit_id", 112301]]
+          },
+          {
+            "id": 110401,
+            "old": [["equip_id", 131042], ["equip_slot", 2], ["unit_id", 110401]],
+            "new": [["equip_id", 131041], ["equip_slot", 1], ["unit_id", 110401]]
+          },
+          {
+            "id": 110701,
+            "old": [["equip_id", 131071], ["equip_slot", 1], ["unit_id", 110701]],
+            "new": [["equip_id", 131072], ["equip_slot", 2], ["unit_id", 110701]]
+          },
+          {
+            "id": 113101,
+            "old": [["equip_id", 131312], ["equip_slot", 2], ["unit_id", 113101]],
+            "new": [["equip_id", 131311], ["equip_slot", 1], ["unit_id", 113101]]
+          },
+          {
+            "id": 111301,
+            "old": [["equip_id", 131132], ["equip_slot", 2], ["unit_id", 111301]],
+            "new": [["equip_id", 131131], ["equip_slot", 1], ["unit_id", 111301]]
+          },
+          {
+            "id": 102501,
+            "old": [["equip_id", 130252], ["equip_slot", 2], ["unit_id", 102501]],
+            "new": [["equip_id", 130251], ["equip_slot", 1], ["unit_id", 102501]]
+          },
+          {
+            "id": 110501,
+            "old": [["equip_id", 131052], ["equip_slot", 2], ["unit_id", 110501]],
+            "new": [["equip_id", 131051], ["equip_slot", 1], ["unit_id", 110501]]
+          },
+          {
+            "id": 117101,
+            "old": [["equip_id", 131712], ["equip_slot", 2], ["unit_id", 117101]],
+            "new": [["equip_id", 131711], ["equip_slot", 1], ["unit_id", 117101]]
+          },
+          {
+            "id": 109501,
+            "old": [["equip_id", 130952], ["equip_slot", 2], ["unit_id", 109501]],
+            "new": [["equip_id", 130951], ["equip_slot", 1], ["unit_id", 109501]]
+          },
+          {
+            "id": 111701,
+            "old": [["equip_id", 131171], ["equip_slot", 1], ["unit_id", 111701]],
+            "new": [["equip_id", 131172], ["equip_slot", 2], ["unit_id", 111701]]
+          },
+          {
+            "id": 110601,
+            "old": [["equip_id", 131061], ["equip_slot", 1], ["unit_id", 110601]],
+            "new": [["equip_id", 131062], ["equip_slot", 2], ["unit_id", 110601]]
+          },
+          {
+            "id": 113301,
+            "old": [["equip_id", 131332], ["equip_slot", 2], ["unit_id", 113301]],
+            "new": [["equip_id", 131331], ["equip_slot", 1], ["unit_id", 113301]]
+          },
+          {
+            "id": 101101,
+            "old": [["equip_id", 130112], ["equip_slot", 2], ["unit_id", 101101]],
+            "new": [["equip_id", 130111], ["equip_slot", 1], ["unit_id", 101101]]
+          },
+          {
+            "id": 111501,
+            "old": [["equip_id", 131152], ["equip_slot", 2], ["unit_id", 111501]],
+            "new": [["equip_id", 131151], ["equip_slot", 1], ["unit_id", 111501]]
+          },
+          {
+            "id": 117001,
+            "old": [["equip_id", 131702], ["equip_slot", 2], ["unit_id", 117001]],
+            "new": [["equip_id", 131701], ["equip_slot", 1], ["unit_id", 117001]]
+          },
+          {
+            "id": 109601,
+            "old": [["equip_id", 130961], ["equip_slot", 1], ["unit_id", 109601]],
+            "new": [["equip_id", 130962], ["equip_slot", 2], ["unit_id", 109601]]
+          }
+        ]
+      }
+    },
+    "skill_data": {
+      "data_changes": {
+        "added": [
+          [["action_1", 131901201], ["action_10", 0], ["action_2", 131901202], ["action_3", 131901203], ["action_4", 131901204], ["action_5", 131901205], ["action_6", 131901206], ["action_7", 0], ["action_8", 0], ["action_9", 0], ["boss_ub_cool_time", 0.0], ["depend_action_1", 0], ["depend_action_10", 0], ["depend_action_2", 0], ["depend_action_3", 131901202], ["depend_action_4", 0], ["depend_action_5", 0], ["depend_action_6", 0], ["depend_action_7", 0], ["depend_action_8", 0], ["depend_action_9", 0], ["description", "【召喚】在前方數來的第３名敵人後方產生冰之壁，以該敵人為中心，凍結範圍內所有敵人。同時，中幅度提升我方全體的物理防禦力和魔法防禦力，並展開物理/魔法無效的護盾。冰之壁將於一定時間後消滅。"], ["icon_type", 2017], ["name", "冰壁守護+"], ["skill_area_width", 0], ["skill_cast_time", 1.05], ["skill_id", 1319012], ["skill_type", 0]],
+          [["action_1", 132101201], ["action_10", 0], ["action_2", 132101202], ["action_3", 0], ["action_4", 0], ["action_5", 0], ["action_6", 0], ["action_7", 0], ["action_8", 0], ["action_9", 0], ["boss_ub_cool_time", 0.0], ["depend_action_1", 0], ["depend_action_10", 0], ["depend_action_2", 0], ["depend_action_3", 0], ["depend_action_4", 0], ["depend_action_5", 0], ["depend_action_6", 0], ["depend_action_7", 0], ["depend_action_8", 0], ["depend_action_9", 0], ["description", "對面前的１名敵人角色造成特大幅度的物理傷害，並大幅度提升自身的物理攻擊力。"], ["icon_type", 2001], ["name", "海灘之星+"], ["skill_area_width", 0], ["skill_cast_time", 1.05], ["skill_id", 1321012], ["skill_type", 0]],
+          [["action_1", 132001201], ["action_10", 0], ["action_2", 132001202], ["action_3", 132001203], ["action_4", 132001204], ["action_5", 132001205], ["action_6", 0], ["action_7", 0], ["action_8", 0], ["action_9", 0], ["boss_ub_cool_time", 0.0], ["depend_action_1", 0], ["depend_action_10", 0], ["depend_action_2", 0], ["depend_action_3", 0], ["depend_action_4", 0], ["depend_action_5", 0], ["depend_action_6", 0], ["depend_action_7", 0], ["depend_action_8", 0], ["depend_action_9", 0], ["description", "以自身為中心，大幅度提升範圍內所有我方的魔法攻擊力和魔法暴擊率，小幅度提升魔法攻擊暴擊時的傷害，並大幅度提升行動速度。同時，小幅度恢復ＴＰ。"], ["icon_type", 2003], ["name", "希望讓我看看你們的可能性+"], ["skill_area_width", 0], ["skill_cast_time", 1.05], ["skill_id", 1320012], ["skill_type", 0]],
+          [["action_1", 132111101], ["action_10", 0], ["action_2", 132111102], ["action_3", 132111103], ["action_4", 132111104], ["action_5", 132111105], ["action_6", 132111106], ["action_7", 132111107], ["action_8", 132111108], ["action_9", 0], ["boss_ub_cool_time", 0.0], ["depend_action_1", 0], ["depend_action_10", 0], ["depend_action_2", 0], ["depend_action_3", 0], ["depend_action_4", 0], ["depend_action_5", 132111104], ["depend_action_6", 0], ["depend_action_7", 0], ["depend_action_8", 0], ["depend_action_9", 0], ["description", "對面前的１名敵人角色造成２次特大幅度的物理傷害，小幅度降低物理防禦力，並中幅度恢復自身的ＴＰ。同時依照自身以外的我方全體最大ＨＰ，對其造成物理比例傷害。此技能的傷害會隨著【狂騷】的數量增加。此技能對我方造成的傷害，將不會恢復的我方的TＰ。"], ["icon_type", 2001], ["name", "洶湧的鐵球+"], ["skill_area_width", 0], ["skill_cast_time", 1.05], ["skill_id", 1321111], ["skill_type", 0]]
+        ]
+      }
+    },
+    "unit_skill_data": {
+      "data_changes": {
+        "modified": [
+          {
+            "id": 132101,
+            "old": [["ex_skill_1", 1321501], ["ex_skill_2", 0], ["ex_skill_3", 0], ["ex_skill_4", 0], ["ex_skill_5", 0], ["ex_skill_evolution_1", 1321511], ["ex_skill_evolution_2", 0], ["ex_skill_evolution_3", 0], ["ex_skill_evolution_4", 0], ["ex_skill_evolution_5", 0], ["main_skill_1", 1321002], ["main_skill_10", 0], ["main_skill_2", 1321003], ["main_skill_3", 0], ["main_skill_4", 0], ["main_skill_5", 0], ["main_skill_6", 0], ["main_skill_7", 0], ["main_skill_8", 0], ["main_skill_9", 0], ["main_skill_evolution_1", 0], ["main_skill_evolution_2", 0], ["sp_skill_1", 1321101], ["sp_skill_2", 1321102], ["sp_skill_3", 0], ["sp_skill_4", 0], ["sp_skill_5", 0], ["sp_skill_evolution_1", 1321100], ["sp_skill_evolution_2", 0], ["sp_union_burst", 0], ["union_burst", 1321001], ["union_burst_evolution", 0], ["unit_id", 132101]],
+            "new": [["ex_skill_1", 1321501], ["ex_skill_2", 0], ["ex_skill_3", 0], ["ex_skill_4", 0], ["ex_skill_5", 0], ["ex_skill_evolution_1", 1321511], ["ex_skill_evolution_2", 0], ["ex_skill_evolution_3", 0], ["ex_skill_evolution_4", 0], ["ex_skill_evolution_5", 0], ["main_skill_1", 1321002], ["main_skill_10", 0], ["main_skill_2", 1321003], ["main_skill_3", 0], ["main_skill_4", 0], ["main_skill_5", 0], ["main_skill_6", 0], ["main_skill_7", 0], ["main_skill_8", 0], ["main_skill_9", 0], ["main_skill_evolution_1", 1321012], ["main_skill_evolution_2", 0], ["sp_skill_1", 1321101], ["sp_skill_2", 1321102], ["sp_skill_3", 1321111], ["sp_skill_4", 0], ["sp_skill_5", 0], ["sp_skill_evolution_1", 1321100], ["sp_skill_evolution_2", 0], ["sp_union_burst", 0], ["union_burst", 1321001], ["union_burst_evolution", 0], ["unit_id", 132101]]
+          },
+          {
+            "id": 132001,
+            "old": [["ex_skill_1", 1320501], ["ex_skill_2", 0], ["ex_skill_3", 0], ["ex_skill_4", 0], ["ex_skill_5", 0], ["ex_skill_evolution_1", 1320511], ["ex_skill_evolution_2", 0], ["ex_skill_evolution_3", 0], ["ex_skill_evolution_4", 0], ["ex_skill_evolution_5", 0], ["main_skill_1", 1320002], ["main_skill_10", 0], ["main_skill_2", 1320003], ["main_skill_3", 0], ["main_skill_4", 0], ["main_skill_5", 0], ["main_skill_6", 0], ["main_skill_7", 0], ["main_skill_8", 0], ["main_skill_9", 0], ["main_skill_evolution_1", 0], ["main_skill_evolution_2", 0], ["sp_skill_1", 1320101], ["sp_skill_2", 0], ["sp_skill_3", 0], ["sp_skill_4", 0], ["sp_skill_5", 0], ["sp_skill_evolution_1", 0], ["sp_skill_evolution_2", 0], ["sp_union_burst", 0], ["union_burst", 1320001], ["union_burst_evolution", 0], ["unit_id", 132001]],
+            "new": [["ex_skill_1", 1320501], ["ex_skill_2", 0], ["ex_skill_3", 0], ["ex_skill_4", 0], ["ex_skill_5", 0], ["ex_skill_evolution_1", 1320511], ["ex_skill_evolution_2", 0], ["ex_skill_evolution_3", 0], ["ex_skill_evolution_4", 0], ["ex_skill_evolution_5", 0], ["main_skill_1", 1320002], ["main_skill_10", 0], ["main_skill_2", 1320003], ["main_skill_3", 0], ["main_skill_4", 0], ["main_skill_5", 0], ["main_skill_6", 0], ["main_skill_7", 0], ["main_skill_8", 0], ["main_skill_9", 0], ["main_skill_evolution_1", 1320012], ["main_skill_evolution_2", 0], ["sp_skill_1", 1320101], ["sp_skill_2", 0], ["sp_skill_3", 0], ["sp_skill_4", 0], ["sp_skill_5", 0], ["sp_skill_evolution_1", 0], ["sp_skill_evolution_2", 0], ["sp_union_burst", 0], ["union_burst", 1320001], ["union_burst_evolution", 0], ["unit_id", 132001]]
+          },
+          {
+            "id": 131901,
+            "old": [["ex_skill_1", 1319501], ["ex_skill_2", 0], ["ex_skill_3", 0], ["ex_skill_4", 0], ["ex_skill_5", 0], ["ex_skill_evolution_1", 1319511], ["ex_skill_evolution_2", 0], ["ex_skill_evolution_3", 0], ["ex_skill_evolution_4", 0], ["ex_skill_evolution_5", 0], ["main_skill_1", 1319002], ["main_skill_10", 0], ["main_skill_2", 1319003], ["main_skill_3", 0], ["main_skill_4", 0], ["main_skill_5", 0], ["main_skill_6", 0], ["main_skill_7", 0], ["main_skill_8", 0], ["main_skill_9", 0], ["main_skill_evolution_1", 0], ["main_skill_evolution_2", 0], ["sp_skill_1", 0], ["sp_skill_2", 0], ["sp_skill_3", 0], ["sp_skill_4", 0], ["sp_skill_5", 0], ["sp_skill_evolution_1", 0], ["sp_skill_evolution_2", 0], ["sp_union_burst", 0], ["union_burst", 1319001], ["union_burst_evolution", 0], ["unit_id", 131901]],
+            "new": [["ex_skill_1", 1319501], ["ex_skill_2", 0], ["ex_skill_3", 0], ["ex_skill_4", 0], ["ex_skill_5", 0], ["ex_skill_evolution_1", 1319511], ["ex_skill_evolution_2", 0], ["ex_skill_evolution_3", 0], ["ex_skill_evolution_4", 0], ["ex_skill_evolution_5", 0], ["main_skill_1", 1319002], ["main_skill_10", 0], ["main_skill_2", 1319003], ["main_skill_3", 0], ["main_skill_4", 0], ["main_skill_5", 0], ["main_skill_6", 0], ["main_skill_7", 0], ["main_skill_8", 0], ["main_skill_9", 0], ["main_skill_evolution_1", 1319012], ["main_skill_evolution_2", 0], ["sp_skill_1", 0], ["sp_skill_2", 0], ["sp_skill_3", 0], ["sp_skill_4", 0], ["sp_skill_5", 0], ["sp_skill_evolution_1", 0], ["sp_skill_evolution_2", 0], ["sp_union_burst", 0], ["union_burst", 1319001], ["union_burst_evolution", 0], ["unit_id", 131901]]
+          }
+        ]
+      }
+    }
+  }
+}
