@@ -1,0 +1,23 @@
+{
+  "tables": {
+    "only_in_old_db": [],
+    "only_in_new_db": []
+  },
+  "table_changes": {
+    "campaign_schedule": {
+      "data_changes": {
+        "added": [
+          [["beginner_id", 0], ["campaign_category", 38], ["campaign_type", 1], ["duplication_order", 0], ["end_time", "2026/03/01 04:59:59"], ["icon_image", 30], ["id", 2675], ["level_id", 0], ["lv_from", 1], ["lv_to", -1], ["shiori_group_id", 0], ["start_time", "2026/02/18 05:00:00"], ["system_id", 112], ["value", 4000.0]],
+          [["beginner_id", 0], ["campaign_category", 37], ["campaign_type", 1], ["duplication_order", 0], ["end_time", "2026/03/01 04:59:59"], ["icon_image", 30], ["id", 2674], ["level_id", 0], ["lv_from", 1], ["lv_to", -1], ["shiori_group_id", 0], ["start_time", "2026/02/18 05:00:00"], ["system_id", 109], ["value", 4000.0]]
+        ]
+      }
+    },
+    "clan_battle_schedule": {
+      "data_changes": {
+        "added": [
+          [["clan_battle_id", 1092], ["cost_group_id", 1], ["cost_group_id_s", 2], ["end_time", "2026/03/27 04:59:59"], ["last_clan_battle_id", 1091], ["map_bgm", "bgm_M139"], ["mode_change_end_time", "2026/02/22 11:59:59"], ["mode_change_remind_time", "2026/02/21 11:59:59"], ["mode_change_start_time", "2026/02/17 12:00:00"], ["point_per_stamina", 1], ["release_month", 2], ["resource_id", 1], ["start_time", "2026/02/24 05:00:00"]]
+        ]
+      }
+    }
+  }
+}
