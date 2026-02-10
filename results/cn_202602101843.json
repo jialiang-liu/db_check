@@ -1,0 +1,30 @@
+{
+  "tables": {
+    "only_in_old_db": [],
+    "only_in_new_db": []
+  },
+  "table_changes": {
+    "login_bonus_data": {
+      "data_changes": {
+        "modified": [
+          {
+            "id": 40012,
+            "old": [["adv_play_type", 0], ["bg_id", 40012], ["count_num", 8], ["count_type", 0], ["end_time", "2026/03/01 4:59:59"], ["login_bonus_id", 40012], ["login_bonus_type", 4], ["name", "新年限定登录活动"], ["odds_group_id", 0], ["stamp_id", 3], ["start_time", "2026/02/13 11:00:00"]],
+            "new": [["adv_play_type", 0], ["bg_id", 40012], ["count_num", 8], ["count_type", 0], ["end_time", "2026/03/01 4:59:59"], ["login_bonus_id", 40012], ["login_bonus_type", 4], ["name", "春节限定登录活动"], ["odds_group_id", 0], ["stamp_id", 3], ["start_time", "2026/02/13 11:00:00"]]
+          }
+        ]
+      }
+    },
+    "item_data": {
+      "data_changes": {
+        "modified": [
+          {
+            "id": 70005,
+            "old": [["description", "可以在深渊讨伐战期间获得的证明。消耗后就能挑战首领战。"], ["end_time", "2099/12/31 23:59:59"], ["gojuon_order", 0], ["item_id", 70005], ["item_name", "讨伐委托证"], ["item_type", 32], ["limit_num", 9999], ["price", 0], ["promotion_level", 1], ["sell_check_disp", 0], ["start_time", "2026/02/13 09:00:00"], ["value", 0]],
+            "new": [["description", "可以在深渊讨伐战期间获得的证明。消耗后就能挑战首领战。"], ["end_time", "2099/12/31 23:59:59"], ["gojuon_order", 0], ["item_id", 70005], ["item_name", "讨伐委托证"], ["item_type", 32], ["limit_num", 9999], ["price", 0], ["promotion_level", 1], ["sell_check_disp", 0], ["start_time", "2026/02/13 11:00:00"], ["value", 0]]
+          }
+        ]
+      }
+    }
+  }
+}
