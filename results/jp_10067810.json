@@ -1,0 +1,110 @@
+{
+  "tables": {
+    "only_in_old_db": [],
+    "only_in_new_db": []
+  },
+  "table_changes": {
+    "skill_data": {
+      "data_changes": {
+        "modified": [
+          {
+            "id": 1032022,
+            "old": [["action_1", 103202201], ["action_10", 103202210], ["action_2", 103202202], ["action_3", 103202203], ["action_4", 103202204], ["action_5", 103202205], ["action_6", 103202206], ["action_7", 103202207], ["action_8", 103202208], ["action_9", 103202209], ["boss_ub_cool_time", 0.0], ["depend_action_1", 0], ["depend_action_10", 0], ["depend_action_2", 0], ["depend_action_3", 0], ["depend_action_4", 0], ["depend_action_5", 0], ["depend_action_6", 0], ["depend_action_7", 0], ["depend_action_8", 0], ["depend_action_9", 0], ["description", "【挑発】自分の物理・魔法防御力を大アップ、物理攻撃力を大アップ、ＴＰ上昇を小アップさせ、物理ダメージカット効果と魔法ダメージカット効果を付与する。さらに、前方範囲内の敵すべてに物理大ダメージを与え、敵全体を挑発する。笑っている間に攻撃されると、前方範囲内の敵すべてに物理大ダメージで反撃し、自分のＴＰを大回復する。"], ["icon_type", 2001], ["name", "プラウドスラッシュ++"], ["skill_area_width", 0], ["skill_cast_time", 1.3575], ["skill_id", 1032022], ["skill_type", 1], ["unknown_16", 0], ["unknown_17", 0], ["unknown_18", 0], ["unknown_19", 0], ["unknown_20", 0], ["unknown_21", 0], ["unknown_22", 0], ["unknown_23", 0], ["unknown_24", 0], ["unknown_25", 0], ["unknown_36", 0], ["unknown_37", 0], ["unknown_38", 0], ["unknown_39", 0], ["unknown_40", 0], ["unknown_41", 0], ["unknown_42", 0], ["unknown_43", 0], ["unknown_44", 0], ["unknown_45", 0]],
+            "new": [["action_1", 103202201], ["action_10", 103202210], ["action_2", 103202202], ["action_3", 103202203], ["action_4", 103202204], ["action_5", 103202205], ["action_6", 103202206], ["action_7", 103202207], ["action_8", 103202208], ["action_9", 103202209], ["boss_ub_cool_time", 0.0], ["depend_action_1", 0], ["depend_action_10", 0], ["depend_action_2", 0], ["depend_action_3", 0], ["depend_action_4", 0], ["depend_action_5", 0], ["depend_action_6", 0], ["depend_action_7", 0], ["depend_action_8", 0], ["depend_action_9", 0], ["description", "【挑発】自分の物理・魔法防御力を大アップ、物理攻撃力を大アップ、ＴＰ上昇を小アップさせ、物理ダメージカット効果と魔法ダメージカット効果を付与する。さらに、前方範囲内の敵すべてに物理大ダメージを与え、敵全体を挑発する。笑っている間に攻撃されると、前方範囲内の敵すべてに物理大ダメージで反撃し、自分のＴＰを大回復する。"], ["icon_type", 2001], ["name", "プラウドスラッシュ++"], ["skill_area_width", 0], ["skill_cast_time", 1.3575], ["skill_id", 1032022], ["skill_type", 1], ["unknown_16", 103202211], ["unknown_17", 0], ["unknown_18", 0], ["unknown_19", 0], ["unknown_20", 0], ["unknown_21", 0], ["unknown_22", 0], ["unknown_23", 0], ["unknown_24", 0], ["unknown_25", 0], ["unknown_36", 0], ["unknown_37", 0], ["unknown_38", 0], ["unknown_39", 0], ["unknown_40", 0], ["unknown_41", 0], ["unknown_42", 0], ["unknown_43", 0], ["unknown_44", 0], ["unknown_45", 0]]
+          }
+        ]
+      }
+    },
+    "skill_action": {
+      "data_changes": {
+        "added": [
+          [["action_detail_1", 1], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 103202211], ["action_type", 16], ["action_value_1", 500.0], ["action_value_2", 0.0], ["action_value_3", 0.0], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "自分のＴＰを{0}回復"], ["level_up_disp", ""], ["target_area", 1], ["target_assignment", 2], ["target_count", 1], ["target_number", 0], ["target_range", 0], ["target_type", 7]]
+        ],
+        "modified": [
+          {
+            "id": 103202207,
+            "old": [["action_detail_1", 1], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 103202207], ["action_type", 20], ["action_value_1", 20.0], ["action_value_2", 0.0], ["action_value_3", 0.0], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "敵全体を挑発する"], ["level_up_disp", ""], ["target_area", 1], ["target_assignment", 2], ["target_count", 1], ["target_number", 0], ["target_range", 0], ["target_type", 7]],
+            "new": [["action_detail_1", 1], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 103202207], ["action_type", 1], ["action_value_1", 30.0], ["action_value_2", 30.0], ["action_value_3", 2.4], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "範囲内の敵に{0}の物理ダメージ"], ["level_up_disp", "物理ダメージ+{0}"], ["target_area", 1], ["target_assignment", 1], ["target_count", 99], ["target_number", 0], ["target_range", 600], ["target_type", 3]]
+          },
+          {
+            "id": 103202209,
+            "old": [["action_detail_1", 1], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 103202209], ["action_type", 1], ["action_value_1", 30.0], ["action_value_2", 30.0], ["action_value_3", 2.4], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "範囲内の敵に{0}の物理ダメージ"], ["level_up_disp", "反撃時の物理ダメージ+{0}"], ["target_area", 1], ["target_assignment", 1], ["target_count", 99], ["target_number", 0], ["target_range", 600], ["target_type", 3]],
+            "new": [["action_detail_1", 2], ["action_detail_2", 103202210], ["action_detail_3", 103202211], ["action_id", 103202209], ["action_type", 42], ["action_value_1", 100.0], ["action_value_2", 0.0], ["action_value_3", 0.0], ["action_value_4", 2.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", ""], ["level_up_disp", ""], ["target_area", 3], ["target_assignment", 2], ["target_count", 1], ["target_number", 0], ["target_range", 0], ["target_type", 3]]
+          },
+          {
+            "id": 103202208,
+            "old": [["action_detail_1", 2], ["action_detail_2", 103202209], ["action_detail_3", 103202210], ["action_id", 103202208], ["action_type", 42], ["action_value_1", 100.0], ["action_value_2", 0.0], ["action_value_3", 0.0], ["action_value_4", 2.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", ""], ["level_up_disp", ""], ["target_area", 3], ["target_assignment", 2], ["target_count", 1], ["target_number", 0], ["target_range", 0], ["target_type", 3]],
+            "new": [["action_detail_1", 1], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 103202208], ["action_type", 20], ["action_value_1", 20.0], ["action_value_2", 0.0], ["action_value_3", 0.0], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "敵全体を挑発する"], ["level_up_disp", ""], ["target_area", 1], ["target_assignment", 2], ["target_count", 1], ["target_number", 0], ["target_range", 0], ["target_type", 7]]
+          },
+          {
+            "id": 103202203,
+            "old": [["action_detail_1", 80], ["action_detail_2", 1], ["action_detail_3", 0], ["action_id", 103202203], ["action_type", 10], ["action_value_1", 1.0], ["action_value_2", 15.0], ["action_value_3", 0.0], ["action_value_4", 18.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 1.0], ["class_id", 1], ["description", "自分のＴＰ上昇を{0}アップ"], ["level_up_disp", ""], ["target_area", 1], ["target_assignment", 2], ["target_count", 1], ["target_number", 0], ["target_range", 0], ["target_type", 7]],
+            "new": [["action_detail_1", 10], ["action_detail_2", 1], ["action_detail_3", 0], ["action_id", 103202203], ["action_type", 10], ["action_value_1", 1.0], ["action_value_2", 20.0], ["action_value_3", 20.0], ["action_value_4", 18.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "自分の物理攻撃力を{0}アップ"], ["level_up_disp", "物理攻撃力アップ+{0}"], ["target_area", 3], ["target_assignment", 2], ["target_count", 1], ["target_number", 0], ["target_range", 0], ["target_type", 7]]
+          },
+          {
+            "id": 103202201,
+            "old": [["action_detail_1", 20], ["action_detail_2", 1], ["action_detail_3", 0], ["action_id", 103202201], ["action_type", 10], ["action_value_1", 1.0], ["action_value_2", 1.2], ["action_value_3", 1.2], ["action_value_4", 18.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "自分の物理防御力を{0}アップ"], ["level_up_disp", "物理防御力アップ+{0}"], ["target_area", 3], ["target_assignment", 2], ["target_count", 1], ["target_number", 0], ["target_range", 0], ["target_type", 7]],
+            "new": [["action_detail_1", 20], ["action_detail_2", 1], ["action_detail_3", 0], ["action_id", 103202201], ["action_type", 10], ["action_value_1", 1.0], ["action_value_2", 1.2], ["action_value_3", 1.2], ["action_value_4", 18.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "自分の物理・魔法防御力を{0}アップ"], ["level_up_disp", "物理防御力アップ+{0}"], ["target_area", 3], ["target_assignment", 2], ["target_count", 1], ["target_number", 0], ["target_range", 0], ["target_type", 7]]
+          },
+          {
+            "id": 103202206,
+            "old": [["action_detail_1", 1], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 103202206], ["action_type", 1], ["action_value_1", 30.0], ["action_value_2", 30.0], ["action_value_3", 2.4], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "範囲内の敵に{0}の物理ダメージ"], ["level_up_disp", "物理ダメージ+{0}"], ["target_area", 1], ["target_assignment", 1], ["target_count", 99], ["target_number", 0], ["target_range", 600], ["target_type", 3]],
+            "new": [["action_detail_1", 2], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 103202206], ["action_type", 72], ["action_value_1", 15.0], ["action_value_2", 0.0], ["action_value_3", 18.0], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "自分が受ける魔法ダメージを{0}％カット"], ["level_up_disp", ""], ["target_area", 3], ["target_assignment", 2], ["target_count", 1], ["target_number", 0], ["target_range", 0], ["target_type", 7]]
+          },
+          {
+            "id": 103202205,
+            "old": [["action_detail_1", 2], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 103202205], ["action_type", 72], ["action_value_1", 15.0], ["action_value_2", 0.0], ["action_value_3", 18.0], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "自分が受ける魔法ダメージを{0}％カット"], ["level_up_disp", ""], ["target_area", 3], ["target_assignment", 2], ["target_count", 1], ["target_number", 0], ["target_range", 0], ["target_type", 7]],
+            "new": [["action_detail_1", 1], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 103202205], ["action_type", 72], ["action_value_1", 15.0], ["action_value_2", 0.0], ["action_value_3", 18.0], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "自分が受ける物理ダメージを{0}％カット"], ["level_up_disp", ""], ["target_area", 3], ["target_assignment", 2], ["target_count", 1], ["target_number", 0], ["target_range", 0], ["target_type", 7]]
+          },
+          {
+            "id": 103202204,
+            "old": [["action_detail_1", 1], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 103202204], ["action_type", 72], ["action_value_1", 15.0], ["action_value_2", 0.0], ["action_value_3", 18.0], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "自分が受ける物理ダメージを{0}％カット"], ["level_up_disp", ""], ["target_area", 3], ["target_assignment", 2], ["target_count", 1], ["target_number", 0], ["target_range", 0], ["target_type", 7]],
+            "new": [["action_detail_1", 80], ["action_detail_2", 1], ["action_detail_3", 0], ["action_id", 103202204], ["action_type", 10], ["action_value_1", 1.0], ["action_value_2", 15.0], ["action_value_3", 0.0], ["action_value_4", 18.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 1.0], ["class_id", 1], ["description", "自分のＴＰ上昇を{0}アップ"], ["level_up_disp", ""], ["target_area", 1], ["target_assignment", 2], ["target_count", 1], ["target_number", 0], ["target_range", 0], ["target_type", 7]]
+          },
+          {
+            "id": 103202202,
+            "old": [["action_detail_1", 40], ["action_detail_2", 1], ["action_detail_3", 0], ["action_id", 103202202], ["action_type", 10], ["action_value_1", 1.0], ["action_value_2", 1.2], ["action_value_3", 1.2], ["action_value_4", 18.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "自分の魔法防御力を{0}アップ"], ["level_up_disp", "魔法防御力アップ+{0}"], ["target_area", 3], ["target_assignment", 2], ["target_count", 1], ["target_number", 0], ["target_range", 0], ["target_type", 7]],
+            "new": [["action_detail_1", 40], ["action_detail_2", 1], ["action_detail_3", 0], ["action_id", 103202202], ["action_type", 10], ["action_value_1", 1.0], ["action_value_2", 1.2], ["action_value_3", 1.2], ["action_value_4", 18.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", ""], ["level_up_disp", "魔法防御力アップ+{0}"], ["target_area", 3], ["target_assignment", 2], ["target_count", 1], ["target_number", 0], ["target_range", 0], ["target_type", 7]]
+          },
+          {
+            "id": 103202210,
+            "old": [["action_detail_1", 1], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 103202210], ["action_type", 16], ["action_value_1", 500.0], ["action_value_2", 0.0], ["action_value_3", 0.0], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "自分のＴＰを{0}回復"], ["level_up_disp", ""], ["target_area", 1], ["target_assignment", 2], ["target_count", 1], ["target_number", 0], ["target_range", 0], ["target_type", 7]],
+            "new": [["action_detail_1", 1], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 103202210], ["action_type", 1], ["action_value_1", 30.0], ["action_value_2", 30.0], ["action_value_3", 2.4], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "範囲内の敵に{0}の物理ダメージ"], ["level_up_disp", "反撃時の物理ダメージ+{0}"], ["target_area", 1], ["target_assignment", 1], ["target_count", 99], ["target_number", 0], ["target_range", 600], ["target_type", 3]]
+          }
+        ]
+      }
+    },
+    "unit_data": {
+      "data_changes": {
+        "modified": [
+          {
+            "id": 138201,
+            "old": [["atk_type", 1], ["comment", "【物理】中衛から怯懦を退け、万魔を率する煉獄の鉄媛。\\n千変万化の躰は行動速度アップを始めとする多彩な支援と\\nすべての敵の弱体を両立し、天地万象を掌の内に収める。"], ["cutin1_star6", 138201], ["cutin2_star6", 0], ["cutin_1", 138201], ["cutin_2", 0], ["end_time", "2026/02/28 11:59:59"], ["exskill_display", 0], ["guild_id", 0], ["is_collab", 0], ["is_limited", 1], ["kana", "ねふぃーねら"], ["motion_type", 0], ["move_speed", 450], ["normal_atk_cast_time", 2.09], ["only_disp_owned", 0], ["original_unit_id", 0], ["prefab_id", 138201], ["prefab_id_battle", 0], ["rarity", 3], ["se_type", 0], ["search_area_width", 502], ["start_time", "2026/02/15 12:00:00"], ["unit_id", 138201], ["unit_name", "ネフィ＝ネラ（鬼面仏心）"]],
+            "new": [["atk_type", 1], ["comment", "【物理】中衛から怯懦を退け、万魔を率する煉獄の鉄媛。\\n千変万化の躰は行動速度アップを始めとする多彩な支援と\\nすべての敵の弱体を両立し、天地万象を掌の内に収める。"], ["cutin1_star6", 138201], ["cutin2_star6", 0], ["cutin_1", 138201], ["cutin_2", 0], ["end_time", "2026/02/28 11:59:59"], ["exskill_display", 0], ["guild_id", 0], ["is_collab", 0], ["is_limited", 1], ["kana", "ねふぃーねら"], ["motion_type", 0], ["move_speed", 450], ["normal_atk_cast_time", 2.09], ["only_disp_owned", 0], ["original_unit_id", 0], ["prefab_id", 138201], ["prefab_id_battle", 0], ["rarity", 3], ["se_type", 0], ["search_area_width", 502], ["start_time", "2026/02/15 12:00:00"], ["unit_id", 138201], ["unit_name", "Nephi Nella (Buddha)"]]
+          },
+          {
+            "id": 129701,
+            "old": [["atk_type", 1], ["comment", "【物理】中衛で万魔の頂点に君臨するジオ・ゲヘナの媛。\\n環境効果【妨魔塵】で魔法攻撃を阻害し、行動速度アップ\\n等の支援や苛烈な攻撃で無謀な不届き者を平伏させる。"], ["cutin1_star6", 129701], ["cutin2_star6", 0], ["cutin_1", 129701], ["cutin_2", 0], ["end_time", "2026/01/03 11:59:59"], ["exskill_display", 0], ["guild_id", 0], ["is_collab", 0], ["is_limited", 1], ["kana", "ねふぃーねら"], ["motion_type", 0], ["move_speed", 450], ["normal_atk_cast_time", 2.09], ["only_disp_owned", 0], ["original_unit_id", 0], ["prefab_id", 129701], ["prefab_id_battle", 0], ["rarity", 3], ["se_type", 0], ["search_area_width", 540], ["start_time", "2025/12/31 12:00:00"], ["unit_id", 129701], ["unit_name", "Nephi-Nera"]],
+            "new": [["atk_type", 1], ["comment", "【物理】中衛で万魔の頂点に君臨するジオ・ゲヘナの媛。\\n環境効果【妨魔塵】で魔法攻撃を阻害し、行動速度アップ\\n等の支援や苛烈な攻撃で無謀な不届き者を平伏させる。"], ["cutin1_star6", 129701], ["cutin2_star6", 0], ["cutin_1", 129701], ["cutin_2", 0], ["end_time", "2026/01/03 11:59:59"], ["exskill_display", 0], ["guild_id", 0], ["is_collab", 0], ["is_limited", 1], ["kana", "ねふぃーねら"], ["motion_type", 0], ["move_speed", 450], ["normal_atk_cast_time", 2.09], ["only_disp_owned", 0], ["original_unit_id", 0], ["prefab_id", 129701], ["prefab_id_battle", 0], ["rarity", 3], ["se_type", 0], ["search_area_width", 540], ["start_time", "2025/12/31 12:00:00"], ["unit_id", 129701], ["unit_name", "Nephi Nella"]]
+          }
+        ]
+      }
+    },
+    "unit_profile": {
+      "data_changes": {
+        "modified": [
+          {
+            "id": 138201,
+            "old": [["age", "??"], ["birth_day", "31"], ["birth_month", "12"], ["blood_type", "?"], ["catch_copy", "万魔の頂点、煉獄の媛君"], ["favorite", "おままごと、人間観察"], ["guild", "？？？"], ["guild_id", ""], ["height", "139"], ["race", "妖魔人"], ["self_text", ""], ["unit_id", 138201], ["unit_name", "ネフィ＝ネラ（鬼面仏心）"], ["voice", "大久保瑠美"], ["voice_id", 0], ["weight", "??"]],
+            "new": [["age", "??"], ["birth_day", "31"], ["birth_month", "12"], ["blood_type", "?"], ["catch_copy", "万魔の頂点、煉獄の媛君"], ["favorite", "おままごと、人間観察"], ["guild", "？？？"], ["guild_id", ""], ["height", "139"], ["race", "妖魔人"], ["self_text", ""], ["unit_id", 138201], ["unit_name", "Nephi Nella (Buddha)"], ["voice", "大久保瑠美"], ["voice_id", 0], ["weight", "??"]]
+          },
+          {
+            "id": 129701,
+            "old": [["age", "??"], ["birth_day", "31"], ["birth_month", "12"], ["blood_type", "?"], ["catch_copy", "万魔の頂点、煉獄の媛君"], ["favorite", "おままごと、人間観察"], ["guild", "？？？"], ["guild_id", ""], ["height", "139"], ["race", "妖魔人"], ["self_text", ""], ["unit_id", 129701], ["unit_name", "Nephi-Nera"], ["voice", "大久保瑠美"], ["voice_id", 0], ["weight", "??"]],
+            "new": [["age", "??"], ["birth_day", "31"], ["birth_month", "12"], ["blood_type", "?"], ["catch_copy", "万魔の頂点、煉獄の媛君"], ["favorite", "おままごと、人間観察"], ["guild", "？？？"], ["guild_id", ""], ["height", "139"], ["race", "妖魔人"], ["self_text", ""], ["unit_id", 129701], ["unit_name", "Nephi Nella"], ["voice", "大久保瑠美"], ["voice_id", 0], ["weight", "??"]]
+          }
+        ]
+      }
+    }
+  }
+}
