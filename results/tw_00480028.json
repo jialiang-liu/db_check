@@ -1,0 +1,93 @@
+{
+  "tables": {
+    "only_in_old_db": [],
+    "only_in_new_db": []
+  },
+  "table_changes": {
+    "unique_equip_enhance_rate": {
+      "data_changes": {
+        "added": [
+          [["accuracy", 0.0], ["atk", 0.0], ["def", 40.0], ["dodge", 0.0], ["energy_recovery_rate", 0.0], ["energy_reduce_rate", 0.0], ["equipment_id", 131392], ["hp", 1600.0], ["hp_recovery_rate", 0.0], ["id", 1313920], ["life_steal", 0.0], ["magic_critical", 0.0], ["magic_def", 40.0], ["magic_penetrate", 0.0], ["magic_str", 0.0], ["max_lv", -1], ["min_lv", 1], ["physical_critical", 0.0], ["physical_penetrate", 0.0], ["wave_energy_recovery", 0.0], ["wave_hp_recovery", 0.0]]
+        ]
+      }
+    },
+    "skill_data": {
+      "data_changes": {
+        "added": [
+          [["action_1", 113901301], ["action_10", 113901310], ["action_2", 113901302], ["action_3", 113901303], ["action_4", 113901304], ["action_5", 113901305], ["action_6", 113901306], ["action_7", 113901307], ["action_8", 113901308], ["action_9", 113901309], ["boss_ub_cool_time", 0.0], ["depend_action_1", 0], ["depend_action_10", 0], ["depend_action_2", 0], ["depend_action_3", 0], ["depend_action_4", 0], ["depend_action_5", 0], ["depend_action_6", 0], ["depend_action_7", 0], ["depend_action_8", 0], ["depend_action_9", 0], ["description", "【挑釁】挑釁敵方全體，自身展開魔法無效護盾，大幅度提升魔法防禦力，並且中幅度恢復ＨＰ。同時，大幅降低物理攻擊力最高的１名敵人角色的物理攻擊力，中幅度降低其物理防禦力，並使其陷入恐慌狀態。此外，大幅降低魔法攻擊力最高的１名敵人角色的魔法攻擊力，中幅度降低其物理防禦力，再小幅度提升其受到暴擊時的傷害。"], ["icon_type", 2012], ["name", "恐懼注目+"], ["skill_area_width", 0], ["skill_cast_time", 0.715], ["skill_id", 1139013], ["skill_type", 0]],
+          [["action_1", 113921301], ["action_10", 113921310], ["action_2", 113921302], ["action_3", 113921303], ["action_4", 113921304], ["action_5", 113921305], ["action_6", 113921306], ["action_7", 113921307], ["action_8", 113921308], ["action_9", 113921309], ["boss_ub_cool_time", 0.0], ["depend_action_1", 0], ["depend_action_10", 0], ["depend_action_2", 0], ["depend_action_3", 0], ["depend_action_4", 0], ["depend_action_5", 0], ["depend_action_6", 0], ["depend_action_7", 0], ["depend_action_8", 0], ["depend_action_9", 0], ["description", "【挑釁】挑釁敵方全體，自身展開魔法無效護盾，大幅度提升魔法防禦力，並且大幅度恢復ＨＰ。同時，大幅降低物理攻擊力最高的１名敵人角色的物理攻擊力，中幅度降低其物理防禦力，並使其陷入恐慌狀態。此外，大幅降低魔法攻擊力最高的１名敵人角色的魔法攻擊力，中幅度降低其物理防禦力，再小幅度提升其受到暴擊時的傷害。"], ["icon_type", 2012], ["name", "恐懼注目+"], ["skill_area_width", 0], ["skill_cast_time", 0.715], ["skill_id", 1139213], ["skill_type", 0]]
+        ]
+      }
+    },
+    "unit_skill_data": {
+      "data_changes": {
+        "modified": [
+          {
+            "id": 113901,
+            "old": [["ex_skill_1", 1139501], ["ex_skill_2", 0], ["ex_skill_3", 0], ["ex_skill_4", 0], ["ex_skill_5", 0], ["ex_skill_evolution_1", 1139511], ["ex_skill_evolution_2", 0], ["ex_skill_evolution_3", 0], ["ex_skill_evolution_4", 0], ["ex_skill_evolution_5", 0], ["main_skill_1", 1139002], ["main_skill_10", 0], ["main_skill_2", 1139003], ["main_skill_3", 0], ["main_skill_4", 0], ["main_skill_5", 0], ["main_skill_6", 0], ["main_skill_7", 0], ["main_skill_8", 0], ["main_skill_9", 0], ["main_skill_evolution_1", 1139012], ["main_skill_evolution_2", 0], ["sp_skill_1", 0], ["sp_skill_2", 0], ["sp_skill_3", 0], ["sp_skill_4", 0], ["sp_skill_5", 0], ["sp_skill_evolution_1", 0], ["sp_skill_evolution_2", 0], ["sp_union_burst", 0], ["union_burst", 1139001], ["union_burst_evolution", 0], ["unit_id", 113901]],
+            "new": [["ex_skill_1", 1139501], ["ex_skill_2", 0], ["ex_skill_3", 0], ["ex_skill_4", 0], ["ex_skill_5", 0], ["ex_skill_evolution_1", 1139511], ["ex_skill_evolution_2", 0], ["ex_skill_evolution_3", 0], ["ex_skill_evolution_4", 0], ["ex_skill_evolution_5", 0], ["main_skill_1", 1139002], ["main_skill_10", 0], ["main_skill_2", 1139003], ["main_skill_3", 0], ["main_skill_4", 0], ["main_skill_5", 0], ["main_skill_6", 0], ["main_skill_7", 0], ["main_skill_8", 0], ["main_skill_9", 0], ["main_skill_evolution_1", 1139012], ["main_skill_evolution_2", 1139013], ["sp_skill_1", 0], ["sp_skill_2", 0], ["sp_skill_3", 0], ["sp_skill_4", 0], ["sp_skill_5", 0], ["sp_skill_evolution_1", 0], ["sp_skill_evolution_2", 0], ["sp_union_burst", 0], ["union_burst", 1139001], ["union_burst_evolution", 0], ["unit_id", 113901]]
+          }
+        ]
+      }
+    },
+    "campaign_schedule": {
+      "data_changes": {
+        "added": [
+          [["beginner_id", 0], ["campaign_category", 32], ["campaign_type", 1], ["duplication_order", 0], ["end_time", "2026/03/01 04:59:59"], ["icon_image", 30], ["id", 2680], ["level_id", 0], ["lv_from", 311], ["lv_to", -1], ["shiori_group_id", 0], ["start_time", "2026/02/25 05:00:00"], ["system_id", 102], ["value", 2000.0]],
+          [["beginner_id", 0], ["campaign_category", 42], ["campaign_type", 1], ["duplication_order", 0], ["end_time", "2026/03/01 04:59:59"], ["icon_image", 40], ["id", 2681], ["level_id", 0], ["lv_from", 311], ["lv_to", -1], ["shiori_group_id", 0], ["start_time", "2026/02/25 05:00:00"], ["system_id", 102], ["value", 2000.0]]
+        ]
+      }
+    },
+    "unit_skill_data_rf": {
+      "data_changes": {
+        "added": [
+          [["id", 1139013], ["max_lv", -1], ["min_lv", 301], ["rf_skill_id", 1139213], ["skill_id", 1139013]]
+        ]
+      }
+    },
+    "skill_action": {
+      "data_changes": {
+        "added": [
+          [["action_detail_1", 21], ["action_detail_2", 1], ["action_detail_3", 0], ["action_id", 113901306], ["action_type", 10], ["action_value_1", 1.0], ["action_value_2", 0.7], ["action_value_3", 0.7], ["action_value_4", 12.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "降低敵方單體{0}的物理防禦力"], ["level_up_disp", "物理防禦力降低+{0}"], ["target_area", 2], ["target_assignment", 1], ["target_count", 1], ["target_number", 0], ["target_range", 2160], ["target_type", 14]],
+          [["action_detail_1", 1], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 113901301], ["action_type", 20], ["action_value_1", 5.0], ["action_value_2", 0.05], ["action_value_3", 0.0], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "挑釁敵方全體"], ["level_up_disp", ""], ["target_area", 1], ["target_assignment", 2], ["target_count", 1], ["target_number", 0], ["target_range", 0], ["target_type", 7]],
+          [["action_detail_1", 141], ["action_detail_2", 1], ["action_detail_3", 0], ["action_id", 113901310], ["action_type", 10], ["action_value_1", 1.0], ["action_value_2", 16.0], ["action_value_3", 0.0], ["action_value_4", 12.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 1.0], ["class_id", 1], ["description", "使敵方單體的被暴擊傷害提升{0}%"], ["level_up_disp", ""], ["target_area", 2], ["target_assignment", 1], ["target_count", 1], ["target_number", 0], ["target_range", 2160], ["target_type", 16]],
+          [["action_detail_1", 2], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 113921302], ["action_type", 6], ["action_value_1", 90.0], ["action_value_2", 90.0], ["action_value_3", 12.0], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "展開{0}傷害量的魔法無效護盾"], ["level_up_disp", "無效傷害量+{0}"], ["target_area", 1], ["target_assignment", 2], ["target_count", 1], ["target_number", 0], ["target_range", 0], ["target_type", 7]],
+          [["action_detail_1", 31], ["action_detail_2", 1], ["action_detail_3", 0], ["action_id", 113901308], ["action_type", 10], ["action_value_1", 1.0], ["action_value_2", 20.0], ["action_value_3", 20.0], ["action_value_4", 12.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "降低敵方單體{0}的魔法攻擊力"], ["level_up_disp", "魔法攻擊力下降+{0}"], ["target_area", 2], ["target_assignment", 1], ["target_count", 1], ["target_number", 0], ["target_range", 2160], ["target_type", 16]],
+          [["action_detail_1", 0], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 113921307], ["action_type", 61], ["action_value_1", 8.0], ["action_value_2", 0.0], ["action_value_3", 100.0], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "使一名敵人陷入恐慌狀態"], ["level_up_disp", "恐慌的成功確定Lv+1"], ["target_area", 2], ["target_assignment", 1], ["target_count", 1], ["target_number", 0], ["target_range", 2160], ["target_type", 14]],
+          [["action_detail_1", 1], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 113901304], ["action_type", 4], ["action_value_1", 1.0], ["action_value_2", 5.0], ["action_value_3", 5.0], ["action_value_4", 1.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "回復自身{0}的HP"], ["level_up_disp", "HP回復量+{0}"], ["target_area", 1], ["target_assignment", 2], ["target_count", 1], ["target_number", 0], ["target_range", 0], ["target_type", 7]],
+          [["action_detail_1", 21], ["action_detail_2", 1], ["action_detail_3", 0], ["action_id", 113921306], ["action_type", 10], ["action_value_1", 1.0], ["action_value_2", 0.7], ["action_value_3", 0.7], ["action_value_4", 12.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "降低敵方單體{0}的物理防禦力"], ["level_up_disp", "物理防禦力降低+{0}"], ["target_area", 2], ["target_assignment", 1], ["target_count", 1], ["target_number", 0], ["target_range", 2160], ["target_type", 14]],
+          [["action_detail_1", 40], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 113921303], ["action_type", 10], ["action_value_1", 1.0], ["action_value_2", 1.5], ["action_value_3", 1.5], ["action_value_4", 12.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "提升自身{0}的魔法防禦力"], ["level_up_disp", "魔法防禦力提升+{0}"], ["target_area", 1], ["target_assignment", 2], ["target_count", 1], ["target_number", 0], ["target_range", 0], ["target_type", 7]],
+          [["action_detail_1", 11], ["action_detail_2", 1], ["action_detail_3", 0], ["action_id", 113901305], ["action_type", 10], ["action_value_1", 1.0], ["action_value_2", 20.0], ["action_value_3", 20.0], ["action_value_4", 12.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "降低敵方單體{0}的物理攻擊力"], ["level_up_disp", "物理攻擊力降低+{0}"], ["target_area", 2], ["target_assignment", 1], ["target_count", 1], ["target_number", 0], ["target_range", 2160], ["target_type", 14]],
+          [["action_detail_1", 1], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 113921301], ["action_type", 20], ["action_value_1", 20.0], ["action_value_2", 0.0], ["action_value_3", 0.0], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "挑釁敵方全體"], ["level_up_disp", ""], ["target_area", 1], ["target_assignment", 2], ["target_count", 1], ["target_number", 0], ["target_range", 0], ["target_type", 7]],
+          [["action_detail_1", 141], ["action_detail_2", 1], ["action_detail_3", 0], ["action_id", 113921310], ["action_type", 10], ["action_value_1", 1.0], ["action_value_2", 16.0], ["action_value_3", 0.0], ["action_value_4", 12.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 1.0], ["class_id", 1], ["description", "使敵方單體的被暴擊傷害提升{0}%"], ["level_up_disp", ""], ["target_area", 2], ["target_assignment", 1], ["target_count", 1], ["target_number", 0], ["target_range", 2160], ["target_type", 16]],
+          [["action_detail_1", 2], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 113901302], ["action_type", 6], ["action_value_1", 90.0], ["action_value_2", 90.0], ["action_value_3", 12.0], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "展開{0}傷害量的魔法無效護盾"], ["level_up_disp", "無效傷害量+{0}"], ["target_area", 1], ["target_assignment", 2], ["target_count", 1], ["target_number", 0], ["target_range", 0], ["target_type", 7]],
+          [["action_detail_1", 31], ["action_detail_2", 1], ["action_detail_3", 0], ["action_id", 113921308], ["action_type", 10], ["action_value_1", 1.0], ["action_value_2", 20.0], ["action_value_3", 20.0], ["action_value_4", 12.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "降低敵方單體{0}的魔法攻擊力"], ["level_up_disp", "魔法攻擊力下降+{0}"], ["target_area", 2], ["target_assignment", 1], ["target_count", 1], ["target_number", 0], ["target_range", 2160], ["target_type", 16]],
+          [["action_detail_1", 11], ["action_detail_2", 1], ["action_detail_3", 0], ["action_id", 113921305], ["action_type", 10], ["action_value_1", 1.0], ["action_value_2", 20.0], ["action_value_3", 20.0], ["action_value_4", 12.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "降低敵方單體{0}的物理攻擊力"], ["level_up_disp", "物理攻擊力降低+{0}"], ["target_area", 2], ["target_assignment", 1], ["target_count", 1], ["target_number", 0], ["target_range", 2160], ["target_type", 14]],
+          [["action_detail_1", 1], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 113921304], ["action_type", 4], ["action_value_1", 1.0], ["action_value_2", 5.0], ["action_value_3", 5.0], ["action_value_4", 1.15], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "回復自身{0}的HP"], ["level_up_disp", "HP回復量+{0}"], ["target_area", 1], ["target_assignment", 2], ["target_count", 1], ["target_number", 0], ["target_range", 0], ["target_type", 7]],
+          [["action_detail_1", 40], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 113901303], ["action_type", 10], ["action_value_1", 1.0], ["action_value_2", 1.5], ["action_value_3", 1.5], ["action_value_4", 12.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "提升自身{0}的魔法防禦力"], ["level_up_disp", "魔法防禦力提升+{0}"], ["target_area", 1], ["target_assignment", 2], ["target_count", 1], ["target_number", 0], ["target_range", 0], ["target_type", 7]],
+          [["action_detail_1", 21], ["action_detail_2", 1], ["action_detail_3", 0], ["action_id", 113901309], ["action_type", 10], ["action_value_1", 1.0], ["action_value_2", 0.7], ["action_value_3", 0.7], ["action_value_4", 12.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "降低敵方單體{0}的物理防禦力"], ["level_up_disp", "物理防禦力降低+{0}"], ["target_area", 2], ["target_assignment", 1], ["target_count", 1], ["target_number", 0], ["target_range", 2160], ["target_type", 16]],
+          [["action_detail_1", 0], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 113901307], ["action_type", 61], ["action_value_1", 8.0], ["action_value_2", 0.0], ["action_value_3", 100.0], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "使一名敵人陷入恐慌狀態"], ["level_up_disp", "恐慌的成功確定Lv+1"], ["target_area", 2], ["target_assignment", 1], ["target_count", 1], ["target_number", 0], ["target_range", 2160], ["target_type", 14]],
+          [["action_detail_1", 21], ["action_detail_2", 1], ["action_detail_3", 0], ["action_id", 113921309], ["action_type", 10], ["action_value_1", 1.0], ["action_value_2", 0.7], ["action_value_3", 0.7], ["action_value_4", 12.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "降低敵方單體{0}的物理防禦力"], ["level_up_disp", "物理防禦力降低+{0}"], ["target_area", 2], ["target_assignment", 1], ["target_count", 1], ["target_number", 0], ["target_range", 2160], ["target_type", 16]]
+        ]
+      }
+    },
+    "unique_equipment_data": {
+      "data_changes": {
+        "added": [
+          [["accuracy", 0.0], ["atk", 0.0], ["craft_flg", 1], ["def", 40.0], ["description", "紡希親手製作的萬聖節色系髮箍。\\n用小小的角偷偷實現了\\n與怜大人成對的夢想。\\n不只可愛，還溢滿了愛與慾望。"], ["dodge", 0.0], ["enable_donation", 0], ["energy_recovery_rate", 0.0], ["energy_reduce_rate", 0.0], ["equipment_enhance_point", 0], ["equipment_id", 131392], ["equipment_name", "萬聖夜髮箍"], ["hp", 1600.0], ["hp_recovery_rate", 0.0], ["life_steal", 0.0], ["magic_critical", 0.0], ["magic_def", 40.0], ["magic_penetrate", 0.0], ["magic_str", 0.0], ["physical_critical", 0.0], ["physical_penetrate", 0.0], ["promotion_level", 98], ["require_level", 1], ["sale_price", 0], ["wave_energy_recovery", 0.0], ["wave_hp_recovery", 0.0]]
+        ]
+      }
+    },
+    "unit_unique_equipment": {
+      "data_changes": {
+        "modified": [
+          {
+            "id": 113901,
+            "old": [["equip_id", 131391], ["equip_slot", 1], ["unit_id", 113901]],
+            "new": [["equip_id", 131392], ["equip_slot", 2], ["unit_id", 113901]]
+          }
+        ]
+      }
+    }
+  }
+}
