@@ -1,0 +1,73 @@
+{
+  "tables": {
+    "only_in_old_db": [],
+    "only_in_new_db": []
+  },
+  "table_changes": {
+    "enemy_m_parts": {
+      "data_changes": {
+        "added": [
+          [["child_enemy_parameter_1", 924242202], ["child_enemy_parameter_2", 924242203], ["child_enemy_parameter_3", 924242204], ["child_enemy_parameter_4", 0], ["child_enemy_parameter_5", 0], ["enemy_id", 924242201], ["name", "12月深淵討伐戰冰霜獵犬"]],
+          [["child_enemy_parameter_1", 924242402], ["child_enemy_parameter_2", 924242403], ["child_enemy_parameter_3", 924242404], ["child_enemy_parameter_4", 0], ["child_enemy_parameter_5", 0], ["enemy_id", 924242401], ["name", "12月深淵討伐戰冰霜獵犬"]],
+          [["child_enemy_parameter_1", 924242302], ["child_enemy_parameter_2", 924242303], ["child_enemy_parameter_3", 924242304], ["child_enemy_parameter_4", 0], ["child_enemy_parameter_5", 0], ["enemy_id", 924242301], ["name", "12月深淵討伐戰冰霜獵犬"]],
+          [["child_enemy_parameter_1", 924242102], ["child_enemy_parameter_2", 924242103], ["child_enemy_parameter_3", 924242104], ["child_enemy_parameter_4", 0], ["child_enemy_parameter_5", 0], ["enemy_id", 924242101], ["name", "12月深淵討伐戰冰霜獵犬"]]
+        ]
+      }
+    },
+    "abyss_schedule": {
+      "data_changes": {
+        "added": [
+          [["abyss_id", 92424], ["boss_ticket_id", 70018], ["end_time", "2026/04/10 04:59:59"], ["start_time", "2026/04/05 16:00:00"], ["talent_id", 1], ["title", "朱火深淵"]]
+        ]
+      }
+    },
+    "item_data": {
+      "data_changes": {
+        "added": [
+          [["description", "可於深淵討伐戰期間得到的證明。使用證明即可挑戰Boss戰。"], ["end_time", "2030/04/24 14:59:59"], ["gojuon_order", 0], ["item_id", 70018], ["item_name", "討伐委託證"], ["item_type", 32], ["limit_num", 9999], ["price", 0], ["promotion_level", 1], ["sell_check_disp", 0], ["start_time", "2015/12/17 15:00:00"], ["value", 0]]
+        ]
+      }
+    },
+    "unit_enemy_data": {
+      "data_changes": {
+        "modified": [
+          {
+            "id": 319601,
+            "old": [["atk_type", 2], ["comment", "【魔法】支配冰河地區的嚴霜魔狼。\\n冷酷的幼狼們貫穿目標，以冰爪撕裂獵物。\\n\\n【特殊效果】\\n‧所有技能傷害不可恢復ＴＰ\\n‧提升對自身的持續傷害量\\n【必殺技】\\n‧對前方３名敵人造成魔法傷害（無視召喚物）\\n‧對前方３名敵人施加凍結（無視召喚物、必中）\\n‧提升自身的魔法防禦力\\n【技能１】\\n‧對前方３名敵人及其周圍造成魔法傷害（無視召喚物）\\n‧降低前方３名敵人的魔法防禦力（無視召喚物‧\\n　必中）"], ["cutin", 0], ["cutin_star6", 0], ["motion_type", 0], ["move_speed", 270], ["normal_atk_cast_time", 1.6], ["prefab_id", 319601], ["se_type", 16], ["search_area_width", 3000], ["unit_id", 319601], ["unit_name", "冰霜獵犬"], ["visual_change_flag", 0]],
+            "new": [["atk_type", 2], ["comment", "【魔法】支配冰河地區的嚴霜魔狼。\\n冷酷的幼狼們貫穿目標，以冰爪撕裂獵物。\\n\\n【特殊效果】\\n‧所有技能傷害不可恢復ＴＰ\\n‧提升對自身的持續傷害量\\n【必殺技】\\n‧對前方３名敵人造成魔法傷害（無視召喚物）\\n‧對前方３名敵人施加凍結（無視召喚物・必中）\\n‧提升自身的魔法防禦力\\n【技能１】\\n‧對前方３名敵人及其周圍\\n　造成魔法傷害（無視召喚物）\\n‧降低前方３名敵人的魔法防禦力\\n　（無視召喚物・必中）"], ["cutin", 0], ["cutin_star6", 0], ["motion_type", 0], ["move_speed", 270], ["normal_atk_cast_time", 1.6], ["prefab_id", 319601], ["se_type", 16], ["search_area_width", 3000], ["unit_id", 319601], ["unit_name", "冰霜獵犬"], ["visual_change_flag", 0]]
+          }
+        ]
+      }
+    },
+    "enemy_talent_weakness": {
+      "data_changes": {
+        "added": [
+          [["enemy_id", 924242301], ["resist_id", 2000000]],
+          [["enemy_id", 924243101], ["resist_id", 2000000]],
+          [["enemy_id", 924242204], ["resist_id", 2000000]],
+          [["enemy_id", 924242201], ["resist_id", 2000000]],
+          [["enemy_id", 924242202], ["resist_id", 2000000]],
+          [["enemy_id", 924243401], ["resist_id", 2000000]],
+          [["enemy_id", 924241201], ["resist_id", 2000000]],
+          [["enemy_id", 924242401], ["resist_id", 2000000]],
+          [["enemy_id", 924241401], ["resist_id", 2000000]],
+          [["enemy_id", 924242203], ["resist_id", 2000000]],
+          [["enemy_id", 924242302], ["resist_id", 2000000]],
+          [["enemy_id", 924241101], ["resist_id", 2000000]],
+          [["enemy_id", 924242304], ["resist_id", 2000000]],
+          [["enemy_id", 924242403], ["resist_id", 2000000]],
+          [["enemy_id", 924242402], ["resist_id", 2000000]],
+          [["enemy_id", 924241301], ["resist_id", 2000000]],
+          [["enemy_id", 924242101], ["resist_id", 2000000]],
+          [["enemy_id", 924242102], ["resist_id", 2000000]],
+          [["enemy_id", 924243201], ["resist_id", 2000000]],
+          [["enemy_id", 924242303], ["resist_id", 2000000]],
+          [["enemy_id", 924243301], ["resist_id", 2000000]],
+          [["enemy_id", 924242103], ["resist_id", 2000000]],
+          [["enemy_id", 924242104], ["resist_id", 2000000]],
+          [["enemy_id", 924242404], ["resist_id", 2000000]]
+        ]
+      }
+    }
+  }
+}
