@@ -1,0 +1,29 @@
+{
+  "tables": {
+    "only_in_old_db": [],
+    "only_in_new_db": []
+  },
+  "table_changes": {
+    "gift_message": {
+      "data_changes": {
+        "added": [
+          [["discription", "誕生日を迎えたプリンセスのバースデー称号です。"], ["id", 9226], ["type_1", 0], ["type_2", 0], ["type_3", 0], ["type_4", 0]]
+        ]
+      }
+    },
+    "emblem_data": {
+      "data_changes": {
+        "added": [
+          [["description_mission_id", 0], ["disp_oder", 2150001], ["emblem_id", 11150001], ["emblem_name", "お腹すいちゃいました☆"], ["end_time", "2030/01/01 23:59:59"], ["event_emblem", 1], ["start_time", "2018/01/01 15:00:00"], ["type", 10]]
+        ]
+      }
+    },
+    "emblem_condition_description": {
+      "data_changes": {
+        "added": [
+          [["condition_description", "バースデー称号を受け取る"], ["emblem_id", 11150001], ["icon_type", 1003], ["visible_type", 1]]
+        ]
+      }
+    }
+  }
+}
