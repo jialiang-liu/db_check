@@ -1,0 +1,209 @@
+{
+  "tables": {
+    "only_in_old_db": [],
+    "only_in_new_db": []
+  },
+  "table_changes": {
+    "unit_enemy_data": {
+      "data_changes": {
+        "modified": [
+          {
+            "id": 211305,
+            "old": [["atk_type", 2], ["comment", ""], ["cutin", 0], ["cutin_star6", 0], ["motion_type", 0], ["move_speed", 0], ["normal_atk_cast_time", 999.0], ["prefab_id", 211305], ["se_type", 0], ["search_area_width", 2160], ["unit_id", 211305], ["unit_name", "バーストダウン６"], ["visual_change_flag", 0]],
+            "new": [["atk_type", 2], ["comment", ""], ["cutin", 0], ["cutin_star6", 0], ["motion_type", 0], ["move_speed", 0], ["normal_atk_cast_time", 999.0], ["prefab_id", 211305], ["se_type", 0], ["search_area_width", 3000], ["unit_id", 211305], ["unit_name", "バーストダウン６"], ["visual_change_flag", 0]]
+          },
+          {
+            "id": 214501,
+            "old": [["atk_type", 2], ["comment", ""], ["cutin", 0], ["cutin_star6", 0], ["motion_type", 0], ["move_speed", 0], ["normal_atk_cast_time", 999.0], ["prefab_id", 214501], ["se_type", 0], ["search_area_width", 2160], ["unit_id", 214501], ["unit_name", "バーストエネミー１"], ["visual_change_flag", 0]],
+            "new": [["atk_type", 2], ["comment", ""], ["cutin", 0], ["cutin_star6", 0], ["motion_type", 0], ["move_speed", 0], ["normal_atk_cast_time", 999.0], ["prefab_id", 214501], ["se_type", 0], ["search_area_width", 3000], ["unit_id", 214501], ["unit_name", "バーストエネミー１"], ["visual_change_flag", 0]]
+          },
+          {
+            "id": 214606,
+            "old": [["atk_type", 2], ["comment", ""], ["cutin", 0], ["cutin_star6", 0], ["motion_type", 0], ["move_speed", 0], ["normal_atk_cast_time", 999.0], ["prefab_id", 214606], ["se_type", 0], ["search_area_width", 2160], ["unit_id", 214606], ["unit_name", "バーストエネミー１５"], ["visual_change_flag", 0]],
+            "new": [["atk_type", 2], ["comment", ""], ["cutin", 0], ["cutin_star6", 0], ["motion_type", 0], ["move_speed", 0], ["normal_atk_cast_time", 999.0], ["prefab_id", 214606], ["se_type", 0], ["search_area_width", 3000], ["unit_id", 214606], ["unit_name", "バーストエネミー１５"], ["visual_change_flag", 0]]
+          },
+          {
+            "id": 211303,
+            "old": [["atk_type", 2], ["comment", ""], ["cutin", 0], ["cutin_star6", 0], ["motion_type", 0], ["move_speed", 0], ["normal_atk_cast_time", 999.0], ["prefab_id", 211303], ["se_type", 0], ["search_area_width", 2160], ["unit_id", 211303], ["unit_name", "バーストダウン４"], ["visual_change_flag", 0]],
+            "new": [["atk_type", 2], ["comment", ""], ["cutin", 0], ["cutin_star6", 0], ["motion_type", 0], ["move_speed", 0], ["normal_atk_cast_time", 999.0], ["prefab_id", 211303], ["se_type", 0], ["search_area_width", 3000], ["unit_id", 211303], ["unit_name", "バーストダウン４"], ["visual_change_flag", 0]]
+          },
+          {
+            "id": 211302,
+            "old": [["atk_type", 2], ["comment", ""], ["cutin", 0], ["cutin_star6", 0], ["motion_type", 0], ["move_speed", 0], ["normal_atk_cast_time", 999.0], ["prefab_id", 211302], ["se_type", 0], ["search_area_width", 2160], ["unit_id", 211302], ["unit_name", "バーストダウン３"], ["visual_change_flag", 0]],
+            "new": [["atk_type", 2], ["comment", ""], ["cutin", 0], ["cutin_star6", 0], ["motion_type", 0], ["move_speed", 0], ["normal_atk_cast_time", 999.0], ["prefab_id", 211302], ["se_type", 0], ["search_area_width", 3000], ["unit_id", 211302], ["unit_name", "バーストダウン３"], ["visual_change_flag", 0]]
+          },
+          {
+            "id": 211501,
+            "old": [["atk_type", 2], ["comment", ""], ["cutin", 0], ["cutin_star6", 0], ["motion_type", 0], ["move_speed", 0], ["normal_atk_cast_time", 999.0], ["prefab_id", 211501], ["se_type", 0], ["search_area_width", 2160], ["unit_id", 211501], ["unit_name", "バーストダウン１２"], ["visual_change_flag", 0]],
+            "new": [["atk_type", 2], ["comment", ""], ["cutin", 0], ["cutin_star6", 0], ["motion_type", 0], ["move_speed", 0], ["normal_atk_cast_time", 999.0], ["prefab_id", 211501], ["se_type", 0], ["search_area_width", 3000], ["unit_id", 211501], ["unit_name", "バーストダウン１２"], ["visual_change_flag", 0]]
+          },
+          {
+            "id": 214601,
+            "old": [["atk_type", 2], ["comment", ""], ["cutin", 0], ["cutin_star6", 0], ["motion_type", 0], ["move_speed", 0], ["normal_atk_cast_time", 999.0], ["prefab_id", 214601], ["se_type", 0], ["search_area_width", 2160], ["unit_id", 214601], ["unit_name", "バーストエネミー１０"], ["visual_change_flag", 0]],
+            "new": [["atk_type", 2], ["comment", ""], ["cutin", 0], ["cutin_star6", 0], ["motion_type", 0], ["move_speed", 0], ["normal_atk_cast_time", 999.0], ["prefab_id", 214601], ["se_type", 0], ["search_area_width", 3000], ["unit_id", 214601], ["unit_name", "バーストエネミー１０"], ["visual_change_flag", 0]]
+          },
+          {
+            "id": 211304,
+            "old": [["atk_type", 2], ["comment", ""], ["cutin", 0], ["cutin_star6", 0], ["motion_type", 0], ["move_speed", 0], ["normal_atk_cast_time", 999.0], ["prefab_id", 211304], ["se_type", 0], ["search_area_width", 2160], ["unit_id", 211304], ["unit_name", "バーストダウン５"], ["visual_change_flag", 0]],
+            "new": [["atk_type", 2], ["comment", ""], ["cutin", 0], ["cutin_star6", 0], ["motion_type", 0], ["move_speed", 0], ["normal_atk_cast_time", 999.0], ["prefab_id", 211304], ["se_type", 0], ["search_area_width", 3000], ["unit_id", 211304], ["unit_name", "バーストダウン５"], ["visual_change_flag", 0]]
+          },
+          {
+            "id": 214505,
+            "old": [["atk_type", 2], ["comment", ""], ["cutin", 0], ["cutin_star6", 0], ["motion_type", 0], ["move_speed", 0], ["normal_atk_cast_time", 999.0], ["prefab_id", 214505], ["se_type", 0], ["search_area_width", 2160], ["unit_id", 214505], ["unit_name", "バーストエネミー５"], ["visual_change_flag", 0]],
+            "new": [["atk_type", 2], ["comment", ""], ["cutin", 0], ["cutin_star6", 0], ["motion_type", 0], ["move_speed", 0], ["normal_atk_cast_time", 999.0], ["prefab_id", 214505], ["se_type", 0], ["search_area_width", 3000], ["unit_id", 214505], ["unit_name", "バーストエネミー５"], ["visual_change_flag", 0]]
+          },
+          {
+            "id": 214504,
+            "old": [["atk_type", 2], ["comment", ""], ["cutin", 0], ["cutin_star6", 0], ["motion_type", 0], ["move_speed", 0], ["normal_atk_cast_time", 999.0], ["prefab_id", 214504], ["se_type", 0], ["search_area_width", 2160], ["unit_id", 214504], ["unit_name", "バーストエネミー４"], ["visual_change_flag", 0]],
+            "new": [["atk_type", 2], ["comment", ""], ["cutin", 0], ["cutin_star6", 0], ["motion_type", 0], ["move_speed", 0], ["normal_atk_cast_time", 999.0], ["prefab_id", 214504], ["se_type", 0], ["search_area_width", 3000], ["unit_id", 214504], ["unit_name", "バーストエネミー４"], ["visual_change_flag", 0]]
+          },
+          {
+            "id": 211307,
+            "old": [["atk_type", 2], ["comment", ""], ["cutin", 0], ["cutin_star6", 0], ["motion_type", 0], ["move_speed", 0], ["normal_atk_cast_time", 999.0], ["prefab_id", 211307], ["se_type", 0], ["search_area_width", 2160], ["unit_id", 211307], ["unit_name", "バーストダウン８"], ["visual_change_flag", 0]],
+            "new": [["atk_type", 2], ["comment", ""], ["cutin", 0], ["cutin_star6", 0], ["motion_type", 0], ["move_speed", 0], ["normal_atk_cast_time", 999.0], ["prefab_id", 211307], ["se_type", 0], ["search_area_width", 3000], ["unit_id", 211307], ["unit_name", "バーストダウン８"], ["visual_change_flag", 0]]
+          },
+          {
+            "id": 214605,
+            "old": [["atk_type", 2], ["comment", ""], ["cutin", 0], ["cutin_star6", 0], ["motion_type", 0], ["move_speed", 0], ["normal_atk_cast_time", 999.0], ["prefab_id", 214605], ["se_type", 0], ["search_area_width", 2160], ["unit_id", 214605], ["unit_name", "バーストエネミー１４"], ["visual_change_flag", 0]],
+            "new": [["atk_type", 2], ["comment", ""], ["cutin", 0], ["cutin_star6", 0], ["motion_type", 0], ["move_speed", 0], ["normal_atk_cast_time", 999.0], ["prefab_id", 214605], ["se_type", 0], ["search_area_width", 3000], ["unit_id", 214605], ["unit_name", "バーストエネミー１４"], ["visual_change_flag", 0]]
+          },
+          {
+            "id": 214608,
+            "old": [["atk_type", 2], ["comment", ""], ["cutin", 0], ["cutin_star6", 0], ["motion_type", 0], ["move_speed", 0], ["normal_atk_cast_time", 999.0], ["prefab_id", 214608], ["se_type", 0], ["search_area_width", 2160], ["unit_id", 214608], ["unit_name", "バーストエネミー１７"], ["visual_change_flag", 0]],
+            "new": [["atk_type", 2], ["comment", ""], ["cutin", 0], ["cutin_star6", 0], ["motion_type", 0], ["move_speed", 0], ["normal_atk_cast_time", 999.0], ["prefab_id", 214608], ["se_type", 0], ["search_area_width", 3000], ["unit_id", 214608], ["unit_name", "バーストエネミー１７"], ["visual_change_flag", 0]]
+          },
+          {
+            "id": 214703,
+            "old": [["atk_type", 2], ["comment", ""], ["cutin", 0], ["cutin_star6", 0], ["motion_type", 0], ["move_speed", 0], ["normal_atk_cast_time", 999.0], ["prefab_id", 214703], ["se_type", 0], ["search_area_width", 2160], ["unit_id", 214703], ["unit_name", "バーストエネミー２１"], ["visual_change_flag", 0]],
+            "new": [["atk_type", 2], ["comment", ""], ["cutin", 0], ["cutin_star6", 0], ["motion_type", 0], ["move_speed", 0], ["normal_atk_cast_time", 999.0], ["prefab_id", 214703], ["se_type", 0], ["search_area_width", 3000], ["unit_id", 214703], ["unit_name", "バーストエネミー２１"], ["visual_change_flag", 0]]
+          },
+          {
+            "id": 214607,
+            "old": [["atk_type", 2], ["comment", ""], ["cutin", 0], ["cutin_star6", 0], ["motion_type", 0], ["move_speed", 0], ["normal_atk_cast_time", 999.0], ["prefab_id", 214607], ["se_type", 0], ["search_area_width", 2160], ["unit_id", 214607], ["unit_name", "バーストエネミー１６"], ["visual_change_flag", 0]],
+            "new": [["atk_type", 2], ["comment", ""], ["cutin", 0], ["cutin_star6", 0], ["motion_type", 0], ["move_speed", 0], ["normal_atk_cast_time", 999.0], ["prefab_id", 214607], ["se_type", 0], ["search_area_width", 3000], ["unit_id", 214607], ["unit_name", "バーストエネミー１６"], ["visual_change_flag", 0]]
+          },
+          {
+            "id": 214708,
+            "old": [["atk_type", 2], ["comment", ""], ["cutin", 0], ["cutin_star6", 0], ["motion_type", 0], ["move_speed", 0], ["normal_atk_cast_time", 999.0], ["prefab_id", 214708], ["se_type", 0], ["search_area_width", 2160], ["unit_id", 214708], ["unit_name", "バーストエネミー２６"], ["visual_change_flag", 0]],
+            "new": [["atk_type", 2], ["comment", ""], ["cutin", 0], ["cutin_star6", 0], ["motion_type", 0], ["move_speed", 0], ["normal_atk_cast_time", 999.0], ["prefab_id", 214708], ["se_type", 0], ["search_area_width", 3000], ["unit_id", 214708], ["unit_name", "バーストエネミー２６"], ["visual_change_flag", 0]]
+          },
+          {
+            "id": 214502,
+            "old": [["atk_type", 2], ["comment", ""], ["cutin", 0], ["cutin_star6", 0], ["motion_type", 0], ["move_speed", 0], ["normal_atk_cast_time", 999.0], ["prefab_id", 214502], ["se_type", 0], ["search_area_width", 2160], ["unit_id", 214502], ["unit_name", "バーストエネミー２"], ["visual_change_flag", 0]],
+            "new": [["atk_type", 2], ["comment", ""], ["cutin", 0], ["cutin_star6", 0], ["motion_type", 0], ["move_speed", 0], ["normal_atk_cast_time", 999.0], ["prefab_id", 214502], ["se_type", 0], ["search_area_width", 3000], ["unit_id", 214502], ["unit_name", "バーストエネミー２"], ["visual_change_flag", 0]]
+          },
+          {
+            "id": 214508,
+            "old": [["atk_type", 2], ["comment", ""], ["cutin", 0], ["cutin_star6", 0], ["motion_type", 0], ["move_speed", 0], ["normal_atk_cast_time", 999.0], ["prefab_id", 214508], ["se_type", 0], ["search_area_width", 2160], ["unit_id", 214508], ["unit_name", "バーストエネミー８"], ["visual_change_flag", 0]],
+            "new": [["atk_type", 2], ["comment", ""], ["cutin", 0], ["cutin_star6", 0], ["motion_type", 0], ["move_speed", 0], ["normal_atk_cast_time", 999.0], ["prefab_id", 214508], ["se_type", 0], ["search_area_width", 3000], ["unit_id", 214508], ["unit_name", "バーストエネミー８"], ["visual_change_flag", 0]]
+          },
+          {
+            "id": 214701,
+            "old": [["atk_type", 2], ["comment", ""], ["cutin", 0], ["cutin_star6", 0], ["motion_type", 0], ["move_speed", 0], ["normal_atk_cast_time", 999.0], ["prefab_id", 214701], ["se_type", 0], ["search_area_width", 2160], ["unit_id", 214701], ["unit_name", "バーストエネミー１９"], ["visual_change_flag", 0]],
+            "new": [["atk_type", 2], ["comment", ""], ["cutin", 0], ["cutin_star6", 0], ["motion_type", 0], ["move_speed", 0], ["normal_atk_cast_time", 999.0], ["prefab_id", 214701], ["se_type", 0], ["search_area_width", 3000], ["unit_id", 214701], ["unit_name", "バーストエネミー１９"], ["visual_change_flag", 0]]
+          },
+          {
+            "id": 214702,
+            "old": [["atk_type", 2], ["comment", ""], ["cutin", 0], ["cutin_star6", 0], ["motion_type", 0], ["move_speed", 0], ["normal_atk_cast_time", 999.0], ["prefab_id", 214702], ["se_type", 0], ["search_area_width", 2160], ["unit_id", 214702], ["unit_name", "バーストエネミー２０"], ["visual_change_flag", 0]],
+            "new": [["atk_type", 2], ["comment", ""], ["cutin", 0], ["cutin_star6", 0], ["motion_type", 0], ["move_speed", 0], ["normal_atk_cast_time", 999.0], ["prefab_id", 214702], ["se_type", 0], ["search_area_width", 3000], ["unit_id", 214702], ["unit_name", "バーストエネミー２０"], ["visual_change_flag", 0]]
+          },
+          {
+            "id": 214705,
+            "old": [["atk_type", 2], ["comment", ""], ["cutin", 0], ["cutin_star6", 0], ["motion_type", 0], ["move_speed", 0], ["normal_atk_cast_time", 999.0], ["prefab_id", 214705], ["se_type", 0], ["search_area_width", 2160], ["unit_id", 214705], ["unit_name", "バーストエネミー２３"], ["visual_change_flag", 0]],
+            "new": [["atk_type", 2], ["comment", ""], ["cutin", 0], ["cutin_star6", 0], ["motion_type", 0], ["move_speed", 0], ["normal_atk_cast_time", 999.0], ["prefab_id", 214705], ["se_type", 0], ["search_area_width", 3000], ["unit_id", 214705], ["unit_name", "バーストエネミー２３"], ["visual_change_flag", 0]]
+          },
+          {
+            "id": 214509,
+            "old": [["atk_type", 2], ["comment", ""], ["cutin", 0], ["cutin_star6", 0], ["motion_type", 0], ["move_speed", 0], ["normal_atk_cast_time", 999.0], ["prefab_id", 214509], ["se_type", 0], ["search_area_width", 2160], ["unit_id", 214509], ["unit_name", "バーストエネミー９"], ["visual_change_flag", 0]],
+            "new": [["atk_type", 2], ["comment", ""], ["cutin", 0], ["cutin_star6", 0], ["motion_type", 0], ["move_speed", 0], ["normal_atk_cast_time", 999.0], ["prefab_id", 214509], ["se_type", 0], ["search_area_width", 3000], ["unit_id", 214509], ["unit_name", "バーストエネミー９"], ["visual_change_flag", 0]]
+          },
+          {
+            "id": 214506,
+            "old": [["atk_type", 2], ["comment", ""], ["cutin", 0], ["cutin_star6", 0], ["motion_type", 0], ["move_speed", 0], ["normal_atk_cast_time", 999.0], ["prefab_id", 214506], ["se_type", 0], ["search_area_width", 2160], ["unit_id", 214506], ["unit_name", "バーストエネミー６"], ["visual_change_flag", 0]],
+            "new": [["atk_type", 2], ["comment", ""], ["cutin", 0], ["cutin_star6", 0], ["motion_type", 0], ["move_speed", 0], ["normal_atk_cast_time", 999.0], ["prefab_id", 214506], ["se_type", 0], ["search_area_width", 3000], ["unit_id", 214506], ["unit_name", "バーストエネミー６"], ["visual_change_flag", 0]]
+          },
+          {
+            "id": 214704,
+            "old": [["atk_type", 2], ["comment", ""], ["cutin", 0], ["cutin_star6", 0], ["motion_type", 0], ["move_speed", 0], ["normal_atk_cast_time", 999.0], ["prefab_id", 214704], ["se_type", 0], ["search_area_width", 2160], ["unit_id", 214704], ["unit_name", "バーストエネミー２２"], ["visual_change_flag", 0]],
+            "new": [["atk_type", 2], ["comment", ""], ["cutin", 0], ["cutin_star6", 0], ["motion_type", 0], ["move_speed", 0], ["normal_atk_cast_time", 999.0], ["prefab_id", 214704], ["se_type", 0], ["search_area_width", 3000], ["unit_id", 214704], ["unit_name", "バーストエネミー２２"], ["visual_change_flag", 0]]
+          },
+          {
+            "id": 214602,
+            "old": [["atk_type", 2], ["comment", ""], ["cutin", 0], ["cutin_star6", 0], ["motion_type", 0], ["move_speed", 0], ["normal_atk_cast_time", 999.0], ["prefab_id", 214602], ["se_type", 0], ["search_area_width", 2160], ["unit_id", 214602], ["unit_name", "バーストエネミー１１"], ["visual_change_flag", 0]],
+            "new": [["atk_type", 2], ["comment", ""], ["cutin", 0], ["cutin_star6", 0], ["motion_type", 0], ["move_speed", 0], ["normal_atk_cast_time", 999.0], ["prefab_id", 214602], ["se_type", 0], ["search_area_width", 3000], ["unit_id", 214602], ["unit_name", "バーストエネミー１１"], ["visual_change_flag", 0]]
+          },
+          {
+            "id": 211308,
+            "old": [["atk_type", 2], ["comment", ""], ["cutin", 0], ["cutin_star6", 0], ["motion_type", 0], ["move_speed", 0], ["normal_atk_cast_time", 999.0], ["prefab_id", 211308], ["se_type", 0], ["search_area_width", 2160], ["unit_id", 211308], ["unit_name", "バーストダウン９"], ["visual_change_flag", 0]],
+            "new": [["atk_type", 2], ["comment", ""], ["cutin", 0], ["cutin_star6", 0], ["motion_type", 0], ["move_speed", 0], ["normal_atk_cast_time", 999.0], ["prefab_id", 211308], ["se_type", 0], ["search_area_width", 3000], ["unit_id", 211308], ["unit_name", "バーストダウン９"], ["visual_change_flag", 0]]
+          },
+          {
+            "id": 214707,
+            "old": [["atk_type", 2], ["comment", ""], ["cutin", 0], ["cutin_star6", 0], ["motion_type", 0], ["move_speed", 0], ["normal_atk_cast_time", 999.0], ["prefab_id", 214707], ["se_type", 0], ["search_area_width", 2160], ["unit_id", 214707], ["unit_name", "バーストエネミー２５"], ["visual_change_flag", 0]],
+            "new": [["atk_type", 2], ["comment", ""], ["cutin", 0], ["cutin_star6", 0], ["motion_type", 0], ["move_speed", 0], ["normal_atk_cast_time", 999.0], ["prefab_id", 214707], ["se_type", 0], ["search_area_width", 3000], ["unit_id", 214707], ["unit_name", "バーストエネミー２５"], ["visual_change_flag", 0]]
+          },
+          {
+            "id": 214609,
+            "old": [["atk_type", 2], ["comment", ""], ["cutin", 0], ["cutin_star6", 0], ["motion_type", 0], ["move_speed", 0], ["normal_atk_cast_time", 999.0], ["prefab_id", 214609], ["se_type", 0], ["search_area_width", 2160], ["unit_id", 214609], ["unit_name", "バーストエネミー１８"], ["visual_change_flag", 0]],
+            "new": [["atk_type", 2], ["comment", ""], ["cutin", 0], ["cutin_star6", 0], ["motion_type", 0], ["move_speed", 0], ["normal_atk_cast_time", 999.0], ["prefab_id", 214609], ["se_type", 0], ["search_area_width", 3000], ["unit_id", 214609], ["unit_name", "バーストエネミー１８"], ["visual_change_flag", 0]]
+          },
+          {
+            "id": 214604,
+            "old": [["atk_type", 2], ["comment", ""], ["cutin", 0], ["cutin_star6", 0], ["motion_type", 0], ["move_speed", 0], ["normal_atk_cast_time", 999.0], ["prefab_id", 214604], ["se_type", 0], ["search_area_width", 2160], ["unit_id", 214604], ["unit_name", "バーストエネミー１３"], ["visual_change_flag", 0]],
+            "new": [["atk_type", 2], ["comment", ""], ["cutin", 0], ["cutin_star6", 0], ["motion_type", 0], ["move_speed", 0], ["normal_atk_cast_time", 999.0], ["prefab_id", 214604], ["se_type", 0], ["search_area_width", 3000], ["unit_id", 214604], ["unit_name", "バーストエネミー１３"], ["visual_change_flag", 0]]
+          },
+          {
+            "id": 211500,
+            "old": [["atk_type", 2], ["comment", ""], ["cutin", 0], ["cutin_star6", 0], ["motion_type", 0], ["move_speed", 0], ["normal_atk_cast_time", 999.0], ["prefab_id", 211500], ["se_type", 0], ["search_area_width", 2160], ["unit_id", 211500], ["unit_name", "バーストダウン１１"], ["visual_change_flag", 0]],
+            "new": [["atk_type", 2], ["comment", ""], ["cutin", 0], ["cutin_star6", 0], ["motion_type", 0], ["move_speed", 0], ["normal_atk_cast_time", 999.0], ["prefab_id", 211500], ["se_type", 0], ["search_area_width", 3000], ["unit_id", 211500], ["unit_name", "バーストダウン１１"], ["visual_change_flag", 0]]
+          },
+          {
+            "id": 211301,
+            "old": [["atk_type", 2], ["comment", ""], ["cutin", 0], ["cutin_star6", 0], ["motion_type", 0], ["move_speed", 0], ["normal_atk_cast_time", 999.0], ["prefab_id", 211301], ["se_type", 0], ["search_area_width", 2160], ["unit_id", 211301], ["unit_name", "バーストダウン２"], ["visual_change_flag", 0]],
+            "new": [["atk_type", 2], ["comment", ""], ["cutin", 0], ["cutin_star6", 0], ["motion_type", 0], ["move_speed", 0], ["normal_atk_cast_time", 999.0], ["prefab_id", 211301], ["se_type", 0], ["search_area_width", 3000], ["unit_id", 211301], ["unit_name", "バーストダウン２"], ["visual_change_flag", 0]]
+          },
+          {
+            "id": 214603,
+            "old": [["atk_type", 2], ["comment", ""], ["cutin", 0], ["cutin_star6", 0], ["motion_type", 0], ["move_speed", 0], ["normal_atk_cast_time", 999.0], ["prefab_id", 214603], ["se_type", 0], ["search_area_width", 2160], ["unit_id", 214603], ["unit_name", "バーストエネミー１２"], ["visual_change_flag", 0]],
+            "new": [["atk_type", 2], ["comment", ""], ["cutin", 0], ["cutin_star6", 0], ["motion_type", 0], ["move_speed", 0], ["normal_atk_cast_time", 999.0], ["prefab_id", 214603], ["se_type", 0], ["search_area_width", 3000], ["unit_id", 214603], ["unit_name", "バーストエネミー１２"], ["visual_change_flag", 0]]
+          },
+          {
+            "id": 211309,
+            "old": [["atk_type", 2], ["comment", ""], ["cutin", 0], ["cutin_star6", 0], ["motion_type", 0], ["move_speed", 0], ["normal_atk_cast_time", 999.0], ["prefab_id", 211309], ["se_type", 0], ["search_area_width", 2160], ["unit_id", 211309], ["unit_name", "バーストダウン１０"], ["visual_change_flag", 0]],
+            "new": [["atk_type", 2], ["comment", ""], ["cutin", 0], ["cutin_star6", 0], ["motion_type", 0], ["move_speed", 0], ["normal_atk_cast_time", 999.0], ["prefab_id", 211309], ["se_type", 0], ["search_area_width", 3000], ["unit_id", 211309], ["unit_name", "バーストダウン１０"], ["visual_change_flag", 0]]
+          },
+          {
+            "id": 214706,
+            "old": [["atk_type", 2], ["comment", ""], ["cutin", 0], ["cutin_star6", 0], ["motion_type", 0], ["move_speed", 0], ["normal_atk_cast_time", 999.0], ["prefab_id", 214706], ["se_type", 0], ["search_area_width", 2160], ["unit_id", 214706], ["unit_name", "バーストエネミー２４"], ["visual_change_flag", 0]],
+            "new": [["atk_type", 2], ["comment", ""], ["cutin", 0], ["cutin_star6", 0], ["motion_type", 0], ["move_speed", 0], ["normal_atk_cast_time", 999.0], ["prefab_id", 214706], ["se_type", 0], ["search_area_width", 3000], ["unit_id", 214706], ["unit_name", "バーストエネミー２４"], ["visual_change_flag", 0]]
+          },
+          {
+            "id": 214507,
+            "old": [["atk_type", 2], ["comment", ""], ["cutin", 0], ["cutin_star6", 0], ["motion_type", 0], ["move_speed", 0], ["normal_atk_cast_time", 999.0], ["prefab_id", 214507], ["se_type", 0], ["search_area_width", 2160], ["unit_id", 214507], ["unit_name", "バーストエネミー７"], ["visual_change_flag", 0]],
+            "new": [["atk_type", 2], ["comment", ""], ["cutin", 0], ["cutin_star6", 0], ["motion_type", 0], ["move_speed", 0], ["normal_atk_cast_time", 999.0], ["prefab_id", 214507], ["se_type", 0], ["search_area_width", 3000], ["unit_id", 214507], ["unit_name", "バーストエネミー７"], ["visual_change_flag", 0]]
+          },
+          {
+            "id": 211306,
+            "old": [["atk_type", 2], ["comment", ""], ["cutin", 0], ["cutin_star6", 0], ["motion_type", 0], ["move_speed", 0], ["normal_atk_cast_time", 999.0], ["prefab_id", 211306], ["se_type", 0], ["search_area_width", 2160], ["unit_id", 211306], ["unit_name", "バーストダウン７"], ["visual_change_flag", 0]],
+            "new": [["atk_type", 2], ["comment", ""], ["cutin", 0], ["cutin_star6", 0], ["motion_type", 0], ["move_speed", 0], ["normal_atk_cast_time", 999.0], ["prefab_id", 211306], ["se_type", 0], ["search_area_width", 3000], ["unit_id", 211306], ["unit_name", "バーストダウン７"], ["visual_change_flag", 0]]
+          },
+          {
+            "id": 214503,
+            "old": [["atk_type", 2], ["comment", ""], ["cutin", 0], ["cutin_star6", 0], ["motion_type", 0], ["move_speed", 0], ["normal_atk_cast_time", 999.0], ["prefab_id", 214503], ["se_type", 0], ["search_area_width", 2160], ["unit_id", 214503], ["unit_name", "バーストエネミー３"], ["visual_change_flag", 0]],
+            "new": [["atk_type", 2], ["comment", ""], ["cutin", 0], ["cutin_star6", 0], ["motion_type", 0], ["move_speed", 0], ["normal_atk_cast_time", 999.0], ["prefab_id", 214503], ["se_type", 0], ["search_area_width", 3000], ["unit_id", 214503], ["unit_name", "バーストエネミー３"], ["visual_change_flag", 0]]
+          },
+          {
+            "id": 211300,
+            "old": [["atk_type", 2], ["comment", ""], ["cutin", 0], ["cutin_star6", 0], ["motion_type", 0], ["move_speed", 0], ["normal_atk_cast_time", 999.0], ["prefab_id", 211300], ["se_type", 0], ["search_area_width", 2160], ["unit_id", 211300], ["unit_name", "バーストダウン１"], ["visual_change_flag", 0]],
+            "new": [["atk_type", 2], ["comment", ""], ["cutin", 0], ["cutin_star6", 0], ["motion_type", 0], ["move_speed", 0], ["normal_atk_cast_time", 999.0], ["prefab_id", 211300], ["se_type", 0], ["search_area_width", 3000], ["unit_id", 211300], ["unit_name", "バーストダウン１"], ["visual_change_flag", 0]]
+          },
+          {
+            "id": 211400,
+            "old": [["atk_type", 2], ["comment", ""], ["cutin", 0], ["cutin_star6", 0], ["motion_type", 0], ["move_speed", 0], ["normal_atk_cast_time", 999.0], ["prefab_id", 211400], ["se_type", 0], ["search_area_width", 2160], ["unit_id", 211400], ["unit_name", "バーストエンド"], ["visual_change_flag", 0]],
+            "new": [["atk_type", 2], ["comment", ""], ["cutin", 0], ["cutin_star6", 0], ["motion_type", 0], ["move_speed", 0], ["normal_atk_cast_time", 999.0], ["prefab_id", 211400], ["se_type", 0], ["search_area_width", 3000], ["unit_id", 211400], ["unit_name", "バーストエンド"], ["visual_change_flag", 0]]
+          }
+        ]
+      }
+    }
+  }
+}
