@@ -1,0 +1,31 @@
+{
+  "tables": {
+    "only_in_old_db": [],
+    "only_in_new_db": []
+  },
+  "table_changes": {
+    "mission_reward_data": {
+      "data_changes": {
+        "deleted": [
+          [["end_time", "2099/12/31 23:59:59"], ["id", 280009904], ["lv_from", 1], ["lv_to", -1], ["mission_reward_id", 280009903], ["reward_id", 23003], ["reward_num", 100], ["reward_type", 2], ["start_time", "2015/04/01 15:00:00"]],
+          [["end_time", "2099/12/31 23:59:59"], ["id", 280009905], ["lv_from", 1], ["lv_to", -1], ["mission_reward_id", 280009904], ["reward_id", 93001], ["reward_num", 800], ["reward_type", 6], ["start_time", "2015/04/01 15:00:00"]]
+        ]
+      }
+    },
+    "daily_mission_data": {
+      "data_changes": {
+        "added": [
+          [["category_icon", 106], ["condition_num", 1], ["condition_value_1", 50000], ["condition_value_2", 45959], ["condition_value_3", 0], ["daily_mission_id", 18001157], ["description", "在当日05:00～第二天早上04:59间登录游戏吧"], ["disp_group", 1], ["end_time", "2026/04/30 4:59:59"], ["max_level", 0], ["min_level", 0], ["mission_condition", 8001], ["mission_reward_id", 280009902], ["start_time", "2026/04/17 5:00:00"], ["system_id", 0], ["title_color_id", 0], ["visible_flag", 1]],
+          [["category_icon", 106], ["condition_num", 1], ["condition_value_1", 50000], ["condition_value_2", 45959], ["condition_value_3", 0], ["daily_mission_id", 18002001], ["description", "在当日05:00～第二天早上04:59间登录游戏吧"], ["disp_group", 1], ["end_time", "2099/12/31 23:59:59"], ["max_level", 0], ["min_level", 0], ["mission_condition", 8001], ["mission_reward_id", 18002001], ["start_time", "2026/04/17 5:00:00"], ["system_id", 0], ["title_color_id", 0], ["visible_flag", 1]]
+        ],
+        "modified": [
+          {
+            "id": 18001155,
+            "old": [["category_icon", 106], ["condition_num", 1], ["condition_value_1", 50000], ["condition_value_2", 45959], ["condition_value_3", 0], ["daily_mission_id", 18001155], ["description", "在当日05:00～第二天早上04:59间登录游戏吧"], ["disp_group", 1], ["end_time", "2026/04/30 4:59:59"], ["max_level", 0], ["min_level", 0], ["mission_condition", 8001], ["mission_reward_id", 280009904], ["start_time", "2026/04/16 5:00:00"], ["system_id", 0], ["title_color_id", 0], ["visible_flag", 1]],
+            "new": [["category_icon", 106], ["condition_num", 1], ["condition_value_1", 50000], ["condition_value_2", 45959], ["condition_value_3", 0], ["daily_mission_id", 18001155], ["description", "在当日05:00～第二天早上04:59间登录游戏吧"], ["disp_group", 1], ["end_time", "2026/04/17 4:59:59"], ["max_level", 0], ["min_level", 0], ["mission_condition", 8001], ["mission_reward_id", 280009904], ["start_time", "2026/04/16 5:00:00"], ["system_id", 0], ["title_color_id", 0], ["visible_flag", 1]]
+          }
+        ]
+      }
+    }
+  }
+}
