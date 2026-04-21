@@ -1,0 +1,110 @@
+{
+  "tables": {
+    "only_in_old_db": [],
+    "only_in_new_db": []
+  },
+  "table_changes": {
+    "seven_schedule": {
+      "data_changes": {
+        "added": [
+          [["end_time", "2026/05/24 04:59:59"], ["event_id", 10212], ["event_type", 1], ["gacha_id", 1021201], ["gacha_ticket_id", 62121], ["mission_group_id", 102], ["schedule_id", 1012], ["start_time", "2026/05/01 16:00:00"], ["teaser_time", "2026/04/28 16:00:00"], ["unknown_1", 1001]]
+        ]
+      }
+    },
+    "event_story_data": {
+      "data_changes": {
+        "modified": [
+          {
+            "id": 5132,
+            "old": [["disp_order", 1], ["end_time", "2030/04/24 14:59:59"], ["start_time", "2024/03/30 16:00:00"], ["story_group_id", 5132], ["story_type", 5], ["thumbnail_id", 0], ["title", "聖誕哭泣寶貝　為誰存在的幸福之日"], ["value", 10161]],
+            "new": [["disp_order", 1], ["end_time", "2030/04/24 14:59:59"], ["start_time", "2024/03/30 16:00:00"], ["story_group_id", 5132], ["story_type", 5], ["thumbnail_id", 0], ["title", "聖誕哭泣寶貝　為誰存在的幸福之日"], ["value", 20072]]
+          }
+        ]
+      }
+    },
+    "campaign_schedule": {
+      "data_changes": {
+        "added": [
+          [["beginner_id", 0], ["campaign_category", 101], ["campaign_type", 1], ["duplication_order", 0], ["end_time", "2026/05/01 04:59:59"], ["icon_image", 100], ["id", 2766], ["level_id", 0], ["lv_from", 1], ["lv_to", -1], ["shiori_group_id", 0], ["start_time", "2026/04/26 05:00:00"], ["system_id", 8005], ["value", 1500.0]],
+          [["beginner_id", 0], ["campaign_category", 95], ["campaign_type", 1], ["duplication_order", 0], ["end_time", "2026/05/01 04:59:59"], ["icon_image", 100], ["id", 2764], ["level_id", 0], ["lv_from", 1], ["lv_to", -1], ["shiori_group_id", 0], ["start_time", "2026/04/26 05:00:00"], ["system_id", 112], ["value", 1500.0]],
+          [["beginner_id", 0], ["campaign_category", 91], ["campaign_type", 1], ["duplication_order", 0], ["end_time", "2026/05/01 04:59:59"], ["icon_image", 100], ["id", 2760], ["level_id", 0], ["lv_from", 1], ["lv_to", -1], ["shiori_group_id", 0], ["start_time", "2026/04/26 05:00:00"], ["system_id", 101], ["value", 1500.0]],
+          [["beginner_id", 0], ["campaign_category", 92], ["campaign_type", 1], ["duplication_order", 0], ["end_time", "2026/05/01 04:59:59"], ["icon_image", 100], ["id", 2761], ["level_id", 0], ["lv_from", 1], ["lv_to", -1], ["shiori_group_id", 0], ["start_time", "2026/04/26 05:00:00"], ["system_id", 102], ["value", 1500.0]],
+          [["beginner_id", 0], ["campaign_category", 100], ["campaign_type", 1], ["duplication_order", 0], ["end_time", "2026/05/01 04:59:59"], ["icon_image", 100], ["id", 2765], ["level_id", 0], ["lv_from", 1], ["lv_to", -1], ["shiori_group_id", 0], ["start_time", "2026/04/26 05:00:00"], ["system_id", 8004], ["value", 1500.0]],
+          [["beginner_id", 0], ["campaign_category", 93], ["campaign_type", 1], ["duplication_order", 0], ["end_time", "2026/05/01 04:59:59"], ["icon_image", 100], ["id", 2762], ["level_id", 0], ["lv_from", 1], ["lv_to", -1], ["shiori_group_id", 0], ["start_time", "2026/04/26 05:00:00"], ["system_id", 111], ["value", 1500.0]],
+          [["beginner_id", 0], ["campaign_category", 651], ["campaign_type", 1], ["duplication_order", 0], ["end_time", "2026/05/01 04:59:59"], ["icon_image", 100], ["id", 2767], ["level_id", 0], ["lv_from", 1], ["lv_to", -1], ["shiori_group_id", 0], ["start_time", "2026/04/26 05:00:00"], ["system_id", 130], ["value", 1500.0]],
+          [["beginner_id", 0], ["campaign_category", 32], ["campaign_type", 1], ["duplication_order", 0], ["end_time", "2026/05/01 04:59:59"], ["icon_image", 30], ["id", 2758], ["level_id", 0], ["lv_from", 321], ["lv_to", -1], ["shiori_group_id", 0], ["start_time", "2026/04/25 05:00:00"], ["system_id", 102], ["value", 2000.0]],
+          [["beginner_id", 0], ["campaign_category", 94], ["campaign_type", 1], ["duplication_order", 0], ["end_time", "2026/05/01 04:59:59"], ["icon_image", 100], ["id", 2763], ["level_id", 0], ["lv_from", 1], ["lv_to", -1], ["shiori_group_id", 0], ["start_time", "2026/04/26 05:00:00"], ["system_id", 109], ["value", 1500.0]],
+          [["beginner_id", 0], ["campaign_category", 42], ["campaign_type", 1], ["duplication_order", 0], ["end_time", "2026/05/01 04:59:59"], ["icon_image", 40], ["id", 2759], ["level_id", 0], ["lv_from", 321], ["lv_to", -1], ["shiori_group_id", 0], ["start_time", "2026/04/25 05:00:00"], ["system_id", 102], ["value", 2000.0]]
+        ]
+      }
+    },
+    "shiori_event_list": {
+      "data_changes": {
+        "added": [
+          [["banner_y", 0], ["condition_chara_id", 0], ["condition_main_quest_id", 0], ["condition_shiori_quest_id", 0], ["condition_story_id", 0], ["end_time", "2030/04/19 15:00:00"], ["event_id", 20072], ["gojuon_order", 1280], ["help_index", "1"], ["original_event_id", 10132], ["original_start_time", "2024/04/01 16:00:00"], ["series_event_id", 0], ["start_time", "2026/04/26 16:00:00"]]
+        ]
+      }
+    },
+    "unit_attack_pattern": {
+      "data_changes": {
+        "modified": [
+          {
+            "id": 32140301,
+            "old": [["atk_pattern_1", 1007], ["atk_pattern_10", 0], ["atk_pattern_11", 0], ["atk_pattern_12", 0], ["atk_pattern_13", 0], ["atk_pattern_14", 0], ["atk_pattern_15", 0], ["atk_pattern_16", 0], ["atk_pattern_17", 0], ["atk_pattern_18", 0], ["atk_pattern_19", 0], ["atk_pattern_2", 1001], ["atk_pattern_20", 0], ["atk_pattern_3", 1009], ["atk_pattern_4", 1010], ["atk_pattern_5", 0], ["atk_pattern_6", 0], ["atk_pattern_7", 0], ["atk_pattern_8", 0], ["atk_pattern_9", 0], ["loop_end", 4], ["loop_start", 2], ["pattern_id", 32140301], ["unit_id", 321403]],
+            "new": [["atk_pattern_1", 1008], ["atk_pattern_10", 0], ["atk_pattern_11", 0], ["atk_pattern_12", 0], ["atk_pattern_13", 0], ["atk_pattern_14", 0], ["atk_pattern_15", 0], ["atk_pattern_16", 0], ["atk_pattern_17", 0], ["atk_pattern_18", 0], ["atk_pattern_19", 0], ["atk_pattern_2", 1001], ["atk_pattern_20", 0], ["atk_pattern_3", 1009], ["atk_pattern_4", 1010], ["atk_pattern_5", 0], ["atk_pattern_6", 0], ["atk_pattern_7", 0], ["atk_pattern_8", 0], ["atk_pattern_9", 0], ["loop_end", 4], ["loop_start", 2], ["pattern_id", 32140301], ["unit_id", 321403]]
+          },
+          {
+            "id": 32140001,
+            "old": [["atk_pattern_1", 1008], ["atk_pattern_10", 0], ["atk_pattern_11", 0], ["atk_pattern_12", 0], ["atk_pattern_13", 0], ["atk_pattern_14", 0], ["atk_pattern_15", 0], ["atk_pattern_16", 0], ["atk_pattern_17", 0], ["atk_pattern_18", 0], ["atk_pattern_19", 0], ["atk_pattern_2", 1001], ["atk_pattern_20", 0], ["atk_pattern_3", 1009], ["atk_pattern_4", 1010], ["atk_pattern_5", 0], ["atk_pattern_6", 0], ["atk_pattern_7", 0], ["atk_pattern_8", 0], ["atk_pattern_9", 0], ["loop_end", 4], ["loop_start", 2], ["pattern_id", 32140001], ["unit_id", 321400]],
+            "new": [["atk_pattern_1", 1007], ["atk_pattern_10", 0], ["atk_pattern_11", 0], ["atk_pattern_12", 0], ["atk_pattern_13", 0], ["atk_pattern_14", 0], ["atk_pattern_15", 0], ["atk_pattern_16", 0], ["atk_pattern_17", 0], ["atk_pattern_18", 0], ["atk_pattern_19", 0], ["atk_pattern_2", 1001], ["atk_pattern_20", 0], ["atk_pattern_3", 1009], ["atk_pattern_4", 1010], ["atk_pattern_5", 1009], ["atk_pattern_6", 1010], ["atk_pattern_7", 0], ["atk_pattern_8", 0], ["atk_pattern_9", 0], ["loop_end", 6], ["loop_start", 2], ["pattern_id", 32140001], ["unit_id", 321400]]
+          }
+        ]
+      }
+    },
+    "unit_enemy_data": {
+      "data_changes": {
+        "modified": [
+          {
+            "id": 321400,
+            "old": [["atk_type", 1], ["comment", "【物理】因環境系統失控而誕生的暴風雨\\n化身。無情的暴風將周圍一帶整個吞沒，\\n使萬物化為烏有，為世界帶來混亂。\\n\\n‧發動環境效果【暴風】。此技能的效果適用於\\n　敵人全體。經過一定的時間後，\\n　擊退全體敵人。\\n‧容易受到物理攻擊力降低的效果影響。\\n‧容易受到挑釁效果的影響。\\n‧戰鬥開始時、混沌生成系統\\n　將會無法被破壞。\\n‧中幅度降低來自混沌生成系統\\n　所有傷害產生的隊伍角色\\n　ＴＰ恢復量。\\n‧必殺技會包含飛行狀態的角色在內，\\n　對敵方全體造成大幅度的物理傷害，\\n　並施加混亂狀態、麻痺狀態、\\n　中幅度降低物理防禦力其中一種異常狀態。\\n　此技能所造成的狀態異常，\\n　即使傷害無效也會施加。\\n‧以隨機１名敵方角色為中心，\\n　造成小範圍的大幅度物理傷害，施加暈眩狀態。\\n　此技能所造成的狀態異常，\\n　即使傷害無效也會施加。\\n‧以隨機１名敵方角色為中心，\\n　造成小範圍的中幅度物理傷害。\\n‧以隨機１名敵方角色為中心，\\n　造成小範圍的大幅度的物理傷害。"], ["cutin", 0], ["cutin_star6", 0], ["motion_type", 0], ["move_speed", 270], ["normal_atk_cast_time", 1.6], ["prefab_id", 321400], ["se_type", 16], ["search_area_width", 3000], ["unit_id", 321400], ["unit_name", "混沌生成系統"], ["visual_change_flag", 0]],
+            "new": [["atk_type", 1], ["comment", "【物理】因環境系統失控而誕生的暴風雨化身。\\n無情的暴風將周圍一帶整個吞沒，\\n使萬物化為烏有，為世界帶來混亂。\\n\\n‧發動環境效果【雷雲】。\\n　此技能的效果適用於敵方全體。\\n　每當經過一定時間，\\n　對敵方全體依照其最大ＨＰ造成魔法比例傷害。\\n　此技能造成的傷害，將不會恢復TP。\\n‧容易受到物理攻擊力降低的效果影響。\\n‧容易受到挑釁效果的影響。\\n‧必殺技會包含飛行狀態的角色在內，\\n　對敵方全體造成大幅度的物理傷害，\\n　並施加混亂狀態、麻痺狀態、\\n　中幅度降低物理防禦力其中一種異常狀態。\\n　此技能造成的狀態異常，即使傷害無效也會施加。\\n‧以隨機１名敵方角色為中心的小範圍\\n　造成大幅度的物理傷害，施加暈眩狀態。\\n　此技能造成的狀態異常，\\n　即使傷害無效也會施加。\\n‧以隨機１名敵方角色為中心的小範圍\\n　造成中幅度的物理傷害。\\n‧以隨機１名敵方角色為中心，\\n　造成小範圍的大幅度物理傷害。\\n‧當左側的目標被破壞時，\\n　中幅度降低自身的物理攻擊力。\\n‧當中央左側的目標被破壞時，\\n　中幅度降低自身的物理攻擊力。\\n‧當中央右側的目標被破壞時，\\n　中幅度降低自身的物理攻擊力。\\n‧當右側的目標被破壞時，\\n　中幅度降低自身的物理攻擊力。"], ["cutin", 0], ["cutin_star6", 0], ["motion_type", 0], ["move_speed", 270], ["normal_atk_cast_time", 1.6], ["prefab_id", 321400], ["se_type", 16], ["search_area_width", 3000], ["unit_id", 321400], ["unit_name", "混沌生成系統"], ["visual_change_flag", 0]]
+          },
+          {
+            "id": 321403,
+            "old": [["atk_type", 1], ["comment", "【物理】因環境系統失控而誕生的暴風雨\\n化身。無情的暴風將周圍一帶整個吞沒，\\n使萬物化為烏有，為世界帶來混亂。\\n\\n‧發動環境效果【雷雲】。此技能的效果適用於\\n　敵人全體。每當經過一定時間，\\n　對敵方全體依照最大ＨＰ造成魔法比例\\n　傷害。同時，當角色的ＨＰ低於50％時，\\n　施加麻痺狀態。此效果\\n　造成的傷害，將不會恢復ＴＰ。\\n　此技能所造成的狀態異常，\\n　即使傷害無效也會施加。\\n‧容易受到物理攻擊力降低的效果影響。\\n‧容易受到挑釁效果的影響。\\n‧中幅度降低來自混沌生成系統\\n　所有傷害產生的隊伍角色\\n　ＴＰ恢復量。\\n‧必殺技會包含飛行狀態的角色在內，\\n　對敵方全體造成大幅度的物理傷害，\\n　並施加混亂狀態、麻痺狀態、\\n　中幅度降低物理防禦力其中一種異常狀態。\\n　此技能所造成的狀態異常，\\n　即使傷害無效也會施加。\\n‧以隨機１名敵方角色為中心，\\n　造成小範圍的大幅度物理傷害，施加暈眩狀態。\\n　此技能所造成的狀態異常，\\n　即使傷害無效也會施加。\\n‧以隨機１名敵方角色為中心，\\n　造成小範圍的中幅度物理傷害。\\n‧以隨機１名敵方角色為中心，\\n　造成小範圍的大幅度的物理傷害。\\n‧當左側的目標被破壞時，\\n　將會中幅度降低自身的物理攻擊力。\\n‧當中央左側的目標被破壞時，\\n　將會中幅度降低自身的物理攻擊力。\\n‧當中央右側的目標被破壞時，\\n　將會中幅度降低自身的物理攻擊力。\\n‧當右側的目標被破壞時，\\n　將會中幅度降低自身的物理攻擊力。"], ["cutin", 0], ["cutin_star6", 0], ["motion_type", 0], ["move_speed", 270], ["normal_atk_cast_time", 1.6], ["prefab_id", 321403], ["se_type", 16], ["search_area_width", 3000], ["unit_id", 321403], ["unit_name", "混沌生成系統"], ["visual_change_flag", 0]],
+            "new": [["atk_type", 1], ["comment", "【物理】因環境系統失控而誕生的暴風雨化身。\\n無情的暴風將周圍一帶整個吞沒，\\n使萬物化為烏有，為世界帶來混亂。\\n\\n‧發動環境效果【暴風】。\\n　此技能的效果適用於敵方全體。\\n　每當經過一定時間，擊退敵方全體。\\n‧容易受到物理攻擊力降低的效果影響。\\n‧容易受到挑釁效果的影響。\\n‧戰鬥開始時，小幅度提升\\n　自身的物理防禦力與魔法防禦力。\\n　以此防禦力提升效果上升的防禦力，\\n　在戰鬥中不會受到防禦力下降技能的影響。\\n‧戰鬥開始時，\\n　混沌生成系統將會無法被破壞。\\n‧中幅度降低來自混沌生成系統\\n　所有傷害產生的\\n　隊伍角色TP恢復量。\\n‧必殺技會包含飛行狀態的角色在內，\\n　對敵方全體造成大幅度的物理傷害，\\n　並施加混亂狀態、麻痺狀態、\\n　中幅度降低物理防禦力其中一種異常狀態。\\n　此技能造成的狀態異常，即使傷害無效也會施加。\\n‧以隨機１名敵方角色為中心，\\n　造成小範圍的大幅度物理傷害，施加暈眩狀態。\\n　此技能造成的狀態異常，\\n　即使傷害無效也會施加。\\n‧以隨機１名敵方角色為中心，\\n　造成小範圍的中幅度物理傷害。\\n‧以隨機１名敵方角色為中心，\\n　造成小範圍的大幅度物理傷害。"], ["cutin", 0], ["cutin_star6", 0], ["motion_type", 0], ["move_speed", 270], ["normal_atk_cast_time", 1.6], ["prefab_id", 321403], ["se_type", 16], ["search_area_width", 3000], ["unit_id", 321403], ["unit_name", "混沌生成系統"], ["visual_change_flag", 0]]
+          }
+        ]
+      }
+    },
+    "enemy_parameter": {
+      "data_changes": {
+        "added": [
+          [["accuracy", 50], ["atk", 0], ["break_durability", 0], ["def", 200], ["dodge", 0], ["enemy_id", 660072301], ["energy_recovery_rate", 30], ["energy_reduce_rate", 0], ["ex_skill_lv_1", 0], ["ex_skill_lv_2", 0], ["ex_skill_lv_3", 0], ["ex_skill_lv_4", 0], ["ex_skill_lv_5", 0], ["hp", 5400000], ["hp_recovery_rate", 0], ["level", 120], ["life_steal", 0], ["magic_critical", 0], ["magic_def", 250], ["magic_penetrate", 0], ["magic_str", 7000], ["main_skill_lv_1", 2000], ["main_skill_lv_10", 0], ["main_skill_lv_2", 2000], ["main_skill_lv_3", 2000], ["main_skill_lv_4", 2000], ["main_skill_lv_5", 0], ["main_skill_lv_6", 0], ["main_skill_lv_7", 0], ["main_skill_lv_8", 0], ["main_skill_lv_9", 0], ["name", "巴西利斯克‧阿洛斯"], ["physical_critical", 0], ["physical_penetrate", 0], ["promotion_level", 1], ["rarity", 1], ["resist_status_id", 300000022], ["resist_variation_id", 0], ["union_burst_level", 2000], ["unique_equipment_flag_1", 0], ["unit_id", 320202], ["virtual_hp", 0], ["wave_energy_recovery", 0], ["wave_hp_recovery", 0]],
+          [["accuracy", 50], ["atk", 0], ["break_durability", 0], ["def", 20], ["dodge", 0], ["enemy_id", 660072101], ["energy_recovery_rate", 30], ["energy_reduce_rate", 0], ["ex_skill_lv_1", 0], ["ex_skill_lv_2", 0], ["ex_skill_lv_3", 0], ["ex_skill_lv_4", 0], ["ex_skill_lv_5", 0], ["hp", 55000], ["hp_recovery_rate", 0], ["level", 25], ["life_steal", 0], ["magic_critical", 0], ["magic_def", 20], ["magic_penetrate", 0], ["magic_str", 40], ["main_skill_lv_1", 100], ["main_skill_lv_10", 0], ["main_skill_lv_2", 100], ["main_skill_lv_3", 0], ["main_skill_lv_4", 40], ["main_skill_lv_5", 0], ["main_skill_lv_6", 0], ["main_skill_lv_7", 0], ["main_skill_lv_8", 0], ["main_skill_lv_9", 0], ["name", "巴西利斯克‧阿洛斯"], ["physical_critical", 0], ["physical_penetrate", 0], ["promotion_level", 1], ["rarity", 1], ["resist_status_id", 300000022], ["resist_variation_id", 0], ["union_burst_level", 100], ["unique_equipment_flag_1", 0], ["unit_id", 320200], ["virtual_hp", 0], ["wave_energy_recovery", 0], ["wave_hp_recovery", 0]],
+          [["accuracy", 50], ["atk", 0], ["break_durability", 0], ["def", 50], ["dodge", 0], ["enemy_id", 660072201], ["energy_recovery_rate", 30], ["energy_reduce_rate", 0], ["ex_skill_lv_1", 0], ["ex_skill_lv_2", 0], ["ex_skill_lv_3", 0], ["ex_skill_lv_4", 0], ["ex_skill_lv_5", 0], ["hp", 620000], ["hp_recovery_rate", 0], ["level", 50], ["life_steal", 0], ["magic_critical", 0], ["magic_def", 50], ["magic_penetrate", 0], ["magic_str", 250], ["main_skill_lv_1", 500], ["main_skill_lv_10", 0], ["main_skill_lv_2", 500], ["main_skill_lv_3", 0], ["main_skill_lv_4", 200], ["main_skill_lv_5", 0], ["main_skill_lv_6", 0], ["main_skill_lv_7", 0], ["main_skill_lv_8", 0], ["main_skill_lv_9", 0], ["name", "巴西利斯克‧阿洛斯"], ["physical_critical", 0], ["physical_penetrate", 0], ["promotion_level", 1], ["rarity", 1], ["resist_status_id", 300000022], ["resist_variation_id", 0], ["union_burst_level", 500], ["unique_equipment_flag_1", 0], ["unit_id", 320201], ["virtual_hp", 0], ["wave_energy_recovery", 0], ["wave_hp_recovery", 0]]
+        ]
+      }
+    },
+    "unit_skill_data": {
+      "data_changes": {
+        "modified": [
+          {
+            "id": 321400,
+            "old": [["ex_skill_1", 0], ["ex_skill_2", 0], ["ex_skill_3", 0], ["ex_skill_4", 0], ["ex_skill_5", 0], ["ex_skill_evolution_1", 0], ["ex_skill_evolution_2", 0], ["ex_skill_evolution_3", 0], ["ex_skill_evolution_4", 0], ["ex_skill_evolution_5", 0], ["main_skill_1", 3214032], ["main_skill_10", 3214041], ["main_skill_2", 3214033], ["main_skill_3", 3214004], ["main_skill_4", 3214005], ["main_skill_5", 3214006], ["main_skill_6", 3214007], ["main_skill_7", 3214038], ["main_skill_8", 3214039], ["main_skill_9", 3214040], ["main_skill_evolution_1", 0], ["main_skill_evolution_2", 0], ["sp_skill_1", 0], ["sp_skill_2", 0], ["sp_skill_3", 0], ["sp_skill_4", 0], ["sp_skill_5", 0], ["sp_skill_evolution_1", 0], ["sp_skill_evolution_2", 0], ["sp_union_burst", 0], ["union_burst", 3214031], ["union_burst_evolution", 0], ["unit_id", 321400]],
+            "new": [["ex_skill_1", 0], ["ex_skill_2", 0], ["ex_skill_3", 0], ["ex_skill_4", 0], ["ex_skill_5", 0], ["ex_skill_evolution_1", 0], ["ex_skill_evolution_2", 0], ["ex_skill_evolution_3", 0], ["ex_skill_evolution_4", 0], ["ex_skill_evolution_5", 0], ["main_skill_1", 3214002], ["main_skill_10", 3214011], ["main_skill_2", 3214033], ["main_skill_3", 3214004], ["main_skill_4", 3214005], ["main_skill_5", 3214006], ["main_skill_6", 3214007], ["main_skill_7", 3214008], ["main_skill_8", 3214039], ["main_skill_9", 3214010], ["main_skill_evolution_1", 0], ["main_skill_evolution_2", 0], ["sp_skill_1", 0], ["sp_skill_2", 0], ["sp_skill_3", 0], ["sp_skill_4", 0], ["sp_skill_5", 0], ["sp_skill_evolution_1", 0], ["sp_skill_evolution_2", 0], ["sp_union_burst", 0], ["union_burst", 3214001], ["union_burst_evolution", 0], ["unit_id", 321400]]
+          }
+        ]
+      }
+    },
+    "wave_group_data": {
+      "data_changes": {
+        "added": [
+          [["drop_gold_1", 0], ["drop_gold_2", 0], ["drop_gold_3", 0], ["drop_gold_4", 0], ["drop_gold_5", 0], ["drop_reward_id_1", 0], ["drop_reward_id_2", 0], ["drop_reward_id_3", 0], ["drop_reward_id_4", 0], ["drop_reward_id_5", 0], ["enemy_id_1", 660072201], ["enemy_id_2", 0], ["enemy_id_3", 0], ["enemy_id_4", 0], ["enemy_id_5", 0], ["guest_enemy_id", 0], ["guest_lane", 0], ["id", 660072002], ["odds", 100], ["wave_group_id", 660072002]],
+          [["drop_gold_1", 0], ["drop_gold_2", 0], ["drop_gold_3", 0], ["drop_gold_4", 0], ["drop_gold_5", 0], ["drop_reward_id_1", 0], ["drop_reward_id_2", 0], ["drop_reward_id_3", 0], ["drop_reward_id_4", 0], ["drop_reward_id_5", 0], ["enemy_id_1", 660072301], ["enemy_id_2", 0], ["enemy_id_3", 0], ["enemy_id_4", 0], ["enemy_id_5", 0], ["guest_enemy_id", 0], ["guest_lane", 0], ["id", 660072003], ["odds", 100], ["wave_group_id", 660072003]],
+          [["drop_gold_1", 0], ["drop_gold_2", 0], ["drop_gold_3", 0], ["drop_gold_4", 0], ["drop_gold_5", 0], ["drop_reward_id_1", 0], ["drop_reward_id_2", 0], ["drop_reward_id_3", 0], ["drop_reward_id_4", 0], ["drop_reward_id_5", 0], ["enemy_id_1", 660072101], ["enemy_id_2", 0], ["enemy_id_3", 0], ["enemy_id_4", 0], ["enemy_id_5", 0], ["guest_enemy_id", 0], ["guest_lane", 0], ["id", 660072001], ["odds", 100], ["wave_group_id", 660072001]]
+        ]
+      }
+    }
+  }
+}
