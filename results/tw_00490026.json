@@ -1,0 +1,64 @@
+{
+  "tables": {
+    "only_in_old_db": [],
+    "only_in_new_db": []
+  },
+  "table_changes": {
+    "skill_data": {
+      "data_changes": {
+        "added": [
+          [["action_1", 181001201], ["action_10", 181001210], ["action_2", 181001202], ["action_3", 181001203], ["action_4", 181001204], ["action_5", 181001205], ["action_6", 181001206], ["action_7", 181001207], ["action_8", 181001208], ["action_9", 181001209], ["boss_ub_cool_time", 0.0], ["depend_action_1", 0], ["depend_action_10", 0], ["depend_action_2", 0], ["depend_action_3", 0], ["depend_action_4", 0], ["depend_action_5", 0], ["depend_action_6", 0], ["depend_action_7", 0], ["depend_action_8", 0], ["depend_action_9", 0], ["description", "對面前的１名敵方角色造成２次會隨著【友情的魔印】的數量而增加傷害的小幅度魔法傷害，當【友情的魔印】為40個，追加造成大幅度的魔法傷害。大幅度提升自身的魔法攻擊力與魔法暴擊率，小幅度提升魔法攻擊暴擊時的傷害，並小幅度恢復ＴＰ。"], ["icon_type", 2002], ["name", "摯友連鎖+"], ["skill_area_width", 0], ["skill_cast_time", 1.59], ["skill_id", 1810012], ["skill_type", 0]]
+        ]
+      }
+    },
+    "unique_equip_enhance_rate": {
+      "data_changes": {
+        "added": [
+          [["accuracy", 0.0], ["atk", 0.0], ["def", 0.45], ["dodge", 0.0], ["energy_recovery_rate", 0.05], ["energy_reduce_rate", 0.0], ["equipment_id", 138101], ["hp", 0.0], ["hp_recovery_rate", 0.0], ["id", 1381010], ["life_steal", 0.0], ["magic_critical", 0.0], ["magic_def", 0.45], ["magic_penetrate", 0.0], ["magic_str", 0.0], ["max_lv", 260], ["min_lv", 2], ["physical_critical", 0.0], ["physical_penetrate", 0.0], ["wave_energy_recovery", 0.0], ["wave_hp_recovery", 0.0]],
+          [["accuracy", 0.0], ["atk", 0.0], ["def", 0.5], ["dodge", 0.0], ["energy_recovery_rate", 0.0], ["energy_reduce_rate", 0.0], ["equipment_id", 138101], ["hp", 0.0], ["hp_recovery_rate", 0.0], ["id", 1381011], ["life_steal", 0.0], ["magic_critical", 0.0], ["magic_def", 0.45], ["magic_penetrate", 0.0], ["magic_str", 0.0], ["max_lv", -1], ["min_lv", 261], ["physical_critical", 0.0], ["physical_penetrate", 0.0], ["wave_energy_recovery", 0.0], ["wave_hp_recovery", 0.0]]
+        ]
+      }
+    },
+    "unit_unique_equipment": {
+      "data_changes": {
+        "added": [
+          [["equip_id", 138101], ["equip_slot", 1], ["unit_id", 181001]]
+        ]
+      }
+    },
+    "skill_action": {
+      "data_changes": {
+        "added": [
+          [["action_detail_1", 2], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 181001202], ["action_type", 1], ["action_value_1", 6.25], ["action_value_2", 6.25], ["action_value_3", 0.5], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "對敵方單體造成{0}的魔法傷害"], ["level_up_disp", "魔法傷害+{0}"], ["target_area", 1], ["target_assignment", 1], ["target_count", 1], ["target_number", 0], ["target_range", 2160], ["target_type", 3]],
+          [["action_detail_1", 6126], ["action_detail_2", 181001210], ["action_detail_3", 0], ["action_id", 181001209], ["action_type", 28], ["action_value_1", 0.0], ["action_value_2", 1.0], ["action_value_3", 40.0], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", ""], ["level_up_disp", ""], ["target_area", 2], ["target_assignment", 2], ["target_count", 1], ["target_number", 0], ["target_range", 2160], ["target_type", 7]],
+          [["action_detail_1", 120], ["action_detail_2", 1], ["action_detail_3", 0], ["action_id", 181001207], ["action_type", 10], ["action_value_1", 1.0], ["action_value_2", 6.0], ["action_value_3", 0.0], ["action_value_4", 12.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "提升自身{0}％的魔法暴擊傷害"], ["level_up_disp", ""], ["target_area", 1], ["target_assignment", 2], ["target_count", 1], ["target_number", 0], ["target_range", 2160], ["target_type", 7]],
+          [["action_detail_1", 2], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 181001204], ["action_type", 1], ["action_value_1", 6.25], ["action_value_2", 6.25], ["action_value_3", 0.5], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "對敵方單體造成{0}的魔法傷害"], ["level_up_disp", "魔法傷害+{0}"], ["target_area", 1], ["target_assignment", 1], ["target_count", 1], ["target_number", 0], ["target_range", 2160], ["target_type", 3]],
+          [["action_detail_1", 30], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 181001205], ["action_type", 10], ["action_value_1", 1.0], ["action_value_2", 30.0], ["action_value_3", 30.0], ["action_value_4", 12.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "提升自身{0}的魔法攻擊力"], ["level_up_disp", "魔法攻擊力提升+{0}"], ["target_area", 1], ["target_assignment", 2], ["target_count", 1], ["target_number", 0], ["target_range", 2160], ["target_type", 7]],
+          [["action_detail_1", 181001204], ["action_detail_2", 3], ["action_detail_3", 0], ["action_id", 181001203], ["action_type", 26], ["action_value_1", 2126.0], ["action_value_2", 0.09], ["action_value_3", 0.0], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", ""], ["level_up_disp", ""], ["target_area", 1], ["target_assignment", 2], ["target_count", 1], ["target_number", 0], ["target_range", 0], ["target_type", 7]],
+          [["action_detail_1", 2], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 181001210], ["action_type", 1], ["action_value_1", 37.5], ["action_value_2", 37.5], ["action_value_3", 3.0], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "當友情的魔印為40個時，對敵方單體造成{0}的魔法傷害"], ["level_up_disp", "魔法傷害+{0}"], ["target_area", 1], ["target_assignment", 1], ["target_count", 1], ["target_number", 0], ["target_range", 2160], ["target_type", 3]],
+          [["action_detail_1", 1], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 181001208], ["action_type", 16], ["action_value_1", 90.0], ["action_value_2", 0.0], ["action_value_3", 0.0], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "回復自身{0}的TP"], ["level_up_disp", ""], ["target_area", 1], ["target_assignment", 2], ["target_count", 1], ["target_number", 0], ["target_range", 2160], ["target_type", 7]],
+          [["action_detail_1", 181001202], ["action_detail_2", 3], ["action_detail_3", 0], ["action_id", 181001201], ["action_type", 26], ["action_value_1", 2126.0], ["action_value_2", 0.09], ["action_value_3", 0.0], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", ""], ["level_up_disp", ""], ["target_area", 1], ["target_assignment", 2], ["target_count", 1], ["target_number", 0], ["target_range", 0], ["target_type", 7]],
+          [["action_detail_1", 70], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 181001206], ["action_type", 10], ["action_value_1", 1.0], ["action_value_2", 80.0], ["action_value_3", 0.0], ["action_value_4", 12.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "提升自己{0}的魔法暴擊"], ["level_up_disp", ""], ["target_area", 1], ["target_assignment", 2], ["target_count", 1], ["target_number", 0], ["target_range", 2160], ["target_type", 7]]
+        ]
+      }
+    },
+    "unique_equipment_data": {
+      "data_changes": {
+        "added": [
+          [["accuracy", 0.0], ["atk", 0.0], ["craft_flg", 1], ["def", 9.0], ["description", "安與古蕾婭，以兩人羈絆燃起的\\n炎之魔槍。只要互相心存彼此，\\n烈炎就不會熄滅。銳利的槍尖\\n能輕易貫穿任何阻礙。"], ["dodge", 0.0], ["enable_donation", 0], ["energy_recovery_rate", 1.0], ["energy_reduce_rate", 0.0], ["equipment_enhance_point", 0], ["equipment_id", 138101], ["equipment_name", "烈炎友情之槍"], ["hp", 0.0], ["hp_recovery_rate", 0.0], ["life_steal", 0.0], ["magic_critical", 0.0], ["magic_def", 9.0], ["magic_penetrate", 0.0], ["magic_str", 0.0], ["physical_critical", 0.0], ["physical_penetrate", 0.0], ["promotion_level", 98], ["require_level", 1], ["sale_price", 0], ["wave_energy_recovery", 0.0], ["wave_hp_recovery", 0.0]]
+        ]
+      }
+    },
+    "unit_skill_data": {
+      "data_changes": {
+        "modified": [
+          {
+            "id": 181001,
+            "old": [["ex_skill_1", 1810501], ["ex_skill_2", 0], ["ex_skill_3", 0], ["ex_skill_4", 0], ["ex_skill_5", 0], ["ex_skill_evolution_1", 1810511], ["ex_skill_evolution_2", 0], ["ex_skill_evolution_3", 0], ["ex_skill_evolution_4", 0], ["ex_skill_evolution_5", 0], ["main_skill_1", 1810002], ["main_skill_10", 0], ["main_skill_2", 1810003], ["main_skill_3", 0], ["main_skill_4", 0], ["main_skill_5", 0], ["main_skill_6", 0], ["main_skill_7", 0], ["main_skill_8", 0], ["main_skill_9", 0], ["main_skill_evolution_1", 0], ["main_skill_evolution_2", 0], ["sp_skill_1", 0], ["sp_skill_2", 0], ["sp_skill_3", 0], ["sp_skill_4", 0], ["sp_skill_5", 0], ["sp_skill_evolution_1", 0], ["sp_skill_evolution_2", 0], ["sp_union_burst", 0], ["union_burst", 1810001], ["union_burst_evolution", 0], ["unit_id", 181001]],
+            "new": [["ex_skill_1", 1810501], ["ex_skill_2", 0], ["ex_skill_3", 0], ["ex_skill_4", 0], ["ex_skill_5", 0], ["ex_skill_evolution_1", 1810511], ["ex_skill_evolution_2", 0], ["ex_skill_evolution_3", 0], ["ex_skill_evolution_4", 0], ["ex_skill_evolution_5", 0], ["main_skill_1", 1810002], ["main_skill_10", 0], ["main_skill_2", 1810003], ["main_skill_3", 0], ["main_skill_4", 0], ["main_skill_5", 0], ["main_skill_6", 0], ["main_skill_7", 0], ["main_skill_8", 0], ["main_skill_9", 0], ["main_skill_evolution_1", 1810012], ["main_skill_evolution_2", 0], ["sp_skill_1", 0], ["sp_skill_2", 0], ["sp_skill_3", 0], ["sp_skill_4", 0], ["sp_skill_5", 0], ["sp_skill_evolution_1", 0], ["sp_skill_evolution_2", 0], ["sp_union_burst", 0], ["union_burst", 1810001], ["union_burst_evolution", 0], ["unit_id", 181001]]
+          }
+        ]
+      }
+    }
+  }
+}
