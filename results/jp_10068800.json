@@ -1,0 +1,187 @@
+{
+  "tables": {
+    "only_in_old_db": [],
+    "only_in_new_db": []
+  },
+  "table_changes": {
+    "login_bonus_detail": {
+      "data_changes": {
+        "added": [
+          [["bg_id", 0], ["character_id", 0], ["character_name", ""], ["count", 5], ["description", ""], ["id", 504], ["login_bonus_id", 40020], ["reward_id", 91002], ["reward_num", 100], ["reward_type", 8], ["voice_id", 0]],
+          [["bg_id", 0], ["character_id", 0], ["character_name", ""], ["count", 4], ["description", ""], ["id", 503], ["login_bonus_id", 40020], ["reward_id", 91002], ["reward_num", 100], ["reward_type", 8], ["voice_id", 0]],
+          [["bg_id", 0], ["character_id", 0], ["character_name", ""], ["count", 3], ["description", ""], ["id", 502], ["login_bonus_id", 40020], ["reward_id", 91002], ["reward_num", 100], ["reward_type", 8], ["voice_id", 0]],
+          [["bg_id", 0], ["character_id", 0], ["character_name", ""], ["count", 2], ["description", ""], ["id", 501], ["login_bonus_id", 40020], ["reward_id", 91002], ["reward_num", 100], ["reward_type", 8], ["voice_id", 0]],
+          [["bg_id", 0], ["character_id", 0], ["character_name", ""], ["count", 1], ["description", ""], ["id", 500], ["login_bonus_id", 40020], ["reward_id", 29001], ["reward_num", 1], ["reward_type", 2], ["voice_id", 0]]
+        ]
+      }
+    },
+    "emblem_condition_description": {
+      "data_changes": {
+        "added": [
+          [["condition_description", "バースデー称号を受け取る"], ["emblem_id", 11150008], ["icon_type", 1003], ["visible_type", 1]]
+        ]
+      }
+    },
+    "story_character_mask": {
+      "data_changes": {
+        "added": [
+          [["chara_id", 139412], ["offset", 0.0], ["size", 800.0], ["softness", 50.0]],
+          [["chara_id", 139212], ["offset", 0.0], ["size", 800.0], ["softness", 50.0]],
+          [["chara_id", 139312], ["offset", 0.0], ["size", 800.0], ["softness", 50.0]],
+          [["chara_id", 139211], ["offset", 0.0], ["size", 800.0], ["softness", 50.0]],
+          [["chara_id", 139311], ["offset", -10.0], ["size", 820.0], ["softness", 70.0]],
+          [["chara_id", 139411], ["offset", 0.0], ["size", 800.0], ["softness", 50.0]]
+        ]
+      }
+    },
+    "emblem_data": {
+      "data_changes": {
+        "added": [
+          [["description_mission_id", 0], ["disp_oder", 2150008], ["emblem_id", 11150008], ["emblem_name", "むっつり大和撫子"], ["end_time", "2030/01/01 23:59:59"], ["event_emblem", 1], ["start_time", "2018/01/01 15:00:00"], ["type", 10]]
+        ]
+      }
+    },
+    "campaign_freegacha": {
+      "data_changes": {
+        "added": [
+          [["campaign_id", 44], ["end_time", "2026/05/05 4:59:59"], ["freegacha_1", 0], ["freegacha_10", 1], ["id", 44], ["relation_count", 0], ["relation_id", 0], ["start_time", "2026/04/30 5:00:00"], ["stock_10_flag", 2]]
+        ]
+      }
+    },
+    "unit_data": {
+      "data_changes": {
+        "modified": [
+          {
+            "id": 139101,
+            "old": [["atk_type", 2], ["comment", "【魔法】後衛で、天の星を瞳に映し、仲間と進む黒猫娘。\\n敵全体を激烈に弱体化させながら、【千里真眼】状態時に\\n未来を視通す能力で仲間をあらゆる脅威から遠ざける。"], ["cutin1_star6", 139101], ["cutin2_star6", 0], ["cutin_1", 139101], ["cutin_2", 0], ["end_time", "2026/04/30 11:59:59"], ["exskill_display", 0], ["guild_id", 0], ["is_collab", 0], ["is_limited", 1], ["kana", "きゃる"], ["motion_type", 0], ["move_speed", 450], ["normal_atk_cast_time", 2.09], ["only_disp_owned", 0], ["original_unit_id", 0], ["prefab_id", 139101], ["prefab_id_battle", 0], ["rarity", 3], ["se_type", 0], ["search_area_width", 770], ["start_time", "2026/04/22 12:00:00"], ["unit_id", 139101], ["unit_name", "キャル（覇瞳天星）"]],
+            "new": [["atk_type", 2], ["comment", "【魔法】後衛で、天の星を瞳に映し、仲間と進む黒猫娘。\\n敵全体を激烈に弱体化させながら、【千里真眼】状態時に\\n未来を視通す能力で仲間をあらゆる脅威から遠ざける。"], ["cutin1_star6", 139101], ["cutin2_star6", 0], ["cutin_1", 139101], ["cutin_2", 0], ["end_time", "2026/04/30 11:59:59"], ["exskill_display", 0], ["guild_id", 0], ["is_collab", 0], ["is_limited", 1], ["kana", "きゃる"], ["motion_type", 0], ["move_speed", 450], ["normal_atk_cast_time", 2.09], ["only_disp_owned", 0], ["original_unit_id", 0], ["prefab_id", 139101], ["prefab_id_battle", 0], ["rarity", 3], ["se_type", 0], ["search_area_width", 770], ["start_time", "2026/04/22 12:00:00"], ["unit_id", 139101], ["unit_name", "Kyaru (Hadou Tensei)"]]
+          }
+        ]
+      }
+    },
+    "seven_schedule": {
+      "data_changes": {
+        "added": [
+          [["end_time", "2030/12/31 12:00:00"], ["event_id", 10216], ["event_type", 1], ["gacha_id", 0], ["gacha_ticket_id", 0], ["mission_group_id", 0], ["schedule_id", 1017], ["start_time", "2030/12/31 12:00:00"], ["teaser_time", "2026/04/25 20:00:00"]]
+        ]
+      }
+    },
+    "item_data": {
+      "data_changes": {
+        "added": [
+          [["description", "マホ（ガルパン）ピックアップガチャを10回引くことができるガチャチケット。"], ["end_time", "2026/05/22 11:59:59"], ["gojuon_order", 0], ["item_id", 29001], ["item_name", "マホ（ガルパン）ピックアップガチャ専用10回ガチャチケット"], ["item_type", 8], ["limit_num", 999], ["price", 0], ["promotion_level", 1], ["sell_check_disp", 0], ["start_time", "2026/04/30 05:00:00"], ["value", 0]]
+        ]
+      }
+    },
+    "unit_profile": {
+      "data_changes": {
+        "modified": [
+          {
+            "id": 139101,
+            "old": [["age", "14"], ["birth_day", "2"], ["birth_month", "9"], ["blood_type", "A"], ["catch_copy", "行き倒れの謎のネコミミ魔法使い"], ["favorite", "猫と遊ぶ"], ["guild", "美食殿"], ["guild_id", "1"], ["height", "152"], ["race", "獣人族"], ["self_text", "なに、モタモタしてんのよ\\n仕方ないから、あたしが手伝ってあげるわ\\nいい？　感謝しなさいよね！"], ["unit_id", 139101], ["unit_name", "キャル（覇瞳天星）"], ["voice", "立花理香"], ["voice_id", 0], ["weight", "39"]],
+            "new": [["age", "14"], ["birth_day", "2"], ["birth_month", "9"], ["blood_type", "A"], ["catch_copy", "行き倒れの謎のネコミミ魔法使い"], ["favorite", "猫と遊ぶ"], ["guild", "美食殿"], ["guild_id", "1"], ["height", "152"], ["race", "獣人族"], ["self_text", "なに、モタモタしてんのよ\\n仕方ないから、あたしが手伝ってあげるわ\\nいい？　感謝しなさいよね！"], ["unit_id", 139101], ["unit_name", "Kyaru (Hadou Tensei)"], ["voice", "立花理香"], ["voice_id", 0], ["weight", "39"]]
+          }
+        ]
+      }
+    },
+    "daily_mission_data": {
+      "data_changes": {
+        "added": [
+          [["category_icon", 106], ["condition_num", 1], ["condition_value_1", 50000], ["condition_value_2", 45959], ["condition_value_3", 0], ["daily_mission_id", 18001127], ["description", "ゲームにログインしよう"], ["disp_group", 1], ["end_time", "2026/05/23 04:59:59"], ["max_level", 0], ["min_level", 0], ["mission_condition", 8001], ["mission_reward_id", 18001008], ["start_time", "2026/04/30 05:00:00"], ["system_id", 0], ["title_color_id", 0], ["visible_flag", 1]],
+          [["category_icon", 106], ["condition_num", 1], ["condition_value_1", 50000], ["condition_value_2", 45959], ["condition_value_3", 0], ["daily_mission_id", 18001128], ["description", "ゲームにログインしよう"], ["disp_group", 1], ["end_time", "2030/02/15 04:59:59"], ["max_level", 0], ["min_level", 0], ["mission_condition", 8001], ["mission_reward_id", 18001007], ["start_time", "2026/05/23 05:00:00"], ["system_id", 0], ["title_color_id", 0], ["visible_flag", 1]]
+        ],
+        "modified": [
+          {
+            "id": 18001126,
+            "old": [["category_icon", 106], ["condition_num", 1], ["condition_value_1", 50000], ["condition_value_2", 45959], ["condition_value_3", 0], ["daily_mission_id", 18001126], ["description", "ゲームにログインしよう"], ["disp_group", 1], ["end_time", "2030/02/15 04:59:59"], ["max_level", 0], ["min_level", 0], ["mission_condition", 8001], ["mission_reward_id", 18001007], ["start_time", "2026/03/09 05:00:00"], ["system_id", 0], ["title_color_id", 0], ["visible_flag", 1]],
+            "new": [["category_icon", 106], ["condition_num", 1], ["condition_value_1", 50000], ["condition_value_2", 45959], ["condition_value_3", 0], ["daily_mission_id", 18001126], ["description", "ゲームにログインしよう"], ["disp_group", 1], ["end_time", "2026/04/30 04:59:59"], ["max_level", 0], ["min_level", 0], ["mission_condition", 8001], ["mission_reward_id", 18001007], ["start_time", "2026/03/09 05:00:00"], ["system_id", 0], ["title_color_id", 0], ["visible_flag", 1]]
+          }
+        ]
+      }
+    },
+    "seven_story_data": {
+      "data_changes": {
+        "added": [
+          [["can_bookmark", 0], ["contents_type", 0], ["direction_type", 0], ["event_id", 10216], ["lock_all_text", 0], ["reward_id_1", 0], ["reward_id_2", 0], ["reward_id_3", 0], ["reward_type_1", 0], ["reward_type_2", 0], ["reward_type_3", 0], ["reward_value_1", 0], ["reward_value_2", 0], ["reward_value_3", 0], ["skip_type", 0], ["story_id", 5216051], ["story_index", 0], ["story_type", 3], ["sub_title", "予告"], ["title", "プリンセス＆パンツァー！　\\nキミとつながる作戦です！ "]],
+          [["can_bookmark", 0], ["contents_type", 0], ["direction_type", 0], ["event_id", 10216], ["lock_all_text", 0], ["reward_id_1", 0], ["reward_id_2", 0], ["reward_id_3", 0], ["reward_type_1", 0], ["reward_type_2", 0], ["reward_type_3", 0], ["reward_value_1", 0], ["reward_value_2", 0], ["reward_value_3", 0], ["skip_type", 0], ["story_id", 5216052], ["story_index", 0], ["story_type", 4], ["sub_title", ""], ["title", "プリンセス＆パンツァー！　\\nキミとつながる作戦です！ "]]
+        ]
+      }
+    },
+    "campaign_freegacha_data": {
+      "data_changes": {
+        "added": [
+          [["campaign_id", 44], ["gacha_id", 50444], ["id", 160]]
+        ]
+      }
+    },
+    "campaign_schedule": {
+      "data_changes": {
+        "added": [
+          [["beginner_id", 0], ["campaign_category", 31], ["campaign_type", 1], ["duplication_order", 0], ["end_time", "2026/05/08 04:59:59"], ["icon_image", 30], ["id", 3362], ["level_id", 0], ["lv_from", 331], ["lv_to", -1], ["shiori_group_id", 0], ["start_time", "2026/04/30 05:00:00"], ["system_id", 101], ["value", 4000.0]],
+          [["beginner_id", 0], ["campaign_category", 41], ["campaign_type", 3], ["duplication_order", 0], ["end_time", "2026/05/08 04:59:59"], ["icon_image", 43], ["id", 5134], ["level_id", 0], ["lv_from", 1], ["lv_to", 330], ["shiori_group_id", 0], ["start_time", "2026/04/30 05:00:00"], ["system_id", 101], ["value", 3000.0]],
+          [["beginner_id", 0], ["campaign_category", 41], ["campaign_type", 3], ["duplication_order", 0], ["end_time", "2026/05/15 04:59:59"], ["icon_image", 43], ["id", 5136], ["level_id", 0], ["lv_from", 1], ["lv_to", 330], ["shiori_group_id", 0], ["start_time", "2026/05/08 05:00:00"], ["system_id", 101], ["value", 3000.0]],
+          [["beginner_id", 0], ["campaign_category", 41], ["campaign_type", 1], ["duplication_order", 0], ["end_time", "2026/05/08 04:59:59"], ["icon_image", 40], ["id", 3363], ["level_id", 0], ["lv_from", 331], ["lv_to", -1], ["shiori_group_id", 0], ["start_time", "2026/04/30 05:00:00"], ["system_id", 101], ["value", 3000.0]],
+          [["beginner_id", 0], ["campaign_category", 621], ["campaign_type", 1], ["duplication_order", 0], ["end_time", "2026/05/23 04:59:59"], ["icon_image", 30], ["id", 3379], ["level_id", 0], ["lv_from", 1], ["lv_to", -1], ["shiori_group_id", 0], ["start_time", "2026/05/15 05:00:00"], ["system_id", 130], ["value", 2000.0]],
+          [["beginner_id", 0], ["campaign_category", 44], ["campaign_type", 1], ["duplication_order", 0], ["end_time", "2026/05/08 04:59:59"], ["icon_image", 40], ["id", 3367], ["level_id", 0], ["lv_from", 1], ["lv_to", -1], ["shiori_group_id", 0], ["start_time", "2026/04/30 05:00:00"], ["system_id", 103], ["value", 3000.0]],
+          [["beginner_id", 0], ["campaign_category", 38], ["campaign_type", 1], ["duplication_order", 0], ["end_time", "2026/05/08 04:59:59"], ["icon_image", 30], ["id", 3365], ["level_id", 0], ["lv_from", 1], ["lv_to", -1], ["shiori_group_id", 0], ["start_time", "2026/04/30 05:00:00"], ["system_id", 112], ["value", 3000.0]],
+          [["beginner_id", 0], ["campaign_category", 37], ["campaign_type", 1], ["duplication_order", 0], ["end_time", "2026/05/08 04:59:59"], ["icon_image", 30], ["id", 3364], ["level_id", 0], ["lv_from", 1], ["lv_to", -1], ["shiori_group_id", 0], ["start_time", "2026/04/30 05:00:00"], ["system_id", 109], ["value", 3000.0]],
+          [["beginner_id", 0], ["campaign_category", 41], ["campaign_type", 3], ["duplication_order", 0], ["end_time", "2032/12/31 04:59:59"], ["icon_image", 43], ["id", 5140], ["level_id", 0], ["lv_from", 1], ["lv_to", 330], ["shiori_group_id", 0], ["start_time", "2026/05/23 05:00:00"], ["system_id", 101], ["value", 3000.0]],
+          [["beginner_id", 0], ["campaign_category", 39], ["campaign_type", 1], ["duplication_order", 0], ["end_time", "2026/05/15 04:59:59"], ["icon_image", 30], ["id", 3372], ["level_id", 0], ["lv_from", 331], ["lv_to", -1], ["shiori_group_id", 0], ["start_time", "2026/05/08 05:00:00"], ["system_id", 111], ["value", 2000.0]],
+          [["beginner_id", 0], ["campaign_category", 662], ["campaign_type", 1], ["duplication_order", 0], ["end_time", "2026/05/23 04:59:59"], ["icon_image", 90], ["id", 3378], ["level_id", 0], ["lv_from", 1], ["lv_to", -1], ["shiori_group_id", 0], ["start_time", "2026/05/15 05:00:00"], ["system_id", 130], ["value", 5.0]],
+          [["beginner_id", 0], ["campaign_category", 31], ["campaign_type", 3], ["duplication_order", 0], ["end_time", "2026/05/08 04:59:59"], ["icon_image", 33], ["id", 5133], ["level_id", 0], ["lv_from", 1], ["lv_to", 330], ["shiori_group_id", 0], ["start_time", "2026/04/30 05:00:00"], ["system_id", 101], ["value", 4000.0]],
+          [["beginner_id", 0], ["campaign_category", 31], ["campaign_type", 3], ["duplication_order", 0], ["end_time", "2026/05/23 04:59:59"], ["icon_image", 33], ["id", 5137], ["level_id", 0], ["lv_from", 1], ["lv_to", 330], ["shiori_group_id", 0], ["start_time", "2026/05/15 05:00:00"], ["system_id", 101], ["value", 4000.0]],
+          [["beginner_id", 0], ["campaign_category", 41], ["campaign_type", 1], ["duplication_order", 0], ["end_time", "2026/05/23 04:59:59"], ["icon_image", 40], ["id", 3376], ["level_id", 0], ["lv_from", 331], ["lv_to", -1], ["shiori_group_id", 0], ["start_time", "2026/05/15 05:00:00"], ["system_id", 101], ["value", 3000.0]],
+          [["beginner_id", 0], ["campaign_category", 76], ["campaign_type", 1], ["duplication_order", 0], ["end_time", "2026/05/15 04:59:59"], ["icon_image", 90], ["id", 3374], ["level_id", 0], ["lv_from", 1], ["lv_to", -1], ["shiori_group_id", 0], ["start_time", "2026/05/08 05:00:00"], ["system_id", 111], ["value", 3.0]],
+          [["beginner_id", 0], ["campaign_category", 49], ["campaign_type", 1], ["duplication_order", 0], ["end_time", "2026/05/15 04:59:59"], ["icon_image", 40], ["id", 3373], ["level_id", 0], ["lv_from", 331], ["lv_to", -1], ["shiori_group_id", 0], ["start_time", "2026/05/08 05:00:00"], ["system_id", 111], ["value", 2000.0]],
+          [["beginner_id", 0], ["campaign_category", 45], ["campaign_type", 1], ["duplication_order", 0], ["end_time", "2026/05/31 04:59:59"], ["icon_image", 40], ["id", 3377], ["level_id", 0], ["lv_from", 1], ["lv_to", -1], ["shiori_group_id", 0], ["start_time", "2026/05/15 05:00:00"], ["system_id", 104], ["value", 2000.0]],
+          [["beginner_id", 0], ["campaign_category", 41], ["campaign_type", 3], ["duplication_order", 0], ["end_time", "2026/05/23 04:59:59"], ["icon_image", 43], ["id", 5138], ["level_id", 0], ["lv_from", 1], ["lv_to", 330], ["shiori_group_id", 0], ["start_time", "2026/05/15 05:00:00"], ["system_id", 101], ["value", 3000.0]],
+          [["beginner_id", 0], ["campaign_category", 34], ["campaign_type", 1], ["duplication_order", 0], ["end_time", "2026/05/08 04:59:59"], ["icon_image", 30], ["id", 3366], ["level_id", 0], ["lv_from", 1], ["lv_to", -1], ["shiori_group_id", 0], ["start_time", "2026/04/30 05:00:00"], ["system_id", 103], ["value", 3000.0]],
+          [["beginner_id", 0], ["campaign_category", 31], ["campaign_type", 1], ["duplication_order", 0], ["end_time", "2026/05/23 04:59:59"], ["icon_image", 30], ["id", 3375], ["level_id", 0], ["lv_from", 331], ["lv_to", -1], ["shiori_group_id", 0], ["start_time", "2026/05/15 05:00:00"], ["system_id", 101], ["value", 4000.0]],
+          [["beginner_id", 0], ["campaign_category", 32], ["campaign_type", 1], ["duplication_order", 0], ["end_time", "2026/05/15 04:59:59"], ["icon_image", 30], ["id", 3369], ["level_id", 0], ["lv_from", 331], ["lv_to", -1], ["shiori_group_id", 0], ["start_time", "2026/05/08 05:00:00"], ["system_id", 102], ["value", 2000.0]],
+          [["beginner_id", 0], ["campaign_category", 75], ["campaign_type", 1], ["duplication_order", 0], ["end_time", "2026/05/15 04:59:59"], ["icon_image", 90], ["id", 3371], ["level_id", 0], ["lv_from", 1], ["lv_to", -1], ["shiori_group_id", 0], ["start_time", "2026/05/08 05:00:00"], ["system_id", 102], ["value", 3.0]],
+          [["beginner_id", 0], ["campaign_category", 42], ["campaign_type", 1], ["duplication_order", 0], ["end_time", "2026/05/15 04:59:59"], ["icon_image", 40], ["id", 3370], ["level_id", 0], ["lv_from", 331], ["lv_to", -1], ["shiori_group_id", 0], ["start_time", "2026/05/08 05:00:00"], ["system_id", 102], ["value", 2000.0]],
+          [["beginner_id", 0], ["campaign_category", 31], ["campaign_type", 3], ["duplication_order", 0], ["end_time", "2032/12/31 04:59:59"], ["icon_image", 33], ["id", 5139], ["level_id", 0], ["lv_from", 1], ["lv_to", 330], ["shiori_group_id", 0], ["start_time", "2026/05/23 05:00:00"], ["system_id", 101], ["value", 3000.0]],
+          [["beginner_id", 0], ["campaign_category", 31], ["campaign_type", 3], ["duplication_order", 0], ["end_time", "2026/05/15 04:59:59"], ["icon_image", 33], ["id", 5135], ["level_id", 0], ["lv_from", 1], ["lv_to", 330], ["shiori_group_id", 0], ["start_time", "2026/05/08 05:00:00"], ["system_id", 101], ["value", 3000.0]],
+          [["beginner_id", 0], ["campaign_category", 901], ["campaign_type", 1], ["duplication_order", 0], ["end_time", "2026/05/08 11:59:59"], ["icon_image", 170], ["id", 3368], ["level_id", 0], ["lv_from", 1], ["lv_to", -1], ["shiori_group_id", 0], ["start_time", "2026/04/30 12:00:00"], ["system_id", 136], ["value", 1.0]]
+        ],
+        "modified": [
+          {
+            "id": 5127,
+            "old": [["beginner_id", 0], ["campaign_category", 31], ["campaign_type", 3], ["duplication_order", 0], ["end_time", "2032/12/31 04:59:59"], ["icon_image", 33], ["id", 5127], ["level_id", 0], ["lv_from", 1], ["lv_to", 330], ["shiori_group_id", 0], ["start_time", "2026/02/20 5:00:00"], ["system_id", 101], ["value", 3000.0]],
+            "new": [["beginner_id", 0], ["campaign_category", 31], ["campaign_type", 3], ["duplication_order", 0], ["end_time", "2026/04/30 04:59:59"], ["icon_image", 33], ["id", 5127], ["level_id", 0], ["lv_from", 1], ["lv_to", 330], ["shiori_group_id", 0], ["start_time", "2026/02/20 5:00:00"], ["system_id", 101], ["value", 3000.0]]
+          },
+          {
+            "id": 5130,
+            "old": [["beginner_id", 0], ["campaign_category", 41], ["campaign_type", 3], ["duplication_order", 0], ["end_time", "2032/12/31 04:59:59"], ["icon_image", 43], ["id", 5130], ["level_id", 0], ["lv_from", 1], ["lv_to", 330], ["shiori_group_id", 0], ["start_time", "2026/02/20 5:00:00"], ["system_id", 101], ["value", 3000.0]],
+            "new": [["beginner_id", 0], ["campaign_category", 41], ["campaign_type", 3], ["duplication_order", 0], ["end_time", "2026/04/30 04:59:59"], ["icon_image", 43], ["id", 5130], ["level_id", 0], ["lv_from", 1], ["lv_to", 330], ["shiori_group_id", 0], ["start_time", "2026/02/20 5:00:00"], ["system_id", 101], ["value", 3000.0]]
+          }
+        ]
+      }
+    },
+    "mission_reward_data": {
+      "data_changes": {
+        "modified": [
+          {
+            "id": 355,
+            "old": [["end_time", "2030/12/31 23:59:59"], ["id", 355], ["lv_from", 1], ["lv_to", -1], ["mission_reward_id", 18001008], ["reward_id", 93001], ["reward_num", 400], ["reward_type", 6], ["start_time", "2018/01/01 5:00:00"], ["unknown_5", 0]],
+            "new": [["end_time", "2030/12/31 23:59:59"], ["id", 355], ["lv_from", 1], ["lv_to", -1], ["mission_reward_id", 18001008], ["reward_id", 93001], ["reward_num", 400], ["reward_type", 6], ["start_time", "2018/01/01 5:00:00"], ["unknown_5", 1]]
+          }
+        ]
+      }
+    },
+    "login_bonus_data": {
+      "data_changes": {
+        "added": [
+          [["adv_play_type", 0], ["bg_id", 40020], ["count_num", 5], ["count_type", 0], ["end_time", "2026/05/22 4:59:59"], ["login_bonus_id", 40020], ["login_bonus_type", 4], ["name", "ガルパンコラボ記念 ログインキャンペーン その1"], ["odds_group_id", 0], ["stamp_id", 2], ["start_time", "2026/04/30 5:00:00"]]
+        ],
+        "modified": [
+          {
+            "id": 40019,
+            "old": [["adv_play_type", 0], ["bg_id", 40019], ["count_num", 8], ["count_type", 0], ["end_time", "2026/03/16 4:59:59"], ["login_bonus_id", 40019], ["login_bonus_type", 4], ["name", "コネクトRANK応援 特別ログインボーナス"], ["odds_group_id", 0], ["stamp_id", 3], ["start_time", "2026/03/01 5:00:00"]],
+            "new": [["adv_play_type", 0], ["bg_id", 40019], ["count_num", 8], ["count_type", 0], ["end_time", "2026/03/16 5:00:00"], ["login_bonus_id", 40019], ["login_bonus_type", 4], ["name", "コネクトRANK応援 特別ログインボーナス"], ["odds_group_id", 0], ["stamp_id", 3], ["start_time", "2026/03/01 5:00:00"]]
+          }
+        ]
+      }
+    }
+  }
+}
