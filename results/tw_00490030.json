@@ -1,0 +1,172 @@
+{
+  "tables": {
+    "only_in_old_db": [],
+    "only_in_new_db": []
+  },
+  "table_changes": {
+    "skill_action": {
+      "data_changes": {
+        "deleted": [
+          [["action_detail_1", 1040], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 301102404], ["action_type", 10], ["action_value_1", 1.0], ["action_value_2", 0.0], ["action_value_3", 1.0], ["action_value_4", 90.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 1.0], ["class_id", 1], ["description", ""], ["level_up_disp", ""], ["target_area", 3], ["target_assignment", 2], ["target_count", 1], ["target_number", 0], ["target_range", 0], ["target_type", 7]],
+          [["action_detail_1", 7], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 301102401], ["action_type", 17], ["action_value_1", 100.0], ["action_value_2", 0.0], ["action_value_3", 90.0], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", ""], ["level_up_disp", ""], ["target_area", 3], ["target_assignment", 2], ["target_count", 1], ["target_number", 0], ["target_range", 0], ["target_type", 7]],
+          [["action_detail_1", 3], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 301101402], ["action_type", 73], ["action_value_1", 100000.0], ["action_value_2", 0.0], ["action_value_3", 90.0], ["action_value_4", 0.0], ["action_value_5", 850000.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", ""], ["level_up_disp", ""], ["target_area", 3], ["target_assignment", 2], ["target_count", 1], ["target_number", 0], ["target_range", 0], ["target_type", 7]],
+          [["action_detail_1", 7], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 301101401], ["action_type", 17], ["action_value_1", 100.0], ["action_value_2", 0.0], ["action_value_3", 90.0], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", ""], ["level_up_disp", ""], ["target_area", 3], ["target_assignment", 2], ["target_count", 1], ["target_number", 0], ["target_range", 0], ["target_type", 7]],
+          [["action_detail_1", 81], ["action_detail_2", 2], ["action_detail_3", 0], ["action_id", 301102406], ["action_type", 38], ["action_value_1", 20.0], ["action_value_2", 0.0], ["action_value_3", 90.0], ["action_value_4", 0.0], ["action_value_5", 3000.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", ""], ["level_up_disp", ""], ["target_area", 3], ["target_assignment", 1], ["target_count", 1], ["target_number", 0], ["target_range", 3000], ["target_type", 3]],
+          [["action_detail_1", 7], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 301102104], ["action_type", 8], ["action_value_1", 0.0], ["action_value_2", 0.0], ["action_value_3", 5.0], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", ""], ["level_up_disp", ""], ["target_area", 2], ["target_assignment", 1], ["target_count", 99], ["target_number", 0], ["target_range", 140], ["target_type", 3]],
+          [["action_detail_1", 1020], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 301102403], ["action_type", 10], ["action_value_1", 1.0], ["action_value_2", 0.0], ["action_value_3", 1.0], ["action_value_4", 90.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 1.0], ["class_id", 1], ["description", ""], ["level_up_disp", ""], ["target_area", 3], ["target_assignment", 2], ["target_count", 1], ["target_number", 0], ["target_range", 0], ["target_type", 7]],
+          [["action_detail_1", 3], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 301102402], ["action_type", 73], ["action_value_1", 100000.0], ["action_value_2", 0.0], ["action_value_3", 90.0], ["action_value_4", 0.0], ["action_value_5", 850000.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", ""], ["level_up_disp", ""], ["target_area", 3], ["target_assignment", 2], ["target_count", 1], ["target_number", 0], ["target_range", 0], ["target_type", 7]],
+          [["action_detail_1", 1040], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 301101404], ["action_type", 10], ["action_value_1", 1.0], ["action_value_2", 0.0], ["action_value_3", 1.0], ["action_value_4", 90.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 1.0], ["class_id", 1], ["description", ""], ["level_up_disp", ""], ["target_area", 3], ["target_assignment", 2], ["target_count", 1], ["target_number", 0], ["target_range", 0], ["target_type", 7]],
+          [["action_detail_1", 0], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 301102405], ["action_type", 98], ["action_value_1", 0.0], ["action_value_2", 90.0], ["action_value_3", 0.0], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 1.0], ["class_id", 1], ["description", ""], ["level_up_disp", ""], ["target_area", 3], ["target_assignment", 2], ["target_count", 1], ["target_number", 0], ["target_range", 0], ["target_type", 7]],
+          [["action_detail_1", 1020], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 301101403], ["action_type", 10], ["action_value_1", 1.0], ["action_value_2", 0.0], ["action_value_3", 1.0], ["action_value_4", 90.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 1.0], ["class_id", 1], ["description", ""], ["level_up_disp", ""], ["target_area", 3], ["target_assignment", 2], ["target_count", 1], ["target_number", 0], ["target_range", 0], ["target_type", 7]]
+        ],
+        "modified": [
+          {
+            "id": 312502103,
+            "old": [["action_detail_1", 40], ["action_detail_2", 1], ["action_detail_3", 0], ["action_id", 312502103], ["action_type", 10], ["action_value_1", 1.0], ["action_value_2", 0.0], ["action_value_3", 0.004], ["action_value_4", 90.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", ""], ["level_up_disp", ""], ["target_area", 3], ["target_assignment", 2], ["target_count", 1], ["target_number", 0], ["target_range", 0], ["target_type", 7]],
+            "new": [["action_detail_1", 40], ["action_detail_2", 1], ["action_detail_3", 0], ["action_id", 312502103], ["action_type", 10], ["action_value_1", 3.0], ["action_value_2", 0.0], ["action_value_3", 0.001], ["action_value_4", 90.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", ""], ["level_up_disp", ""], ["target_area", 3], ["target_assignment", 2], ["target_count", 1], ["target_number", 0], ["target_range", 0], ["target_type", 7]]
+          },
+          {
+            "id": 301101301,
+            "old": [["action_detail_1", 1], ["action_detail_2", 0], ["action_detail_3", 50], ["action_id", 301101301], ["action_type", 1], ["action_value_1", 60.0], ["action_value_2", 0.6], ["action_value_3", 3.5], ["action_value_4", 0.0012], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", ""], ["level_up_disp", ""], ["target_area", 3], ["target_assignment", 1], ["target_count", 1], ["target_number", 0], ["target_range", 3000], ["target_type", 3]],
+            "new": [["action_detail_1", 1], ["action_detail_2", 0], ["action_detail_3", 100], ["action_id", 301101301], ["action_type", 1], ["action_value_1", 30.0], ["action_value_2", 30.0], ["action_value_3", 1.0], ["action_value_4", 0.00023], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", ""], ["level_up_disp", ""], ["target_area", 3], ["target_assignment", 1], ["target_count", 1], ["target_number", 0], ["target_range", 3000], ["target_type", 3]]
+          },
+          {
+            "id": 301102202,
+            "old": [["action_detail_1", 1], ["action_detail_2", 0], ["action_detail_3", 50], ["action_id", 301102202], ["action_type", 1], ["action_value_1", 20.0], ["action_value_2", 0.2], ["action_value_3", 3.5], ["action_value_4", 0.0002], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", ""], ["level_up_disp", ""], ["target_area", 2], ["target_assignment", 1], ["target_count", 99], ["target_number", 0], ["target_range", 140], ["target_type", 3]],
+            "new": [["action_detail_1", 1], ["action_detail_2", 0], ["action_detail_3", 100], ["action_id", 301102202], ["action_type", 1], ["action_value_1", 16.0], ["action_value_2", 16.0], ["action_value_3", 1.0], ["action_value_4", 0.00011], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", ""], ["level_up_disp", ""], ["target_area", 2], ["target_assignment", 1], ["target_count", 99], ["target_number", 0], ["target_range", 150], ["target_type", 3]]
+          },
+          {
+            "id": 301101202,
+            "old": [["action_detail_1", 1], ["action_detail_2", 0], ["action_detail_3", 50], ["action_id", 301101202], ["action_type", 1], ["action_value_1", 20.0], ["action_value_2", 0.2], ["action_value_3", 3.5], ["action_value_4", 0.0002], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", ""], ["level_up_disp", ""], ["target_area", 2], ["target_assignment", 1], ["target_count", 99], ["target_number", 0], ["target_range", 140], ["target_type", 3]],
+            "new": [["action_detail_1", 1], ["action_detail_2", 0], ["action_detail_3", 100], ["action_id", 301101202], ["action_type", 1], ["action_value_1", 16.0], ["action_value_2", 16.0], ["action_value_3", 1.0], ["action_value_4", 0.00011], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", ""], ["level_up_disp", ""], ["target_area", 2], ["target_assignment", 1], ["target_count", 99], ["target_number", 0], ["target_range", 150], ["target_type", 3]]
+          },
+          {
+            "id": 301102301,
+            "old": [["action_detail_1", 1], ["action_detail_2", 0], ["action_detail_3", 50], ["action_id", 301102301], ["action_type", 1], ["action_value_1", 60.0], ["action_value_2", 0.6], ["action_value_3", 3.5], ["action_value_4", 0.0012], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", ""], ["level_up_disp", ""], ["target_area", 3], ["target_assignment", 1], ["target_count", 1], ["target_number", 0], ["target_range", 3000], ["target_type", 3]],
+            "new": [["action_detail_1", 1], ["action_detail_2", 0], ["action_detail_3", 100], ["action_id", 301102301], ["action_type", 1], ["action_value_1", 30.0], ["action_value_2", 30.0], ["action_value_3", 1.0], ["action_value_4", 0.00023], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", ""], ["level_up_disp", ""], ["target_area", 3], ["target_assignment", 1], ["target_count", 1], ["target_number", 0], ["target_range", 3000], ["target_type", 3]]
+          },
+          {
+            "id": 301101102,
+            "old": [["action_detail_1", 1], ["action_detail_2", 0], ["action_detail_3", 50], ["action_id", 301101102], ["action_type", 1], ["action_value_1", 200.0], ["action_value_2", 2.0], ["action_value_3", 3.5], ["action_value_4", 0.003], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", ""], ["level_up_disp", ""], ["target_area", 2], ["target_assignment", 1], ["target_count", 99], ["target_number", 0], ["target_range", 140], ["target_type", 3]],
+            "new": [["action_detail_1", 1], ["action_detail_2", 0], ["action_detail_3", 100], ["action_id", 301101102], ["action_type", 1], ["action_value_1", 40.0], ["action_value_2", 40.0], ["action_value_3", 1.0], ["action_value_4", 0.00031], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", ""], ["level_up_disp", ""], ["target_area", 2], ["target_assignment", 1], ["target_count", 99], ["target_number", 0], ["target_range", 150], ["target_type", 3]]
+          },
+          {
+            "id": 301101203,
+            "old": [["action_detail_1", 21], ["action_detail_2", 1], ["action_detail_3", 0], ["action_id", 301101203], ["action_type", 10], ["action_value_1", 1.0], ["action_value_2", 0.0], ["action_value_3", 0.2], ["action_value_4", 15.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", ""], ["level_up_disp", ""], ["target_area", 2], ["target_assignment", 1], ["target_count", 99], ["target_number", 0], ["target_range", 140], ["target_type", 3]],
+            "new": [["action_detail_1", 21], ["action_detail_2", 1], ["action_detail_3", 0], ["action_id", 301101203], ["action_type", 10], ["action_value_1", 1.0], ["action_value_2", 0.0], ["action_value_3", 0.01], ["action_value_4", 15.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", ""], ["level_up_disp", ""], ["target_area", 2], ["target_assignment", 1], ["target_count", 99], ["target_number", 0], ["target_range", 150], ["target_type", 3]]
+          },
+          {
+            "id": 301102203,
+            "old": [["action_detail_1", 21], ["action_detail_2", 1], ["action_detail_3", 0], ["action_id", 301102203], ["action_type", 10], ["action_value_1", 1.0], ["action_value_2", 0.0], ["action_value_3", 0.2], ["action_value_4", 15.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", ""], ["level_up_disp", ""], ["target_area", 2], ["target_assignment", 1], ["target_count", 99], ["target_number", 0], ["target_range", 140], ["target_type", 3]],
+            "new": [["action_detail_1", 21], ["action_detail_2", 1], ["action_detail_3", 0], ["action_id", 301102203], ["action_type", 10], ["action_value_1", 1.0], ["action_value_2", 0.0], ["action_value_3", 0.01], ["action_value_4", 15.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", ""], ["level_up_disp", ""], ["target_area", 2], ["target_assignment", 1], ["target_count", 99], ["target_number", 0], ["target_range", 150], ["target_type", 3]]
+          },
+          {
+            "id": 301102103,
+            "old": [["action_detail_1", 3], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 301102103], ["action_type", 3], ["action_value_1", 2000.0], ["action_value_2", 0.0], ["action_value_3", 1000.0], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", ""], ["level_up_disp", ""], ["target_area", 2], ["target_assignment", 1], ["target_count", 99], ["target_number", 0], ["target_range", 140], ["target_type", 3]],
+            "new": [["action_detail_1", 7], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 301102103], ["action_type", 8], ["action_value_1", 0.0], ["action_value_2", 0.0], ["action_value_3", 5.0], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", ""], ["level_up_disp", ""], ["target_area", 2], ["target_assignment", 1], ["target_count", 99], ["target_number", 0], ["target_range", 150], ["target_type", 3]]
+          },
+          {
+            "id": 312501103,
+            "old": [["action_detail_1", 40], ["action_detail_2", 1], ["action_detail_3", 0], ["action_id", 312501103], ["action_type", 10], ["action_value_1", 1.0], ["action_value_2", 0.0], ["action_value_3", 0.004], ["action_value_4", 90.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", ""], ["level_up_disp", ""], ["target_area", 3], ["target_assignment", 2], ["target_count", 1], ["target_number", 0], ["target_range", 0], ["target_type", 7]],
+            "new": [["action_detail_1", 40], ["action_detail_2", 1], ["action_detail_3", 0], ["action_id", 312501103], ["action_type", 10], ["action_value_1", 3.0], ["action_value_2", 0.0], ["action_value_3", 0.001], ["action_value_4", 90.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", ""], ["level_up_disp", ""], ["target_area", 3], ["target_assignment", 2], ["target_count", 1], ["target_number", 0], ["target_range", 0], ["target_type", 7]]
+          },
+          {
+            "id": 301102102,
+            "old": [["action_detail_1", 1], ["action_detail_2", 0], ["action_detail_3", 50], ["action_id", 301102102], ["action_type", 1], ["action_value_1", 200.0], ["action_value_2", 2.0], ["action_value_3", 3.5], ["action_value_4", 0.003], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", ""], ["level_up_disp", ""], ["target_area", 2], ["target_assignment", 1], ["target_count", 99], ["target_number", 0], ["target_range", 140], ["target_type", 3]],
+            "new": [["action_detail_1", 1], ["action_detail_2", 0], ["action_detail_3", 100], ["action_id", 301102102], ["action_type", 1], ["action_value_1", 40.0], ["action_value_2", 40.0], ["action_value_3", 1.0], ["action_value_4", 0.00031], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", ""], ["level_up_disp", ""], ["target_area", 2], ["target_assignment", 1], ["target_count", 99], ["target_number", 0], ["target_range", 150], ["target_type", 3]]
+          },
+          {
+            "id": 301101103,
+            "old": [["action_detail_1", 7], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 301101103], ["action_type", 8], ["action_value_1", 0.0], ["action_value_2", 0.0], ["action_value_3", 3.0], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", ""], ["level_up_disp", ""], ["target_area", 2], ["target_assignment", 1], ["target_count", 99], ["target_number", 0], ["target_range", 140], ["target_type", 3]],
+            "new": [["action_detail_1", 7], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 301101103], ["action_type", 8], ["action_value_1", 0.0], ["action_value_2", 0.0], ["action_value_3", 3.0], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", ""], ["level_up_disp", ""], ["target_area", 2], ["target_assignment", 1], ["target_count", 99], ["target_number", 0], ["target_range", 150], ["target_type", 3]]
+          }
+        ]
+      }
+    },
+    "abyss_schedule": {
+      "data_changes": {
+        "added": [
+          [["abyss_id", 92425], ["boss_ticket_id", 70019], ["end_time", "2026/05/10 04:59:59"], ["start_time", "2026/05/05 16:00:00"], ["talent_id", 3], ["title", "烈風深淵"]]
+        ]
+      }
+    },
+    "enemy_m_parts": {
+      "data_changes": {
+        "added": [
+          [["child_enemy_parameter_1", 924252402], ["child_enemy_parameter_2", 924252403], ["child_enemy_parameter_3", 924252404], ["child_enemy_parameter_4", 0], ["child_enemy_parameter_5", 0], ["enemy_id", 924252401], ["name", "1月深淵討伐戰泰坦龍龜"]],
+          [["child_enemy_parameter_1", 924252102], ["child_enemy_parameter_2", 924252103], ["child_enemy_parameter_3", 924252104], ["child_enemy_parameter_4", 0], ["child_enemy_parameter_5", 0], ["enemy_id", 924252101], ["name", "1月深淵討伐戰泰坦龍龜"]],
+          [["child_enemy_parameter_1", 924252202], ["child_enemy_parameter_2", 924252203], ["child_enemy_parameter_3", 924252204], ["child_enemy_parameter_4", 0], ["child_enemy_parameter_5", 0], ["enemy_id", 924252201], ["name", "1月深淵討伐戰泰坦龍龜"]],
+          [["child_enemy_parameter_1", 924252302], ["child_enemy_parameter_2", 924252303], ["child_enemy_parameter_3", 924252304], ["child_enemy_parameter_4", 0], ["child_enemy_parameter_5", 0], ["enemy_id", 924252301], ["name", "1月深淵討伐戰泰坦龍龜"]]
+        ]
+      }
+    },
+    "item_data": {
+      "data_changes": {
+        "added": [
+          [["description", "可於深淵討伐戰期間得到的證明。使用證明即可挑戰Boss戰。"], ["end_time", "2030/04/24 14:59:59"], ["gojuon_order", 0], ["item_id", 70019], ["item_name", "討伐委託證"], ["item_type", 32], ["limit_num", 9999], ["price", 0], ["promotion_level", 1], ["sell_check_disp", 0], ["start_time", "2015/12/17 15:00:00"], ["value", 0]]
+        ]
+      }
+    },
+    "skill_data": {
+      "data_changes": {
+        "deleted": [
+          [["action_1", 301101401], ["action_10", 0], ["action_2", 301101402], ["action_3", 301101403], ["action_4", 301101404], ["action_5", 0], ["action_6", 0], ["action_7", 0], ["action_8", 0], ["action_9", 0], ["boss_ub_cool_time", 0.0], ["depend_action_1", 0], ["depend_action_10", 0], ["depend_action_2", 0], ["depend_action_3", 0], ["depend_action_4", 0], ["depend_action_5", 0], ["depend_action_6", 0], ["depend_action_7", 0], ["depend_action_8", 0], ["depend_action_9", 0], ["description", ""], ["icon_type", 1001], ["name", ""], ["skill_area_width", 0], ["skill_cast_time", 0.0], ["skill_id", 3011014], ["skill_type", 0]],
+          [["action_1", 301102401], ["action_10", 0], ["action_2", 301102402], ["action_3", 301102403], ["action_4", 301102404], ["action_5", 301102405], ["action_6", 301102406], ["action_7", 0], ["action_8", 0], ["action_9", 0], ["boss_ub_cool_time", 0.0], ["depend_action_1", 0], ["depend_action_10", 0], ["depend_action_2", 0], ["depend_action_3", 0], ["depend_action_4", 0], ["depend_action_5", 0], ["depend_action_6", 0], ["depend_action_7", 0], ["depend_action_8", 0], ["depend_action_9", 0], ["description", ""], ["icon_type", 1001], ["name", ""], ["skill_area_width", 0], ["skill_cast_time", 0.0], ["skill_id", 3011024], ["skill_type", 0]]
+        ],
+        "modified": [
+          {
+            "id": 3011021,
+            "old": [["action_1", 301102101], ["action_10", 0], ["action_2", 301102102], ["action_3", 301102103], ["action_4", 301102104], ["action_5", 0], ["action_6", 0], ["action_7", 0], ["action_8", 0], ["action_9", 0], ["boss_ub_cool_time", 0.0], ["depend_action_1", 0], ["depend_action_10", 0], ["depend_action_2", 301102101], ["depend_action_3", 301102101], ["depend_action_4", 301102101], ["depend_action_5", 0], ["depend_action_6", 0], ["depend_action_7", 0], ["depend_action_8", 0], ["depend_action_9", 0], ["description", ""], ["icon_type", 1001], ["name", ""], ["skill_area_width", 0], ["skill_cast_time", 2.0], ["skill_id", 3011021], ["skill_type", 0]],
+            "new": [["action_1", 301102101], ["action_10", 0], ["action_2", 301102102], ["action_3", 301102103], ["action_4", 0], ["action_5", 0], ["action_6", 0], ["action_7", 0], ["action_8", 0], ["action_9", 0], ["boss_ub_cool_time", 0.0], ["depend_action_1", 0], ["depend_action_10", 0], ["depend_action_2", 301102101], ["depend_action_3", 301102101], ["depend_action_4", 0], ["depend_action_5", 0], ["depend_action_6", 0], ["depend_action_7", 0], ["depend_action_8", 0], ["depend_action_9", 0], ["description", ""], ["icon_type", 1001], ["name", ""], ["skill_area_width", 0], ["skill_cast_time", 2.0], ["skill_id", 3011021], ["skill_type", 0]]
+          }
+        ]
+      }
+    },
+    "enemy_talent_weakness": {
+      "data_changes": {
+        "added": [
+          [["enemy_id", 924252204], ["resist_id", 2000002]],
+          [["enemy_id", 924251401], ["resist_id", 2000002]],
+          [["enemy_id", 924253301], ["resist_id", 2000002]],
+          [["enemy_id", 924252403], ["resist_id", 2000002]],
+          [["enemy_id", 924252404], ["resist_id", 2000002]],
+          [["enemy_id", 924253101], ["resist_id", 2000002]],
+          [["enemy_id", 924253401], ["resist_id", 2000002]],
+          [["enemy_id", 924253201], ["resist_id", 2000002]],
+          [["enemy_id", 924251201], ["resist_id", 2000002]],
+          [["enemy_id", 924252304], ["resist_id", 2000002]],
+          [["enemy_id", 924252202], ["resist_id", 2000002]],
+          [["enemy_id", 924252203], ["resist_id", 2000002]],
+          [["enemy_id", 924252101], ["resist_id", 2000002]],
+          [["enemy_id", 924252402], ["resist_id", 2000002]],
+          [["enemy_id", 924251101], ["resist_id", 2000002]],
+          [["enemy_id", 924252201], ["resist_id", 2000002]],
+          [["enemy_id", 924252103], ["resist_id", 2000002]],
+          [["enemy_id", 924252104], ["resist_id", 2000002]],
+          [["enemy_id", 924252301], ["resist_id", 2000002]],
+          [["enemy_id", 924252302], ["resist_id", 2000002]],
+          [["enemy_id", 924252303], ["resist_id", 2000002]],
+          [["enemy_id", 924251301], ["resist_id", 2000002]],
+          [["enemy_id", 924252102], ["resist_id", 2000002]],
+          [["enemy_id", 924252401], ["resist_id", 2000002]]
+        ]
+      }
+    },
+    "unit_skill_data": {
+      "data_changes": {
+        "modified": [
+          {
+            "id": 301101,
+            "old": [["ex_skill_1", 0], ["ex_skill_2", 0], ["ex_skill_3", 0], ["ex_skill_4", 0], ["ex_skill_5", 0], ["ex_skill_evolution_1", 0], ["ex_skill_evolution_2", 0], ["ex_skill_evolution_3", 0], ["ex_skill_evolution_4", 0], ["ex_skill_evolution_5", 0], ["main_skill_1", 3011012], ["main_skill_10", 0], ["main_skill_2", 3011013], ["main_skill_3", 3011014], ["main_skill_4", 0], ["main_skill_5", 0], ["main_skill_6", 0], ["main_skill_7", 0], ["main_skill_8", 0], ["main_skill_9", 0], ["main_skill_evolution_1", 0], ["main_skill_evolution_2", 0], ["sp_skill_1", 0], ["sp_skill_2", 0], ["sp_skill_3", 0], ["sp_skill_4", 0], ["sp_skill_5", 0], ["sp_skill_evolution_1", 0], ["sp_skill_evolution_2", 0], ["sp_union_burst", 0], ["union_burst", 3011011], ["union_burst_evolution", 0], ["unit_id", 301101]],
+            "new": [["ex_skill_1", 0], ["ex_skill_2", 0], ["ex_skill_3", 0], ["ex_skill_4", 0], ["ex_skill_5", 0], ["ex_skill_evolution_1", 0], ["ex_skill_evolution_2", 0], ["ex_skill_evolution_3", 0], ["ex_skill_evolution_4", 0], ["ex_skill_evolution_5", 0], ["main_skill_1", 3011012], ["main_skill_10", 0], ["main_skill_2", 3011013], ["main_skill_3", 0], ["main_skill_4", 0], ["main_skill_5", 0], ["main_skill_6", 0], ["main_skill_7", 0], ["main_skill_8", 0], ["main_skill_9", 0], ["main_skill_evolution_1", 0], ["main_skill_evolution_2", 0], ["sp_skill_1", 0], ["sp_skill_2", 0], ["sp_skill_3", 0], ["sp_skill_4", 0], ["sp_skill_5", 0], ["sp_skill_evolution_1", 0], ["sp_skill_evolution_2", 0], ["sp_union_burst", 0], ["union_burst", 3011011], ["union_burst_evolution", 0], ["unit_id", 301101]]
+          },
+          {
+            "id": 301102,
+            "old": [["ex_skill_1", 0], ["ex_skill_2", 0], ["ex_skill_3", 0], ["ex_skill_4", 0], ["ex_skill_5", 0], ["ex_skill_evolution_1", 0], ["ex_skill_evolution_2", 0], ["ex_skill_evolution_3", 0], ["ex_skill_evolution_4", 0], ["ex_skill_evolution_5", 0], ["main_skill_1", 3011022], ["main_skill_10", 0], ["main_skill_2", 3011023], ["main_skill_3", 3011024], ["main_skill_4", 0], ["main_skill_5", 0], ["main_skill_6", 0], ["main_skill_7", 0], ["main_skill_8", 0], ["main_skill_9", 0], ["main_skill_evolution_1", 0], ["main_skill_evolution_2", 0], ["sp_skill_1", 0], ["sp_skill_2", 0], ["sp_skill_3", 0], ["sp_skill_4", 0], ["sp_skill_5", 0], ["sp_skill_evolution_1", 0], ["sp_skill_evolution_2", 0], ["sp_union_burst", 0], ["union_burst", 3011021], ["union_burst_evolution", 0], ["unit_id", 301102]],
+            "new": [["ex_skill_1", 0], ["ex_skill_2", 0], ["ex_skill_3", 0], ["ex_skill_4", 0], ["ex_skill_5", 0], ["ex_skill_evolution_1", 0], ["ex_skill_evolution_2", 0], ["ex_skill_evolution_3", 0], ["ex_skill_evolution_4", 0], ["ex_skill_evolution_5", 0], ["main_skill_1", 3011022], ["main_skill_10", 0], ["main_skill_2", 3011023], ["main_skill_3", 0], ["main_skill_4", 0], ["main_skill_5", 0], ["main_skill_6", 0], ["main_skill_7", 0], ["main_skill_8", 0], ["main_skill_9", 0], ["main_skill_evolution_1", 0], ["main_skill_evolution_2", 0], ["sp_skill_1", 0], ["sp_skill_2", 0], ["sp_skill_3", 0], ["sp_skill_4", 0], ["sp_skill_5", 0], ["sp_skill_evolution_1", 0], ["sp_skill_evolution_2", 0], ["sp_union_burst", 0], ["union_burst", 3011021], ["union_burst_evolution", 0], ["unit_id", 301102]]
+          }
+        ]
+      }
+    }
+  }
+}
