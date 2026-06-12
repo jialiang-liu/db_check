@@ -1,0 +1,105 @@
+{
+  "tables": {
+    "only_in_old_db": [],
+    "only_in_new_db": []
+  },
+  "table_changes": {
+    "story_detail": {
+      "data_changes": {
+        "modified": [
+          {
+            "id": 1325003,
+            "old": [["end_time", "2099/12/31 23:59:59"], ["force_unlock_time", "2030/12/17 14:59:59"], ["force_unlock_time_2", "2030/12/17 14:59:59"], ["lock_all_text", 0], ["love_level", 5], ["pre_story_id", 1325002], ["pre_story_id_2", 0], ["requirement_id", 132501], ["reward_id_1", 91002], ["reward_id_2", 0], ["reward_id_3", 0], ["reward_type_1", 8], ["reward_type_2", 0], ["reward_type_3", 0], ["reward_value_1", 20], ["reward_value_2", 0], ["reward_value_3", 0], ["start_time", "2026/06/19 18:00:00"], ["story_end", 0], ["story_group_id", 1325], ["story_id", 1325003], ["story_quest_id", 0], ["sub_title", "突如其来的花束抛掷"], ["title", "苑 第3话"], ["unknown_1", 1], ["unknown_2", 1], ["unlock_quest_id", 0], ["visible_type", 0]],
+            "new": [["end_time", "2099/12/31 23:59:59"], ["force_unlock_time", "2030/12/17 14:59:59"], ["force_unlock_time_2", "2030/12/17 14:59:59"], ["lock_all_text", 0], ["love_level", 5], ["pre_story_id", 1325002], ["pre_story_id_2", 0], ["requirement_id", 132501], ["reward_id_1", 91002], ["reward_id_2", 0], ["reward_id_3", 0], ["reward_type_1", 8], ["reward_type_2", 0], ["reward_type_3", 0], ["reward_value_1", 20], ["reward_value_2", 0], ["reward_value_3", 0], ["start_time", "2026/06/19 18:00:00"], ["story_end", 0], ["story_group_id", 1325], ["story_id", 1325003], ["story_quest_id", 0], ["sub_title", "突如其来的捧花"], ["title", "苑 第3话"], ["unknown_1", 1], ["unknown_2", 1], ["unlock_quest_id", 0], ["visible_type", 0]]
+          },
+          {
+            "id": 1325001,
+            "old": [["end_time", "2099/12/31 23:59:59"], ["force_unlock_time", "2030/12/17 14:59:59"], ["force_unlock_time_2", "2030/12/17 14:59:59"], ["lock_all_text", 0], ["love_level", 0], ["pre_story_id", 0], ["pre_story_id_2", 0], ["requirement_id", 132501], ["reward_id_1", 91002], ["reward_id_2", 0], ["reward_id_3", 0], ["reward_type_1", 8], ["reward_type_2", 0], ["reward_type_3", 0], ["reward_value_1", 20], ["reward_value_2", 0], ["reward_value_3", 0], ["start_time", "2026/06/19 18:00:00"], ["story_end", 0], ["story_group_id", 1325], ["story_id", 1325001], ["story_quest_id", 0], ["sub_title", "悠闲节能的炼金堂"], ["title", "苑 第1话"], ["unknown_1", 1], ["unknown_2", 1], ["unlock_quest_id", 0], ["visible_type", 0]],
+            "new": [["end_time", "2099/12/31 23:59:59"], ["force_unlock_time", "2030/12/17 14:59:59"], ["force_unlock_time_2", "2030/12/17 14:59:59"], ["lock_all_text", 0], ["love_level", 0], ["pre_story_id", 0], ["pre_story_id_2", 0], ["requirement_id", 132501], ["reward_id_1", 91002], ["reward_id_2", 0], ["reward_id_3", 0], ["reward_type_1", 8], ["reward_type_2", 0], ["reward_type_3", 0], ["reward_value_1", 20], ["reward_value_2", 0], ["reward_value_3", 0], ["start_time", "2026/06/19 18:00:00"], ["story_end", 0], ["story_group_id", 1325], ["story_id", 1325001], ["story_quest_id", 0], ["sub_title", "悠闲节能炼金堂"], ["title", "苑 第1话"], ["unknown_1", 1], ["unknown_2", 1], ["unlock_quest_id", 0], ["visible_type", 0]]
+          },
+          {
+            "id": 1325004,
+            "old": [["end_time", "2099/12/31 23:59:59"], ["force_unlock_time", "2030/12/17 14:59:59"], ["force_unlock_time_2", "2030/12/17 14:59:59"], ["lock_all_text", 0], ["love_level", 8], ["pre_story_id", 1325003], ["pre_story_id_2", 0], ["requirement_id", 132501], ["reward_id_1", 91002], ["reward_id_2", 0], ["reward_id_3", 0], ["reward_type_1", 8], ["reward_type_2", 0], ["reward_type_3", 0], ["reward_value_1", 50], ["reward_value_2", 0], ["reward_value_3", 0], ["start_time", "2026/06/19 18:00:00"], ["story_end", 0], ["story_group_id", 1325], ["story_id", 1325004], ["story_quest_id", 0], ["sub_title", "炙热的心情再度点燃吧"], ["title", "苑 第4话"], ["unknown_1", 1], ["unknown_2", 1], ["unlock_quest_id", 0], ["visible_type", 0]],
+            "new": [["end_time", "2099/12/31 23:59:59"], ["force_unlock_time", "2030/12/17 14:59:59"], ["force_unlock_time_2", "2030/12/17 14:59:59"], ["lock_all_text", 0], ["love_level", 8], ["pre_story_id", 1325003], ["pre_story_id_2", 0], ["requirement_id", 132501], ["reward_id_1", 91002], ["reward_id_2", 0], ["reward_id_3", 0], ["reward_type_1", 8], ["reward_type_2", 0], ["reward_type_3", 0], ["reward_value_1", 50], ["reward_value_2", 0], ["reward_value_3", 0], ["start_time", "2026/06/19 18:00:00"], ["story_end", 0], ["story_group_id", 1325], ["story_id", 1325004], ["story_quest_id", 0], ["sub_title", "让炽热情感再度燃烧"], ["title", "苑 第4话"], ["unknown_1", 1], ["unknown_2", 1], ["unlock_quest_id", 0], ["visible_type", 0]]
+          },
+          {
+            "id": 1325002,
+            "old": [["end_time", "2099/12/31 23:59:59"], ["force_unlock_time", "2030/12/17 14:59:59"], ["force_unlock_time_2", "2030/12/17 14:59:59"], ["lock_all_text", 0], ["love_level", 4], ["pre_story_id", 1325001], ["pre_story_id_2", 0], ["requirement_id", 132501], ["reward_id_1", 91002], ["reward_id_2", 0], ["reward_id_3", 0], ["reward_type_1", 8], ["reward_type_2", 0], ["reward_type_3", 0], ["reward_value_1", 20], ["reward_value_2", 0], ["reward_value_3", 0], ["start_time", "2026/06/19 18:00:00"], ["story_end", 0], ["story_group_id", 1325], ["story_id", 1325002], ["story_quest_id", 0], ["sub_title", "成年人的固执与姑母心"], ["title", "苑 第2话"], ["unknown_1", 1], ["unknown_2", 1], ["unlock_quest_id", 0], ["visible_type", 0]],
+            "new": [["end_time", "2099/12/31 23:59:59"], ["force_unlock_time", "2030/12/17 14:59:59"], ["force_unlock_time_2", "2030/12/17 14:59:59"], ["lock_all_text", 0], ["love_level", 4], ["pre_story_id", 1325001], ["pre_story_id_2", 0], ["requirement_id", 132501], ["reward_id_1", 91002], ["reward_id_2", 0], ["reward_id_3", 0], ["reward_type_1", 8], ["reward_type_2", 0], ["reward_type_3", 0], ["reward_value_1", 20], ["reward_value_2", 0], ["reward_value_3", 0], ["start_time", "2026/06/19 18:00:00"], ["story_end", 0], ["story_group_id", 1325], ["story_id", 1325002], ["story_quest_id", 0], ["sub_title", "成年人的执着与姑母心"], ["title", "苑 第2话"], ["unknown_1", 1], ["unknown_2", 1], ["unlock_quest_id", 0], ["visible_type", 0]]
+          }
+        ]
+      }
+    },
+    "skill_action": {
+      "data_changes": {
+        "modified": [
+          {
+            "id": 135200103,
+            "old": [["action_detail_1", 2], ["action_detail_2", 1], ["action_detail_3", 0], ["action_id", 135200103], ["action_type", 1], ["action_value_1", 50.0], ["action_value_2", 50.0], ["action_value_3", 4.0], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "对敌方单体造成{0}只能以较低防御力类型进行防御魔法伤害"], ["level_up_disp", "魔法伤害+{0}"], ["target_area", 1], ["target_assignment", 1], ["target_count", 1], ["target_number", 0], ["target_range", 2160], ["target_type", 3]],
+            "new": [["action_detail_1", 2], ["action_detail_2", 1], ["action_detail_3", 0], ["action_id", 135200103], ["action_type", 1], ["action_value_1", 50.0], ["action_value_2", 50.0], ["action_value_3", 4.0], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "对敌方单体造成只能以较低防御力类型进行防御的{0}魔法伤害"], ["level_up_disp", "魔法伤害+{0}"], ["target_area", 1], ["target_assignment", 1], ["target_count", 1], ["target_number", 0], ["target_range", 2160], ["target_type", 3]]
+          },
+          {
+            "id": 135400101,
+            "old": [["action_detail_1", 2], ["action_detail_2", 1], ["action_detail_3", 0], ["action_id", 135400101], ["action_type", 1], ["action_value_1", 75.0], ["action_value_2", 75.0], ["action_value_3", 6.0], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "对敌方单体造成{0}只能以较低防御力类型进行防御魔法伤害"], ["level_up_disp", "魔法伤害+{0}"], ["target_area", 1], ["target_assignment", 1], ["target_count", 1], ["target_number", 0], ["target_range", 2160], ["target_type", 3]],
+            "new": [["action_detail_1", 2], ["action_detail_2", 1], ["action_detail_3", 0], ["action_id", 135400101], ["action_type", 1], ["action_value_1", 75.0], ["action_value_2", 75.0], ["action_value_3", 6.0], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "对敌方单体造成只能以较低防御力类型进行防御的{0}魔法伤害"], ["level_up_disp", "魔法伤害+{0}"], ["target_area", 1], ["target_assignment", 1], ["target_count", 1], ["target_number", 0], ["target_range", 2160], ["target_type", 3]]
+          },
+          {
+            "id": 132300101,
+            "old": [["action_detail_1", 2], ["action_detail_2", 1], ["action_detail_3", 0], ["action_id", 132300101], ["action_type", 1], ["action_value_1", 52.5], ["action_value_2", 52.5], ["action_value_3", 4.2], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "对敌方单体造成{0}只能以较低防御力类型进行防御魔法伤害"], ["level_up_disp", "魔法伤害+{0}"], ["target_area", 1], ["target_assignment", 1], ["target_count", 1], ["target_number", 0], ["target_range", 2160], ["target_type", 3]],
+            "new": [["action_detail_1", 2], ["action_detail_2", 1], ["action_detail_3", 0], ["action_id", 132300101], ["action_type", 1], ["action_value_1", 52.5], ["action_value_2", 52.5], ["action_value_3", 4.2], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "对敌方单体造成只能以较低防御力类型进行防御的{0}魔法伤害"], ["level_up_disp", "魔法伤害+{0}"], ["target_area", 1], ["target_assignment", 1], ["target_count", 1], ["target_number", 0], ["target_range", 2160], ["target_type", 3]]
+          },
+          {
+            "id": 180800102,
+            "old": [["action_detail_1", 1], ["action_detail_2", 1], ["action_detail_3", 0], ["action_id", 180800102], ["action_type", 1], ["action_value_1", 60.0], ["action_value_2", 60.0], ["action_value_3", 4.8], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "对敌方单体造成{0}物理伤害，根据物理、魔法防御力较低的一侧来计算"], ["level_up_disp", "物理伤害+{0}"], ["target_area", 1], ["target_assignment", 1], ["target_count", 1], ["target_number", 0], ["target_range", -1], ["target_type", 3]],
+            "new": [["action_detail_1", 1], ["action_detail_2", 1], ["action_detail_3", 0], ["action_id", 180800102], ["action_type", 1], ["action_value_1", 60.0], ["action_value_2", 60.0], ["action_value_3", 4.8], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "对敌方单体造成只能以较低防御力类型进行防御的{0}物理伤害"], ["level_up_disp", "物理伤害+{0}"], ["target_area", 1], ["target_assignment", 1], ["target_count", 1], ["target_number", 0], ["target_range", -1], ["target_type", 3]]
+          },
+          {
+            "id": 135200202,
+            "old": [["action_detail_1", 2], ["action_detail_2", 1], ["action_detail_3", 0], ["action_id", 135200202], ["action_type", 1], ["action_value_1", 45.0], ["action_value_2", 45.0], ["action_value_3", 3.6], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "对敌方单体造成{0}只能以较低防御力类型进行防御魔法伤害"], ["level_up_disp", "魔法伤害+{0}"], ["target_area", 1], ["target_assignment", 1], ["target_count", 1], ["target_number", 0], ["target_range", 2160], ["target_type", 3]],
+            "new": [["action_detail_1", 2], ["action_detail_2", 1], ["action_detail_3", 0], ["action_id", 135200202], ["action_type", 1], ["action_value_1", 45.0], ["action_value_2", 45.0], ["action_value_3", 3.6], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "对敌方单体造成只能以较低防御力类型进行防御的{0}魔法伤害"], ["level_up_disp", "魔法伤害+{0}"], ["target_area", 1], ["target_assignment", 1], ["target_count", 1], ["target_number", 0], ["target_range", 2160], ["target_type", 3]]
+          },
+          {
+            "id": 132300203,
+            "old": [["action_detail_1", 2], ["action_detail_2", 1], ["action_detail_3", 0], ["action_id", 132300203], ["action_type", 1], ["action_value_1", 35.0], ["action_value_2", 35.0], ["action_value_3", 2.8], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "对敌方单体造成{0}只能以较低防御力类型进行防御魔法伤害"], ["level_up_disp", "魔法伤害+{0}"], ["target_area", 1], ["target_assignment", 1], ["target_count", 1], ["target_number", 0], ["target_range", 2160], ["target_type", 3]],
+            "new": [["action_detail_1", 2], ["action_detail_2", 1], ["action_detail_3", 0], ["action_id", 132300203], ["action_type", 1], ["action_value_1", 35.0], ["action_value_2", 35.0], ["action_value_3", 2.8], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "对敌方单体造成只能以较低防御力类型进行防御的{0}魔法伤害"], ["level_up_disp", "魔法伤害+{0}"], ["target_area", 1], ["target_assignment", 1], ["target_count", 1], ["target_number", 0], ["target_range", 2160], ["target_type", 3]]
+          },
+          {
+            "id": 100801101,
+            "old": [["action_detail_1", 2], ["action_detail_2", 1], ["action_detail_3", 0], ["action_id", 100801101], ["action_type", 1], ["action_value_1", 20.25], ["action_value_2", 20.25], ["action_value_3", 1.62], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "对敌方全体造成{0}只能以较低防御力类型进行防御的魔法伤害"], ["level_up_disp", "魔法伤害+{0}"], ["target_area", 3], ["target_assignment", 1], ["target_count", 99], ["target_number", 0], ["target_range", 2160], ["target_type", 3]],
+            "new": [["action_detail_1", 2], ["action_detail_2", 1], ["action_detail_3", 0], ["action_id", 100801101], ["action_type", 1], ["action_value_1", 20.25], ["action_value_2", 20.25], ["action_value_3", 1.62], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "对敌方单体造成只能以较低防御力类型进行防御的{0}魔法伤害"], ["level_up_disp", "魔法伤害+{0}"], ["target_area", 3], ["target_assignment", 1], ["target_count", 99], ["target_number", 0], ["target_range", 2160], ["target_type", 3]]
+          },
+          {
+            "id": 180800202,
+            "old": [["action_detail_1", 1], ["action_detail_2", 1], ["action_detail_3", 0], ["action_id", 180800202], ["action_type", 1], ["action_value_1", 10.0], ["action_value_2", 10.0], ["action_value_3", 0.8], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "对敌方单体造成{0}物理伤害，根据物理、魔法防御力较低的一侧来计算"], ["level_up_disp", "物理伤害+{0}"], ["target_area", 1], ["target_assignment", 1], ["target_count", 1], ["target_number", 0], ["target_range", -1], ["target_type", 3]],
+            "new": [["action_detail_1", 1], ["action_detail_2", 1], ["action_detail_3", 0], ["action_id", 180800202], ["action_type", 1], ["action_value_1", 10.0], ["action_value_2", 10.0], ["action_value_3", 0.8], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "对敌方单体造成只能以较低防御力类型进行防御的{0}物理伤害"], ["level_up_disp", "物理伤害+{0}"], ["target_area", 1], ["target_assignment", 1], ["target_count", 1], ["target_number", 0], ["target_range", -1], ["target_type", 3]]
+          }
+        ]
+      }
+    },
+    "gacha_data": {
+      "data_changes": {
+        "added": [
+          [["chara_odds_star1", "0"], ["chara_odds_star2", "0"], ["chara_odds_star3", "0"], ["description", "获得道具和记忆碎片！"], ["description_2", ""], ["description_sp", ""], ["discount_price", 0], ["end_time", "2099/12/31 23:59:59"], ["exchange_id", 0], ["free_gacha_count", 10], ["free_gacha_interval_time", 0], ["free_gacha_type", 1], ["gacha10_special_odds_star1", "0"], ["gacha10_special_odds_star2", "0"], ["gacha10_special_odds_star3", "0"], ["gacha_bonus_id", 0], ["gacha_cost_type", 3], ["gacha_detail", 1], ["gacha_id", 10388], ["gacha_name", "普通扭蛋"], ["gacha_odds", "10388"], ["gacha_odds_star2", ""], ["gacha_times_limit10", 0], ["gacha_type", 0], ["movie_id", 0], ["parallel_id", 0], ["pick_up_chara_text", ""], ["pickup_badge", 0], ["pickup_id", 0], ["price", 0], ["prizegacha_id", 0], ["rarity_odds", "0"], ["special_id", 0], ["start_time", "2026/06/19 18:00:00"], ["ticket_id", 0], ["ticket_id_10", 0], ["unknown_1", 0], ["unknown_2", 0], ["unknown_3", 0], ["unknown_4", ""]]
+        ],
+        "modified": [
+          {
+            "id": 10386,
+            "old": [["chara_odds_star1", "0"], ["chara_odds_star2", "0"], ["chara_odds_star3", "0"], ["description", "获得道具和记忆碎片！"], ["description_2", ""], ["description_sp", ""], ["discount_price", 0], ["end_time", "2099/12/31 23:59:59"], ["exchange_id", 0], ["free_gacha_count", 10], ["free_gacha_interval_time", 0], ["free_gacha_type", 1], ["gacha10_special_odds_star1", "0"], ["gacha10_special_odds_star2", "0"], ["gacha10_special_odds_star3", "0"], ["gacha_bonus_id", 0], ["gacha_cost_type", 3], ["gacha_detail", 1], ["gacha_id", 10386], ["gacha_name", "普通扭蛋"], ["gacha_odds", "10386"], ["gacha_odds_star2", ""], ["gacha_times_limit10", 0], ["gacha_type", 0], ["movie_id", 0], ["parallel_id", 0], ["pick_up_chara_text", ""], ["pickup_badge", 0], ["pickup_id", 0], ["price", 0], ["prizegacha_id", 0], ["rarity_odds", "0"], ["special_id", 0], ["start_time", "2026/06/16 11:00:00"], ["ticket_id", 0], ["ticket_id_10", 0], ["unknown_1", 0], ["unknown_2", 0], ["unknown_3", 0], ["unknown_4", ""]],
+            "new": [["chara_odds_star1", "0"], ["chara_odds_star2", "0"], ["chara_odds_star3", "0"], ["description", "获得道具和记忆碎片！"], ["description_2", ""], ["description_sp", ""], ["discount_price", 0], ["end_time", "2026/06/19 17:59:59"], ["exchange_id", 0], ["free_gacha_count", 10], ["free_gacha_interval_time", 0], ["free_gacha_type", 1], ["gacha10_special_odds_star1", "0"], ["gacha10_special_odds_star2", "0"], ["gacha10_special_odds_star3", "0"], ["gacha_bonus_id", 0], ["gacha_cost_type", 3], ["gacha_detail", 1], ["gacha_id", 10386], ["gacha_name", "普通扭蛋"], ["gacha_odds", "10386"], ["gacha_odds_star2", ""], ["gacha_times_limit10", 0], ["gacha_type", 0], ["movie_id", 0], ["parallel_id", 0], ["pick_up_chara_text", ""], ["pickup_badge", 0], ["pickup_id", 0], ["price", 0], ["prizegacha_id", 0], ["rarity_odds", "0"], ["special_id", 0], ["start_time", "2026/06/16 11:00:00"], ["ticket_id", 0], ["ticket_id_10", 0], ["unknown_1", 0], ["unknown_2", 0], ["unknown_3", 0], ["unknown_4", ""]]
+          }
+        ]
+      }
+    },
+    "unit_profile": {
+      "data_changes": {
+        "modified": [
+          {
+            "id": 134901,
+            "old": [["age", "18"], ["birth_day", "9"], ["birth_month", "10"], ["blood_type", "B"], ["catch_copy", "虽为奴隶却依然高贵的奴隶千金"], ["favorite", "狩猎、收集珠宝"], ["guild", "？？？"], ["guild_id", ""], ["height", "155"], ["race", "妖魔人"], ["self_text", ""], ["unit_id", 134901], ["unit_name", "花音"], ["voice", "幸村惠理"], ["voice_id", 0], ["weight", "48"]],
+            "new": [["age", "18"], ["birth_day", "9"], ["birth_month", "10"], ["blood_type", "B"], ["catch_copy", "虽为奴隶却依然高贵的没落千金"], ["favorite", "狩猎、收集珠宝"], ["guild", "？？？"], ["guild_id", ""], ["height", "155"], ["race", "妖魔人"], ["self_text", ""], ["unit_id", 134901], ["unit_name", "花音"], ["voice", "幸村惠理"], ["voice_id", 0], ["weight", "48"]]
+          }
+        ]
+      }
+    }
+  }
+}
