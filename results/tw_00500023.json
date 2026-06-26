@@ -1,0 +1,107 @@
+{
+  "tables": {
+    "only_in_old_db": [],
+    "only_in_new_db": []
+  },
+  "table_changes": {
+    "story_detail": {
+      "data_changes": {
+        "added": [
+          [["can_bookmark", 0], ["end_time", "2030/12/17 14:59:59"], ["force_unlock_time", "2030/12/17 14:59:59"], ["force_unlock_time_2", "2030/12/17 14:59:59"], ["lock_all_text", 0], ["love_level", 0], ["pre_story_id", 0], ["pre_story_id_2", 0], ["read_process_flag", 1], ["requirement_id", 0], ["reward_id_1", 31009], ["reward_id_2", 0], ["reward_id_3", 0], ["reward_type_1", 2], ["reward_type_2", 0], ["reward_type_3", 0], ["reward_value_1", 10], ["reward_value_2", 0], ["reward_value_3", 0], ["start_time", "2026/07/05 05:00:00"], ["story_end", 0], ["story_group_id", 4010], ["story_id", 4010184], ["story_quest_id", 0], ["sub_title", "7月5日的劇情3"], ["title", ""], ["unknown_1", 0], ["unlock_quest_id", 0], ["visible_type", 2]],
+          [["can_bookmark", 0], ["end_time", "2030/12/17 14:59:59"], ["force_unlock_time", "2030/12/17 14:59:59"], ["force_unlock_time_2", "2030/12/17 14:59:59"], ["lock_all_text", 0], ["love_level", 0], ["pre_story_id", 0], ["pre_story_id_2", 0], ["read_process_flag", 1], ["requirement_id", 0], ["reward_id_1", 31069], ["reward_id_2", 0], ["reward_id_3", 0], ["reward_type_1", 2], ["reward_type_2", 0], ["reward_type_3", 0], ["reward_value_1", 10], ["reward_value_2", 0], ["reward_value_3", 0], ["start_time", "2026/07/01 05:00:00"], ["story_end", 0], ["story_group_id", 4010], ["story_id", 4010182], ["story_quest_id", 0], ["sub_title", "7月1日的劇情3"], ["title", ""], ["unknown_1", 0], ["unlock_quest_id", 0], ["visible_type", 2]],
+          [["can_bookmark", 0], ["end_time", "2030/12/17 14:59:59"], ["force_unlock_time", "2030/12/17 14:59:59"], ["force_unlock_time_2", "2030/12/17 14:59:59"], ["lock_all_text", 0], ["love_level", 0], ["pre_story_id", 0], ["pre_story_id_2", 0], ["read_process_flag", 1], ["requirement_id", 0], ["reward_id_1", 31053], ["reward_id_2", 0], ["reward_id_3", 0], ["reward_type_1", 2], ["reward_type_2", 0], ["reward_type_3", 0], ["reward_value_1", 10], ["reward_value_2", 0], ["reward_value_3", 0], ["start_time", "2026/07/28 05:00:00"], ["story_end", 0], ["story_group_id", 4010], ["story_id", 4010188], ["story_quest_id", 0], ["sub_title", "7月28日的劇情3"], ["title", ""], ["unknown_1", 0], ["unlock_quest_id", 0], ["visible_type", 2]],
+          [["can_bookmark", 0], ["end_time", "2030/12/17 14:59:59"], ["force_unlock_time", "2030/12/17 14:59:59"], ["force_unlock_time_2", "2030/12/17 14:59:59"], ["lock_all_text", 0], ["love_level", 0], ["pre_story_id", 0], ["pre_story_id_2", 0], ["read_process_flag", 1], ["requirement_id", 0], ["reward_id_1", 31017], ["reward_id_2", 0], ["reward_id_3", 0], ["reward_type_1", 2], ["reward_type_2", 0], ["reward_type_3", 0], ["reward_value_1", 10], ["reward_value_2", 0], ["reward_value_3", 0], ["start_time", "2026/07/07 05:00:00"], ["story_end", 0], ["story_group_id", 4010], ["story_id", 4010185], ["story_quest_id", 0], ["sub_title", "7月7日的劇情3"], ["title", ""], ["unknown_1", 0], ["unlock_quest_id", 0], ["visible_type", 2]],
+          [["can_bookmark", 0], ["end_time", "2030/12/17 14:59:59"], ["force_unlock_time", "2030/12/17 14:59:59"], ["force_unlock_time_2", "2030/12/17 14:59:59"], ["lock_all_text", 0], ["love_level", 0], ["pre_story_id", 0], ["pre_story_id_2", 0], ["read_process_flag", 1], ["requirement_id", 0], ["reward_id_1", 31056], ["reward_id_2", 0], ["reward_id_3", 0], ["reward_type_1", 2], ["reward_type_2", 0], ["reward_type_3", 0], ["reward_value_1", 10], ["reward_value_2", 0], ["reward_value_3", 0], ["start_time", "2026/07/11 05:00:00"], ["story_end", 0], ["story_group_id", 4010], ["story_id", 4010186], ["story_quest_id", 0], ["sub_title", "7月11日的劇情3"], ["title", ""], ["unknown_1", 0], ["unlock_quest_id", 0], ["visible_type", 2]],
+          [["can_bookmark", 0], ["end_time", "2030/12/17 14:59:59"], ["force_unlock_time", "2030/12/17 14:59:59"], ["force_unlock_time_2", "2030/12/17 14:59:59"], ["lock_all_text", 0], ["love_level", 0], ["pre_story_id", 0], ["pre_story_id_2", 0], ["read_process_flag", 1], ["requirement_id", 0], ["reward_id_1", 31182], ["reward_id_2", 0], ["reward_id_3", 0], ["reward_type_1", 2], ["reward_type_2", 0], ["reward_type_3", 0], ["reward_value_1", 10], ["reward_value_2", 0], ["reward_value_3", 0], ["start_time", "2026/07/02 05:00:00"], ["story_end", 0], ["story_group_id", 4010], ["story_id", 4010183], ["story_quest_id", 0], ["sub_title", "7月2日的劇情3"], ["title", ""], ["unknown_1", 0], ["unlock_quest_id", 0], ["visible_type", 2]],
+          [["can_bookmark", 0], ["end_time", "2030/12/17 14:59:59"], ["force_unlock_time", "2030/12/17 14:59:59"], ["force_unlock_time_2", "2030/12/17 14:59:59"], ["lock_all_text", 0], ["love_level", 0], ["pre_story_id", 0], ["pre_story_id_2", 0], ["read_process_flag", 1], ["requirement_id", 0], ["reward_id_1", 31027], ["reward_id_2", 0], ["reward_id_3", 0], ["reward_type_1", 2], ["reward_type_2", 0], ["reward_type_3", 0], ["reward_value_1", 10], ["reward_value_2", 0], ["reward_value_3", 0], ["start_time", "2026/07/30 05:00:00"], ["story_end", 0], ["story_group_id", 4010], ["story_id", 4010189], ["story_quest_id", 0], ["sub_title", "7月30日的劇情3"], ["title", ""], ["unknown_1", 0], ["unlock_quest_id", 0], ["visible_type", 2]],
+          [["can_bookmark", 0], ["end_time", "2030/12/17 14:59:59"], ["force_unlock_time", "2030/12/17 14:59:59"], ["force_unlock_time_2", "2030/12/17 14:59:59"], ["lock_all_text", 0], ["love_level", 0], ["pre_story_id", 0], ["pre_story_id_2", 0], ["read_process_flag", 1], ["requirement_id", 0], ["reward_id_1", 31068], ["reward_id_2", 0], ["reward_id_3", 0], ["reward_type_1", 2], ["reward_type_2", 0], ["reward_type_3", 0], ["reward_value_1", 10], ["reward_value_2", 0], ["reward_value_3", 0], ["start_time", "2026/07/25 05:00:00"], ["story_end", 0], ["story_group_id", 4010], ["story_id", 4010187], ["story_quest_id", 0], ["sub_title", "7月25日的劇情3"], ["title", ""], ["unknown_1", 0], ["unlock_quest_id", 0], ["visible_type", 2]]
+        ]
+      }
+    },
+    "login_bonus_detail": {
+      "data_changes": {
+        "added": [
+          [["bg_id", 0], ["character_id", 0], ["character_name", ""], ["count", 7], ["description", ""], ["id", 596], ["login_bonus_id", 40019], ["reward_id", 25204], ["reward_num", 25], ["reward_type", 2], ["voice_id", 0]],
+          [["bg_id", 0], ["character_id", 0], ["character_name", ""], ["count", 5], ["description", ""], ["id", 584], ["login_bonus_id", 40019], ["reward_id", 25203], ["reward_num", 45], ["reward_type", 2], ["voice_id", 0]],
+          [["bg_id", 0], ["character_id", 0], ["character_name", ""], ["count", 6], ["description", ""], ["id", 588], ["login_bonus_id", 40019], ["reward_id", 25201], ["reward_num", 45], ["reward_type", 2], ["voice_id", 0]],
+          [["bg_id", 0], ["character_id", 0], ["character_name", ""], ["count", 3], ["description", ""], ["id", 574], ["login_bonus_id", 40019], ["reward_id", 25205], ["reward_num", 48], ["reward_type", 2], ["voice_id", 0]],
+          [["bg_id", 0], ["character_id", 0], ["character_name", ""], ["count", 8], ["description", ""], ["id", 597], ["login_bonus_id", 40019], ["reward_id", 25205], ["reward_num", 90], ["reward_type", 2], ["voice_id", 0]],
+          [["bg_id", 0], ["character_id", 0], ["character_name", ""], ["count", 2], ["description", ""], ["id", 570], ["login_bonus_id", 40019], ["reward_id", 25202], ["reward_num", 90], ["reward_type", 2], ["voice_id", 0]],
+          [["bg_id", 0], ["character_id", 0], ["character_name", ""], ["count", 7], ["description", ""], ["id", 594], ["login_bonus_id", 40019], ["reward_id", 25203], ["reward_num", 36], ["reward_type", 2], ["voice_id", 0]],
+          [["bg_id", 0], ["character_id", 0], ["character_name", ""], ["count", 8], ["description", ""], ["id", 599], ["login_bonus_id", 40019], ["reward_id", 25203], ["reward_num", 36], ["reward_type", 2], ["voice_id", 0]],
+          [["bg_id", 0], ["character_id", 0], ["character_name", ""], ["count", 4], ["description", ""], ["id", 577], ["login_bonus_id", 40019], ["reward_id", 25201], ["reward_num", 90], ["reward_type", 2], ["voice_id", 0]],
+          [["bg_id", 0], ["character_id", 0], ["character_name", ""], ["count", 1], ["description", ""], ["id", 565], ["login_bonus_id", 40019], ["reward_id", 25202], ["reward_num", 90], ["reward_type", 2], ["voice_id", 0]],
+          [["bg_id", 0], ["character_id", 0], ["character_name", ""], ["count", 6], ["description", ""], ["id", 590], ["login_bonus_id", 40019], ["reward_id", 25202], ["reward_num", 90], ["reward_type", 2], ["voice_id", 0]],
+          [["bg_id", 0], ["character_id", 0], ["character_name", ""], ["count", 8], ["description", ""], ["id", 598], ["login_bonus_id", 40019], ["reward_id", 25201], ["reward_num", 9], ["reward_type", 2], ["voice_id", 0]],
+          [["bg_id", 0], ["character_id", 0], ["character_name", ""], ["count", 5], ["description", ""], ["id", 582], ["login_bonus_id", 40019], ["reward_id", 25205], ["reward_num", 54], ["reward_type", 2], ["voice_id", 0]],
+          [["bg_id", 0], ["character_id", 0], ["character_name", ""], ["count", 7], ["description", ""], ["id", 592], ["login_bonus_id", 40019], ["reward_id", 25205], ["reward_num", 90], ["reward_type", 2], ["voice_id", 0]],
+          [["bg_id", 0], ["character_id", 0], ["character_name", ""], ["count", 5], ["description", ""], ["id", 586], ["login_bonus_id", 40019], ["reward_id", 25204], ["reward_num", 25], ["reward_type", 2], ["voice_id", 0]],
+          [["bg_id", 0], ["character_id", 0], ["character_name", ""], ["count", 6], ["description", ""], ["id", 589], ["login_bonus_id", 40019], ["reward_id", 25203], ["reward_num", 45], ["reward_type", 2], ["voice_id", 0]],
+          [["bg_id", 0], ["character_id", 0], ["character_name", ""], ["count", 3], ["description", ""], ["id", 572], ["login_bonus_id", 40019], ["reward_id", 25201], ["reward_num", 90], ["reward_type", 2], ["voice_id", 0]],
+          [["bg_id", 0], ["character_id", 0], ["character_name", ""], ["count", 4], ["description", ""], ["id", 581], ["login_bonus_id", 40019], ["reward_id", 25204], ["reward_num", 25], ["reward_type", 2], ["voice_id", 0]],
+          [["bg_id", 0], ["character_id", 0], ["character_name", ""], ["count", 6], ["description", ""], ["id", 587], ["login_bonus_id", 40019], ["reward_id", 25205], ["reward_num", 54], ["reward_type", 2], ["voice_id", 0]],
+          [["bg_id", 0], ["character_id", 0], ["character_name", ""], ["count", 5], ["description", ""], ["id", 585], ["login_bonus_id", 40019], ["reward_id", 25202], ["reward_num", 90], ["reward_type", 2], ["voice_id", 0]],
+          [["bg_id", 0], ["character_id", 0], ["character_name", ""], ["count", 4], ["description", ""], ["id", 578], ["login_bonus_id", 40019], ["reward_id", 25203], ["reward_num", 9], ["reward_type", 2], ["voice_id", 0]],
+          [["bg_id", 0], ["character_id", 0], ["character_name", ""], ["count", 7], ["description", ""], ["id", 593], ["login_bonus_id", 40019], ["reward_id", 25201], ["reward_num", 9], ["reward_type", 2], ["voice_id", 0]],
+          [["bg_id", 0], ["character_id", 0], ["character_name", ""], ["count", 4], ["description", ""], ["id", 580], ["login_bonus_id", 40019], ["reward_id", 25202], ["reward_num", 90], ["reward_type", 2], ["voice_id", 0]],
+          [["bg_id", 0], ["character_id", 0], ["character_name", ""], ["count", 3], ["description", ""], ["id", 576], ["login_bonus_id", 40019], ["reward_id", 25204], ["reward_num", 25], ["reward_type", 2], ["voice_id", 0]],
+          [["bg_id", 0], ["character_id", 0], ["character_name", ""], ["count", 1], ["description", ""], ["id", 562], ["login_bonus_id", 40019], ["reward_id", 25203], ["reward_num", 90], ["reward_type", 2], ["voice_id", 0]],
+          [["bg_id", 0], ["character_id", 0], ["character_name", ""], ["count", 2], ["description", ""], ["id", 567], ["login_bonus_id", 40019], ["reward_id", 25203], ["reward_num", 90], ["reward_type", 2], ["voice_id", 0]],
+          [["bg_id", 0], ["character_id", 0], ["character_name", ""], ["count", 6], ["description", ""], ["id", 591], ["login_bonus_id", 40019], ["reward_id", 25204], ["reward_num", 25], ["reward_type", 2], ["voice_id", 0]],
+          [["bg_id", 0], ["character_id", 0], ["character_name", ""], ["count", 3], ["description", ""], ["id", 575], ["login_bonus_id", 40019], ["reward_id", 25202], ["reward_num", 90], ["reward_type", 2], ["voice_id", 0]],
+          [["bg_id", 0], ["character_id", 0], ["character_name", ""], ["count", 2], ["description", ""], ["id", 568], ["login_bonus_id", 40019], ["reward_id", 25201], ["reward_num", 36], ["reward_type", 2], ["voice_id", 0]],
+          [["bg_id", 0], ["character_id", 0], ["character_name", ""], ["count", 8], ["description", ""], ["id", 600], ["login_bonus_id", 40019], ["reward_id", 25202], ["reward_num", 90], ["reward_type", 2], ["voice_id", 0]],
+          [["bg_id", 0], ["character_id", 0], ["character_name", ""], ["count", 7], ["description", ""], ["id", 595], ["login_bonus_id", 40019], ["reward_id", 25202], ["reward_num", 90], ["reward_type", 2], ["voice_id", 0]],
+          [["bg_id", 0], ["character_id", 0], ["character_name", ""], ["count", 5], ["description", ""], ["id", 583], ["login_bonus_id", 40019], ["reward_id", 25201], ["reward_num", 45], ["reward_type", 2], ["voice_id", 0]],
+          [["bg_id", 0], ["character_id", 0], ["character_name", ""], ["count", 3], ["description", ""], ["id", 573], ["login_bonus_id", 40019], ["reward_id", 25203], ["reward_num", 9], ["reward_type", 2], ["voice_id", 0]],
+          [["bg_id", 0], ["character_id", 0], ["character_name", ""], ["count", 8], ["description", ""], ["id", 601], ["login_bonus_id", 40019], ["reward_id", 25204], ["reward_num", 25], ["reward_type", 2], ["voice_id", 0]],
+          [["bg_id", 0], ["character_id", 0], ["character_name", ""], ["count", 1], ["description", ""], ["id", 564], ["login_bonus_id", 40019], ["reward_id", 25205], ["reward_num", 12], ["reward_type", 2], ["voice_id", 0]],
+          [["bg_id", 0], ["character_id", 0], ["character_name", ""], ["count", 1], ["description", ""], ["id", 566], ["login_bonus_id", 40019], ["reward_id", 25204], ["reward_num", 25], ["reward_type", 2], ["voice_id", 0]],
+          [["bg_id", 0], ["character_id", 0], ["character_name", ""], ["count", 4], ["description", ""], ["id", 579], ["login_bonus_id", 40019], ["reward_id", 25205], ["reward_num", 48], ["reward_type", 2], ["voice_id", 0]],
+          [["bg_id", 0], ["character_id", 0], ["character_name", ""], ["count", 2], ["description", ""], ["id", 569], ["login_bonus_id", 40019], ["reward_id", 25205], ["reward_num", 12], ["reward_type", 2], ["voice_id", 0]],
+          [["bg_id", 0], ["character_id", 0], ["character_name", ""], ["count", 2], ["description", ""], ["id", 571], ["login_bonus_id", 40019], ["reward_id", 25204], ["reward_num", 25], ["reward_type", 2], ["voice_id", 0]],
+          [["bg_id", 0], ["character_id", 0], ["character_name", ""], ["count", 1], ["description", ""], ["id", 563], ["login_bonus_id", 40019], ["reward_id", 25201], ["reward_num", 36], ["reward_type", 2], ["voice_id", 0]]
+        ]
+      }
+    },
+    "login_bonus_data": {
+      "data_changes": {
+        "added": [
+          [["adv_play_type", 0], ["bg_id", 40019], ["count_num", 8], ["count_type", 0], ["end_time", "2026/07/16 04:59:59"], ["login_bonus_id", 40019], ["login_bonus_type", 4], ["name", "連結RANK應援 特別登入獎勵"], ["odds_group_id", 0], ["stamp_id", 3], ["start_time", "2026/07/01 05:00:00"]]
+        ]
+      }
+    },
+    "campaign_schedule": {
+      "data_changes": {
+        "added": [
+          [["beginner_id", 0], ["campaign_category", 621], ["campaign_type", 1], ["duplication_order", 0], ["end_time", "2026/07/06 04:59:59"], ["icon_image", 30], ["id", 2879], ["level_id", 0], ["lv_from", 1], ["lv_to", -1], ["shiori_group_id", 0], ["start_time", "2026/07/01 05:00:00"], ["system_id", 130], ["value", 2000.0]],
+          [["beginner_id", 0], ["campaign_category", 76], ["campaign_type", 1], ["duplication_order", 0], ["end_time", "2026/07/08 04:59:59"], ["icon_image", 90], ["id", 2876], ["level_id", 0], ["lv_from", 1], ["lv_to", -1], ["shiori_group_id", 0], ["start_time", "2026/07/01 05:00:00"], ["system_id", 111], ["value", 3.0]],
+          [["beginner_id", 0], ["campaign_category", 39], ["campaign_type", 1], ["duplication_order", 0], ["end_time", "2026/07/18 04:59:59"], ["icon_image", 30], ["id", 2880], ["level_id", 0], ["lv_from", 331], ["lv_to", -1], ["shiori_group_id", 0], ["start_time", "2026/07/01 05:00:00"], ["system_id", 111], ["value", 2000.0]],
+          [["beginner_id", 0], ["campaign_category", 49], ["campaign_type", 1], ["duplication_order", 0], ["end_time", "2026/07/18 04:59:59"], ["icon_image", 40], ["id", 2881], ["level_id", 0], ["lv_from", 331], ["lv_to", -1], ["shiori_group_id", 0], ["start_time", "2026/07/01 05:00:00"], ["system_id", 111], ["value", 2000.0]],
+          [["beginner_id", 0], ["campaign_category", 44], ["campaign_type", 1], ["duplication_order", 0], ["end_time", "2026/07/07 04:59:59"], ["icon_image", 40], ["id", 2878], ["level_id", 0], ["lv_from", 1], ["lv_to", -1], ["shiori_group_id", 0], ["start_time", "2026/07/01 05:00:00"], ["system_id", 103], ["value", 2000.0]],
+          [["beginner_id", 0], ["campaign_category", 45], ["campaign_type", 1], ["duplication_order", 0], ["end_time", "2026/07/16 04:59:59"], ["icon_image", 40], ["id", 2875], ["level_id", 0], ["lv_from", 1], ["lv_to", -1], ["shiori_group_id", 0], ["start_time", "2026/07/01 05:00:00"], ["system_id", 104], ["value", 2000.0]],
+          [["beginner_id", 0], ["campaign_category", 34], ["campaign_type", 1], ["duplication_order", 0], ["end_time", "2026/07/07 04:59:59"], ["icon_image", 30], ["id", 2877], ["level_id", 0], ["lv_from", 1], ["lv_to", -1], ["shiori_group_id", 0], ["start_time", "2026/07/01 05:00:00"], ["system_id", 103], ["value", 2000.0]]
+        ]
+      }
+    },
+    "skill_action": {
+      "data_changes": {
+        "modified": [
+          {
+            "id": 135500106,
+            "old": [["action_detail_1", 1], ["action_detail_2", 13550102], ["action_detail_3", 0], ["action_id", 135500106], ["action_type", 22], ["action_value_1", 180.0], ["action_value_2", 0.0], ["action_value_3", 0.0], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", ""], ["level_up_disp", ""], ["target_area", 2], ["target_assignment", 2], ["target_count", 1], ["target_number", 0], ["target_range", 2160], ["target_type", 7]],
+            "new": [["action_detail_1", 1], ["action_detail_2", 13550102], ["action_detail_3", 0], ["action_id", 135500106], ["action_type", 22], ["action_value_1", -1.0], ["action_value_2", 0.0], ["action_value_3", 0.0], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", ""], ["level_up_disp", ""], ["target_area", 2], ["target_assignment", 2], ["target_count", 1], ["target_number", 0], ["target_range", 2160], ["target_type", 7]]
+          }
+        ]
+      }
+    },
+    "item_data": {
+      "data_changes": {
+        "added": [
+          [["description", "可以交換特定角色的券。"], ["end_time", "2030/08/01 14:59:59"], ["gojuon_order", 0], ["item_id", 27017], ["item_name", "特別交換券（限定+）"], ["item_type", 17], ["limit_num", 999], ["price", 0], ["promotion_level", 1], ["sell_check_disp", 0], ["start_time", "2026/07/01 00:00:00"], ["value", 0]],
+          [["description", "能夠交換特定EX★5配件的交換券。"], ["end_time", "2030/08/01 14:59:59"], ["gojuon_order", 0], ["item_id", 28504], ["item_name", "EX★5配件交換券"], ["item_type", 17], ["limit_num", 999], ["price", 0], ["promotion_level", 1], ["sell_check_disp", 0], ["start_time", "2026/07/01 00:00:00"], ["value", 0]]
+        ]
+      }
+    }
+  }
+}
