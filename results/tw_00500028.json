@@ -1,0 +1,72 @@
+{
+  "tables": {
+    "only_in_old_db": [],
+    "only_in_new_db": []
+  },
+  "table_changes": {
+    "enemy_m_parts": {
+      "data_changes": {
+        "added": [
+          [["child_enemy_parameter_1", 781002222], ["child_enemy_parameter_2", 781002223], ["child_enemy_parameter_3", 781002224], ["child_enemy_parameter_4", 0], ["child_enemy_parameter_5", 0], ["enemy_id", 781002221], ["name", "三重岩 難度HARD"]],
+          [["child_enemy_parameter_1", 781002122], ["child_enemy_parameter_2", 781002123], ["child_enemy_parameter_3", 781002124], ["child_enemy_parameter_4", 0], ["child_enemy_parameter_5", 0], ["enemy_id", 781002121], ["name", "三重岩 難度NORMAL"]],
+          [["child_enemy_parameter_1", 781002252], ["child_enemy_parameter_2", 781002253], ["child_enemy_parameter_3", 0], ["child_enemy_parameter_4", 0], ["child_enemy_parameter_5", 0], ["enemy_id", 781002251], ["name", "色慾之龍 難度HARD"]],
+          [["child_enemy_parameter_1", 781002152], ["child_enemy_parameter_2", 781002153], ["child_enemy_parameter_3", 0], ["child_enemy_parameter_4", 0], ["child_enemy_parameter_5", 0], ["enemy_id", 781002151], ["name", "色慾之龍 難度NORMAL"]],
+          [["child_enemy_parameter_1", 781002352], ["child_enemy_parameter_2", 781002353], ["child_enemy_parameter_3", 0], ["child_enemy_parameter_4", 0], ["child_enemy_parameter_5", 0], ["enemy_id", 781002351], ["name", "色慾之龍 難度VERY HARD"]],
+          [["child_enemy_parameter_1", 781002322], ["child_enemy_parameter_2", 781002323], ["child_enemy_parameter_3", 781002324], ["child_enemy_parameter_4", 0], ["child_enemy_parameter_5", 0], ["enemy_id", 781002321], ["name", "三重岩 難度VERY HARD"]]
+        ]
+      }
+    },
+    "item_data": {
+      "data_changes": {
+        "added": [
+          [["description", "此為透過寶物結算取得的特殊貨幣。可以用來在巡遊商店「賽季12」的標籤購買物品。"], ["end_time", "2030/08/01 14:59:59"], ["gojuon_order", 0], ["item_id", 96012], ["item_name", "巡遊幣（賽季12）"], ["item_type", 27], ["limit_num", 999999999], ["price", 0], ["promotion_level", 1], ["sell_check_disp", 0], ["start_time", "2015/12/17 15:00:00"], ["value", 0]]
+        ]
+      }
+    },
+    "enemy_talent_weakness": {
+      "data_changes": {
+        "added": [
+          [["enemy_id", 781002124], ["resist_id", 3000004]],
+          [["enemy_id", 781002311], ["resist_id", 3000004]],
+          [["enemy_id", 781002252], ["resist_id", 3000004]],
+          [["enemy_id", 781002111], ["resist_id", 3000004]],
+          [["enemy_id", 781002321], ["resist_id", 3000004]],
+          [["enemy_id", 781002141], ["resist_id", 3000004]],
+          [["enemy_id", 781002131], ["resist_id", 3000004]],
+          [["enemy_id", 781002121], ["resist_id", 3000004]],
+          [["enemy_id", 781002322], ["resist_id", 3000004]],
+          [["enemy_id", 781002351], ["resist_id", 3000004]],
+          [["enemy_id", 781002231], ["resist_id", 3000004]],
+          [["enemy_id", 781002211], ["resist_id", 3000004]],
+          [["enemy_id", 781002123], ["resist_id", 3000004]],
+          [["enemy_id", 781002323], ["resist_id", 3000004]],
+          [["enemy_id", 781002251], ["resist_id", 3000004]],
+          [["enemy_id", 781002241], ["resist_id", 3000004]],
+          [["enemy_id", 781002122], ["resist_id", 3000004]],
+          [["enemy_id", 781002352], ["resist_id", 3000004]],
+          [["enemy_id", 781002353], ["resist_id", 3000004]],
+          [["enemy_id", 781002341], ["resist_id", 3000004]],
+          [["enemy_id", 781002331], ["resist_id", 3000004]],
+          [["enemy_id", 781002222], ["resist_id", 3000004]],
+          [["enemy_id", 781002223], ["resist_id", 3000004]],
+          [["enemy_id", 781002151], ["resist_id", 3000004]],
+          [["enemy_id", 781002152], ["resist_id", 3000004]],
+          [["enemy_id", 781002224], ["resist_id", 3000004]],
+          [["enemy_id", 781002153], ["resist_id", 3000004]],
+          [["enemy_id", 781002324], ["resist_id", 3000004]],
+          [["enemy_id", 781002253], ["resist_id", 3000004]],
+          [["enemy_id", 781002221], ["resist_id", 3000004]]
+        ]
+      }
+    },
+    "campaign_schedule": {
+      "data_changes": {
+        "added": [
+          [["beginner_id", 0], ["campaign_category", 75], ["campaign_type", 1], ["duplication_order", 0], ["end_time", "2026/07/15 04:59:59"], ["icon_image", 90], ["id", 2883], ["level_id", 0], ["lv_from", 1], ["lv_to", -1], ["shiori_group_id", 0], ["start_time", "2026/07/08 05:00:00"], ["system_id", 102], ["value", 3.0]],
+          [["beginner_id", 0], ["campaign_category", 32], ["campaign_type", 1], ["duplication_order", 0], ["end_time", "2026/07/20 04:59:59"], ["icon_image", 30], ["id", 2884], ["level_id", 0], ["lv_from", 331], ["lv_to", -1], ["shiori_group_id", 0], ["start_time", "2026/07/08 05:00:00"], ["system_id", 102], ["value", 2000.0]],
+          [["beginner_id", 0], ["campaign_category", 42], ["campaign_type", 1], ["duplication_order", 0], ["end_time", "2026/07/20 04:59:59"], ["icon_image", 40], ["id", 2885], ["level_id", 0], ["lv_from", 331], ["lv_to", -1], ["shiori_group_id", 0], ["start_time", "2026/07/08 05:00:00"], ["system_id", 102], ["value", 2000.0]]
+        ]
+      }
+    }
+  }
+}
