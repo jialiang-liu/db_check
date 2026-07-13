@@ -1,0 +1,34 @@
+{
+  "tables": {
+    "only_in_old_db": [],
+    "only_in_new_db": []
+  },
+  "table_changes": {
+    "define_spskill": {
+      "data_changes": {
+        "added": [
+          [["base_skill_id", 1350001], ["link_skill_slot", 1350003], ["skill_category", 2], ["sp_skill_id", 1350102]]
+        ],
+        "deleted": [
+          [["base_skill_id", 1350001], ["link_skill_slot", 1350002], ["skill_category", 2], ["sp_skill_id", 1350102]]
+        ]
+      }
+    },
+    "skill_action": {
+      "data_changes": {
+        "modified": [
+          {
+            "id": 103001104,
+            "old": [["action_detail_1", 103001105], ["action_detail_2", 1], ["action_detail_3", 0], ["action_id", 103001104], ["action_type", 26], ["action_value_1", 2.0], ["action_value_2", 100.0], ["action_value_3", 0.0], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", ""], ["level_up_disp", ""], ["target_area", 1], ["target_assignment", 1], ["target_count", 99], ["target_number", 0], ["target_range", 815], ["target_type", 3]],
+            "new": [["action_detail_1", 103001105], ["action_detail_2", 1], ["action_detail_3", 0], ["action_id", 103001104], ["action_type", 26], ["action_value_1", 2.0], ["action_value_2", 200.0], ["action_value_3", 0.0], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", ""], ["level_up_disp", ""], ["target_area", 1], ["target_assignment", 1], ["target_count", 99], ["target_number", 0], ["target_range", 815], ["target_type", 3]]
+          },
+          {
+            "id": 103001102,
+            "old": [["action_detail_1", 103001103], ["action_detail_2", 2], ["action_detail_3", 0], ["action_id", 103001102], ["action_type", 26], ["action_value_1", 2.0], ["action_value_2", 24.0], ["action_value_3", 24.0], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", ""], ["level_up_disp", ""], ["target_area", 1], ["target_assignment", 1], ["target_count", 99], ["target_number", 0], ["target_range", 815], ["target_type", 3]],
+            "new": [["action_detail_1", 103001103], ["action_detail_2", 2], ["action_detail_3", 0], ["action_id", 103001102], ["action_type", 26], ["action_value_1", 2.0], ["action_value_2", 48.0], ["action_value_3", 48.0], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", ""], ["level_up_disp", ""], ["target_area", 1], ["target_assignment", 1], ["target_count", 99], ["target_number", 0], ["target_range", 815], ["target_type", 3]]
+          }
+        ]
+      }
+    }
+  }
+}
