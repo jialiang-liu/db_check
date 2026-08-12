@@ -1,0 +1,438 @@
+{
+  "tables": {
+    "only_in_old_db": [],
+    "only_in_new_db": [
+      "sre_announce_data",
+      "empress_sfc_special_adv",
+      "empress_wave_group_data",
+      "sre_add_parts_data",
+      "story_psa_adv_setting",
+      "empress_enemy_parameter",
+      "sre_adv",
+      "sre_enemy_parameter_override",
+      "sre_tutorial_data",
+      "empress_boss_reward",
+      "sre_main_boss_display",
+      "empress_quest_data",
+      "story_psa_param",
+      "story_force_continuous",
+      "empress_cinema_chara_type",
+      "empress_sfc_navi_comment",
+      "sre_map_data",
+      "empress_setting"
+    ]
+  },
+  "table_changes": {
+    "labyrinth_quest_data": {
+      "data_changes": {
+        "added": [
+          [["limit_time", 85], ["quest_id", 770523010], ["quest_type", 4], ["reward_id", 1054], ["wave_group_id", 770523001]],
+          [["limit_time", 90], ["quest_id", 770523009], ["quest_type", 4], ["reward_id", 954], ["wave_group_id", 770523001]],
+          [["limit_time", 90], ["quest_id", 770422708], ["quest_type", 4], ["reward_id", 844], ["wave_group_id", 770422701]],
+          [["limit_time", 85], ["quest_id", 770423010], ["quest_type", 4], ["reward_id", 1044], ["wave_group_id", 770423001]],
+          [["limit_time", 90], ["quest_id", 770422807], ["quest_type", 4], ["reward_id", 744], ["wave_group_id", 770422801]],
+          [["limit_time", 90], ["quest_id", 770422908], ["quest_type", 4], ["reward_id", 844], ["wave_group_id", 770422901]],
+          [["limit_time", 85], ["quest_id", 770422910], ["quest_type", 4], ["reward_id", 1044], ["wave_group_id", 770422901]],
+          [["limit_time", 90], ["quest_id", 770422707], ["quest_type", 4], ["reward_id", 744], ["wave_group_id", 770422701]],
+          [["limit_time", 90], ["quest_id", 770423007], ["quest_type", 4], ["reward_id", 744], ["wave_group_id", 770423001]],
+          [["limit_time", 90], ["quest_id", 770521302], ["quest_type", 4], ["reward_id", 354], ["wave_group_id", 770521301]],
+          [["limit_time", 90], ["quest_id", 770522909], ["quest_type", 4], ["reward_id", 954], ["wave_group_id", 770522901]],
+          [["limit_time", 90], ["quest_id", 770421402], ["quest_type", 4], ["reward_id", 344], ["wave_group_id", 770421401]],
+          [["limit_time", 90], ["quest_id", 770523008], ["quest_type", 4], ["reward_id", 854], ["wave_group_id", 770523001]],
+          [["limit_time", 90], ["quest_id", 770522906], ["quest_type", 4], ["reward_id", 654], ["wave_group_id", 770522901]],
+          [["limit_time", 90], ["quest_id", 770522809], ["quest_type", 4], ["reward_id", 954], ["wave_group_id", 770522801]],
+          [["limit_time", 90], ["quest_id", 770422806], ["quest_type", 4], ["reward_id", 644], ["wave_group_id", 770422801]],
+          [["limit_time", 90], ["quest_id", 770523006], ["quest_type", 4], ["reward_id", 654], ["wave_group_id", 770523001]],
+          [["limit_time", 90], ["quest_id", 770422809], ["quest_type", 4], ["reward_id", 944], ["wave_group_id", 770422801]],
+          [["limit_time", 85], ["quest_id", 770522910], ["quest_type", 4], ["reward_id", 1054], ["wave_group_id", 770522901]],
+          [["limit_time", 90], ["quest_id", 770421302], ["quest_type", 4], ["reward_id", 344], ["wave_group_id", 770421301]],
+          [["limit_time", 85], ["quest_id", 770522810], ["quest_type", 4], ["reward_id", 1054], ["wave_group_id", 770522801]],
+          [["limit_time", 90], ["quest_id", 770423006], ["quest_type", 4], ["reward_id", 644], ["wave_group_id", 770423001]],
+          [["limit_time", 90], ["quest_id", 770422808], ["quest_type", 4], ["reward_id", 844], ["wave_group_id", 770422801]],
+          [["limit_time", 85], ["quest_id", 770422810], ["quest_type", 4], ["reward_id", 1044], ["wave_group_id", 770422801]],
+          [["limit_time", 90], ["quest_id", 770523007], ["quest_type", 4], ["reward_id", 754], ["wave_group_id", 770523001]],
+          [["limit_time", 85], ["quest_id", 770522710], ["quest_type", 4], ["reward_id", 1054], ["wave_group_id", 770522701]],
+          [["limit_time", 90], ["quest_id", 770422709], ["quest_type", 4], ["reward_id", 944], ["wave_group_id", 770422701]],
+          [["limit_time", 90], ["quest_id", 770522908], ["quest_type", 4], ["reward_id", 854], ["wave_group_id", 770522901]],
+          [["limit_time", 90], ["quest_id", 770423009], ["quest_type", 4], ["reward_id", 944], ["wave_group_id", 770423001]],
+          [["limit_time", 90], ["quest_id", 770422706], ["quest_type", 4], ["reward_id", 644], ["wave_group_id", 770422701]],
+          [["limit_time", 90], ["quest_id", 770522708], ["quest_type", 4], ["reward_id", 854], ["wave_group_id", 770522701]],
+          [["limit_time", 90], ["quest_id", 770522806], ["quest_type", 4], ["reward_id", 654], ["wave_group_id", 770522801]],
+          [["limit_time", 90], ["quest_id", 770521402], ["quest_type", 4], ["reward_id", 354], ["wave_group_id", 770521401]],
+          [["limit_time", 90], ["quest_id", 770522706], ["quest_type", 4], ["reward_id", 654], ["wave_group_id", 770522701]],
+          [["limit_time", 90], ["quest_id", 770522808], ["quest_type", 4], ["reward_id", 854], ["wave_group_id", 770522801]],
+          [["limit_time", 90], ["quest_id", 770423008], ["quest_type", 4], ["reward_id", 844], ["wave_group_id", 770423001]],
+          [["limit_time", 90], ["quest_id", 770422906], ["quest_type", 4], ["reward_id", 644], ["wave_group_id", 770422901]],
+          [["limit_time", 90], ["quest_id", 770522807], ["quest_type", 4], ["reward_id", 754], ["wave_group_id", 770522801]],
+          [["limit_time", 90], ["quest_id", 770522709], ["quest_type", 4], ["reward_id", 954], ["wave_group_id", 770522701]],
+          [["limit_time", 85], ["quest_id", 770422710], ["quest_type", 4], ["reward_id", 1044], ["wave_group_id", 770422701]],
+          [["limit_time", 90], ["quest_id", 770522707], ["quest_type", 4], ["reward_id", 754], ["wave_group_id", 770522701]],
+          [["limit_time", 90], ["quest_id", 770422907], ["quest_type", 4], ["reward_id", 744], ["wave_group_id", 770422901]],
+          [["limit_time", 90], ["quest_id", 770422909], ["quest_type", 4], ["reward_id", 944], ["wave_group_id", 770422901]],
+          [["limit_time", 90], ["quest_id", 770522907], ["quest_type", 4], ["reward_id", 754], ["wave_group_id", 770522901]]
+        ]
+      }
+    },
+    "still": {
+      "data_changes": {
+        "added": [
+          [["album_ignore", 1], ["facial_id", 1], ["my_page_flag", 0], ["position_y", 0], ["scroll_direction", 0], ["still_group_id", 0], ["still_id", 900670108], ["story_group_id", 9006], ["story_id", 9006701], ["unit_id_1", 0], ["unit_id_10", 0], ["unit_id_2", 0], ["unit_id_3", 0], ["unit_id_4", 0], ["unit_id_5", 0], ["unit_id_6", 0], ["unit_id_7", 0], ["unit_id_8", 0], ["unit_id_9", 0], ["vertical_still_flg", 0]],
+          [["album_ignore", 1], ["facial_id", 1], ["my_page_flag", 0], ["position_y", 0], ["scroll_direction", 0], ["still_group_id", 0], ["still_id", 900670106], ["story_group_id", 9006], ["story_id", 9006701], ["unit_id_1", 0], ["unit_id_10", 0], ["unit_id_2", 0], ["unit_id_3", 0], ["unit_id_4", 0], ["unit_id_5", 0], ["unit_id_6", 0], ["unit_id_7", 0], ["unit_id_8", 0], ["unit_id_9", 0], ["vertical_still_flg", 0]],
+          [["album_ignore", 1], ["facial_id", 1], ["my_page_flag", 0], ["position_y", 0], ["scroll_direction", 0], ["still_group_id", 0], ["still_id", 900670113], ["story_group_id", 9006], ["story_id", 9006701], ["unit_id_1", 0], ["unit_id_10", 0], ["unit_id_2", 0], ["unit_id_3", 0], ["unit_id_4", 0], ["unit_id_5", 0], ["unit_id_6", 0], ["unit_id_7", 0], ["unit_id_8", 0], ["unit_id_9", 0], ["vertical_still_flg", 0]],
+          [["album_ignore", 1], ["facial_id", 1], ["my_page_flag", 0], ["position_y", 0], ["scroll_direction", 0], ["still_group_id", 0], ["still_id", 900670104], ["story_group_id", 9006], ["story_id", 9006701], ["unit_id_1", 0], ["unit_id_10", 0], ["unit_id_2", 0], ["unit_id_3", 0], ["unit_id_4", 0], ["unit_id_5", 0], ["unit_id_6", 0], ["unit_id_7", 0], ["unit_id_8", 0], ["unit_id_9", 0], ["vertical_still_flg", 0]],
+          [["album_ignore", 1], ["facial_id", 1], ["my_page_flag", 0], ["position_y", 0], ["scroll_direction", 0], ["still_group_id", 0], ["still_id", 900670110], ["story_group_id", 9006], ["story_id", 9006701], ["unit_id_1", 0], ["unit_id_10", 0], ["unit_id_2", 0], ["unit_id_3", 0], ["unit_id_4", 0], ["unit_id_5", 0], ["unit_id_6", 0], ["unit_id_7", 0], ["unit_id_8", 0], ["unit_id_9", 0], ["vertical_still_flg", 0]],
+          [["album_ignore", 1], ["facial_id", 1], ["my_page_flag", 0], ["position_y", 0], ["scroll_direction", 0], ["still_group_id", 0], ["still_id", 900670102], ["story_group_id", 9006], ["story_id", 9006701], ["unit_id_1", 0], ["unit_id_10", 0], ["unit_id_2", 0], ["unit_id_3", 0], ["unit_id_4", 0], ["unit_id_5", 0], ["unit_id_6", 0], ["unit_id_7", 0], ["unit_id_8", 0], ["unit_id_9", 0], ["vertical_still_flg", 0]],
+          [["album_ignore", 1], ["facial_id", 1], ["my_page_flag", 0], ["position_y", 0], ["scroll_direction", 0], ["still_group_id", 0], ["still_id", 900670105], ["story_group_id", 9006], ["story_id", 9006701], ["unit_id_1", 0], ["unit_id_10", 0], ["unit_id_2", 0], ["unit_id_3", 0], ["unit_id_4", 0], ["unit_id_5", 0], ["unit_id_6", 0], ["unit_id_7", 0], ["unit_id_8", 0], ["unit_id_9", 0], ["vertical_still_flg", 0]],
+          [["album_ignore", 1], ["facial_id", 1], ["my_page_flag", 0], ["position_y", 0], ["scroll_direction", 0], ["still_group_id", 0], ["still_id", 900670103], ["story_group_id", 9006], ["story_id", 9006701], ["unit_id_1", 0], ["unit_id_10", 0], ["unit_id_2", 0], ["unit_id_3", 0], ["unit_id_4", 0], ["unit_id_5", 0], ["unit_id_6", 0], ["unit_id_7", 0], ["unit_id_8", 0], ["unit_id_9", 0], ["vertical_still_flg", 0]],
+          [["album_ignore", 1], ["facial_id", 1], ["my_page_flag", 0], ["position_y", 0], ["scroll_direction", 0], ["still_group_id", 0], ["still_id", 900670101], ["story_group_id", 9006], ["story_id", 9006701], ["unit_id_1", 0], ["unit_id_10", 0], ["unit_id_2", 0], ["unit_id_3", 0], ["unit_id_4", 0], ["unit_id_5", 0], ["unit_id_6", 0], ["unit_id_7", 0], ["unit_id_8", 0], ["unit_id_9", 0], ["vertical_still_flg", 0]],
+          [["album_ignore", 1], ["facial_id", 1], ["my_page_flag", 0], ["position_y", 0], ["scroll_direction", 0], ["still_group_id", 0], ["still_id", 900670114], ["story_group_id", 9006], ["story_id", 9006701], ["unit_id_1", 0], ["unit_id_10", 0], ["unit_id_2", 0], ["unit_id_3", 0], ["unit_id_4", 0], ["unit_id_5", 0], ["unit_id_6", 0], ["unit_id_7", 0], ["unit_id_8", 0], ["unit_id_9", 0], ["vertical_still_flg", 0]],
+          [["album_ignore", 1], ["facial_id", 1], ["my_page_flag", 0], ["position_y", 0], ["scroll_direction", 0], ["still_group_id", 0], ["still_id", 900670107], ["story_group_id", 9006], ["story_id", 9006701], ["unit_id_1", 0], ["unit_id_10", 0], ["unit_id_2", 0], ["unit_id_3", 0], ["unit_id_4", 0], ["unit_id_5", 0], ["unit_id_6", 0], ["unit_id_7", 0], ["unit_id_8", 0], ["unit_id_9", 0], ["vertical_still_flg", 0]],
+          [["album_ignore", 1], ["facial_id", 1], ["my_page_flag", 0], ["position_y", 0], ["scroll_direction", 0], ["still_group_id", 0], ["still_id", 900670112], ["story_group_id", 9006], ["story_id", 9006701], ["unit_id_1", 0], ["unit_id_10", 0], ["unit_id_2", 0], ["unit_id_3", 0], ["unit_id_4", 0], ["unit_id_5", 0], ["unit_id_6", 0], ["unit_id_7", 0], ["unit_id_8", 0], ["unit_id_9", 0], ["vertical_still_flg", 0]],
+          [["album_ignore", 1], ["facial_id", 1], ["my_page_flag", 0], ["position_y", 0], ["scroll_direction", 0], ["still_group_id", 0], ["still_id", 900670111], ["story_group_id", 9006], ["story_id", 9006701], ["unit_id_1", 0], ["unit_id_10", 0], ["unit_id_2", 0], ["unit_id_3", 0], ["unit_id_4", 0], ["unit_id_5", 0], ["unit_id_6", 0], ["unit_id_7", 0], ["unit_id_8", 0], ["unit_id_9", 0], ["vertical_still_flg", 0]],
+          [["album_ignore", 1], ["facial_id", 1], ["my_page_flag", 0], ["position_y", 0], ["scroll_direction", 0], ["still_group_id", 0], ["still_id", 900670109], ["story_group_id", 9006], ["story_id", 9006701], ["unit_id_1", 0], ["unit_id_10", 0], ["unit_id_2", 0], ["unit_id_3", 0], ["unit_id_4", 0], ["unit_id_5", 0], ["unit_id_6", 0], ["unit_id_7", 0], ["unit_id_8", 0], ["unit_id_9", 0], ["vertical_still_flg", 0]],
+          [["album_ignore", 1], ["facial_id", 1], ["my_page_flag", 0], ["position_y", 0], ["scroll_direction", 0], ["still_group_id", 0], ["still_id", 900670115], ["story_group_id", 9006], ["story_id", 9006701], ["unit_id_1", 0], ["unit_id_10", 0], ["unit_id_2", 0], ["unit_id_3", 0], ["unit_id_4", 0], ["unit_id_5", 0], ["unit_id_6", 0], ["unit_id_7", 0], ["unit_id_8", 0], ["unit_id_9", 0], ["vertical_still_flg", 0]]
+        ]
+      }
+    },
+    "labyrinth_setting": {
+      "data_changes": {
+        "added": [
+          [["setting_id", 226], ["value", 1500]],
+          [["setting_id", 15], ["value", 3]]
+        ]
+      }
+    },
+    "unit_enemy_data": {
+      "data_changes": {
+        "added": [
+          [["atk_type", 1], ["comment", "【物理】一騎当千、万夫不当の実力を揮う寡黙な\\n剣士。覚醒することで、龍は更なる高みへと昇る。\\n\\n【特殊効果】\\n・全スキルダメージＴＰ回復減少\\n【ユニオンバースト】\\n・敵全体に物理割合ダメージ（飛行効果無視・\\n　ＴＰ回復不可）\\n・自身の物理攻撃力が高いほど：ダメージアップ\\n・敵全体に物理／魔法攻撃力ダウン（飛行効果無\\n　視・必中）\\n【スキル１】\\n・敵全体に物理ダメージ（ＴＰ回復不可）\\n・敵全体にスタン（必中）\\n【スキル２】\\n・前から敵１体に物理ダメージ\\n・前から敵１体をノックバック（必中）\\n【スキル３】\\n・自身にＴＰ上昇アップ\\n・自身に行動速度アップ\\n・自身に物理攻撃力アップ\\n・発動するたび：効果量アップ\\n・３回目の発動時：ＴＰ上昇アップの代わりに\\n　ＴＰ回復"], ["cutin", 313900], ["cutin_star6", 313900], ["motion_type", 0], ["move_speed", 270], ["normal_atk_cast_time", 1.0], ["prefab_id", 313902], ["se_type", 16], ["search_area_width", 3000], ["unit_id", 313903], ["unit_name", "ゼーン"], ["visual_change_flag", 0]]
+        ]
+      }
+    },
+    "labyrinth_quest_data_display": {
+      "data_changes": {
+        "added": [
+          [["battle_bg_id", 102891], ["detail_bg_id", 102891], ["detail_bg_position", -100], ["enemy_position_x_1", -100], ["enemy_position_x_2", 100], ["enemy_position_x_3", 0], ["enemy_position_x_4", 0], ["enemy_position_x_5", 0], ["enemy_position_y_1", 0], ["enemy_position_y_2", 0], ["enemy_position_y_3", 0], ["enemy_position_y_4", 0], ["enemy_position_y_5", 0], ["enemy_size_1", 0.65], ["enemy_size_2", 1.25], ["enemy_size_3", 0.8], ["enemy_size_4", 0.8], ["enemy_size_5", 0.8], ["quest_id", 770522907], ["quest_name", "バトルマス（HELL）"]],
+          [["battle_bg_id", 102861], ["detail_bg_id", 102861], ["detail_bg_position", -100], ["enemy_position_x_1", -100], ["enemy_position_x_2", 100], ["enemy_position_x_3", 0], ["enemy_position_x_4", 0], ["enemy_position_x_5", 0], ["enemy_position_y_1", 0], ["enemy_position_y_2", 0], ["enemy_position_y_3", 0], ["enemy_position_y_4", 0], ["enemy_position_y_5", 0], ["enemy_size_1", 1.05], ["enemy_size_2", 1.0], ["enemy_size_3", 0.8], ["enemy_size_4", 0.8], ["enemy_size_5", 0.8], ["quest_id", 770422807], ["quest_name", "バトルマス（HELL）"]],
+          [["battle_bg_id", 102861], ["detail_bg_id", 102861], ["detail_bg_position", -100], ["enemy_position_x_1", -100], ["enemy_position_x_2", 100], ["enemy_position_x_3", 0], ["enemy_position_x_4", 0], ["enemy_position_x_5", 0], ["enemy_position_y_1", 0], ["enemy_position_y_2", 0], ["enemy_position_y_3", 0], ["enemy_position_y_4", 0], ["enemy_position_y_5", 0], ["enemy_size_1", 1.05], ["enemy_size_2", 1.0], ["enemy_size_3", 0.8], ["enemy_size_4", 0.8], ["enemy_size_5", 0.8], ["quest_id", 770422808], ["quest_name", "バトルマス（HELL）"]],
+          [["battle_bg_id", 103111], ["detail_bg_id", 103111], ["detail_bg_position", -100], ["enemy_position_x_1", -100], ["enemy_position_x_2", 100], ["enemy_position_x_3", 0], ["enemy_position_x_4", 0], ["enemy_position_x_5", 0], ["enemy_position_y_1", 0], ["enemy_position_y_2", 0], ["enemy_position_y_3", 0], ["enemy_position_y_4", 0], ["enemy_position_y_5", 0], ["enemy_size_1", 0.9], ["enemy_size_2", 1.0], ["enemy_size_3", 0.8], ["enemy_size_4", 0.8], ["enemy_size_5", 0.8], ["quest_id", 770423009], ["quest_name", "バトルマス（HELL）"]],
+          [["battle_bg_id", 103111], ["detail_bg_id", 103111], ["detail_bg_position", -100], ["enemy_position_x_1", -100], ["enemy_position_x_2", 100], ["enemy_position_x_3", 0], ["enemy_position_x_4", 0], ["enemy_position_x_5", 0], ["enemy_position_y_1", 0], ["enemy_position_y_2", 0], ["enemy_position_y_3", 0], ["enemy_position_y_4", 0], ["enemy_position_y_5", 0], ["enemy_size_1", 0.9], ["enemy_size_2", 1.0], ["enemy_size_3", 0.8], ["enemy_size_4", 0.8], ["enemy_size_5", 0.8], ["quest_id", 770423008], ["quest_name", "バトルマス（HELL）"]],
+          [["battle_bg_id", 102891], ["detail_bg_id", 102891], ["detail_bg_position", -100], ["enemy_position_x_1", -100], ["enemy_position_x_2", 100], ["enemy_position_x_3", 0], ["enemy_position_x_4", 0], ["enemy_position_x_5", 0], ["enemy_position_y_1", 0], ["enemy_position_y_2", 0], ["enemy_position_y_3", 0], ["enemy_position_y_4", 0], ["enemy_position_y_5", 0], ["enemy_size_1", 0.65], ["enemy_size_2", 1.25], ["enemy_size_3", 0.8], ["enemy_size_4", 0.8], ["enemy_size_5", 0.8], ["quest_id", 770422907], ["quest_name", "バトルマス（HELL）"]],
+          [["battle_bg_id", 102891], ["detail_bg_id", 102891], ["detail_bg_position", -100], ["enemy_position_x_1", -100], ["enemy_position_x_2", 100], ["enemy_position_x_3", 0], ["enemy_position_x_4", 0], ["enemy_position_x_5", 0], ["enemy_position_y_1", 0], ["enemy_position_y_2", 0], ["enemy_position_y_3", 0], ["enemy_position_y_4", 0], ["enemy_position_y_5", 0], ["enemy_size_1", 0.65], ["enemy_size_2", 1.25], ["enemy_size_3", 0.8], ["enemy_size_4", 0.8], ["enemy_size_5", 0.8], ["quest_id", 770422909], ["quest_name", "バトルマス（HELL）"]],
+          [["battle_bg_id", 101191], ["detail_bg_id", 101191], ["detail_bg_position", -100], ["enemy_position_x_1", -100], ["enemy_position_x_2", 100], ["enemy_position_x_3", 0], ["enemy_position_x_4", 0], ["enemy_position_x_5", 0], ["enemy_position_y_1", 0], ["enemy_position_y_2", 0], ["enemy_position_y_3", 0], ["enemy_position_y_4", 0], ["enemy_position_y_5", 0], ["enemy_size_1", 0.8], ["enemy_size_2", 1.0], ["enemy_size_3", 0.8], ["enemy_size_4", 0.8], ["enemy_size_5", 0.8], ["quest_id", 770422709], ["quest_name", "バトルマス（HELL）"]],
+          [["battle_bg_id", 102891], ["detail_bg_id", 102891], ["detail_bg_position", -100], ["enemy_position_x_1", -100], ["enemy_position_x_2", 100], ["enemy_position_x_3", 0], ["enemy_position_x_4", 0], ["enemy_position_x_5", 0], ["enemy_position_y_1", 0], ["enemy_position_y_2", 0], ["enemy_position_y_3", 0], ["enemy_position_y_4", 0], ["enemy_position_y_5", 0], ["enemy_size_1", 0.65], ["enemy_size_2", 1.25], ["enemy_size_3", 0.8], ["enemy_size_4", 0.8], ["enemy_size_5", 0.8], ["quest_id", 770422910], ["quest_name", "バトルマス（HELL）"]],
+          [["battle_bg_id", 102861], ["detail_bg_id", 102861], ["detail_bg_position", -100], ["enemy_position_x_1", -100], ["enemy_position_x_2", 100], ["enemy_position_x_3", 0], ["enemy_position_x_4", 0], ["enemy_position_x_5", 0], ["enemy_position_y_1", 0], ["enemy_position_y_2", 0], ["enemy_position_y_3", 0], ["enemy_position_y_4", 0], ["enemy_position_y_5", 0], ["enemy_size_1", 1.05], ["enemy_size_2", 1.0], ["enemy_size_3", 0.8], ["enemy_size_4", 0.8], ["enemy_size_5", 0.8], ["quest_id", 770521402], ["quest_name", "バトルマス（HELL）"]],
+          [["battle_bg_id", 101191], ["detail_bg_id", 101191], ["detail_bg_position", -100], ["enemy_position_x_1", -100], ["enemy_position_x_2", 100], ["enemy_position_x_3", 0], ["enemy_position_x_4", 0], ["enemy_position_x_5", 0], ["enemy_position_y_1", 0], ["enemy_position_y_2", 0], ["enemy_position_y_3", 0], ["enemy_position_y_4", 0], ["enemy_position_y_5", 0], ["enemy_size_1", 0.8], ["enemy_size_2", 1.0], ["enemy_size_3", 0.8], ["enemy_size_4", 0.8], ["enemy_size_5", 0.8], ["quest_id", 770522708], ["quest_name", "バトルマス（HELL）"]],
+          [["battle_bg_id", 102861], ["detail_bg_id", 102861], ["detail_bg_position", -100], ["enemy_position_x_1", -100], ["enemy_position_x_2", 100], ["enemy_position_x_3", 0], ["enemy_position_x_4", 0], ["enemy_position_x_5", 0], ["enemy_position_y_1", 0], ["enemy_position_y_2", 0], ["enemy_position_y_3", 0], ["enemy_position_y_4", 0], ["enemy_position_y_5", 0], ["enemy_size_1", 1.05], ["enemy_size_2", 1.0], ["enemy_size_3", 0.8], ["enemy_size_4", 0.8], ["enemy_size_5", 0.8], ["quest_id", 770421402], ["quest_name", "バトルマス（HELL）"]],
+          [["battle_bg_id", 102861], ["detail_bg_id", 102861], ["detail_bg_position", -100], ["enemy_position_x_1", -100], ["enemy_position_x_2", 100], ["enemy_position_x_3", 0], ["enemy_position_x_4", 0], ["enemy_position_x_5", 0], ["enemy_position_y_1", 0], ["enemy_position_y_2", 0], ["enemy_position_y_3", 0], ["enemy_position_y_4", 0], ["enemy_position_y_5", 0], ["enemy_size_1", 1.05], ["enemy_size_2", 1.0], ["enemy_size_3", 0.8], ["enemy_size_4", 0.8], ["enemy_size_5", 0.8], ["quest_id", 770522808], ["quest_name", "バトルマス（HELL）"]],
+          [["battle_bg_id", 102891], ["detail_bg_id", 102891], ["detail_bg_position", -100], ["enemy_position_x_1", -100], ["enemy_position_x_2", 100], ["enemy_position_x_3", 0], ["enemy_position_x_4", 0], ["enemy_position_x_5", 0], ["enemy_position_y_1", 0], ["enemy_position_y_2", 0], ["enemy_position_y_3", 0], ["enemy_position_y_4", 0], ["enemy_position_y_5", 0], ["enemy_size_1", 0.65], ["enemy_size_2", 1.25], ["enemy_size_3", 0.8], ["enemy_size_4", 0.8], ["enemy_size_5", 0.8], ["quest_id", 770522909], ["quest_name", "バトルマス（HELL）"]],
+          [["battle_bg_id", 102861], ["detail_bg_id", 102861], ["detail_bg_position", -100], ["enemy_position_x_1", -100], ["enemy_position_x_2", 100], ["enemy_position_x_3", 0], ["enemy_position_x_4", 0], ["enemy_position_x_5", 0], ["enemy_position_y_1", 0], ["enemy_position_y_2", 0], ["enemy_position_y_3", 0], ["enemy_position_y_4", 0], ["enemy_position_y_5", 0], ["enemy_size_1", 1.05], ["enemy_size_2", 1.0], ["enemy_size_3", 0.8], ["enemy_size_4", 0.8], ["enemy_size_5", 0.8], ["quest_id", 770422809], ["quest_name", "バトルマス（HELL）"]],
+          [["battle_bg_id", 103111], ["detail_bg_id", 103111], ["detail_bg_position", -100], ["enemy_position_x_1", -100], ["enemy_position_x_2", 100], ["enemy_position_x_3", 0], ["enemy_position_x_4", 0], ["enemy_position_x_5", 0], ["enemy_position_y_1", 0], ["enemy_position_y_2", 0], ["enemy_position_y_3", 0], ["enemy_position_y_4", 0], ["enemy_position_y_5", 0], ["enemy_size_1", 0.9], ["enemy_size_2", 1.0], ["enemy_size_3", 0.8], ["enemy_size_4", 0.8], ["enemy_size_5", 0.8], ["quest_id", 770423010], ["quest_name", "バトルマス（HELL）"]],
+          [["battle_bg_id", 101191], ["detail_bg_id", 101191], ["detail_bg_position", -100], ["enemy_position_x_1", -100], ["enemy_position_x_2", 100], ["enemy_position_x_3", 0], ["enemy_position_x_4", 0], ["enemy_position_x_5", 0], ["enemy_position_y_1", 0], ["enemy_position_y_2", 0], ["enemy_position_y_3", 0], ["enemy_position_y_4", 0], ["enemy_position_y_5", 0], ["enemy_size_1", 0.8], ["enemy_size_2", 1.0], ["enemy_size_3", 0.8], ["enemy_size_4", 0.8], ["enemy_size_5", 0.8], ["quest_id", 770521302], ["quest_name", "バトルマス（HELL）"]],
+          [["battle_bg_id", 103111], ["detail_bg_id", 103111], ["detail_bg_position", -100], ["enemy_position_x_1", -100], ["enemy_position_x_2", 100], ["enemy_position_x_3", 0], ["enemy_position_x_4", 0], ["enemy_position_x_5", 0], ["enemy_position_y_1", 0], ["enemy_position_y_2", 0], ["enemy_position_y_3", 0], ["enemy_position_y_4", 0], ["enemy_position_y_5", 0], ["enemy_size_1", 0.9], ["enemy_size_2", 1.0], ["enemy_size_3", 0.8], ["enemy_size_4", 0.8], ["enemy_size_5", 0.8], ["quest_id", 770523007], ["quest_name", "バトルマス（HELL）"]],
+          [["battle_bg_id", 103111], ["detail_bg_id", 103111], ["detail_bg_position", -100], ["enemy_position_x_1", -100], ["enemy_position_x_2", 100], ["enemy_position_x_3", 0], ["enemy_position_x_4", 0], ["enemy_position_x_5", 0], ["enemy_position_y_1", 0], ["enemy_position_y_2", 0], ["enemy_position_y_3", 0], ["enemy_position_y_4", 0], ["enemy_position_y_5", 0], ["enemy_size_1", 0.9], ["enemy_size_2", 1.0], ["enemy_size_3", 0.8], ["enemy_size_4", 0.8], ["enemy_size_5", 0.8], ["quest_id", 770523008], ["quest_name", "バトルマス（HELL）"]],
+          [["battle_bg_id", 102891], ["detail_bg_id", 102891], ["detail_bg_position", -100], ["enemy_position_x_1", -100], ["enemy_position_x_2", 100], ["enemy_position_x_3", 0], ["enemy_position_x_4", 0], ["enemy_position_x_5", 0], ["enemy_position_y_1", 0], ["enemy_position_y_2", 0], ["enemy_position_y_3", 0], ["enemy_position_y_4", 0], ["enemy_position_y_5", 0], ["enemy_size_1", 0.65], ["enemy_size_2", 1.25], ["enemy_size_3", 0.8], ["enemy_size_4", 0.8], ["enemy_size_5", 0.8], ["quest_id", 770522908], ["quest_name", "バトルマス（HELL）"]],
+          [["battle_bg_id", 102861], ["detail_bg_id", 102861], ["detail_bg_position", -100], ["enemy_position_x_1", -100], ["enemy_position_x_2", 100], ["enemy_position_x_3", 0], ["enemy_position_x_4", 0], ["enemy_position_x_5", 0], ["enemy_position_y_1", 0], ["enemy_position_y_2", 0], ["enemy_position_y_3", 0], ["enemy_position_y_4", 0], ["enemy_position_y_5", 0], ["enemy_size_1", 1.05], ["enemy_size_2", 1.0], ["enemy_size_3", 0.8], ["enemy_size_4", 0.8], ["enemy_size_5", 0.8], ["quest_id", 770522810], ["quest_name", "バトルマス（HELL）"]],
+          [["battle_bg_id", 101191], ["detail_bg_id", 101191], ["detail_bg_position", -100], ["enemy_position_x_1", -100], ["enemy_position_x_2", 100], ["enemy_position_x_3", 0], ["enemy_position_x_4", 0], ["enemy_position_x_5", 0], ["enemy_position_y_1", 0], ["enemy_position_y_2", 0], ["enemy_position_y_3", 0], ["enemy_position_y_4", 0], ["enemy_position_y_5", 0], ["enemy_size_1", 0.8], ["enemy_size_2", 1.0], ["enemy_size_3", 0.8], ["enemy_size_4", 0.8], ["enemy_size_5", 0.8], ["quest_id", 770422710], ["quest_name", "バトルマス（HELL）"]],
+          [["battle_bg_id", 102861], ["detail_bg_id", 102861], ["detail_bg_position", -100], ["enemy_position_x_1", -100], ["enemy_position_x_2", 100], ["enemy_position_x_3", 0], ["enemy_position_x_4", 0], ["enemy_position_x_5", 0], ["enemy_position_y_1", 0], ["enemy_position_y_2", 0], ["enemy_position_y_3", 0], ["enemy_position_y_4", 0], ["enemy_position_y_5", 0], ["enemy_size_1", 1.05], ["enemy_size_2", 1.0], ["enemy_size_3", 0.8], ["enemy_size_4", 0.8], ["enemy_size_5", 0.8], ["quest_id", 770422810], ["quest_name", "バトルマス（HELL）"]],
+          [["battle_bg_id", 102891], ["detail_bg_id", 102891], ["detail_bg_position", -100], ["enemy_position_x_1", -100], ["enemy_position_x_2", 100], ["enemy_position_x_3", 0], ["enemy_position_x_4", 0], ["enemy_position_x_5", 0], ["enemy_position_y_1", 0], ["enemy_position_y_2", 0], ["enemy_position_y_3", 0], ["enemy_position_y_4", 0], ["enemy_position_y_5", 0], ["enemy_size_1", 0.65], ["enemy_size_2", 1.25], ["enemy_size_3", 0.8], ["enemy_size_4", 0.8], ["enemy_size_5", 0.8], ["quest_id", 770522906], ["quest_name", "バトルマス（HELL）"]],
+          [["battle_bg_id", 101191], ["detail_bg_id", 101191], ["detail_bg_position", -100], ["enemy_position_x_1", -100], ["enemy_position_x_2", 100], ["enemy_position_x_3", 0], ["enemy_position_x_4", 0], ["enemy_position_x_5", 0], ["enemy_position_y_1", 0], ["enemy_position_y_2", 0], ["enemy_position_y_3", 0], ["enemy_position_y_4", 0], ["enemy_position_y_5", 0], ["enemy_size_1", 0.8], ["enemy_size_2", 1.0], ["enemy_size_3", 0.8], ["enemy_size_4", 0.8], ["enemy_size_5", 0.8], ["quest_id", 770421302], ["quest_name", "バトルマス（HELL）"]],
+          [["battle_bg_id", 101191], ["detail_bg_id", 101191], ["detail_bg_position", -100], ["enemy_position_x_1", -100], ["enemy_position_x_2", 100], ["enemy_position_x_3", 0], ["enemy_position_x_4", 0], ["enemy_position_x_5", 0], ["enemy_position_y_1", 0], ["enemy_position_y_2", 0], ["enemy_position_y_3", 0], ["enemy_position_y_4", 0], ["enemy_position_y_5", 0], ["enemy_size_1", 0.8], ["enemy_size_2", 1.0], ["enemy_size_3", 0.8], ["enemy_size_4", 0.8], ["enemy_size_5", 0.8], ["quest_id", 770422708], ["quest_name", "バトルマス（HELL）"]],
+          [["battle_bg_id", 102861], ["detail_bg_id", 102861], ["detail_bg_position", -100], ["enemy_position_x_1", -100], ["enemy_position_x_2", 100], ["enemy_position_x_3", 0], ["enemy_position_x_4", 0], ["enemy_position_x_5", 0], ["enemy_position_y_1", 0], ["enemy_position_y_2", 0], ["enemy_position_y_3", 0], ["enemy_position_y_4", 0], ["enemy_position_y_5", 0], ["enemy_size_1", 1.05], ["enemy_size_2", 1.0], ["enemy_size_3", 0.8], ["enemy_size_4", 0.8], ["enemy_size_5", 0.8], ["quest_id", 770422806], ["quest_name", "バトルマス（HELL）"]],
+          [["battle_bg_id", 103111], ["detail_bg_id", 103111], ["detail_bg_position", -100], ["enemy_position_x_1", -100], ["enemy_position_x_2", 100], ["enemy_position_x_3", 0], ["enemy_position_x_4", 0], ["enemy_position_x_5", 0], ["enemy_position_y_1", 0], ["enemy_position_y_2", 0], ["enemy_position_y_3", 0], ["enemy_position_y_4", 0], ["enemy_position_y_5", 0], ["enemy_size_1", 0.9], ["enemy_size_2", 1.0], ["enemy_size_3", 0.8], ["enemy_size_4", 0.8], ["enemy_size_5", 0.8], ["quest_id", 770423006], ["quest_name", "バトルマス（HELL）"]],
+          [["battle_bg_id", 103111], ["detail_bg_id", 103111], ["detail_bg_position", -100], ["enemy_position_x_1", -100], ["enemy_position_x_2", 100], ["enemy_position_x_3", 0], ["enemy_position_x_4", 0], ["enemy_position_x_5", 0], ["enemy_position_y_1", 0], ["enemy_position_y_2", 0], ["enemy_position_y_3", 0], ["enemy_position_y_4", 0], ["enemy_position_y_5", 0], ["enemy_size_1", 0.9], ["enemy_size_2", 1.0], ["enemy_size_3", 0.8], ["enemy_size_4", 0.8], ["enemy_size_5", 0.8], ["quest_id", 770423007], ["quest_name", "バトルマス（HELL）"]],
+          [["battle_bg_id", 102891], ["detail_bg_id", 102891], ["detail_bg_position", -100], ["enemy_position_x_1", -100], ["enemy_position_x_2", 100], ["enemy_position_x_3", 0], ["enemy_position_x_4", 0], ["enemy_position_x_5", 0], ["enemy_position_y_1", 0], ["enemy_position_y_2", 0], ["enemy_position_y_3", 0], ["enemy_position_y_4", 0], ["enemy_position_y_5", 0], ["enemy_size_1", 0.65], ["enemy_size_2", 1.25], ["enemy_size_3", 0.8], ["enemy_size_4", 0.8], ["enemy_size_5", 0.8], ["quest_id", 770422906], ["quest_name", "バトルマス（HELL）"]],
+          [["battle_bg_id", 102861], ["detail_bg_id", 102861], ["detail_bg_position", -100], ["enemy_position_x_1", -100], ["enemy_position_x_2", 100], ["enemy_position_x_3", 0], ["enemy_position_x_4", 0], ["enemy_position_x_5", 0], ["enemy_position_y_1", 0], ["enemy_position_y_2", 0], ["enemy_position_y_3", 0], ["enemy_position_y_4", 0], ["enemy_position_y_5", 0], ["enemy_size_1", 1.05], ["enemy_size_2", 1.0], ["enemy_size_3", 0.8], ["enemy_size_4", 0.8], ["enemy_size_5", 0.8], ["quest_id", 770522809], ["quest_name", "バトルマス（HELL）"]],
+          [["battle_bg_id", 103111], ["detail_bg_id", 103111], ["detail_bg_position", -100], ["enemy_position_x_1", -100], ["enemy_position_x_2", 100], ["enemy_position_x_3", 0], ["enemy_position_x_4", 0], ["enemy_position_x_5", 0], ["enemy_position_y_1", 0], ["enemy_position_y_2", 0], ["enemy_position_y_3", 0], ["enemy_position_y_4", 0], ["enemy_position_y_5", 0], ["enemy_size_1", 0.9], ["enemy_size_2", 1.0], ["enemy_size_3", 0.8], ["enemy_size_4", 0.8], ["enemy_size_5", 0.8], ["quest_id", 770523009], ["quest_name", "バトルマス（HELL）"]],
+          [["battle_bg_id", 101191], ["detail_bg_id", 101191], ["detail_bg_position", -100], ["enemy_position_x_1", -100], ["enemy_position_x_2", 100], ["enemy_position_x_3", 0], ["enemy_position_x_4", 0], ["enemy_position_x_5", 0], ["enemy_position_y_1", 0], ["enemy_position_y_2", 0], ["enemy_position_y_3", 0], ["enemy_position_y_4", 0], ["enemy_position_y_5", 0], ["enemy_size_1", 0.8], ["enemy_size_2", 1.0], ["enemy_size_3", 0.8], ["enemy_size_4", 0.8], ["enemy_size_5", 0.8], ["quest_id", 770422707], ["quest_name", "バトルマス（HELL）"]],
+          [["battle_bg_id", 102891], ["detail_bg_id", 102891], ["detail_bg_position", -100], ["enemy_position_x_1", -100], ["enemy_position_x_2", 100], ["enemy_position_x_3", 0], ["enemy_position_x_4", 0], ["enemy_position_x_5", 0], ["enemy_position_y_1", 0], ["enemy_position_y_2", 0], ["enemy_position_y_3", 0], ["enemy_position_y_4", 0], ["enemy_position_y_5", 0], ["enemy_size_1", 0.65], ["enemy_size_2", 1.25], ["enemy_size_3", 0.8], ["enemy_size_4", 0.8], ["enemy_size_5", 0.8], ["quest_id", 770422908], ["quest_name", "バトルマス（HELL）"]],
+          [["battle_bg_id", 103111], ["detail_bg_id", 103111], ["detail_bg_position", -100], ["enemy_position_x_1", -100], ["enemy_position_x_2", 100], ["enemy_position_x_3", 0], ["enemy_position_x_4", 0], ["enemy_position_x_5", 0], ["enemy_position_y_1", 0], ["enemy_position_y_2", 0], ["enemy_position_y_3", 0], ["enemy_position_y_4", 0], ["enemy_position_y_5", 0], ["enemy_size_1", 0.9], ["enemy_size_2", 1.0], ["enemy_size_3", 0.8], ["enemy_size_4", 0.8], ["enemy_size_5", 0.8], ["quest_id", 770523010], ["quest_name", "バトルマス（HELL）"]],
+          [["battle_bg_id", 101191], ["detail_bg_id", 101191], ["detail_bg_position", -100], ["enemy_position_x_1", -100], ["enemy_position_x_2", 100], ["enemy_position_x_3", 0], ["enemy_position_x_4", 0], ["enemy_position_x_5", 0], ["enemy_position_y_1", 0], ["enemy_position_y_2", 0], ["enemy_position_y_3", 0], ["enemy_position_y_4", 0], ["enemy_position_y_5", 0], ["enemy_size_1", 0.8], ["enemy_size_2", 1.0], ["enemy_size_3", 0.8], ["enemy_size_4", 0.8], ["enemy_size_5", 0.8], ["quest_id", 770522709], ["quest_name", "バトルマス（HELL）"]],
+          [["battle_bg_id", 102891], ["detail_bg_id", 102891], ["detail_bg_position", -100], ["enemy_position_x_1", -100], ["enemy_position_x_2", 100], ["enemy_position_x_3", 0], ["enemy_position_x_4", 0], ["enemy_position_x_5", 0], ["enemy_position_y_1", 0], ["enemy_position_y_2", 0], ["enemy_position_y_3", 0], ["enemy_position_y_4", 0], ["enemy_position_y_5", 0], ["enemy_size_1", 0.65], ["enemy_size_2", 1.25], ["enemy_size_3", 0.8], ["enemy_size_4", 0.8], ["enemy_size_5", 0.8], ["quest_id", 770522910], ["quest_name", "バトルマス（HELL）"]],
+          [["battle_bg_id", 101191], ["detail_bg_id", 101191], ["detail_bg_position", -100], ["enemy_position_x_1", -100], ["enemy_position_x_2", 100], ["enemy_position_x_3", 0], ["enemy_position_x_4", 0], ["enemy_position_x_5", 0], ["enemy_position_y_1", 0], ["enemy_position_y_2", 0], ["enemy_position_y_3", 0], ["enemy_position_y_4", 0], ["enemy_position_y_5", 0], ["enemy_size_1", 0.8], ["enemy_size_2", 1.0], ["enemy_size_3", 0.8], ["enemy_size_4", 0.8], ["enemy_size_5", 0.8], ["quest_id", 770522710], ["quest_name", "バトルマス（HELL）"]],
+          [["battle_bg_id", 101191], ["detail_bg_id", 101191], ["detail_bg_position", -100], ["enemy_position_x_1", -100], ["enemy_position_x_2", 100], ["enemy_position_x_3", 0], ["enemy_position_x_4", 0], ["enemy_position_x_5", 0], ["enemy_position_y_1", 0], ["enemy_position_y_2", 0], ["enemy_position_y_3", 0], ["enemy_position_y_4", 0], ["enemy_position_y_5", 0], ["enemy_size_1", 0.8], ["enemy_size_2", 1.0], ["enemy_size_3", 0.8], ["enemy_size_4", 0.8], ["enemy_size_5", 0.8], ["quest_id", 770522706], ["quest_name", "バトルマス（HELL）"]],
+          [["battle_bg_id", 101191], ["detail_bg_id", 101191], ["detail_bg_position", -100], ["enemy_position_x_1", -100], ["enemy_position_x_2", 100], ["enemy_position_x_3", 0], ["enemy_position_x_4", 0], ["enemy_position_x_5", 0], ["enemy_position_y_1", 0], ["enemy_position_y_2", 0], ["enemy_position_y_3", 0], ["enemy_position_y_4", 0], ["enemy_position_y_5", 0], ["enemy_size_1", 0.8], ["enemy_size_2", 1.0], ["enemy_size_3", 0.8], ["enemy_size_4", 0.8], ["enemy_size_5", 0.8], ["quest_id", 770522707], ["quest_name", "バトルマス（HELL）"]],
+          [["battle_bg_id", 103111], ["detail_bg_id", 103111], ["detail_bg_position", -100], ["enemy_position_x_1", -100], ["enemy_position_x_2", 100], ["enemy_position_x_3", 0], ["enemy_position_x_4", 0], ["enemy_position_x_5", 0], ["enemy_position_y_1", 0], ["enemy_position_y_2", 0], ["enemy_position_y_3", 0], ["enemy_position_y_4", 0], ["enemy_position_y_5", 0], ["enemy_size_1", 0.9], ["enemy_size_2", 1.0], ["enemy_size_3", 0.8], ["enemy_size_4", 0.8], ["enemy_size_5", 0.8], ["quest_id", 770523006], ["quest_name", "バトルマス（HELL）"]],
+          [["battle_bg_id", 101191], ["detail_bg_id", 101191], ["detail_bg_position", -100], ["enemy_position_x_1", -100], ["enemy_position_x_2", 100], ["enemy_position_x_3", 0], ["enemy_position_x_4", 0], ["enemy_position_x_5", 0], ["enemy_position_y_1", 0], ["enemy_position_y_2", 0], ["enemy_position_y_3", 0], ["enemy_position_y_4", 0], ["enemy_position_y_5", 0], ["enemy_size_1", 0.8], ["enemy_size_2", 1.0], ["enemy_size_3", 0.8], ["enemy_size_4", 0.8], ["enemy_size_5", 0.8], ["quest_id", 770422706], ["quest_name", "バトルマス（HELL）"]],
+          [["battle_bg_id", 102861], ["detail_bg_id", 102861], ["detail_bg_position", -100], ["enemy_position_x_1", -100], ["enemy_position_x_2", 100], ["enemy_position_x_3", 0], ["enemy_position_x_4", 0], ["enemy_position_x_5", 0], ["enemy_position_y_1", 0], ["enemy_position_y_2", 0], ["enemy_position_y_3", 0], ["enemy_position_y_4", 0], ["enemy_position_y_5", 0], ["enemy_size_1", 1.05], ["enemy_size_2", 1.0], ["enemy_size_3", 0.8], ["enemy_size_4", 0.8], ["enemy_size_5", 0.8], ["quest_id", 770522806], ["quest_name", "バトルマス（HELL）"]],
+          [["battle_bg_id", 102861], ["detail_bg_id", 102861], ["detail_bg_position", -100], ["enemy_position_x_1", -100], ["enemy_position_x_2", 100], ["enemy_position_x_3", 0], ["enemy_position_x_4", 0], ["enemy_position_x_5", 0], ["enemy_position_y_1", 0], ["enemy_position_y_2", 0], ["enemy_position_y_3", 0], ["enemy_position_y_4", 0], ["enemy_position_y_5", 0], ["enemy_size_1", 1.05], ["enemy_size_2", 1.0], ["enemy_size_3", 0.8], ["enemy_size_4", 0.8], ["enemy_size_5", 0.8], ["quest_id", 770522807], ["quest_name", "バトルマス（HELL）"]]
+        ]
+      }
+    },
+    "story_detail": {
+      "data_changes": {
+        "added": [
+          [["can_bookmark", 0], ["end_time", "2030/12/17 14:59:59"], ["force_unlock_time", "2030/12/17 14:59:59"], ["force_unlock_time_2", "2030/12/17 14:59:59"], ["lock_all_text", 1], ["love_level", 0], ["pre_story_id", 2015006], ["pre_story_id_2", 0], ["read_process_flag", 1], ["requirement_id", 0], ["reward_id_1", 0], ["reward_id_2", 0], ["reward_id_3", 0], ["reward_type_1", 0], ["reward_type_2", 0], ["reward_type_3", 0], ["reward_value_1", 0], ["reward_value_2", 0], ["reward_value_3", 0], ["skip_type", 0], ["start_time", "2017/04/01 15:00:00"], ["story_end", 0], ["story_group_id", 9001], ["story_id", 9000005], ["story_quest_id", 0], ["sub_title", "エンド・ヴィジョン"], ["title", "エンド・ヴィジョン　─幻竜争覇戦─"], ["unlock_quest_id", 0], ["visible_type", 9]]
+        ]
+      }
+    },
+    "skill_data": {
+      "data_changes": {
+        "added": [
+          [["action_1", 313903601], ["action_10", 0], ["action_11", 0], ["action_12", 0], ["action_13", 0], ["action_14", 0], ["action_15", 0], ["action_16", 0], ["action_17", 0], ["action_18", 0], ["action_19", 0], ["action_2", 313903602], ["action_20", 0], ["action_3", 313903603], ["action_4", 0], ["action_5", 0], ["action_6", 0], ["action_7", 0], ["action_8", 0], ["action_9", 0], ["boss_ub_cool_time", 0.0], ["depend_action_1", 0], ["depend_action_10", 0], ["depend_action_11", 0], ["depend_action_12", 0], ["depend_action_13", 0], ["depend_action_14", 0], ["depend_action_15", 0], ["depend_action_16", 0], ["depend_action_17", 0], ["depend_action_18", 0], ["depend_action_19", 0], ["depend_action_2", 0], ["depend_action_20", 0], ["depend_action_3", 0], ["depend_action_4", 0], ["depend_action_5", 0], ["depend_action_6", 0], ["depend_action_7", 0], ["depend_action_8", 0], ["depend_action_9", 0], ["description", ""], ["icon_type", 1001], ["name", ""], ["skill_area_width", 0], ["skill_cast_time", 3.0], ["skill_id", 3139036], ["skill_type", 0]]
+        ]
+      }
+    },
+    "story_data": {
+      "data_changes": {
+        "modified": [
+          {
+            "id": 2212,
+            "old": [["condition_free_flag", 0], ["disp_order", 44], ["end_time", "2030/12/17 14:59:59"], ["gojuon_order", 999948], ["order", 0], ["start_time", "2015/04/01 15:00:00"], ["story_group_id", 2212], ["story_type", 2], ["thumbnail_id", 2212006], ["title", "第3部 第12章_闇の底の死闘"], ["value", 0]],
+            "new": [["condition_free_flag", 1], ["disp_order", 44], ["end_time", "2030/12/17 14:59:59"], ["gojuon_order", 999948], ["order", 0], ["start_time", "2015/04/01 15:00:00"], ["story_group_id", 2212], ["story_type", 2], ["thumbnail_id", 2212006], ["title", "第3部 第12章_闇の底の死闘"], ["value", 0]]
+          },
+          {
+            "id": 2217,
+            "old": [["condition_free_flag", 0], ["disp_order", 49], ["end_time", "2030/12/17 14:59:59"], ["gojuon_order", 999953], ["order", 0], ["start_time", "2015/04/01 15:00:00"], ["story_group_id", 2217], ["story_type", 2], ["thumbnail_id", 2217005], ["title", "第3部 第17章_Re:alize"], ["value", 0]],
+            "new": [["condition_free_flag", 1], ["disp_order", 49], ["end_time", "2030/12/17 14:59:59"], ["gojuon_order", 999953], ["order", 0], ["start_time", "2015/04/01 15:00:00"], ["story_group_id", 2217], ["story_type", 2], ["thumbnail_id", 2217005], ["title", "第3部 第17章_Re:alize"], ["value", 0]]
+          },
+          {
+            "id": 2210,
+            "old": [["condition_free_flag", 0], ["disp_order", 42], ["end_time", "2030/12/17 14:59:59"], ["gojuon_order", 999946], ["order", 0], ["start_time", "2015/04/01 15:00:00"], ["story_group_id", 2210], ["story_type", 2], ["thumbnail_id", 2210006], ["title", "第3部 第10章_闇謀のジオ・ニヴルヘル"], ["value", 0]],
+            "new": [["condition_free_flag", 1], ["disp_order", 42], ["end_time", "2030/12/17 14:59:59"], ["gojuon_order", 999946], ["order", 0], ["start_time", "2015/04/01 15:00:00"], ["story_group_id", 2210], ["story_type", 2], ["thumbnail_id", 2210006], ["title", "第3部 第10章_闇謀のジオ・ニヴルヘル"], ["value", 0]]
+          },
+          {
+            "id": 2214,
+            "old": [["condition_free_flag", 0], ["disp_order", 46], ["end_time", "2030/12/17 14:59:59"], ["gojuon_order", 999950], ["order", 0], ["start_time", "2015/04/01 15:00:00"], ["story_group_id", 2214], ["story_type", 2], ["thumbnail_id", 2214099], ["title", "第3部 第14章_アルシャトの誘惑"], ["value", 0]],
+            "new": [["condition_free_flag", 1], ["disp_order", 46], ["end_time", "2030/12/17 14:59:59"], ["gojuon_order", 999950], ["order", 0], ["start_time", "2015/04/01 15:00:00"], ["story_group_id", 2214], ["story_type", 2], ["thumbnail_id", 2214099], ["title", "第3部 第14章_アルシャトの誘惑"], ["value", 0]]
+          },
+          {
+            "id": 2213,
+            "old": [["condition_free_flag", 0], ["disp_order", 45], ["end_time", "2030/12/17 14:59:59"], ["gojuon_order", 999949], ["order", 0], ["start_time", "2015/04/01 15:00:00"], ["story_group_id", 2213], ["story_type", 2], ["thumbnail_id", 2213006], ["title", "第3部 第13章_降り立つ幻境"], ["value", 0]],
+            "new": [["condition_free_flag", 1], ["disp_order", 45], ["end_time", "2030/12/17 14:59:59"], ["gojuon_order", 999949], ["order", 0], ["start_time", "2015/04/01 15:00:00"], ["story_group_id", 2213], ["story_type", 2], ["thumbnail_id", 2213006], ["title", "第3部 第13章_降り立つ幻境"], ["value", 0]]
+          },
+          {
+            "id": 2215,
+            "old": [["condition_free_flag", 0], ["disp_order", 47], ["end_time", "2030/12/17 14:59:59"], ["gojuon_order", 999951], ["order", 0], ["start_time", "2015/04/01 15:00:00"], ["story_group_id", 2215], ["story_type", 2], ["thumbnail_id", 2215004], ["title", "第3部 第15章_嚮導幼君"], ["value", 0]],
+            "new": [["condition_free_flag", 1], ["disp_order", 47], ["end_time", "2030/12/17 14:59:59"], ["gojuon_order", 999951], ["order", 0], ["start_time", "2015/04/01 15:00:00"], ["story_group_id", 2215], ["story_type", 2], ["thumbnail_id", 2215004], ["title", "第3部 第15章_嚮導幼君"], ["value", 0]]
+          },
+          {
+            "id": 2211,
+            "old": [["condition_free_flag", 0], ["disp_order", 43], ["end_time", "2030/12/17 14:59:59"], ["gojuon_order", 999947], ["order", 0], ["start_time", "2015/04/01 15:00:00"], ["story_group_id", 2211], ["story_type", 2], ["thumbnail_id", 2211006], ["title", "第3部 第11章_侵食する“正義”"], ["value", 0]],
+            "new": [["condition_free_flag", 1], ["disp_order", 43], ["end_time", "2030/12/17 14:59:59"], ["gojuon_order", 999947], ["order", 0], ["start_time", "2015/04/01 15:00:00"], ["story_group_id", 2211], ["story_type", 2], ["thumbnail_id", 2211006], ["title", "第3部 第11章_侵食する“正義”"], ["value", 0]]
+          },
+          {
+            "id": 2216,
+            "old": [["condition_free_flag", 0], ["disp_order", 48], ["end_time", "2030/12/17 14:59:59"], ["gojuon_order", 999952], ["order", 0], ["start_time", "2015/04/01 15:00:00"], ["story_group_id", 2216], ["story_type", 2], ["thumbnail_id", 2216004], ["title", "第3部 第16章_三つ巴の争覇"], ["value", 0]],
+            "new": [["condition_free_flag", 1], ["disp_order", 48], ["end_time", "2030/12/17 14:59:59"], ["gojuon_order", 999952], ["order", 0], ["start_time", "2015/04/01 15:00:00"], ["story_group_id", 2216], ["story_type", 2], ["thumbnail_id", 2216004], ["title", "第3部 第16章_三つ巴の争覇"], ["value", 0]]
+          }
+        ]
+      }
+    },
+    "enemy_enable_voice": {
+      "data_changes": {
+        "added": [
+          [["unit_id", 313710], ["voice_id", 313702]],
+          [["unit_id", 313711], ["voice_id", 313702]],
+          [["unit_id", 313903], ["voice_id", 313900]]
+        ]
+      }
+    },
+    "labyrinth_bgm": {
+      "data_changes": {
+        "added": [
+          [["bgm_que_id", "bgm_MC242_BATTLE"], ["bgm_sheet_id", "bgm_MC242"], ["id", 4]]
+        ]
+      }
+    },
+    "labyrinth_npc_unit_enhance_data": {
+      "data_changes": {
+        "modified": [
+          {
+            "id": 1002,
+            "old": [["connect_rank", 0], ["enhance_id", 1002], ["equipment_slot_1", 1], ["equipment_slot_2", 1], ["equipment_slot_3", 1], ["equipment_slot_4", 1], ["equipment_slot_5", 1], ["equipment_slot_6", 1], ["ex_equip_enhance_level_1", 0], ["ex_equip_enhance_level_2", 0], ["ex_equip_enhance_level_3", 0], ["ex_equip_slot_1", 0], ["ex_equip_slot_2", 0], ["ex_equip_slot_3", 0], ["promotion_level", 34], ["rarity", 6], ["unique_equipment_1_is_ex", 0], ["unique_equipment_level_1", 30], ["unique_equipment_level_2", 0], ["unit_level", 320]],
+            "new": [["connect_rank", 0], ["enhance_id", 1002], ["equipment_slot_1", 1], ["equipment_slot_2", 1], ["equipment_slot_3", 1], ["equipment_slot_4", 1], ["equipment_slot_5", 1], ["equipment_slot_6", 1], ["ex_equip_enhance_level_1", 0], ["ex_equip_enhance_level_2", 0], ["ex_equip_enhance_level_3", 0], ["ex_equip_slot_1", 0], ["ex_equip_slot_2", 0], ["ex_equip_slot_3", 0], ["promotion_level", 39], ["rarity", 6], ["unique_equipment_1_is_ex", 0], ["unique_equipment_level_1", 30], ["unique_equipment_level_2", 0], ["unit_level", 356]]
+          },
+          {
+            "id": 1001,
+            "old": [["connect_rank", 0], ["enhance_id", 1001], ["equipment_slot_1", 1], ["equipment_slot_2", 1], ["equipment_slot_3", 1], ["equipment_slot_4", 1], ["equipment_slot_5", 1], ["equipment_slot_6", 1], ["ex_equip_enhance_level_1", 0], ["ex_equip_enhance_level_2", 0], ["ex_equip_enhance_level_3", 0], ["ex_equip_slot_1", 0], ["ex_equip_slot_2", 0], ["ex_equip_slot_3", 0], ["promotion_level", 34], ["rarity", 3], ["unique_equipment_1_is_ex", 0], ["unique_equipment_level_1", 30], ["unique_equipment_level_2", 0], ["unit_level", 320]],
+            "new": [["connect_rank", 0], ["enhance_id", 1001], ["equipment_slot_1", 1], ["equipment_slot_2", 1], ["equipment_slot_3", 1], ["equipment_slot_4", 1], ["equipment_slot_5", 1], ["equipment_slot_6", 1], ["ex_equip_enhance_level_1", 0], ["ex_equip_enhance_level_2", 0], ["ex_equip_enhance_level_3", 0], ["ex_equip_slot_1", 0], ["ex_equip_slot_2", 0], ["ex_equip_slot_3", 0], ["promotion_level", 39], ["rarity", 3], ["unique_equipment_1_is_ex", 0], ["unique_equipment_level_1", 30], ["unique_equipment_level_2", 0], ["unit_level", 356]]
+          }
+        ]
+      }
+    },
+    "alces_exec_cost": {
+      "column_differences": {
+        "only_in_db1": [
+          "unknown_1",
+          "unknown_7",
+          "unknown_0",
+          "unknown_4"
+        ],
+        "only_in_db2": [
+          "item_reward_type_2",
+          "item_reward_type_1",
+          "item_reward_type_3",
+          "alces_purpose"
+        ]
+      },
+      "data_changes": {
+        "deleted": [
+          [["consume_num_1", 100000], ["consume_num_2", 10000], ["consume_num_3", 0], ["item_id_1", 94000], ["item_id_2", 26202], ["item_id_3", 0], ["unknown_0", 1], ["unknown_1", 12], ["unknown_4", 2], ["unknown_7", 0]]
+        ]
+      }
+    },
+    "seven_schedule": {
+      "column_differences": {
+        "only_in_db1": [
+          "unknown_9"
+        ],
+        "only_in_db2": [
+          "limited_mission_category_id"
+        ]
+      }
+    },
+    "sre_boss_data": {
+      "column_differences": {
+        "only_in_db1": [],
+        "only_in_db2": [
+          "result_camera_size"
+        ]
+      }
+    },
+    "stamina_point_schedule": {
+      "column_differences": {
+        "only_in_db1": [
+          "unknown_1",
+          "unknown_6"
+        ],
+        "only_in_db2": [
+          "shop_lineup_id",
+          "dialog_bg_id"
+        ]
+      }
+    },
+    "labyrinth_enemy_parameter": {
+      "data_changes": {
+        "added": [
+          [["accuracy", 100], ["atk", 0], ["break_durability", 0], ["def", 750], ["dodge", 0], ["enemy_id", 770523001], ["energy_recovery_rate", 120], ["energy_reduce_rate", 0], ["ex_skill_lv_1", 0], ["ex_skill_lv_2", 0], ["ex_skill_lv_3", 0], ["ex_skill_lv_4", 0], ["ex_skill_lv_5", 0], ["hp", 400000000], ["hp_recovery_rate", 0], ["level", 650], ["life_steal", 0], ["magic_critical", 0], ["magic_def", 750], ["magic_penetrate", 0], ["magic_str", 40000], ["main_skill_lv_1", 50000], ["main_skill_lv_10", 0], ["main_skill_lv_2", 100000], ["main_skill_lv_3", 100000], ["main_skill_lv_4", 100000], ["main_skill_lv_5", 100000], ["main_skill_lv_6", 0], ["main_skill_lv_7", 0], ["main_skill_lv_8", 0], ["main_skill_lv_9", 0], ["name", "ミロク"], ["physical_critical", 0], ["physical_penetrate", 0], ["promotion_level", 1], ["rarity", 1], ["resist_status_id", 300000016], ["resist_variation_id", 0], ["union_burst_level", 100000], ["unique_equipment_flag_1", 0], ["unit_id", 317901], ["virtual_hp", 0], ["wave_energy_recovery", 0], ["wave_hp_recovery", 0]],
+          [["accuracy", 100], ["atk", 40000], ["break_durability", 0], ["def", 900], ["dodge", 0], ["enemy_id", 770522901], ["energy_recovery_rate", 60], ["energy_reduce_rate", 0], ["ex_skill_lv_1", 0], ["ex_skill_lv_2", 0], ["ex_skill_lv_3", 0], ["ex_skill_lv_4", 0], ["ex_skill_lv_5", 0], ["hp", 400000000], ["hp_recovery_rate", 0], ["level", 650], ["life_steal", 0], ["magic_critical", 0], ["magic_def", 900], ["magic_penetrate", 0], ["magic_str", 0], ["main_skill_lv_1", 100000], ["main_skill_lv_10", 0], ["main_skill_lv_2", 100000], ["main_skill_lv_3", 100000], ["main_skill_lv_4", 100000], ["main_skill_lv_5", 100000], ["main_skill_lv_6", 0], ["main_skill_lv_7", 0], ["main_skill_lv_8", 0], ["main_skill_lv_9", 0], ["name", "ゼーン"], ["physical_critical", 0], ["physical_penetrate", 0], ["promotion_level", 1], ["rarity", 1], ["resist_status_id", 300000016], ["resist_variation_id", 0], ["union_burst_level", 100000], ["unique_equipment_flag_1", 0], ["unit_id", 313903], ["virtual_hp", 0], ["wave_energy_recovery", 0], ["wave_hp_recovery", 0]],
+          [["accuracy", 38], ["atk", 0], ["break_durability", 0], ["def", 341], ["dodge", 0], ["enemy_id", 770523002], ["energy_recovery_rate", 0], ["energy_reduce_rate", 0], ["ex_skill_lv_1", 0], ["ex_skill_lv_2", 0], ["ex_skill_lv_3", 0], ["ex_skill_lv_4", 0], ["ex_skill_lv_5", 0], ["hp", 20906442], ["hp_recovery_rate", 0], ["level", 650], ["life_steal", 0], ["magic_critical", 0], ["magic_def", 512], ["magic_penetrate", 0], ["magic_str", 122530], ["main_skill_lv_1", 4000], ["main_skill_lv_10", 0], ["main_skill_lv_2", 4000], ["main_skill_lv_3", 4000], ["main_skill_lv_4", 4000], ["main_skill_lv_5", 4000], ["main_skill_lv_6", 0], ["main_skill_lv_7", 0], ["main_skill_lv_8", 0], ["main_skill_lv_9", 0], ["name", "カーズ・レリック"], ["physical_critical", 0], ["physical_penetrate", 0], ["promotion_level", 1], ["rarity", 0], ["resist_status_id", 200000001], ["resist_variation_id", 0], ["union_burst_level", 4000], ["unique_equipment_flag_1", 0], ["unit_id", 264000], ["virtual_hp", 0], ["wave_energy_recovery", 0], ["wave_hp_recovery", 0]],
+          [["accuracy", 38], ["atk", 13252], ["break_durability", 0], ["def", 341], ["dodge", 0], ["enemy_id", 770522902], ["energy_recovery_rate", 0], ["energy_reduce_rate", 0], ["ex_skill_lv_1", 0], ["ex_skill_lv_2", 0], ["ex_skill_lv_3", 0], ["ex_skill_lv_4", 0], ["ex_skill_lv_5", 0], ["hp", 20906442], ["hp_recovery_rate", 0], ["level", 650], ["life_steal", 0], ["magic_critical", 0], ["magic_def", 512], ["magic_penetrate", 0], ["magic_str", 0], ["main_skill_lv_1", 4000], ["main_skill_lv_10", 0], ["main_skill_lv_2", 4000], ["main_skill_lv_3", 4000], ["main_skill_lv_4", 4000], ["main_skill_lv_5", 4000], ["main_skill_lv_6", 0], ["main_skill_lv_7", 0], ["main_skill_lv_8", 0], ["main_skill_lv_9", 0], ["name", "ボム・レリック"], ["physical_critical", 0], ["physical_penetrate", 0], ["promotion_level", 1], ["rarity", 0], ["resist_status_id", 200000001], ["resist_variation_id", 0], ["union_burst_level", 4000], ["unique_equipment_flag_1", 0], ["unit_id", 266000], ["virtual_hp", 0], ["wave_energy_recovery", 0], ["wave_hp_recovery", 0]]
+        ],
+        "modified": [
+          {
+            "id": 770423001,
+            "old": [["accuracy", 100], ["atk", 0], ["break_durability", 0], ["def", 650], ["dodge", 0], ["enemy_id", 770423001], ["energy_recovery_rate", 120], ["energy_reduce_rate", 0], ["ex_skill_lv_1", 0], ["ex_skill_lv_2", 0], ["ex_skill_lv_3", 0], ["ex_skill_lv_4", 0], ["ex_skill_lv_5", 0], ["hp", 180000000], ["hp_recovery_rate", 0], ["level", 630], ["life_steal", 0], ["magic_critical", 0], ["magic_def", 650], ["magic_penetrate", 0], ["magic_str", 30000], ["main_skill_lv_1", 70000], ["main_skill_lv_10", 0], ["main_skill_lv_2", 70000], ["main_skill_lv_3", 70000], ["main_skill_lv_4", 70000], ["main_skill_lv_5", 70000], ["main_skill_lv_6", 0], ["main_skill_lv_7", 0], ["main_skill_lv_8", 0], ["main_skill_lv_9", 0], ["name", "ミロク"], ["physical_critical", 0], ["physical_penetrate", 0], ["promotion_level", 1], ["rarity", 1], ["resist_status_id", 300000016], ["resist_variation_id", 0], ["union_burst_level", 70000], ["unique_equipment_flag_1", 0], ["unit_id", 317901], ["virtual_hp", 0], ["wave_energy_recovery", 0], ["wave_hp_recovery", 0]],
+            "new": [["accuracy", 100], ["atk", 0], ["break_durability", 0], ["def", 650], ["dodge", 0], ["enemy_id", 770423001], ["energy_recovery_rate", 120], ["energy_reduce_rate", 0], ["ex_skill_lv_1", 0], ["ex_skill_lv_2", 0], ["ex_skill_lv_3", 0], ["ex_skill_lv_4", 0], ["ex_skill_lv_5", 0], ["hp", 200000000], ["hp_recovery_rate", 0], ["level", 630], ["life_steal", 0], ["magic_critical", 0], ["magic_def", 650], ["magic_penetrate", 0], ["magic_str", 30000], ["main_skill_lv_1", 35000], ["main_skill_lv_10", 0], ["main_skill_lv_2", 70000], ["main_skill_lv_3", 70000], ["main_skill_lv_4", 70000], ["main_skill_lv_5", 70000], ["main_skill_lv_6", 0], ["main_skill_lv_7", 0], ["main_skill_lv_8", 0], ["main_skill_lv_9", 0], ["name", "ミロク"], ["physical_critical", 0], ["physical_penetrate", 0], ["promotion_level", 1], ["rarity", 1], ["resist_status_id", 300000016], ["resist_variation_id", 0], ["union_burst_level", 70000], ["unique_equipment_flag_1", 0], ["unit_id", 317901], ["virtual_hp", 0], ["wave_energy_recovery", 0], ["wave_hp_recovery", 0]]
+          },
+          {
+            "id": 770422901,
+            "old": [["accuracy", 100], ["atk", 30000], ["break_durability", 0], ["def", 840], ["dodge", 0], ["enemy_id", 770422901], ["energy_recovery_rate", 60], ["energy_reduce_rate", 0], ["ex_skill_lv_1", 0], ["ex_skill_lv_2", 0], ["ex_skill_lv_3", 0], ["ex_skill_lv_4", 0], ["ex_skill_lv_5", 0], ["hp", 160000000], ["hp_recovery_rate", 0], ["level", 630], ["life_steal", 0], ["magic_critical", 0], ["magic_def", 840], ["magic_penetrate", 0], ["magic_str", 0], ["main_skill_lv_1", 70000], ["main_skill_lv_10", 0], ["main_skill_lv_2", 70000], ["main_skill_lv_3", 70000], ["main_skill_lv_4", 70000], ["main_skill_lv_5", 70000], ["main_skill_lv_6", 0], ["main_skill_lv_7", 0], ["main_skill_lv_8", 0], ["main_skill_lv_9", 0], ["name", "ゼーン"], ["physical_critical", 0], ["physical_penetrate", 0], ["promotion_level", 1], ["rarity", 1], ["resist_status_id", 300000016], ["resist_variation_id", 0], ["union_burst_level", 70000], ["unique_equipment_flag_1", 0], ["unit_id", 313902], ["virtual_hp", 0], ["wave_energy_recovery", 0], ["wave_hp_recovery", 0]],
+            "new": [["accuracy", 100], ["atk", 30000], ["break_durability", 0], ["def", 840], ["dodge", 0], ["enemy_id", 770422901], ["energy_recovery_rate", 60], ["energy_reduce_rate", 0], ["ex_skill_lv_1", 0], ["ex_skill_lv_2", 0], ["ex_skill_lv_3", 0], ["ex_skill_lv_4", 0], ["ex_skill_lv_5", 0], ["hp", 200000000], ["hp_recovery_rate", 0], ["level", 630], ["life_steal", 0], ["magic_critical", 0], ["magic_def", 840], ["magic_penetrate", 0], ["magic_str", 0], ["main_skill_lv_1", 70000], ["main_skill_lv_10", 0], ["main_skill_lv_2", 70000], ["main_skill_lv_3", 70000], ["main_skill_lv_4", 70000], ["main_skill_lv_5", 70000], ["main_skill_lv_6", 0], ["main_skill_lv_7", 0], ["main_skill_lv_8", 0], ["main_skill_lv_9", 0], ["name", "ゼーン"], ["physical_critical", 0], ["physical_penetrate", 0], ["promotion_level", 1], ["rarity", 1], ["resist_status_id", 300000016], ["resist_variation_id", 0], ["union_burst_level", 70000], ["unique_equipment_flag_1", 0], ["unit_id", 313903], ["virtual_hp", 0], ["wave_energy_recovery", 0], ["wave_hp_recovery", 0]]
+          }
+        ]
+      }
+    },
+    "labyrinth_wave_group_data": {
+      "data_changes": {
+        "added": [
+          [["enemy_id_1", 770422902], ["enemy_id_2", 770422901], ["enemy_id_3", 0], ["enemy_id_4", 0], ["enemy_id_5", 0], ["wave_group_id", 770422901]],
+          [["enemy_id_1", 770522902], ["enemy_id_2", 770522901], ["enemy_id_3", 0], ["enemy_id_4", 0], ["enemy_id_5", 0], ["wave_group_id", 770522901]],
+          [["enemy_id_1", 770523002], ["enemy_id_2", 770523001], ["enemy_id_3", 0], ["enemy_id_4", 0], ["enemy_id_5", 0], ["wave_group_id", 770523001]],
+          [["enemy_id_1", 770423002], ["enemy_id_2", 770423001], ["enemy_id_3", 0], ["enemy_id_4", 0], ["enemy_id_5", 0], ["wave_group_id", 770423001]]
+        ]
+      }
+    },
+    "enemy_tag_data": {
+      "data_changes": {
+        "added": [
+          [["enemy_id", 0], ["tag_id_1", 10007], ["tag_id_10", 0], ["tag_id_2", 10018], ["tag_id_3", 0], ["tag_id_4", 0], ["tag_id_5", 0], ["tag_id_6", 0], ["tag_id_7", 0], ["tag_id_8", 0], ["tag_id_9", 0], ["unit_id", 313710]],
+          [["enemy_id", 0], ["tag_id_1", 10007], ["tag_id_10", 0], ["tag_id_2", 10018], ["tag_id_3", 0], ["tag_id_4", 0], ["tag_id_5", 0], ["tag_id_6", 0], ["tag_id_7", 0], ["tag_id_8", 0], ["tag_id_9", 0], ["unit_id", 313711]]
+        ],
+        "modified": [
+          {
+            "id": 0,
+            "old": [["enemy_id", 410050501], ["tag_id_1", 10007], ["tag_id_10", 0], ["tag_id_2", 10008], ["tag_id_3", 0], ["tag_id_4", 0], ["tag_id_5", 0], ["tag_id_6", 0], ["tag_id_7", 0], ["tag_id_8", 0], ["tag_id_9", 0], ["unit_id", 0]],
+            "new": [["enemy_id", 410060101], ["tag_id_1", 10001], ["tag_id_10", 0], ["tag_id_2", 10009], ["tag_id_3", 10010], ["tag_id_4", 0], ["tag_id_5", 0], ["tag_id_6", 0], ["tag_id_7", 0], ["tag_id_8", 0], ["tag_id_9", 0], ["unit_id", 0]]
+          }
+        ]
+      }
+    },
+    "unit_skill_data": {
+      "data_changes": {
+        "added": [
+          [["ex_skill_1", 0], ["ex_skill_2", 0], ["ex_skill_3", 0], ["ex_skill_4", 0], ["ex_skill_5", 0], ["ex_skill_evolution_1", 0], ["ex_skill_evolution_2", 0], ["ex_skill_evolution_3", 0], ["ex_skill_evolution_4", 0], ["ex_skill_evolution_5", 0], ["main_skill_1", 3139022], ["main_skill_10", 0], ["main_skill_2", 3139023], ["main_skill_3", 3139024], ["main_skill_4", 3139025], ["main_skill_5", 3139036], ["main_skill_6", 0], ["main_skill_7", 0], ["main_skill_8", 0], ["main_skill_9", 0], ["main_skill_evolution_1", 0], ["main_skill_evolution_2", 0], ["main_skill_revolution_1", 0], ["main_skill_revolution_2", 0], ["sp_skill_1", 0], ["sp_skill_2", 0], ["sp_skill_3", 0], ["sp_skill_4", 0], ["sp_skill_5", 0], ["sp_skill_evolution_1", 0], ["sp_skill_evolution_2", 0], ["sp_skill_revolution_1", 0], ["sp_skill_revolution_2", 0], ["sp_union_burst", 0], ["union_burst", 3139021], ["union_burst_evolution", 0], ["unit_id", 313903]]
+        ]
+      }
+    },
+    "story_bulk_skip": {
+      "data_changes": {
+        "modified": [
+          {
+            "id": 1,
+            "old": [["balloon_sprite_name", "balloon_story_2nd_16_skip"], ["bulk_skip_id", 1], ["button_sprite_name", "common_btn_2_16_skip"], ["label_sprite_name", "common_label_release_2_16_skip"], ["release_level", 50], ["start_time", "2023/02/15 15:00:00"], ["story_id_from", 2001000], ["story_id_to", 2116099]],
+            "new": [["balloon_sprite_name", "balloon_story_3rd_16_skip"], ["bulk_skip_id", 1], ["button_sprite_name", "common_btn_3_16_skip"], ["label_sprite_name", "common_label_release_3_16_skip"], ["release_level", 50], ["start_time", "2023/02/15 15:00:00"], ["story_id_from", 2001000], ["story_id_to", 2216099]]
+          }
+        ]
+      }
+    },
+    "unit_attack_pattern": {
+      "data_changes": {
+        "added": [
+          [["atk_pattern_1", 1002], ["atk_pattern_10", 1002], ["atk_pattern_11", 1001], ["atk_pattern_12", 1002], ["atk_pattern_13", 1005], ["atk_pattern_14", 0], ["atk_pattern_15", 1001], ["atk_pattern_16", 1002], ["atk_pattern_17", 0], ["atk_pattern_18", 0], ["atk_pattern_19", 0], ["atk_pattern_2", 1003], ["atk_pattern_20", 0], ["atk_pattern_3", 1001], ["atk_pattern_4", 1002], ["atk_pattern_5", 1001], ["atk_pattern_6", 1002], ["atk_pattern_7", 1004], ["atk_pattern_8", 1001], ["atk_pattern_9", 1001], ["loop_end", 16], ["loop_start", 14], ["pattern_id", 31390301], ["unit_id", 313903]]
+        ]
+      }
+    },
+    "skill_action": {
+      "data_changes": {
+        "added": [
+          [["action_detail_1", 2], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 313903602], ["action_type", 8], ["action_value_1", 3.0], ["action_value_2", 0.0], ["action_value_3", 90.0], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", ""], ["level_up_disp", ""], ["target_area", 3], ["target_assignment", 2], ["target_count", 1], ["target_number", 0], ["target_range", -1], ["target_type", 7]],
+          [["action_detail_1", 4], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 313903603], ["action_type", 16], ["action_value_1", 1000.0], ["action_value_2", 0.0], ["action_value_3", 0.0], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", ""], ["level_up_disp", ""], ["target_area", 3], ["target_assignment", 2], ["target_count", 1], ["target_number", 0], ["target_range", -1], ["target_type", 7]],
+          [["action_detail_1", 10], ["action_detail_2", 1], ["action_detail_3", 0], ["action_id", 313903601], ["action_type", 10], ["action_value_1", 2.0], ["action_value_2", 200.0], ["action_value_3", 0.0], ["action_value_4", 90.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", ""], ["level_up_disp", ""], ["target_area", 3], ["target_assignment", 2], ["target_count", 1], ["target_number", 0], ["target_range", -1], ["target_type", 7]]
+        ]
+      }
+    },
+    "labyrinth_difficulty_effect": {
+      "data_changes": {
+        "modified": [
+          {
+            "id": 10501,
+            "old": [["description", "EXTREMEバトル時に一定確率で強敵が出現する。"], ["difficulty", 5], ["effect_name", "強敵出現"], ["icon_name", "add_monster"], ["id", 10501]],
+            "new": [["description", "バトルマス（HELL）が出現する。"], ["difficulty", 5], ["effect_name", "HELLマス出現"], ["icon_name", "add_monster"], ["id", 10501]]
+          },
+          {
+            "id": 10901,
+            "old": [["description", "EXTREMEバトル時に一定確率で強敵が出現する。"], ["difficulty", 9], ["effect_name", "強敵出現"], ["icon_name", "add_monster"], ["id", 10901]],
+            "new": [["description", "バトルマス（HELL）が出現する。"], ["difficulty", 9], ["effect_name", "HELLマス出現"], ["icon_name", "add_monster"], ["id", 10901]]
+          },
+          {
+            "id": 11001,
+            "old": [["description", "EXTREMEバトル時に一定確率で強敵が出現する。"], ["difficulty", 10], ["effect_name", "強敵出現"], ["icon_name", "add_monster"], ["id", 11001]],
+            "new": [["description", "バトルマス（HELL）が出現する。"], ["difficulty", 10], ["effect_name", "HELLマス出現"], ["icon_name", "add_monster"], ["id", 11001]]
+          },
+          {
+            "id": 10701,
+            "old": [["description", "EXTREMEバトル時に一定確率で強敵が出現する。"], ["difficulty", 7], ["effect_name", "強敵出現"], ["icon_name", "add_monster"], ["id", 10701]],
+            "new": [["description", "バトルマス（HELL）が出現する。"], ["difficulty", 7], ["effect_name", "HELLマス出現"], ["icon_name", "add_monster"], ["id", 10701]]
+          },
+          {
+            "id": 10601,
+            "old": [["description", "EXTREMEバトル時に一定確率で強敵が出現する。"], ["difficulty", 6], ["effect_name", "強敵出現"], ["icon_name", "add_monster"], ["id", 10601]],
+            "new": [["description", "バトルマス（HELL）が出現する。"], ["difficulty", 6], ["effect_name", "HELLマス出現"], ["icon_name", "add_monster"], ["id", 10601]]
+          },
+          {
+            "id": 10801,
+            "old": [["description", "EXTREMEバトル時に一定確率で強敵が出現する。"], ["difficulty", 8], ["effect_name", "強敵出現"], ["icon_name", "add_monster"], ["id", 10801]],
+            "new": [["description", "バトルマス（HELL）が出現する。"], ["difficulty", 8], ["effect_name", "HELLマス出現"], ["icon_name", "add_monster"], ["id", 10801]]
+          }
+        ]
+      }
+    },
+    "sre_schedule": {
+      "column_differences": {
+        "only_in_db1": [],
+        "only_in_db2": [
+          "unknown_12",
+          "clear_bgm",
+          "teaser_story_id"
+        ]
+      },
+      "data_changes": {
+        "added": [
+          [["clear_bgm", "bgm_M313"], ["close_story_condition_id", 9000005], ["close_story_id", 2217009], ["close_time", "2026/08/31 11:59:59"], ["count_start_time", "2026/08/24 11:59:59"], ["end_time", "2026/08/25 11:59:59"], ["name", "エンド・ヴィジョン　-幻竜争覇戦-"], ["sre_id", 4], ["start_time", "2026/08/16 12:00:00"], ["story_id", 2000002], ["teaser_story_id", 9006701], ["teaser_time", "2026/08/12 12:00:00"], ["top_bg", ""], ["top_bgm", "bgm_MC362A"], ["unknown_12", "bgm_MC362B"]]
+        ]
+      }
+    }
+  }
+}
