@@ -1,0 +1,24 @@
+{
+  "tables": {
+    "only_in_old_db": [],
+    "only_in_new_db": []
+  },
+  "table_changes": {
+    "skill_action": {
+      "data_changes": {
+        "modified": [
+          {
+            "id": 101802203,
+            "old": [["action_detail_1", 2], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 101802203], ["action_type", 1], ["action_value_1", 9.0], ["action_value_2", 9.0], ["action_value_3", 1.2], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "範囲内の敵に{0}の魔法ダメージ"], ["level_up_disp", "魔法ダメージ+{0}"], ["target_area", 2], ["target_assignment", 1], ["target_count", 99], ["target_number", 0], ["target_range", 100], ["target_type", 3]],
+            "new": [["action_detail_1", 2], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 101802203], ["action_type", 1], ["action_value_1", 20.0], ["action_value_2", 20.0], ["action_value_3", 1.6], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "範囲内の敵に{0}の魔法ダメージ"], ["level_up_disp", "魔法ダメージ+{0}"], ["target_area", 2], ["target_assignment", 1], ["target_count", 99], ["target_number", 0], ["target_range", 100], ["target_type", 3]]
+          },
+          {
+            "id": 101802205,
+            "old": [["action_detail_1", 2], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 101802205], ["action_type", 1], ["action_value_1", 9.0], ["action_value_2", 9.0], ["action_value_3", 1.2], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "敵が誘惑状態でない場合、以下の効果が発動する"], ["level_up_disp", ""], ["target_area", 2], ["target_assignment", 1], ["target_count", 99], ["target_number", 0], ["target_range", 100], ["target_type", 3]],
+            "new": [["action_detail_1", 2], ["action_detail_2", 0], ["action_detail_3", 0], ["action_id", 101802205], ["action_type", 1], ["action_value_1", 20.0], ["action_value_2", 20.0], ["action_value_3", 1.6], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", "敵が誘惑状態でない場合、以下の効果が発動する"], ["level_up_disp", ""], ["target_area", 2], ["target_assignment", 1], ["target_count", 99], ["target_number", 0], ["target_range", 100], ["target_type", 3]]
+          }
+        ]
+      }
+    }
+  }
+}
