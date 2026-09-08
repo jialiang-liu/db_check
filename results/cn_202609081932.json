@@ -1,0 +1,34 @@
+{
+  "tables": {
+    "only_in_old_db": [],
+    "only_in_new_db": []
+  },
+  "table_changes": {
+    "unit_profile": {
+      "data_changes": {
+        "modified": [
+          {
+            "id": 122401,
+            "old": [["age", "16"], ["birth_day", "27"], ["birth_month", "8"], ["blood_type", "A"], ["catch_copy", "最喜欢帮助别人！　积极向上的格斗少女"], ["favorite", "帮助别人、应援"], ["guild", "破晓之星"], ["guild_id", "2"], ["height", "155"], ["race", "兽人族"], ["self_text", "你好！　我是日和莉！\\n如果有人遇到了困难，我就会去帮他！\\n感兴趣的话，你也一起来吧？"], ["unit_id", 122401], ["unit_name", "日和莉（夏日）"], ["voice", "东山奈央"], ["voice_id", 0], ["weight", "44"]],
+            "new": [["age", "16"], ["birth_day", "27"], ["birth_month", "8"], ["blood_type", "A"], ["catch_copy", "最喜欢帮助他人！ 积极向上的格斗女孩"], ["favorite", "帮助别人、应援"], ["guild", "破晓之星"], ["guild_id", "2"], ["height", "155"], ["race", "兽人族"], ["self_text", "你好！　我是日和莉！\\n如果有人遇到了困难，我就会去帮他！\\n感兴趣的话，你也一起来吧？"], ["unit_id", 122401], ["unit_name", "日和莉（夏日）"], ["voice", "东山奈央"], ["voice_id", 0], ["weight", "44"]]
+          },
+          {
+            "id": 180101,
+            "old": [["age", "16"], ["birth_day", "27"], ["birth_month", "8"], ["blood_type", "A"], ["catch_copy", "最喜欢帮助他人！　积极向上的格斗女孩"], ["favorite", "帮助别人、应援"], ["guild", "破晓之星"], ["guild_id", "2"], ["height", "155"], ["race", "兽人族"], ["self_text", "你好！　我是日和莉！\\n如果有人遇到困难，我就会去帮忙！\\n不介意的话，和我一起去吧？"], ["unit_id", 180101], ["unit_name", "日和莉（公主）"], ["voice", "东山奈央"], ["voice_id", 0], ["weight", "44"]],
+            "new": [["age", "16"], ["birth_day", "27"], ["birth_month", "8"], ["blood_type", "A"], ["catch_copy", "最喜欢帮助他人！ 积极向上的格斗女孩"], ["favorite", "帮助别人、应援"], ["guild", "破晓之星"], ["guild_id", "2"], ["height", "155"], ["race", "兽人族"], ["self_text", "你好！　我是日和莉！\\n如果有人遇到困难，我就会去帮忙！\\n不介意的话，和我一起去吧？"], ["unit_id", 180101], ["unit_name", "日和莉（公主）"], ["voice", "东山奈央"], ["voice_id", 0], ["weight", "44"]]
+          },
+          {
+            "id": 900103,
+            "old": [["age", "16"], ["birth_day", "27"], ["birth_month", "8"], ["blood_type", "A"], ["catch_copy", "最喜欢帮助他人！　积极向上的格斗女孩"], ["favorite", "帮助别人、应援"], ["guild", "破晓之星"], ["guild_id", "2"], ["height", "155"], ["race", "兽人族"], ["self_text", "你好！　我是日和莉！\\n如果有人遇到困难，我就会去帮忙！\\n不介意的话，和我一起去吧？"], ["unit_id", 900103], ["unit_name", "日和莉"], ["voice", "东山奈央"], ["voice_id", 0], ["weight", "44"]],
+            "new": [["age", "16"], ["birth_day", "27"], ["birth_month", "8"], ["blood_type", "A"], ["catch_copy", "最喜欢帮助他人！ 积极向上的格斗女孩"], ["favorite", "帮助别人、应援"], ["guild", "破晓之星"], ["guild_id", "2"], ["height", "155"], ["race", "兽人族"], ["self_text", "你好！　我是日和莉！\\n如果有人遇到困难，我就会去帮忙！\\n不介意的话，和我一起去吧？"], ["unit_id", 900103], ["unit_name", "日和莉"], ["voice", "东山奈央"], ["voice_id", 0], ["weight", "44"]]
+          },
+          {
+            "id": 135701,
+            "old": [["age", "16"], ["birth_day", "27"], ["birth_month", "8"], ["blood_type", "A"], ["catch_copy", "最喜欢帮助别人！　积极向上的格斗少女"], ["favorite", "帮助别人、应援"], ["guild", "破晓之星"], ["guild_id", "2"], ["height", "155"], ["race", "兽人族"], ["self_text", "你好！　我是日和莉！\\n如果有人遇到困难，我就会去帮忙！\\n不介意的话，和我一起去吧？"], ["unit_id", 135701], ["unit_name", "日和莉（沙漠）"], ["voice", "东山奈央"], ["voice_id", 0], ["weight", "44"]],
+            "new": [["age", "16"], ["birth_day", "27"], ["birth_month", "8"], ["blood_type", "A"], ["catch_copy", "最喜欢帮助他人！ 积极向上的格斗女孩"], ["favorite", "帮助别人、应援"], ["guild", "破晓之星"], ["guild_id", "2"], ["height", "155"], ["race", "兽人族"], ["self_text", "你好！　我是日和莉！\\n如果有人遇到困难，我就会去帮忙！\\n不介意的话，和我一起去吧？"], ["unit_id", 135701], ["unit_name", "日和莉（沙漠）"], ["voice", "东山奈央"], ["voice_id", 0], ["weight", "44"]]
+          }
+        ]
+      }
+    }
+  }
+}
