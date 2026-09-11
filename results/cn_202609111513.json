@@ -1,0 +1,79 @@
+{
+  "tables": {
+    "only_in_old_db": [],
+    "only_in_new_db": []
+  },
+  "table_changes": {
+    "unit_profile": {
+      "data_changes": {
+        "modified": [
+          {
+            "id": 117801,
+            "old": [["age", "16"], ["birth_day", "31"], ["birth_month", "8"], ["blood_type", "O"], ["catch_copy", "请给我讲讲东国的神秘吧！"], ["favorite", "忍术开发"], ["guild", "纯白之翼　兰德索尔分部"], ["guild_id", "15"], ["height", "163"], ["race", "人类"], ["self_text", "寿司、艺伎、天妇罗……\\n哈唔～\\n东国的文化真棒！"], ["unit_id", 117801], ["unit_name", "妮侬（万圣节）"], ["voice", "佐藤聪美"], ["voice_id", 0], ["weight", "51"]],
+            "new": [["age", "16"], ["birth_day", "31"], ["birth_month", "8"], ["blood_type", "O"], ["catch_copy", "请给我讲讲东国的神秘吧！"], ["favorite", "忍术开发"], ["guild", "纯白之翼 兰德索尔分部"], ["guild_id", "15"], ["height", "163"], ["race", "人类"], ["self_text", "寿司、艺伎、天妇罗……\\n哈唔～\\n东国的文化真棒！"], ["unit_id", 117801], ["unit_name", "妮侬（万圣节）"], ["voice", "佐藤聪美"], ["voice_id", 0], ["weight", "51"]]
+          },
+          {
+            "id": 133201,
+            "old": [["age", "17"], ["birth_day", "28"], ["birth_month", "7"], ["blood_type", "A"], ["catch_copy", "外表和内在都是小孩子的异国军人"], ["favorite", "逛点心店"], ["guild", "纯白之翼　兰德索尔分部"], ["guild_id", "15"], ["height", "140"], ["race", "人族"], ["self_text", "“白翼”，也就是纯白之翼……\\n我会不辱此名，飞上高空，\\n华丽地将敌人打倒！"], ["unit_id", 133201], ["unit_name", "莫妮卡（新年）"], ["voice", "辻步美"], ["voice_id", 0], ["weight", "33"]],
+            "new": [["age", "17"], ["birth_day", "28"], ["birth_month", "7"], ["blood_type", "A"], ["catch_copy", "外表和内在都是小孩子的异国军人"], ["favorite", "逛点心店"], ["guild", "纯白之翼 兰德索尔分部"], ["guild_id", "15"], ["height", "140"], ["race", "人族"], ["self_text", "“白翼”，也就是纯白之翼……\\n我会不辱此名，飞上高空，\\n华丽地将敌人打倒！"], ["unit_id", 133201], ["unit_name", "莫妮卡（新年）"], ["voice", "辻步美"], ["voice_id", 0], ["weight", "33"]]
+          },
+          {
+            "id": 121501,
+            "old": [["age", "16"], ["birth_day", "7"], ["birth_month", "4"], ["blood_type", "O"], ["catch_copy", "始终专情的纯情少女"], ["favorite", "观察"], ["guild", "纯白之翼　兰德索尔分部"], ["guild_id", "15"], ["height", "155"], ["race", "精灵"], ["self_text", ""], ["unit_id", 121501], ["unit_name", "步美（怪盗）"], ["voice", "大关英里"], ["voice_id", 0], ["weight", "43"]],
+            "new": [["age", "16"], ["birth_day", "7"], ["birth_month", "4"], ["blood_type", "O"], ["catch_copy", "始终专情的纯情少女"], ["favorite", "观察"], ["guild", "纯白之翼 兰德索尔分部"], ["guild_id", "15"], ["height", "155"], ["race", "精灵"], ["self_text", ""], ["unit_id", 121501], ["unit_name", "步美（怪盗）"], ["voice", "大关英里"], ["voice_id", 0], ["weight", "43"]]
+          },
+          {
+            "id": 137101,
+            "old": [["age", "16"], ["birth_day", "31"], ["birth_month", "8"], ["blood_type", "O"], ["catch_copy", "请给我讲讲东国的神秘吧！"], ["favorite", "忍术开发"], ["guild", "纯白之翼　兰德索尔分部"], ["guild_id", "15"], ["height", "163"], ["race", "人族"], ["self_text", "寿司、艺伎、天妇罗……\\n哈唔～\\n东国的文化真棒！"], ["unit_id", 137101], ["unit_name", "妮侬（夏日）"], ["voice", "佐藤聪美"], ["voice_id", 0], ["weight", "51"]],
+            "new": [["age", "16"], ["birth_day", "31"], ["birth_month", "8"], ["blood_type", "O"], ["catch_copy", "请给我讲讲东国的神秘吧！"], ["favorite", "忍术开发"], ["guild", "纯白之翼 兰德索尔分部"], ["guild_id", "15"], ["height", "163"], ["race", "人族"], ["self_text", "寿司、艺伎、天妇罗……\\n哈唔～\\n东国的文化真棒！"], ["unit_id", 137101], ["unit_name", "妮侬（夏日）"], ["voice", "佐藤聪美"], ["voice_id", 0], ["weight", "51"]]
+          },
+          {
+            "id": 109501,
+            "old": [["age", "18"], ["birth_day", "19"], ["birth_month", "11"], ["blood_type", "AB"], ["catch_copy", "最喜欢妄想！ 其实是很害羞的女孩子"], ["favorite", "阅读小说"], ["guild", "纯白之翼　兰德索尔分部"], ["guild_id", "15"], ["height", "157"], ["race", "人类"], ["self_text", "我在想着你\\n……对无法反抗的空花这样那样，\\n嘿、嘿嘿嘿……"], ["unit_id", 109501], ["unit_name", "空花（大江户）"], ["voice", "长妻树里"], ["voice_id", 0], ["weight", "49"]],
+            "new": [["age", "18"], ["birth_day", "19"], ["birth_month", "11"], ["blood_type", "AB"], ["catch_copy", "最喜欢妄想！ 其实是很害羞的女孩子"], ["favorite", "阅读小说"], ["guild", "纯白之翼 兰德索尔分部"], ["guild_id", "15"], ["height", "157"], ["race", "人类"], ["self_text", "我在想着你\\n……对无法反抗的空花这样那样，\\n嘿、嘿嘿嘿……"], ["unit_id", 109501], ["unit_name", "空花（大江户）"], ["voice", "长妻树里"], ["voice_id", 0], ["weight", "49"]]
+          },
+          {
+            "id": 109601,
+            "old": [["age", "16"], ["birth_day", "31"], ["birth_month", "8"], ["blood_type", "O"], ["catch_copy", "请给我讲讲东国的神秘吧！"], ["favorite", "忍术开发"], ["guild", "纯白之翼　兰德索尔分部"], ["guild_id", "15"], ["height", "163"], ["race", "人类"], ["self_text", "寿司、艺伎、天妇罗……\\n哈唔～\\n东国的文化真棒！"], ["unit_id", 109601], ["unit_name", "妮侬（大江户）"], ["voice", "佐藤聪美"], ["voice_id", 0], ["weight", "51"]],
+            "new": [["age", "16"], ["birth_day", "31"], ["birth_month", "8"], ["blood_type", "O"], ["catch_copy", "请给我讲讲东国的神秘吧！"], ["favorite", "忍术开发"], ["guild", "纯白之翼 兰德索尔分部"], ["guild_id", "15"], ["height", "163"], ["race", "人类"], ["self_text", "寿司、艺伎、天妇罗……\\n哈唔～\\n东国的文化真棒！"], ["unit_id", 109601], ["unit_name", "妮侬（大江户）"], ["voice", "佐藤聪美"], ["voice_id", 0], ["weight", "51"]]
+          },
+          {
+            "id": 126301,
+            "old": [["age", "14"], ["birth_day", "10"], ["birth_month", "10"], ["blood_type", "AB"], ["catch_copy", "我比任何人都美丽"], ["favorite", "照镜子"], ["guild", "纯白之翼　兰德索尔分部"], ["guild_id", "15"], ["height", "150"], ["race", "精灵"], ["self_text", "我可真美啊……\\n既可爱又漂亮，真的是一种罪过，\\n可我天生如此，没办法♪"], ["unit_id", 126301], ["unit_name", "雪（礼服）"], ["voice", "大空直美"], ["voice_id", 0], ["weight", "40"]],
+            "new": [["age", "14"], ["birth_day", "10"], ["birth_month", "10"], ["blood_type", "AB"], ["catch_copy", "我比任何人都美丽"], ["favorite", "照镜子"], ["guild", "纯白之翼 兰德索尔分部"], ["guild_id", "15"], ["height", "150"], ["race", "精灵"], ["self_text", "我可真美啊……\\n既可爱又漂亮，真的是一种罪过，\\n可我天生如此，没办法♪"], ["unit_id", 126301], ["unit_name", "雪（礼服）"], ["voice", "大空直美"], ["voice_id", 0], ["weight", "40"]]
+          },
+          {
+            "id": 119101,
+            "old": [["age", "18"], ["birth_day", "19"], ["birth_month", "11"], ["blood_type", "AB"], ["catch_copy", "最喜欢妄想！　其实是很爱害羞的女孩子"], ["favorite", "阅读小说"], ["guild", "纯白之翼　兰德索尔分部"], ["guild_id", "15"], ["height", "157"], ["race", "人类"], ["self_text", "我在想你的事……\\n让无法反抗的空花做各种事情，\\n唔、唔呼呼……"], ["unit_id", 119101], ["unit_name", "空花（黑暗）"], ["voice", "长妻树里"], ["voice_id", 0], ["weight", "49"]],
+            "new": [["age", "18"], ["birth_day", "19"], ["birth_month", "11"], ["blood_type", "AB"], ["catch_copy", "最喜欢妄想！　其实是很爱害羞的女孩子"], ["favorite", "阅读小说"], ["guild", "纯白之翼 兰德索尔分部"], ["guild_id", "15"], ["height", "157"], ["race", "人类"], ["self_text", "我在想你的事……\\n让无法反抗的空花做各种事情，\\n唔、唔呼呼……"], ["unit_id", 119101], ["unit_name", "空花（黑暗）"], ["voice", "长妻树里"], ["voice_id", 0], ["weight", "49"]]
+          },
+          {
+            "id": 117601,
+            "old": [["age", "14"], ["birth_day", "10"], ["birth_month", "10"], ["blood_type", "AB"], ["catch_copy", "我比任何人都美丽"], ["favorite", "照镜子"], ["guild", "纯白之翼　兰德索尔分部"], ["guild_id", "15"], ["height", "150"], ["race", "精灵"], ["self_text", "我可真美啊……\\n既可爱又漂亮真的是一种罪过，\\n可我天生如此，没办法♪"], ["unit_id", 117601], ["unit_name", "雪（大江户）"], ["voice", "大空直美"], ["voice_id", 0], ["weight", "40"]],
+            "new": [["age", "14"], ["birth_day", "10"], ["birth_month", "10"], ["blood_type", "AB"], ["catch_copy", "我比任何人都美丽"], ["favorite", "照镜子"], ["guild", "纯白之翼 兰德索尔分部"], ["guild_id", "15"], ["height", "150"], ["race", "精灵"], ["self_text", "我可真美啊……\\n既可爱又漂亮真的是一种罪过，\\n可我天生如此，没办法♪"], ["unit_id", 117601], ["unit_name", "雪（大江户）"], ["voice", "大空直美"], ["voice_id", 0], ["weight", "40"]]
+          },
+          {
+            "id": 113001,
+            "old": [["age", "16"], ["birth_day", "7"], ["birth_month", "4"], ["blood_type", "O"], ["catch_copy", "始终专情的纯情少女"], ["favorite", "观察"], ["guild", "纯白之翼　兰德索尔分部"], ["guild_id", "15"], ["height", "155"], ["race", "精灵"], ["self_text", ""], ["unit_id", 113001], ["unit_name", "步美（仙境）"], ["voice", "大关英里"], ["voice_id", 0], ["weight", "43"]],
+            "new": [["age", "16"], ["birth_day", "7"], ["birth_month", "4"], ["blood_type", "O"], ["catch_copy", "始终专情的纯情少女"], ["favorite", "观察"], ["guild", "纯白之翼 兰德索尔分部"], ["guild_id", "15"], ["height", "155"], ["race", "精灵"], ["self_text", ""], ["unit_id", 113001], ["unit_name", "步美（仙境）"], ["voice", "大关英里"], ["voice_id", 0], ["weight", "43"]]
+          },
+          {
+            "id": 114201,
+            "old": [["age", "17"], ["birth_day", "28"], ["birth_month", "7"], ["blood_type", "A"], ["catch_copy", "外表和内在都是小孩子的异国军人"], ["favorite", "去点心店"], ["guild", "纯白之翼　兰德索尔分部"], ["guild_id", "15"], ["height", "140"], ["race", "人类"], ["self_text", "「白翼」，纯白之翼……\\n我会不辱此名，飞上高空，\\n华丽地打倒敌人给别人看！"], ["unit_id", 114201], ["unit_name", "莫妮卡（魔法少女）"], ["voice", "辻步美"], ["voice_id", 0], ["weight", "33"]],
+            "new": [["age", "17"], ["birth_day", "28"], ["birth_month", "7"], ["blood_type", "A"], ["catch_copy", "外表和内在都是小孩子的异国军人"], ["favorite", "去点心店"], ["guild", "纯白之翼 兰德索尔分部"], ["guild_id", "15"], ["height", "140"], ["race", "人类"], ["self_text", "「白翼」，纯白之翼……\\n我会不辱此名，飞上高空，\\n华丽地打倒敌人给别人看！"], ["unit_id", 114201], ["unit_name", "莫妮卡（魔法少女）"], ["voice", "辻步美"], ["voice_id", 0], ["weight", "33"]]
+          },
+          {
+            "id": 125201,
+            "old": [["age", "17"], ["birth_day", "28"], ["birth_month", "7"], ["blood_type", "A"], ["catch_copy", "外表和内在都是小孩子的异国军人"], ["favorite", "逛点心店"], ["guild", "纯白之翼　兰德索尔分部"], ["guild_id", "15"], ["height", "140"], ["race", "人族"], ["self_text", "“白翼”，也就是纯白之翼……\\n我会不辱此名，飞上高空，\\n华丽地将敌人打倒！"], ["unit_id", 125201], ["unit_name", "莫妮卡（咖啡厅）"], ["voice", "辻步美"], ["voice_id", 0], ["weight", "33"]],
+            "new": [["age", "17"], ["birth_day", "28"], ["birth_month", "7"], ["blood_type", "A"], ["catch_copy", "外表和内在都是小孩子的异国军人"], ["favorite", "逛点心店"], ["guild", "纯白之翼 兰德索尔分部"], ["guild_id", "15"], ["height", "140"], ["race", "人族"], ["self_text", "“白翼”，也就是纯白之翼……\\n我会不辱此名，飞上高空，\\n华丽地将敌人打倒！"], ["unit_id", 125201], ["unit_name", "莫妮卡（咖啡厅）"], ["voice", "辻步美"], ["voice_id", 0], ["weight", "33"]]
+          },
+          {
+            "id": 127001,
+            "old": [["age", "18"], ["birth_day", "19"], ["birth_month", "11"], ["blood_type", "AB"], ["catch_copy", "最喜欢妄想！　其实是很害羞的女孩子"], ["favorite", "读小说"], ["guild", "纯白之翼　兰德索尔分部"], ["guild_id", "15"], ["height", "157"], ["race", "人族"], ["self_text", "我在想你的事……\\n让无法反抗的空花做各种事情，\\n唔、唔呼呼…"], ["unit_id", 127001], ["unit_name", "空花（夏日）"], ["voice", "长妻树里"], ["voice_id", 0], ["weight", "49"]],
+            "new": [["age", "18"], ["birth_day", "19"], ["birth_month", "11"], ["blood_type", "AB"], ["catch_copy", "最喜欢妄想！　其实是很害羞的女孩子"], ["favorite", "读小说"], ["guild", "纯白之翼 兰德索尔分部"], ["guild_id", "15"], ["height", "157"], ["race", "人族"], ["self_text", "我在想你的事……\\n让无法反抗的空花做各种事情，\\n唔、唔呼呼…"], ["unit_id", 127001], ["unit_name", "空花（夏日）"], ["voice", "长妻树里"], ["voice_id", 0], ["weight", "49"]]
+          }
+        ]
+      }
+    }
+  }
+}
