@@ -1,0 +1,24 @@
+{
+  "tables": {
+    "only_in_old_db": [],
+    "only_in_new_db": []
+  },
+  "table_changes": {
+    "skill_data": {
+      "data_changes": {
+        "modified": [
+          {
+            "id": 1701001,
+            "old": [["action_1", 170100101], ["action_10", 0], ["action_2", 0], ["action_3", 0], ["action_4", 0], ["action_5", 0], ["action_6", 0], ["action_7", 0], ["action_8", 0], ["action_9", 0], ["boss_ub_cool_time", 0.0], ["depend_action_1", 0], ["depend_action_10", 0], ["depend_action_2", 0], ["depend_action_3", 0], ["depend_action_4", 0], ["depend_action_5", 0], ["depend_action_6", 0], ["depend_action_7", 0], ["depend_action_8", 0], ["depend_action_9", 0], ["description", "对前方一名敌人造成物理伤害（特大），并特大幅度提升自身的物理攻击力。"], ["icon_type", 1001], ["name", "闪耀之刃"], ["skill_area_width", 0], ["skill_cast_time", 0.0], ["skill_id", 1701001], ["skill_type", 0]],
+            "new": [["action_1", 170100101], ["action_10", 0], ["action_2", 0], ["action_3", 0], ["action_4", 0], ["action_5", 0], ["action_6", 0], ["action_7", 0], ["action_8", 0], ["action_9", 0], ["boss_ub_cool_time", 0.0], ["depend_action_1", 0], ["depend_action_10", 0], ["depend_action_2", 0], ["depend_action_3", 0], ["depend_action_4", 0], ["depend_action_5", 0], ["depend_action_6", 0], ["depend_action_7", 0], ["depend_action_8", 0], ["depend_action_9", 0], ["description", "对前方范围内所有敌人造成物理伤害（大），第四段伤害必定暴击。"], ["icon_type", 1001], ["name", "闪耀之刃"], ["skill_area_width", 0], ["skill_cast_time", 0.0], ["skill_id", 1701001], ["skill_type", 0]]
+          },
+          {
+            "id": 1701012,
+            "old": [["action_1", 170101201], ["action_10", 0], ["action_2", 170101202], ["action_3", 170101203], ["action_4", 170101204], ["action_5", 0], ["action_6", 0], ["action_7", 0], ["action_8", 0], ["action_9", 0], ["boss_ub_cool_time", 0.0], ["depend_action_1", 0], ["depend_action_10", 0], ["depend_action_2", 170101201], ["depend_action_3", 0], ["depend_action_4", 0], ["depend_action_5", 0], ["depend_action_6", 0], ["depend_action_7", 0], ["depend_action_8", 0], ["depend_action_9", 0], ["description", "对前方一名敌人造成物理伤害（特大）。并中幅回复自身技能值，小幅回复除自身以外我方全体的技能值。"], ["icon_type", 2001], ["name", "冲击之刃+"], ["skill_area_width", 0], ["skill_cast_time", 1.27], ["skill_id", 1701012], ["skill_type", 0]],
+            "new": [["action_1", 170101201], ["action_10", 0], ["action_2", 170101202], ["action_3", 170101203], ["action_4", 170101204], ["action_5", 0], ["action_6", 0], ["action_7", 0], ["action_8", 0], ["action_9", 0], ["boss_ub_cool_time", 0.0], ["depend_action_1", 0], ["depend_action_10", 0], ["depend_action_2", 170101201], ["depend_action_3", 0], ["depend_action_4", 0], ["depend_action_5", 0], ["depend_action_6", 0], ["depend_action_7", 0], ["depend_action_8", 0], ["depend_action_9", 0], ["description", "中幅提升自身的物理攻击力，以前方一名敌人为中心，对附近的所有敌方目标造成物理伤害（小），造成的伤害必定暴击且根据范围内的敌人的数量造成的伤害增加。"], ["icon_type", 2001], ["name", "冲击之刃+"], ["skill_area_width", 0], ["skill_cast_time", 1.27], ["skill_id", 1701012], ["skill_type", 0]]
+          }
+        ]
+      }
+    }
+  }
+}
