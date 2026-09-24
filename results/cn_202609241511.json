@@ -1,0 +1,438 @@
+{
+  "tables": {
+    "only_in_old_db": [],
+    "only_in_new_db": []
+  },
+  "table_changes": {
+    "chara_fortune_schedule": {
+      "data_changes": {
+        "modified": [
+          {
+            "id": 10014,
+            "old": [["end_time", "2026/08/31 4:59:59"], ["fortune_id", 10014], ["name", "夏日庆典 特别登录奖励"], ["start_time", "2026/08/14 5:00:00"]],
+            "new": [["end_time", "2026/08/31 4:59:59"], ["fortune_id", 10014], ["name", "6.5周年纪念 特别登录奖励"], ["start_time", "2026/08/14 5:00:00"]]
+          }
+        ]
+      }
+    },
+    "item_data": {
+      "data_changes": {
+        "added": [
+          [["description", "封印着沙月记忆碎片的道具。收集一定数量后，可以解放角色的潜在力量。"], ["end_time", "2099/12/31 23:59:59"], ["gojuon_order", 2032112], ["item_id", 31359], ["item_name", "沙月的记忆碎片"], ["item_type", 11], ["limit_num", 99999], ["price", 0], ["promotion_level", 1], ["sell_check_disp", 0], ["start_time", "2026/10/09 11:00:00"], ["value", 31359]],
+          [["description", "可以在深渊讨伐战期间获得的证明。消耗后就能挑战首领战。"], ["end_time", "2099/12/31 23:59:59"], ["gojuon_order", 0], ["item_id", 70016], ["item_name", "讨伐委托证"], ["item_type", 32], ["limit_num", 9999], ["price", 0], ["promotion_level", 1], ["sell_check_disp", 0], ["start_time", "2026/09/29 11:00:00"], ["value", 0]],
+          [["description", "封印着雪乃记忆碎片的道具。收集一定数量后，可以解放角色的潜在力量。"], ["end_time", "2099/12/31 23:59:59"], ["gojuon_order", 7211212], ["item_id", 31358], ["item_name", "雪乃的记忆碎片"], ["item_type", 11], ["limit_num", 99999], ["price", 0], ["promotion_level", 1], ["sell_check_disp", 0], ["start_time", "2026/09/29 11:00:00"], ["value", 31358]],
+          [["description", "由公会管理协会发行的奖券，用于交换报酬。可通过游玩剧情活动获得。"], ["end_time", "2099/12/31 23:59:59"], ["gojuon_order", 0], ["item_id", 62091], ["item_name", "活动奖励券"], ["item_type", 13], ["limit_num", 9999], ["price", 0], ["promotion_level", 1], ["sell_check_disp", 0], ["start_time", "2026/09/29 11:00:00"], ["value", 0]]
+        ],
+        "modified": [
+          {
+            "id": 28037,
+            "old": [["description", "可以兑换特定角色的纯净记忆碎片的兑换券。"], ["end_time", "2099/12/31 23:59:59"], ["gojuon_order", 0], ["item_id", 28037], ["item_name", "夏日庆典纪念 纯净记忆碎片兑换券"], ["item_type", 17], ["limit_num", 999], ["price", 0], ["promotion_level", 1], ["sell_check_disp", 0], ["start_time", "2026/08/14 11:00:00"], ["value", 0]],
+            "new": [["description", "可以兑换特定角色的纯净记忆碎片的兑换券。"], ["end_time", "2099/12/31 23:59:59"], ["gojuon_order", 0], ["item_id", 28037], ["item_name", "6.5周年纪念 纯净记忆碎片兑换券"], ["item_type", 17], ["limit_num", 999], ["price", 0], ["promotion_level", 1], ["sell_check_disp", 0], ["start_time", "2026/08/14 11:00:00"], ["value", 0]]
+          }
+        ]
+      }
+    },
+    "unit_data": {
+      "data_changes": {
+        "modified": [
+          {
+            "id": 135901,
+            "old": [["atk_type", 0], ["comment", "【物理】前卫，娇小身躯蕴藏着深厚仁义之心的鬼族女孩。\\n凭借攻防自我强化和无法行动无效化持续勇猛作战，当自身处于毒咒状态时，发动的追加攻击将展现其无穷的力量。"], ["cutin1_star6", 0], ["cutin2_star6", 0], ["cutin_1", 0], ["cutin_2", 0], ["end_time", "2030/12/31 15:00"], ["exskill_display", 0], ["guild_id", 0], ["is_limited", 0], ["kana", "shayue"], ["motion_type", 1], ["move_speed", 0], ["normal_atk_cast_time", 0.0], ["only_disp_owned", 0], ["original_unit_id", 0], ["prefab_id", 135901], ["prefab_id_battle", 0], ["rarity", 3], ["se_type", 1], ["search_area_width", 0], ["start_time", "2015/4/1 15:00"], ["unit_id", 135901], ["unit_name", "沙月"], ["unknown_1", 0]],
+            "new": [["atk_type", 1], ["comment", "【物理】前卫，娇小身躯蕴藏着深厚仁义之心的鬼族女孩。\\n凭借攻防自我强化和无法行动无效化持续勇猛作战，当自身处于毒咒状态时，发动的追加攻击将展现其无穷的力量。"], ["cutin1_star6", 135901], ["cutin2_star6", 0], ["cutin_1", 135901], ["cutin_2", 0], ["end_time", "2026/10/23 10:59:59"], ["exskill_display", 0], ["guild_id", 0], ["is_limited", 1], ["kana", "shayue"], ["motion_type", 0], ["move_speed", 450], ["normal_atk_cast_time", 1.84], ["only_disp_owned", 0], ["original_unit_id", 0], ["prefab_id", 135901], ["prefab_id_battle", 0], ["rarity", 3], ["se_type", 3], ["search_area_width", 219], ["start_time", "2026/10/09 11:00:00"], ["unit_id", 135901], ["unit_name", "沙月"], ["unknown_1", 0]]
+          },
+          {
+            "id": 135801,
+            "old": [["atk_type", 0], ["comment", "【魔法】后卫，弹奏着冰清玉洁三味线的纯真雪女。\\n以多种减益效果削弱敌人，并且根据魔法防御最低敌人的状态触发追加效果，将冥府染成一片雪白。"], ["cutin1_star6", 0], ["cutin2_star6", 0], ["cutin_1", 0], ["cutin_2", 0], ["end_time", "2030/12/31 15:00"], ["exskill_display", 0], ["guild_id", 0], ["is_limited", 0], ["kana", "xuenai"], ["motion_type", 1], ["move_speed", 0], ["normal_atk_cast_time", 0.0], ["only_disp_owned", 0], ["original_unit_id", 0], ["prefab_id", 135801], ["prefab_id_battle", 0], ["rarity", 3], ["se_type", 1], ["search_area_width", 0], ["start_time", "2015/4/1 15:00"], ["unit_id", 135801], ["unit_name", "雪乃"], ["unknown_1", 0]],
+            "new": [["atk_type", 2], ["comment", "【魔法】后卫，弹奏着冰清玉洁三味线的纯真雪女。\\n以多种减益效果削弱敌人，并且根据魔法防御最低敌人的状态触发追加效果，将冥府染成一片雪白。"], ["cutin1_star6", 135801], ["cutin2_star6", 0], ["cutin_1", 135801], ["cutin_2", 0], ["end_time", "2026/10/09 10:59:59"], ["exskill_display", 0], ["guild_id", 0], ["is_limited", 1], ["kana", "xuenai"], ["motion_type", 0], ["move_speed", 450], ["normal_atk_cast_time", 2.09], ["only_disp_owned", 0], ["original_unit_id", 0], ["prefab_id", 135801], ["prefab_id_battle", 0], ["rarity", 3], ["se_type", 7], ["search_area_width", 830], ["start_time", "2026/09/29 11:00:00"], ["unit_id", 135801], ["unit_name", "雪乃"], ["unknown_1", 0]]
+          }
+        ]
+      }
+    },
+    "campaign_schedule": {
+      "data_changes": {
+        "added": [
+          [["beginner_id", 0], ["campaign_category", 81], ["campaign_type", 3], ["duplication_order", 0], ["end_time", "2026/10/15 10:59:59"], ["icon_image", 82], ["id", 7474], ["level_id", 0], ["lv_from", 50], ["lv_to", 100], ["shiori_group_id", 0], ["start_time", "2026/09/29 11:00:00"], ["system_id", 101], ["value", 4000.0]],
+          [["beginner_id", 0], ["campaign_category", 31], ["campaign_type", 1], ["duplication_order", 0], ["end_time", "2026/10/19 04:59:59"], ["icon_image", 30], ["id", 7470], ["level_id", 0], ["lv_from", 1], ["lv_to", -1], ["shiori_group_id", 0], ["start_time", "2026/10/15 05:00:00"], ["system_id", 101], ["value", 3000.0]],
+          [["beginner_id", 0], ["campaign_category", 41], ["campaign_type", 1], ["duplication_order", 0], ["end_time", "2026/10/19 04:59:59"], ["icon_image", 40], ["id", 7471], ["level_id", 0], ["lv_from", 1], ["lv_to", -1], ["shiori_group_id", 0], ["start_time", "2026/10/15 05:00:00"], ["system_id", 101], ["value", 2000.0]],
+          [["beginner_id", 0], ["campaign_category", 49], ["campaign_type", 1], ["duplication_order", 0], ["end_time", "2026/10/23 04:59:59"], ["icon_image", 40], ["id", 7467], ["level_id", 0], ["lv_from", 1], ["lv_to", -1], ["shiori_group_id", 0], ["start_time", "2026/10/07 05:00:00"], ["system_id", 111], ["value", 2000.0]],
+          [["beginner_id", 0], ["campaign_category", 81], ["campaign_type", 3], ["duplication_order", 0], ["end_time", "2026/10/15 10:59:59"], ["icon_image", 82], ["id", 7475], ["level_id", 0], ["lv_from", 101], ["lv_to", 351], ["shiori_group_id", 0], ["start_time", "2026/09/29 11:00:00"], ["system_id", 101], ["value", 6000.0]],
+          [["beginner_id", 0], ["campaign_category", 45], ["campaign_type", 1], ["duplication_order", 0], ["end_time", "2026/10/30 04:59:59"], ["icon_image", 40], ["id", 7472], ["level_id", 0], ["lv_from", 1], ["lv_to", -1], ["shiori_group_id", 0], ["start_time", "2026/10/15 05:00:00"], ["system_id", 104], ["value", 2000.0]],
+          [["beginner_id", 0], ["campaign_category", 38], ["campaign_type", 1], ["duplication_order", 0], ["end_time", "2026/10/15 04:59:59"], ["icon_image", 30], ["id", 7469], ["level_id", 0], ["lv_from", 1], ["lv_to", -1], ["shiori_group_id", 0], ["start_time", "2026/10/07 05:00:00"], ["system_id", 112], ["value", 2000.0]],
+          [["beginner_id", 0], ["campaign_category", 39], ["campaign_type", 3], ["duplication_order", 0], ["end_time", "2026/10/15 10:59:59"], ["icon_image", 32], ["id", 7482], ["level_id", 0], ["lv_from", 1], ["lv_to", 310], ["shiori_group_id", 0], ["start_time", "2026/09/29 11:00:00"], ["system_id", 111], ["value", 3000.0]],
+          [["beginner_id", 0], ["campaign_category", 42], ["campaign_type", 3], ["duplication_order", 0], ["end_time", "2026/10/15 10:59:59"], ["icon_image", 42], ["id", 7481], ["level_id", 0], ["lv_from", 1], ["lv_to", 310], ["shiori_group_id", 0], ["start_time", "2026/09/29 11:00:00"], ["system_id", 102], ["value", 3000.0]],
+          [["beginner_id", 0], ["campaign_category", 83], ["campaign_type", 3], ["duplication_order", 0], ["end_time", "2026/10/15 10:59:59"], ["icon_image", 82], ["id", 7478], ["level_id", 0], ["lv_from", 50], ["lv_to", 100], ["shiori_group_id", 0], ["start_time", "2026/09/29 11:00:00"], ["system_id", 111], ["value", 4000.0]],
+          [["beginner_id", 0], ["campaign_category", 31], ["campaign_type", 3], ["duplication_order", 0], ["end_time", "2026/10/07 04:59:59"], ["icon_image", 32], ["id", 7485], ["level_id", 0], ["lv_from", 1], ["lv_to", 310], ["shiori_group_id", 0], ["start_time", "2026/10/02 05:00:00"], ["system_id", 101], ["value", 3000.0]],
+          [["beginner_id", 0], ["campaign_category", 31], ["campaign_type", 1], ["duplication_order", 0], ["end_time", "2026/10/07 04:59:59"], ["icon_image", 30], ["id", 7464], ["level_id", 0], ["lv_from", 1], ["lv_to", -1], ["shiori_group_id", 0], ["start_time", "2026/10/02 05:00:00"], ["system_id", 101], ["value", 2000.0]],
+          [["beginner_id", 0], ["campaign_category", 1051], ["campaign_type", 1], ["duplication_order", 0], ["end_time", "2026/10/22 04:59:59"], ["icon_image", 80], ["id", 7473], ["level_id", 0], ["lv_from", 1], ["lv_to", -1], ["shiori_group_id", 0], ["start_time", "2026/09/29 11:00:00"], ["system_id", 6114], ["value", 1500.0]],
+          [["beginner_id", 0], ["campaign_category", 41], ["campaign_type", 3], ["duplication_order", 0], ["end_time", "2026/10/15 05:00:00"], ["icon_image", 42], ["id", 7490], ["level_id", 0], ["lv_from", 1], ["lv_to", 310], ["shiori_group_id", 0], ["start_time", "2026/10/07 04:59:59"], ["system_id", 101], ["value", 3000.0]],
+          [["beginner_id", 0], ["campaign_category", 41], ["campaign_type", 3], ["duplication_order", 0], ["end_time", "2026/10/15 10:59:59"], ["icon_image", 42], ["id", 7491], ["level_id", 0], ["lv_from", 1], ["lv_to", 310], ["shiori_group_id", 0], ["start_time", "2026/10/15 05:00:00"], ["system_id", 101], ["value", 3000.0]],
+          [["beginner_id", 0], ["campaign_category", 37], ["campaign_type", 1], ["duplication_order", 0], ["end_time", "2026/10/15 04:59:59"], ["icon_image", 30], ["id", 7468], ["level_id", 0], ["lv_from", 1], ["lv_to", -1], ["shiori_group_id", 0], ["start_time", "2026/10/07 05:00:00"], ["system_id", 109], ["value", 2000.0]],
+          [["beginner_id", 0], ["campaign_category", 41], ["campaign_type", 3], ["duplication_order", 0], ["end_time", "2026/10/07 04:59:59"], ["icon_image", 42], ["id", 7489], ["level_id", 0], ["lv_from", 1], ["lv_to", 310], ["shiori_group_id", 0], ["start_time", "2026/10/02 05:00:00"], ["system_id", 101], ["value", 3000.0]],
+          [["beginner_id", 0], ["campaign_category", 31], ["campaign_type", 3], ["duplication_order", 0], ["end_time", "2026/10/15 10:59:59"], ["icon_image", 32], ["id", 7487], ["level_id", 0], ["lv_from", 1], ["lv_to", 310], ["shiori_group_id", 0], ["start_time", "2026/10/15 05:00:00"], ["system_id", 101], ["value", 3000.0]],
+          [["beginner_id", 0], ["campaign_category", 41], ["campaign_type", 1], ["duplication_order", 0], ["end_time", "2026/10/07 04:59:59"], ["icon_image", 40], ["id", 7465], ["level_id", 0], ["lv_from", 1], ["lv_to", -1], ["shiori_group_id", 0], ["start_time", "2026/10/02 05:00:00"], ["system_id", 101], ["value", 2000.0]],
+          [["beginner_id", 0], ["campaign_category", 49], ["campaign_type", 3], ["duplication_order", 0], ["end_time", "2026/10/15 10:59:59"], ["icon_image", 42], ["id", 7483], ["level_id", 0], ["lv_from", 1], ["lv_to", 310], ["shiori_group_id", 0], ["start_time", "2026/09/29 11:00:00"], ["system_id", 111], ["value", 3000.0]],
+          [["beginner_id", 0], ["campaign_category", 82], ["campaign_type", 3], ["duplication_order", 0], ["end_time", "2026/10/15 10:59:59"], ["icon_image", 82], ["id", 7477], ["level_id", 0], ["lv_from", 101], ["lv_to", 351], ["shiori_group_id", 0], ["start_time", "2026/09/29 11:00:00"], ["system_id", 102], ["value", 6000.0]],
+          [["beginner_id", 0], ["campaign_category", 83], ["campaign_type", 3], ["duplication_order", 0], ["end_time", "2026/10/15 10:59:59"], ["icon_image", 82], ["id", 7479], ["level_id", 0], ["lv_from", 101], ["lv_to", 351], ["shiori_group_id", 0], ["start_time", "2026/09/29 11:00:00"], ["system_id", 111], ["value", 6000.0]],
+          [["beginner_id", 0], ["campaign_category", 31], ["campaign_type", 3], ["duplication_order", 0], ["end_time", "2026/10/02 05:00:00"], ["icon_image", 32], ["id", 7484], ["level_id", 0], ["lv_from", 1], ["lv_to", 310], ["shiori_group_id", 0], ["start_time", "2026/09/29 11:00:00"], ["system_id", 101], ["value", 3000.0]],
+          [["beginner_id", 0], ["campaign_category", 31], ["campaign_type", 3], ["duplication_order", 0], ["end_time", "2026/10/15 05:00:00"], ["icon_image", 32], ["id", 7486], ["level_id", 0], ["lv_from", 1], ["lv_to", 310], ["shiori_group_id", 0], ["start_time", "2026/10/07 04:59:59"], ["system_id", 101], ["value", 3000.0]],
+          [["beginner_id", 0], ["campaign_category", 32], ["campaign_type", 3], ["duplication_order", 0], ["end_time", "2026/10/15 10:59:59"], ["icon_image", 32], ["id", 7480], ["level_id", 0], ["lv_from", 1], ["lv_to", 310], ["shiori_group_id", 0], ["start_time", "2026/09/29 11:00:00"], ["system_id", 102], ["value", 3000.0]],
+          [["beginner_id", 0], ["campaign_category", 82], ["campaign_type", 3], ["duplication_order", 0], ["end_time", "2026/10/15 10:59:59"], ["icon_image", 82], ["id", 7476], ["level_id", 0], ["lv_from", 50], ["lv_to", 100], ["shiori_group_id", 0], ["start_time", "2026/09/29 11:00:00"], ["system_id", 102], ["value", 4000.0]],
+          [["beginner_id", 0], ["campaign_category", 39], ["campaign_type", 1], ["duplication_order", 0], ["end_time", "2026/10/23 04:59:59"], ["icon_image", 30], ["id", 7466], ["level_id", 0], ["lv_from", 1], ["lv_to", -1], ["shiori_group_id", 0], ["start_time", "2026/10/07 05:00:00"], ["system_id", 111], ["value", 2000.0]],
+          [["beginner_id", 0], ["campaign_category", 41], ["campaign_type", 3], ["duplication_order", 0], ["end_time", "2026/10/02 05:00:00"], ["icon_image", 42], ["id", 7488], ["level_id", 0], ["lv_from", 1], ["lv_to", 310], ["shiori_group_id", 0], ["start_time", "2026/09/29 11:00:00"], ["system_id", 101], ["value", 3000.0]]
+        ]
+      }
+    },
+    "daily_mission_data": {
+      "data_changes": {
+        "added": [
+          [["category_icon", 302], ["condition_num", 1], ["condition_value_1", 0], ["condition_value_2", 0], ["condition_value_3", 0], ["daily_mission_id", 16008002], ["description", "进行以下任意强化1次：强化角色的技能、强化装备提升1颗★、公主骑士强化"], ["disp_group", 6], ["end_time", "2099/12/31 23:59:59"], ["max_level", 0], ["min_level", 0], ["mission_condition", 6019], ["mission_reward_id", 16008001], ["start_time", "2026/09/30 5:00:00"], ["system_id", 503], ["title_color_id", 0], ["visible_flag", 1]],
+          [["category_icon", 200], ["condition_num", 10], ["condition_value_1", 0], ["condition_value_2", 0], ["condition_value_3", 0], ["daily_mission_id", 11001049], ["description", "通关主线或活动关卡10次吧"], ["disp_group", 1], ["end_time", "2099/12/31 23:59:59"], ["max_level", 0], ["min_level", 0], ["mission_condition", 1008], ["mission_reward_id", 11001001], ["start_time", "2026/09/30 5:00:00"], ["system_id", 101], ["title_color_id", 0], ["visible_flag", 1]],
+          [["category_icon", 200], ["condition_num", 20], ["condition_value_1", 0], ["condition_value_2", 0], ["condition_value_3", 0], ["daily_mission_id", 11001050], ["description", "通关主线或活动关卡20次吧"], ["disp_group", 2], ["end_time", "2099/12/31 23:59:59"], ["max_level", 0], ["min_level", 0], ["mission_condition", 1008], ["mission_reward_id", 11001002], ["start_time", "2026/09/30 5:00:00"], ["system_id", 101], ["title_color_id", 0], ["visible_flag", 1]],
+          [["category_icon", 401], ["condition_num", 10], ["condition_value_1", 0], ["condition_value_2", 0], ["condition_value_3", 0], ["daily_mission_id", 13002024], ["description", "抽取普通扭蛋10次吧"], ["disp_group", 4], ["end_time", "2099/12/31 23:59:59"], ["max_level", 0], ["min_level", 0], ["mission_condition", 3002], ["mission_reward_id", 13002001], ["start_time", "2026/09/30 5:00:00"], ["system_id", 301], ["title_color_id", 0], ["visible_flag", 1]],
+          [["category_icon", 404], ["condition_num", 1], ["condition_value_1", 0], ["condition_value_2", 0], ["condition_value_3", 0], ["daily_mission_id", 18004024], ["description", "购买玛那1次吧"], ["disp_group", 5], ["end_time", "2099/12/31 23:59:59"], ["max_level", 0], ["min_level", 0], ["mission_condition", 8004], ["mission_reward_id", 18004001], ["start_time", "2026/09/30 5:00:00"], ["system_id", 208], ["title_color_id", 0], ["visible_flag", 1]],
+          [["category_icon", 200], ["condition_num", 3], ["condition_value_1", 0], ["condition_value_2", 0], ["condition_value_3", 0], ["daily_mission_id", 11003026], ["description", "通关主线或活动关卡（困难或高难）3次吧"], ["disp_group", 3], ["end_time", "2099/12/31 23:59:59"], ["max_level", 0], ["min_level", 0], ["mission_condition", 1003], ["mission_reward_id", 11003001], ["start_time", "2026/09/30 5:00:00"], ["system_id", 102], ["title_color_id", 0], ["visible_flag", 1]]
+        ],
+        "modified": [
+          {
+            "id": 16008001,
+            "old": [["category_icon", 302], ["condition_num", 1], ["condition_value_1", 0], ["condition_value_2", 0], ["condition_value_3", 0], ["daily_mission_id", 16008001], ["description", "进行以下任意强化1次：强化角色的技能、强化装备提升1颗★、公主骑士强化"], ["disp_group", 5], ["end_time", "2099/12/31 23:59:59"], ["max_level", 0], ["min_level", 0], ["mission_condition", 6019], ["mission_reward_id", 16008001], ["start_time", "2025/09/30 5:00:00"], ["system_id", 503], ["title_color_id", 0], ["visible_flag", 1]],
+            "new": [["category_icon", 302], ["condition_num", 1], ["condition_value_1", 0], ["condition_value_2", 0], ["condition_value_3", 0], ["daily_mission_id", 16008001], ["description", "进行以下任意强化1次：强化角色的技能、强化装备提升1颗★、公主骑士强化"], ["disp_group", 5], ["end_time", "2026/09/30 4:59:59"], ["max_level", 0], ["min_level", 0], ["mission_condition", 6019], ["mission_reward_id", 16008001], ["start_time", "2025/09/30 5:00:00"], ["system_id", 503], ["title_color_id", 0], ["visible_flag", 1]]
+          },
+          {
+            "id": 11001048,
+            "old": [["category_icon", 200], ["condition_num", 20], ["condition_value_1", 0], ["condition_value_2", 0], ["condition_value_3", 0], ["daily_mission_id", 11001048], ["description", "通关主线或活动关卡20次吧"], ["disp_group", 1], ["end_time", "2099/12/31 23:59:59"], ["max_level", 0], ["min_level", 0], ["mission_condition", 1008], ["mission_reward_id", 11001002], ["start_time", "2021/03/09 5:00:00"], ["system_id", 101], ["title_color_id", 0], ["visible_flag", 1]],
+            "new": [["category_icon", 200], ["condition_num", 20], ["condition_value_1", 0], ["condition_value_2", 0], ["condition_value_3", 0], ["daily_mission_id", 11001048], ["description", "通关主线或活动关卡20次吧"], ["disp_group", 1], ["end_time", "2026/09/30 4:59:59"], ["max_level", 0], ["min_level", 0], ["mission_condition", 1008], ["mission_reward_id", 11001002], ["start_time", "2021/03/09 5:00:00"], ["system_id", 101], ["title_color_id", 0], ["visible_flag", 1]]
+          },
+          {
+            "id": 13002023,
+            "old": [["category_icon", 401], ["condition_num", 10], ["condition_value_1", 0], ["condition_value_2", 0], ["condition_value_3", 0], ["daily_mission_id", 13002023], ["description", "抽取普通扭蛋10次吧"], ["disp_group", 3], ["end_time", "2099/12/31 23:59:59"], ["max_level", 0], ["min_level", 0], ["mission_condition", 3002], ["mission_reward_id", 13002001], ["start_time", "2021/03/09 5:00:00"], ["system_id", 301], ["title_color_id", 0], ["visible_flag", 1]],
+            "new": [["category_icon", 401], ["condition_num", 10], ["condition_value_1", 0], ["condition_value_2", 0], ["condition_value_3", 0], ["daily_mission_id", 13002023], ["description", "抽取普通扭蛋10次吧"], ["disp_group", 3], ["end_time", "2026/09/30 4:59:59"], ["max_level", 0], ["min_level", 0], ["mission_condition", 3002], ["mission_reward_id", 13002001], ["start_time", "2021/03/09 5:00:00"], ["system_id", 301], ["title_color_id", 0], ["visible_flag", 1]]
+          },
+          {
+            "id": 11003025,
+            "old": [["category_icon", 200], ["condition_num", 3], ["condition_value_1", 0], ["condition_value_2", 0], ["condition_value_3", 0], ["daily_mission_id", 11003025], ["description", "通关主线或活动关卡（困难或高难）3次吧"], ["disp_group", 2], ["end_time", "2099/12/31 23:59:59"], ["max_level", 0], ["min_level", 0], ["mission_condition", 1003], ["mission_reward_id", 11003001], ["start_time", "2021/03/09 5:00:00"], ["system_id", 102], ["title_color_id", 0], ["visible_flag", 1]],
+            "new": [["category_icon", 200], ["condition_num", 3], ["condition_value_1", 0], ["condition_value_2", 0], ["condition_value_3", 0], ["daily_mission_id", 11003025], ["description", "通关主线或活动关卡（困难或高难）3次吧"], ["disp_group", 2], ["end_time", "2026/09/30 4:59:59"], ["max_level", 0], ["min_level", 0], ["mission_condition", 1003], ["mission_reward_id", 11003001], ["start_time", "2021/03/09 5:00:00"], ["system_id", 102], ["title_color_id", 0], ["visible_flag", 1]]
+          },
+          {
+            "id": 18004023,
+            "old": [["category_icon", 404], ["condition_num", 1], ["condition_value_1", 0], ["condition_value_2", 0], ["condition_value_3", 0], ["daily_mission_id", 18004023], ["description", "购买玛那1次吧"], ["disp_group", 4], ["end_time", "2099/12/31 23:59:59"], ["max_level", 0], ["min_level", 0], ["mission_condition", 8004], ["mission_reward_id", 18004001], ["start_time", "2021/03/09 5:00:00"], ["system_id", 208], ["title_color_id", 0], ["visible_flag", 1]],
+            "new": [["category_icon", 404], ["condition_num", 1], ["condition_value_1", 0], ["condition_value_2", 0], ["condition_value_3", 0], ["daily_mission_id", 18004023], ["description", "购买玛那1次吧"], ["disp_group", 4], ["end_time", "2026/09/30 4:59:59"], ["max_level", 0], ["min_level", 0], ["mission_condition", 8004], ["mission_reward_id", 18004001], ["start_time", "2021/03/09 5:00:00"], ["system_id", 208], ["title_color_id", 0], ["visible_flag", 1]]
+          },
+          {
+            "id": 18002001,
+            "old": [["category_icon", 106], ["condition_num", 1], ["condition_value_1", 50000], ["condition_value_2", 45959], ["condition_value_3", 0], ["daily_mission_id", 18002001], ["description", "在当日05:00～第二天早上04:59间登录游戏吧"], ["disp_group", 1], ["end_time", "2099/12/31 23:59:59"], ["max_level", 0], ["min_level", 0], ["mission_condition", 8001], ["mission_reward_id", 18002001], ["start_time", "2026/04/17 5:00:00"], ["system_id", 0], ["title_color_id", 0], ["visible_flag", 1]],
+            "new": [["category_icon", 106], ["condition_num", 1], ["condition_value_1", 50000], ["condition_value_2", 45959], ["condition_value_3", 0], ["daily_mission_id", 18002001], ["description", "在当日05:00～第二天早上04:59间登录游戏吧"], ["disp_group", 1], ["end_time", "2026/09/30 4:59:59"], ["max_level", 0], ["min_level", 0], ["mission_condition", 8001], ["mission_reward_id", 18002001], ["start_time", "2026/04/17 5:00:00"], ["system_id", 0], ["title_color_id", 0], ["visible_flag", 1]]
+          },
+          {
+            "id": 11001047,
+            "old": [["category_icon", 200], ["condition_num", 10], ["condition_value_1", 0], ["condition_value_2", 0], ["condition_value_3", 0], ["daily_mission_id", 11001047], ["description", "通关主线或活动关卡10次吧"], ["disp_group", 1], ["end_time", "2099/12/31 23:59:59"], ["max_level", 0], ["min_level", 0], ["mission_condition", 1008], ["mission_reward_id", 11001001], ["start_time", "2021/03/09 5:00:00"], ["system_id", 101], ["title_color_id", 0], ["visible_flag", 1]],
+            "new": [["category_icon", 200], ["condition_num", 10], ["condition_value_1", 0], ["condition_value_2", 0], ["condition_value_3", 0], ["daily_mission_id", 11001047], ["description", "通关主线或活动关卡10次吧"], ["disp_group", 1], ["end_time", "2026/09/30 4:59:59"], ["max_level", 0], ["min_level", 0], ["mission_condition", 1008], ["mission_reward_id", 11001001], ["start_time", "2021/03/09 5:00:00"], ["system_id", 101], ["title_color_id", 0], ["visible_flag", 1]]
+          }
+        ]
+      }
+    },
+    "story_detail": {
+      "data_changes": {
+        "added": [
+          [["end_time", "2099/12/31 23:59:59"], ["force_unlock_time", "2030/12/17 14:59:59"], ["force_unlock_time_2", "2030/12/17 14:59:59"], ["lock_all_text", 0], ["love_level", 0], ["pre_story_id", 2212006], ["pre_story_id_2", 0], ["requirement_id", 135801], ["reward_id_1", 91002], ["reward_id_2", 0], ["reward_id_3", 0], ["reward_type_1", 8], ["reward_type_2", 0], ["reward_type_3", 0], ["reward_value_1", 20], ["reward_value_2", 0], ["reward_value_3", 0], ["start_time", "2026/09/29 11:00:00"], ["story_end", 0], ["story_group_id", 1358], ["story_id", 1358001], ["story_quest_id", 0], ["sub_title", "纯朴雪女，初赴都市"], ["title", "雪乃 第1话"], ["unknown_1", 1], ["unknown_2", 0], ["unknown_3", 1], ["unlock_quest_id", 0], ["visible_type", 0]],
+          [["end_time", "2099/12/31 23:59:59"], ["force_unlock_time", "2030/12/17 14:59:59"], ["force_unlock_time_2", "2030/12/17 14:59:59"], ["lock_all_text", 0], ["love_level", 0], ["pre_story_id", 0], ["pre_story_id_2", 0], ["requirement_id", 0], ["reward_id_1", 0], ["reward_id_2", 0], ["reward_id_3", 0], ["reward_type_1", 0], ["reward_type_2", 0], ["reward_type_3", 0], ["reward_value_1", 0], ["reward_value_2", 0], ["reward_value_3", 0], ["start_time", "2026/10/16 5:00:00"], ["story_end", 0], ["story_group_id", 9012], ["story_id", 9012002], ["story_quest_id", 0], ["sub_title", "初次向星空许下的愿望"], ["title", "7.5 Year Anniversary 第2话"], ["unknown_1", 1], ["unknown_2", 0], ["unknown_3", 1], ["unlock_quest_id", 0], ["visible_type", 2]],
+          [["end_time", "2099/12/31 23:59:59"], ["force_unlock_time", "2030/12/17 14:59:59"], ["force_unlock_time_2", "2030/12/17 14:59:59"], ["lock_all_text", 0], ["love_level", 4], ["pre_story_id", 1359001], ["pre_story_id_2", 0], ["requirement_id", 135901], ["reward_id_1", 91002], ["reward_id_2", 0], ["reward_id_3", 0], ["reward_type_1", 8], ["reward_type_2", 0], ["reward_type_3", 0], ["reward_value_1", 20], ["reward_value_2", 0], ["reward_value_3", 0], ["start_time", "2026/10/09 11:00:00"], ["story_end", 0], ["story_group_id", 1359], ["story_id", 1359002], ["story_quest_id", 0], ["sub_title", "鬼的追踪，亡者的执念"], ["title", "沙月 第2话"], ["unknown_1", 1], ["unknown_2", 0], ["unknown_3", 1], ["unlock_quest_id", 0], ["visible_type", 0]],
+          [["end_time", "2099/12/31 23:59:59"], ["force_unlock_time", "2030/12/17 14:59:59"], ["force_unlock_time_2", "2030/12/17 14:59:59"], ["lock_all_text", 0], ["love_level", 0], ["pre_story_id", 0], ["pre_story_id_2", 0], ["requirement_id", 0], ["reward_id_1", 0], ["reward_id_2", 0], ["reward_id_3", 0], ["reward_type_1", 0], ["reward_type_2", 0], ["reward_type_3", 0], ["reward_value_1", 0], ["reward_value_2", 0], ["reward_value_3", 0], ["start_time", "2026/10/15 5:00:00"], ["story_end", 0], ["story_group_id", 9012], ["story_id", 9012001], ["story_quest_id", 0], ["sub_title", "繁星降临的海边的愿望"], ["title", "7.5 Year Anniversary 第1话"], ["unknown_1", 1], ["unknown_2", 0], ["unknown_3", 1], ["unlock_quest_id", 0], ["visible_type", 2]],
+          [["end_time", "2099/12/31 23:59:59"], ["force_unlock_time", "2030/12/17 14:59:59"], ["force_unlock_time_2", "2030/12/17 14:59:59"], ["lock_all_text", 0], ["love_level", 0], ["pre_story_id", 0], ["pre_story_id_2", 0], ["requirement_id", 0], ["reward_id_1", 31028], ["reward_id_2", 0], ["reward_id_3", 0], ["reward_type_1", 2], ["reward_type_2", 0], ["reward_type_3", 0], ["reward_value_1", 10], ["reward_value_2", 0], ["reward_value_3", 0], ["start_time", "2024/10/04 5:00:00"], ["story_end", 0], ["story_group_id", 4010], ["story_id", 4010122], ["story_quest_id", 0], ["sub_title", "10月4日的剧情2"], ["title", ""], ["unknown_1", 1], ["unknown_2", 0], ["unknown_3", 0], ["unlock_quest_id", 0], ["visible_type", 2]],
+          [["end_time", "2099/12/31 23:59:59"], ["force_unlock_time", "2030/12/17 14:59:59"], ["force_unlock_time_2", "2030/12/17 14:59:59"], ["lock_all_text", 0], ["love_level", 4], ["pre_story_id", 1358001], ["pre_story_id_2", 0], ["requirement_id", 135801], ["reward_id_1", 91002], ["reward_id_2", 0], ["reward_id_3", 0], ["reward_type_1", 8], ["reward_type_2", 0], ["reward_type_3", 0], ["reward_value_1", 20], ["reward_value_2", 0], ["reward_value_3", 0], ["start_time", "2026/09/29 11:00:00"], ["story_end", 0], ["story_group_id", 1358], ["story_id", 1358002], ["story_quest_id", 0], ["sub_title", "雪女的恸哭"], ["title", "雪乃 第2话"], ["unknown_1", 1], ["unknown_2", 0], ["unknown_3", 1], ["unlock_quest_id", 0], ["visible_type", 0]],
+          [["end_time", "2099/12/31 23:59:59"], ["force_unlock_time", "2030/12/17 14:59:59"], ["force_unlock_time_2", "2030/12/17 14:59:59"], ["lock_all_text", 0], ["love_level", 0], ["pre_story_id", 2214003], ["pre_story_id_2", 0], ["requirement_id", 135901], ["reward_id_1", 91002], ["reward_id_2", 0], ["reward_id_3", 0], ["reward_type_1", 8], ["reward_type_2", 0], ["reward_type_3", 0], ["reward_value_1", 20], ["reward_value_2", 0], ["reward_value_3", 0], ["start_time", "2026/10/09 11:00:00"], ["story_end", 0], ["story_group_id", 1359], ["story_id", 1359001], ["story_quest_id", 0], ["sub_title", "鬼之庆典与幽灵少女"], ["title", "沙月 第1话"], ["unknown_1", 1], ["unknown_2", 0], ["unknown_3", 1], ["unlock_quest_id", 0], ["visible_type", 0]],
+          [["end_time", "2099/12/31 23:59:59"], ["force_unlock_time", "2030/12/17 14:59:59"], ["force_unlock_time_2", "2030/12/17 14:59:59"], ["lock_all_text", 0], ["love_level", 8], ["pre_story_id", 1358003], ["pre_story_id_2", 0], ["requirement_id", 135801], ["reward_id_1", 91002], ["reward_id_2", 0], ["reward_id_3", 0], ["reward_type_1", 8], ["reward_type_2", 0], ["reward_type_3", 0], ["reward_value_1", 50], ["reward_value_2", 0], ["reward_value_3", 0], ["start_time", "2026/09/29 11:00:00"], ["story_end", 0], ["story_group_id", 1358], ["story_id", 1358004], ["story_quest_id", 0], ["sub_title", "初次修习"], ["title", "雪乃 第4话"], ["unknown_1", 1], ["unknown_2", 0], ["unknown_3", 1], ["unlock_quest_id", 0], ["visible_type", 0]],
+          [["end_time", "2099/12/31 23:59:59"], ["force_unlock_time", "2030/12/17 14:59:59"], ["force_unlock_time_2", "2030/12/17 14:59:59"], ["lock_all_text", 0], ["love_level", 5], ["pre_story_id", 1358002], ["pre_story_id_2", 0], ["requirement_id", 135801], ["reward_id_1", 91002], ["reward_id_2", 0], ["reward_id_3", 0], ["reward_type_1", 8], ["reward_type_2", 0], ["reward_type_3", 0], ["reward_value_1", 20], ["reward_value_2", 0], ["reward_value_3", 0], ["start_time", "2026/09/29 11:00:00"], ["story_end", 0], ["story_group_id", 1358], ["story_id", 1358003], ["story_quest_id", 0], ["sub_title", "雪女，成为恩爱夫妻"], ["title", "雪乃 第3话"], ["unknown_1", 1], ["unknown_2", 0], ["unknown_3", 1], ["unlock_quest_id", 0], ["visible_type", 0]],
+          [["end_time", "2099/12/31 23:59:59"], ["force_unlock_time", "2030/12/17 14:59:59"], ["force_unlock_time_2", "2030/12/17 14:59:59"], ["lock_all_text", 0], ["love_level", 8], ["pre_story_id", 1359003], ["pre_story_id_2", 0], ["requirement_id", 135901], ["reward_id_1", 91002], ["reward_id_2", 0], ["reward_id_3", 0], ["reward_type_1", 8], ["reward_type_2", 0], ["reward_type_3", 0], ["reward_value_1", 50], ["reward_value_2", 0], ["reward_value_3", 0], ["start_time", "2026/10/09 11:00:00"], ["story_end", 0], ["story_group_id", 1359], ["story_id", 1359004], ["story_quest_id", 0], ["sub_title", "相似的面容"], ["title", "沙月 第4话"], ["unknown_1", 1], ["unknown_2", 0], ["unknown_3", 1], ["unlock_quest_id", 0], ["visible_type", 0]],
+          [["end_time", "2099/12/31 23:59:59"], ["force_unlock_time", "2030/12/17 14:59:59"], ["force_unlock_time_2", "2030/12/17 14:59:59"], ["lock_all_text", 0], ["love_level", 0], ["pre_story_id", 0], ["pre_story_id_2", 0], ["requirement_id", 0], ["reward_id_1", 0], ["reward_id_2", 0], ["reward_id_3", 0], ["reward_type_1", 0], ["reward_type_2", 0], ["reward_type_3", 0], ["reward_value_1", 0], ["reward_value_2", 0], ["reward_value_3", 0], ["start_time", "2026/10/17 5:00:00"], ["story_end", 0], ["story_group_id", 9012], ["story_id", 9012003], ["story_quest_id", 0], ["sub_title", "向着星辰彼岸祈愿"], ["title", "7.5 Year Anniversary 第3话"], ["unknown_1", 1], ["unknown_2", 0], ["unknown_3", 1], ["unlock_quest_id", 0], ["visible_type", 2]],
+          [["end_time", "2099/12/31 23:59:59"], ["force_unlock_time", "2030/12/17 14:59:59"], ["force_unlock_time_2", "2030/12/17 14:59:59"], ["lock_all_text", 0], ["love_level", 5], ["pre_story_id", 1359002], ["pre_story_id_2", 0], ["requirement_id", 135901], ["reward_id_1", 91002], ["reward_id_2", 0], ["reward_id_3", 0], ["reward_type_1", 8], ["reward_type_2", 0], ["reward_type_3", 0], ["reward_value_1", 20], ["reward_value_2", 0], ["reward_value_3", 0], ["start_time", "2026/10/09 11:00:00"], ["story_end", 0], ["story_group_id", 1359], ["story_id", 1359003], ["story_quest_id", 0], ["sub_title", "鬼与死党"], ["title", "沙月 第3话"], ["unknown_1", 1], ["unknown_2", 0], ["unknown_3", 1], ["unlock_quest_id", 0], ["visible_type", 0]],
+          [["end_time", "2099/12/31 23:59:59"], ["force_unlock_time", "2030/12/17 14:59:59"], ["force_unlock_time_2", "2030/12/17 14:59:59"], ["lock_all_text", 0], ["love_level", 0], ["pre_story_id", 0], ["pre_story_id_2", 0], ["requirement_id", 0], ["reward_id_1", 31008], ["reward_id_2", 0], ["reward_id_3", 0], ["reward_type_1", 2], ["reward_type_2", 0], ["reward_type_3", 0], ["reward_value_1", 10], ["reward_value_2", 0], ["reward_value_3", 0], ["start_time", "2024/10/10 5:00:00"], ["story_end", 0], ["story_group_id", 4010], ["story_id", 4010123], ["story_quest_id", 0], ["sub_title", "10月10日的剧情2"], ["title", ""], ["unknown_1", 1], ["unknown_2", 0], ["unknown_3", 0], ["unlock_quest_id", 0], ["visible_type", 2]]
+        ]
+      }
+    },
+    "gacha_data": {
+      "data_changes": {
+        "added": [
+          [["chara_odds_star1", "0"], ["chara_odds_star2", "0"], ["chara_odds_star3", "0"], ["description", "获得道具和记忆碎片！"], ["description_2", ""], ["description_sp", ""], ["discount_price", 0], ["end_time", "2099/12/31 23:59:59"], ["exchange_id", 0], ["free_gacha_count", 10], ["free_gacha_interval_time", 0], ["free_gacha_type", 1], ["gacha10_special_odds_star1", "0"], ["gacha10_special_odds_star2", "0"], ["gacha10_special_odds_star3", "0"], ["gacha_bonus_id", 0], ["gacha_cost_type", 3], ["gacha_detail", 1], ["gacha_id", 10410], ["gacha_name", "普通扭蛋"], ["gacha_odds", "10410"], ["gacha_odds_star2", ""], ["gacha_times_limit10", 0], ["gacha_type", 0], ["movie_id", 0], ["parallel_id", 0], ["pick_up_chara_text", ""], ["pickup_badge", 0], ["pickup_id", 0], ["price", 0], ["prizegacha_id", 0], ["rarity_odds", "0"], ["special_id", 0], ["start_time", "2026/10/09 11:00:00"], ["ticket_id", 0], ["ticket_id_10", 0], ["unknown_1", 0], ["unknown_2", 0], ["unknown_3", 0], ["unknown_4", ""]],
+          [["chara_odds_star1", "110027_1"], ["chara_odds_star2", "110027_2"], ["chara_odds_star3", "110027_3"], ["description", "仅限付费宝石\\n★3必得白金扭蛋开启！"], ["description_2", "[3C404E]第10名角色[FFBB00,CE4F00]必定是水属性★3角色！[-]"], ["description_sp", ""], ["discount_price", 50], ["end_time", "2026/10/07 10:59:59"], ["exchange_id", 409], ["free_gacha_count", 0], ["free_gacha_interval_time", 0], ["free_gacha_type", 0], ["gacha10_special_odds_star1", "111027_1"], ["gacha10_special_odds_star2", "111027_2"], ["gacha10_special_odds_star3", "111027_3"], ["gacha_bonus_id", 0], ["gacha_cost_type", 2], ["gacha_detail", 2], ["gacha_id", 110027], ["gacha_name", "水属性 ★3必得白金扭蛋"], ["gacha_odds", "0"], ["gacha_odds_star2", "0"], ["gacha_times_limit10", 1], ["gacha_type", 1], ["movie_id", 1100027], ["parallel_id", 0], ["pick_up_chara_text", "没有精选角色"], ["pickup_badge", 0], ["pickup_id", 0], ["price", 1500], ["prizegacha_id", 0], ["rarity_odds", "300000"], ["special_id", 110027], ["start_time", "2026/10/02 11:00:00"], ["ticket_id", 24001], ["ticket_id_10", 0], ["unknown_1", 0], ["unknown_2", 2], ["unknown_3", 0], ["unknown_4", "★3必得（水）"]],
+          [["chara_odds_star1", "20410_1"], ["chara_odds_star2", "20410_2"], ["chara_odds_star3", "20410_3"], ["description", "白金扭蛋中仅会出现角色！"], ["description_2", ""], ["description_sp", ""], ["discount_price", 50], ["end_time", "2026/10/23 10:59:59"], ["exchange_id", 411], ["free_gacha_count", 0], ["free_gacha_interval_time", 0], ["free_gacha_type", 0], ["gacha10_special_odds_star1", "0"], ["gacha10_special_odds_star2", "0"], ["gacha10_special_odds_star3", "0"], ["gacha_bonus_id", 0], ["gacha_cost_type", 2], ["gacha_detail", 2], ["gacha_id", 20410], ["gacha_name", "白金扭蛋"], ["gacha_odds", "0"], ["gacha_odds_star2", "0"], ["gacha_times_limit10", 0], ["gacha_type", 1], ["movie_id", 200002], ["parallel_id", 0], ["pick_up_chara_text", "没有精选角色"], ["pickup_badge", 0], ["pickup_id", 0], ["price", 150], ["prizegacha_id", 0], ["rarity_odds", "300000"], ["special_id", 0], ["start_time", "2026/10/09 11:00:00"], ["ticket_id", 24001], ["ticket_id_10", 24002], ["unknown_1", 0], ["unknown_2", 0], ["unknown_3", 0], ["unknown_4", ""]],
+          [["chara_odds_star1", "20409_1"], ["chara_odds_star2", "20409_2"], ["chara_odds_star3", "20409_3"], ["description", "白金扭蛋中仅会出现角色！"], ["description_2", ""], ["description_sp", ""], ["discount_price", 50], ["end_time", "2026/10/09 10:59:59"], ["exchange_id", 409], ["free_gacha_count", 0], ["free_gacha_interval_time", 0], ["free_gacha_type", 0], ["gacha10_special_odds_star1", "0"], ["gacha10_special_odds_star2", "0"], ["gacha10_special_odds_star3", "0"], ["gacha_bonus_id", 0], ["gacha_cost_type", 2], ["gacha_detail", 2], ["gacha_id", 20409], ["gacha_name", "白金扭蛋"], ["gacha_odds", "0"], ["gacha_odds_star2", "0"], ["gacha_times_limit10", 0], ["gacha_type", 1], ["movie_id", 200002], ["parallel_id", 0], ["pick_up_chara_text", "没有精选角色"], ["pickup_badge", 0], ["pickup_id", 0], ["price", 150], ["prizegacha_id", 0], ["rarity_odds", "300000"], ["special_id", 0], ["start_time", "2026/09/29 11:00:00"], ["ticket_id", 24001], ["ticket_id_10", 24002], ["unknown_1", 0], ["unknown_2", 0], ["unknown_3", 0], ["unknown_4", ""]],
+          [["chara_odds_star1", "30409_1"], ["chara_odds_star2", "30409_2"], ["chara_odds_star3", "30409_3"], ["description", "限定「雪乃」登场！\\n出率限时提升！"], ["description_2", "[3C404E]对应角色加入时[FFBB00,CE4F00]200个对应的碎片[-]！[-]"], ["description_sp", ""], ["discount_price", 50], ["end_time", "2026/10/09 10:59:59"], ["exchange_id", 409], ["free_gacha_count", 0], ["free_gacha_interval_time", 0], ["free_gacha_type", 0], ["gacha10_special_odds_star1", "0"], ["gacha10_special_odds_star2", "0"], ["gacha10_special_odds_star3", "0"], ["gacha_bonus_id", 1192], ["gacha_cost_type", 2], ["gacha_detail", 2], ["gacha_id", 30409], ["gacha_name", "精选扭蛋"], ["gacha_odds", "0"], ["gacha_odds_star2", "0"], ["gacha_times_limit10", 0], ["gacha_type", 1], ["movie_id", 300409], ["parallel_id", 0], ["pick_up_chara_text", "雪乃"], ["pickup_badge", 0], ["pickup_id", 0], ["price", 150], ["prizegacha_id", 0], ["rarity_odds", "300000"], ["special_id", 0], ["start_time", "2026/09/29 11:00:00"], ["ticket_id", 24001], ["ticket_id_10", 24002], ["unknown_1", 0], ["unknown_2", 0], ["unknown_3", 1], ["unknown_4", ""]],
+          [["chara_odds_star1", "30411_1"], ["chara_odds_star2", "30411_2"], ["chara_odds_star3", "30411_3"], ["description", "限定「沙月」登场！\\n出率限时提升！"], ["description_2", "[3C404E]对应角色加入时[FFBB00,CE4F00]200个对应的碎片[-]！[-]"], ["description_sp", ""], ["discount_price", 50], ["end_time", "2026/10/23 10:59:59"], ["exchange_id", 411], ["free_gacha_count", 0], ["free_gacha_interval_time", 0], ["free_gacha_type", 0], ["gacha10_special_odds_star1", "0"], ["gacha10_special_odds_star2", "0"], ["gacha10_special_odds_star3", "0"], ["gacha_bonus_id", 1193], ["gacha_cost_type", 2], ["gacha_detail", 2], ["gacha_id", 30411], ["gacha_name", "精选扭蛋"], ["gacha_odds", "0"], ["gacha_odds_star2", "0"], ["gacha_times_limit10", 0], ["gacha_type", 1], ["movie_id", 300411], ["parallel_id", 0], ["pick_up_chara_text", "沙月"], ["pickup_badge", 0], ["pickup_id", 0], ["price", 150], ["prizegacha_id", 0], ["rarity_odds", "300000"], ["special_id", 0], ["start_time", "2026/10/09 11:00:00"], ["ticket_id", 24001], ["ticket_id_10", 24002], ["unknown_1", 0], ["unknown_2", 0], ["unknown_3", 1], ["unknown_4", ""]],
+          [["chara_odds_star1", "0"], ["chara_odds_star2", "0"], ["chara_odds_star3", "0"], ["description", "获得道具和记忆碎片！"], ["description_2", ""], ["description_sp", ""], ["discount_price", 0], ["end_time", "2026/10/09 10:59:59"], ["exchange_id", 0], ["free_gacha_count", 10], ["free_gacha_interval_time", 0], ["free_gacha_type", 1], ["gacha10_special_odds_star1", "0"], ["gacha10_special_odds_star2", "0"], ["gacha10_special_odds_star3", "0"], ["gacha_bonus_id", 0], ["gacha_cost_type", 3], ["gacha_detail", 1], ["gacha_id", 10409], ["gacha_name", "普通扭蛋"], ["gacha_odds", "10409"], ["gacha_odds_star2", ""], ["gacha_times_limit10", 0], ["gacha_type", 0], ["movie_id", 0], ["parallel_id", 0], ["pick_up_chara_text", ""], ["pickup_badge", 0], ["pickup_id", 0], ["price", 0], ["prizegacha_id", 0], ["rarity_odds", "0"], ["special_id", 0], ["start_time", "2026/09/29 11:00:00"], ["ticket_id", 0], ["ticket_id_10", 0], ["unknown_1", 0], ["unknown_2", 0], ["unknown_3", 0], ["unknown_4", ""]],
+          [["chara_odds_star1", "70139_1"], ["chara_odds_star2", "70139_2"], ["chara_odds_star3", "70139_3"], ["description", "仅限付费宝石\\n★3必得白金扭蛋开启！"], ["description_2", "[3C404E]第10名角色[FFBB00,CE4F00]必定是★3角色！[-] 可获得大师碎片×１以及各式属性素材！[-]"], ["description_sp", ""], ["discount_price", 50], ["end_time", "2026/10/23 10:59:59"], ["exchange_id", 411], ["free_gacha_count", 0], ["free_gacha_interval_time", 0], ["free_gacha_type", 0], ["gacha10_special_odds_star1", "0"], ["gacha10_special_odds_star2", "0"], ["gacha10_special_odds_star3", "0"], ["gacha_bonus_id", 1193], ["gacha_cost_type", 2], ["gacha_detail", 2], ["gacha_id", 70139], ["gacha_name", "★3必得白金扭蛋"], ["gacha_odds", "0"], ["gacha_odds_star2", "0"], ["gacha_times_limit10", 1], ["gacha_type", 1], ["movie_id", 700137], ["parallel_id", 0], ["pick_up_chara_text", "没有精选角色"], ["pickup_badge", 2], ["pickup_id", 0], ["price", 1500], ["prizegacha_id", 0], ["rarity_odds", "300000"], ["special_id", 70139], ["start_time", "2026/10/09 11:00:00"], ["ticket_id", 24001], ["ticket_id_10", 0], ["unknown_1", 0], ["unknown_2", 0], ["unknown_3", 0], ["unknown_4", ""]]
+        ],
+        "modified": [
+          {
+            "id": 10407,
+            "old": [["chara_odds_star1", "0"], ["chara_odds_star2", "0"], ["chara_odds_star3", "0"], ["description", "获得道具和记忆碎片！"], ["description_2", ""], ["description_sp", ""], ["discount_price", 0], ["end_time", "2099/12/31 23:59:59"], ["exchange_id", 0], ["free_gacha_count", 10], ["free_gacha_interval_time", 0], ["free_gacha_type", 1], ["gacha10_special_odds_star1", "0"], ["gacha10_special_odds_star2", "0"], ["gacha10_special_odds_star3", "0"], ["gacha_bonus_id", 0], ["gacha_cost_type", 3], ["gacha_detail", 1], ["gacha_id", 10407], ["gacha_name", "普通扭蛋"], ["gacha_odds", "10407"], ["gacha_odds_star2", ""], ["gacha_times_limit10", 0], ["gacha_type", 0], ["movie_id", 0], ["parallel_id", 0], ["pick_up_chara_text", ""], ["pickup_badge", 0], ["pickup_id", 0], ["price", 0], ["prizegacha_id", 0], ["rarity_odds", "0"], ["special_id", 0], ["start_time", "2026/09/15 11:00:00"], ["ticket_id", 0], ["ticket_id_10", 0], ["unknown_1", 0], ["unknown_2", 0], ["unknown_3", 0], ["unknown_4", ""]],
+            "new": [["chara_odds_star1", "0"], ["chara_odds_star2", "0"], ["chara_odds_star3", "0"], ["description", "获得道具和记忆碎片！"], ["description_2", ""], ["description_sp", ""], ["discount_price", 0], ["end_time", "2026/09/29 10:59:59"], ["exchange_id", 0], ["free_gacha_count", 10], ["free_gacha_interval_time", 0], ["free_gacha_type", 1], ["gacha10_special_odds_star1", "0"], ["gacha10_special_odds_star2", "0"], ["gacha10_special_odds_star3", "0"], ["gacha_bonus_id", 0], ["gacha_cost_type", 3], ["gacha_detail", 1], ["gacha_id", 10407], ["gacha_name", "普通扭蛋"], ["gacha_odds", "10407"], ["gacha_odds_star2", ""], ["gacha_times_limit10", 0], ["gacha_type", 0], ["movie_id", 0], ["parallel_id", 0], ["pick_up_chara_text", ""], ["pickup_badge", 0], ["pickup_id", 0], ["price", 0], ["prizegacha_id", 0], ["rarity_odds", "0"], ["special_id", 0], ["start_time", "2026/09/15 11:00:00"], ["ticket_id", 0], ["ticket_id_10", 0], ["unknown_1", 0], ["unknown_2", 0], ["unknown_3", 0], ["unknown_4", ""]]
+          }
+        ]
+      }
+    },
+    "dome_schedule_data": {
+      "data_changes": {
+        "added": [
+          [["close_time", "2026/10/17 14:59:59"], ["count_start_time", "2026/10/12 12:00:00"], ["end_time", "2026/10/13 23:59:59"], ["schedule_id", 1016], ["start_time", "2026/10/09 12:00:00"]]
+        ]
+      }
+    },
+    "mission_reward_data": {
+      "data_changes": {
+        "added": [
+          [["end_time", "2030/12/31 23:59:59"], ["id", 10260124], ["lv_from", 260], ["lv_to", 279], ["mission_reward_id", 11001002], ["reward_id", 23003], ["reward_num", 100], ["reward_type", 2], ["start_time", "2026/09/30 5:00:00"]],
+          [["end_time", "2030/12/31 23:59:59"], ["id", 10200124], ["lv_from", 200], ["lv_to", 219], ["mission_reward_id", 11001002], ["reward_id", 23003], ["reward_num", 100], ["reward_type", 2], ["start_time", "2026/09/30 5:00:00"]],
+          [["end_time", "2030/12/31 23:59:59"], ["id", 10040157], ["lv_from", 40], ["lv_to", 54], ["mission_reward_id", 11001002], ["reward_id", 23003], ["reward_num", 100], ["reward_type", 2], ["start_time", "2026/09/30 5:00:00"]],
+          [["end_time", "2030/12/31 23:59:59"], ["id", 10340124], ["lv_from", 340], ["lv_to", 359], ["mission_reward_id", 11001002], ["reward_id", 23003], ["reward_num", 100], ["reward_type", 2], ["start_time", "2026/09/30 5:00:00"]],
+          [["end_time", "2030/12/31 23:59:59"], ["id", 10300124], ["lv_from", 300], ["lv_to", 319], ["mission_reward_id", 11001002], ["reward_id", 23003], ["reward_num", 100], ["reward_type", 2], ["start_time", "2026/09/30 5:00:00"]],
+          [["end_time", "2030/12/31 23:59:59"], ["id", 10075157], ["lv_from", 75], ["lv_to", 94], ["mission_reward_id", 11001002], ["reward_id", 23003], ["reward_num", 100], ["reward_type", 2], ["start_time", "2026/09/30 5:00:00"]],
+          [["end_time", "2030/12/31 23:59:59"], ["id", 10120157], ["lv_from", 120], ["lv_to", 139], ["mission_reward_id", 11001002], ["reward_id", 23003], ["reward_num", 100], ["reward_type", 2], ["start_time", "2026/09/30 5:00:00"]],
+          [["end_time", "2030/12/31 23:59:59"], ["id", 10140157], ["lv_from", 140], ["lv_to", 159], ["mission_reward_id", 11001002], ["reward_id", 23003], ["reward_num", 100], ["reward_type", 2], ["start_time", "2026/09/30 5:00:00"]],
+          [["end_time", "2030/12/31 23:59:59"], ["id", 10280124], ["lv_from", 280], ["lv_to", 299], ["mission_reward_id", 11001002], ["reward_id", 23003], ["reward_num", 100], ["reward_type", 2], ["start_time", "2026/09/30 5:00:00"]],
+          [["end_time", "2030/12/31 23:59:59"], ["id", 10320124], ["lv_from", 320], ["lv_to", 339], ["mission_reward_id", 11001002], ["reward_id", 23003], ["reward_num", 100], ["reward_type", 2], ["start_time", "2026/09/30 5:00:00"]],
+          [["end_time", "2030/12/31 23:59:59"], ["id", 10055157], ["lv_from", 55], ["lv_to", 74], ["mission_reward_id", 11001002], ["reward_id", 23003], ["reward_num", 100], ["reward_type", 2], ["start_time", "2026/09/30 5:00:00"]],
+          [["end_time", "2030/12/31 23:59:59"], ["id", 10160157], ["lv_from", 160], ["lv_to", 179], ["mission_reward_id", 11001002], ["reward_id", 23003], ["reward_num", 100], ["reward_type", 2], ["start_time", "2026/09/30 5:00:00"]],
+          [["end_time", "2030/12/31 23:59:59"], ["id", 10095157], ["lv_from", 95], ["lv_to", 119], ["mission_reward_id", 11001002], ["reward_id", 23003], ["reward_num", 100], ["reward_type", 2], ["start_time", "2026/09/30 5:00:00"]],
+          [["end_time", "2030/12/31 23:59:59"], ["id", 10240124], ["lv_from", 240], ["lv_to", 259], ["mission_reward_id", 11001002], ["reward_id", 23003], ["reward_num", 100], ["reward_type", 2], ["start_time", "2026/09/30 5:00:00"]],
+          [["end_time", "2030/12/31 23:59:59"], ["id", 10360123], ["lv_from", 360], ["lv_to", -1], ["mission_reward_id", 11001002], ["reward_id", 23003], ["reward_num", 100], ["reward_type", 2], ["start_time", "2026/09/30 5:00:00"]],
+          [["end_time", "2030/12/31 23:59:59"], ["id", 10180157], ["lv_from", 180], ["lv_to", 199], ["mission_reward_id", 11001002], ["reward_id", 23003], ["reward_num", 100], ["reward_type", 2], ["start_time", "2026/09/30 5:00:00"]],
+          [["end_time", "2030/12/31 23:59:59"], ["id", 10220124], ["lv_from", 220], ["lv_to", 239], ["mission_reward_id", 11001002], ["reward_id", 23003], ["reward_num", 100], ["reward_type", 2], ["start_time", "2026/09/30 5:00:00"]],
+          [["end_time", "2030/12/31 23:59:59"], ["id", 10001157], ["lv_from", 1], ["lv_to", 39], ["mission_reward_id", 11001002], ["reward_id", 23003], ["reward_num", 100], ["reward_type", 2], ["start_time", "2026/09/30 5:00:00"]]
+        ],
+        "modified": [
+          {
+            "id": 10280123,
+            "old": [["end_time", "2099/12/31 23:59:59"], ["id", 10280123], ["lv_from", 280], ["lv_to", 299], ["mission_reward_id", 11001002], ["reward_id", 23001], ["reward_num", 6], ["reward_type", 2], ["start_time", "2022/11/22 5:00:00"]],
+            "new": [["end_time", "2026/09/30 4:59:59"], ["id", 10280123], ["lv_from", 280], ["lv_to", 299], ["mission_reward_id", 11001002], ["reward_id", 23001], ["reward_num", 6], ["reward_type", 2], ["start_time", "2022/11/22 5:00:00"]]
+          },
+          {
+            "id": 10055156,
+            "old": [["end_time", "2099/12/31 23:59:59"], ["id", 10055156], ["lv_from", 55], ["lv_to", 74], ["mission_reward_id", 11001002], ["reward_id", 23001], ["reward_num", 6], ["reward_type", 2], ["start_time", "2024/12/17 05:00:00"]],
+            "new": [["end_time", "2026/09/30 4:59:59"], ["id", 10055156], ["lv_from", 55], ["lv_to", 74], ["mission_reward_id", 11001002], ["reward_id", 23001], ["reward_num", 6], ["reward_type", 2], ["start_time", "2024/12/17 05:00:00"]]
+          },
+          {
+            "id": 10120156,
+            "old": [["end_time", "2099/12/31 23:59:59"], ["id", 10120156], ["lv_from", 120], ["lv_to", 139], ["mission_reward_id", 11001002], ["reward_id", 23001], ["reward_num", 6], ["reward_type", 2], ["start_time", "2024/12/17 05:00:00"]],
+            "new": [["end_time", "2026/09/30 4:59:59"], ["id", 10120156], ["lv_from", 120], ["lv_to", 139], ["mission_reward_id", 11001002], ["reward_id", 23001], ["reward_num", 6], ["reward_type", 2], ["start_time", "2024/12/17 05:00:00"]]
+          },
+          {
+            "id": 10095156,
+            "old": [["end_time", "2099/12/31 23:59:59"], ["id", 10095156], ["lv_from", 95], ["lv_to", 119], ["mission_reward_id", 11001002], ["reward_id", 23001], ["reward_num", 6], ["reward_type", 2], ["start_time", "2024/12/17 05:00:00"]],
+            "new": [["end_time", "2026/09/30 4:59:59"], ["id", 10095156], ["lv_from", 95], ["lv_to", 119], ["mission_reward_id", 11001002], ["reward_id", 23001], ["reward_num", 6], ["reward_type", 2], ["start_time", "2024/12/17 05:00:00"]]
+          },
+          {
+            "id": 10160156,
+            "old": [["end_time", "2099/12/31 23:59:59"], ["id", 10160156], ["lv_from", 160], ["lv_to", 179], ["mission_reward_id", 11001002], ["reward_id", 23001], ["reward_num", 6], ["reward_type", 2], ["start_time", "2024/12/17 05:00:00"]],
+            "new": [["end_time", "2026/09/30 4:59:59"], ["id", 10160156], ["lv_from", 160], ["lv_to", 179], ["mission_reward_id", 11001002], ["reward_id", 23001], ["reward_num", 6], ["reward_type", 2], ["start_time", "2024/12/17 05:00:00"]]
+          },
+          {
+            "id": 10300123,
+            "old": [["end_time", "2099/12/31 23:59:59"], ["id", 10300123], ["lv_from", 300], ["lv_to", 319], ["mission_reward_id", 11001002], ["reward_id", 23001], ["reward_num", 6], ["reward_type", 2], ["start_time", "2020/11/16 5:00:00"]],
+            "new": [["end_time", "2026/09/30 4:59:59"], ["id", 10300123], ["lv_from", 300], ["lv_to", 319], ["mission_reward_id", 11001002], ["reward_id", 23001], ["reward_num", 6], ["reward_type", 2], ["start_time", "2020/11/16 5:00:00"]]
+          },
+          {
+            "id": 10001156,
+            "old": [["end_time", "2099/12/31 23:59:59"], ["id", 10001156], ["lv_from", 1], ["lv_to", 39], ["mission_reward_id", 11001002], ["reward_id", 23001], ["reward_num", 6], ["reward_type", 2], ["start_time", "2024/12/17 05:00:00"]],
+            "new": [["end_time", "2026/09/30 4:59:59"], ["id", 10001156], ["lv_from", 1], ["lv_to", 39], ["mission_reward_id", 11001002], ["reward_id", 23001], ["reward_num", 6], ["reward_type", 2], ["start_time", "2024/12/17 05:00:00"]]
+          },
+          {
+            "id": 10320123,
+            "old": [["end_time", "2099/12/31 23:59:59"], ["id", 10320123], ["lv_from", 320], ["lv_to", 339], ["mission_reward_id", 11001002], ["reward_id", 23001], ["reward_num", 6], ["reward_type", 2], ["start_time", "2020/11/16 5:00:00"]],
+            "new": [["end_time", "2026/09/30 4:59:59"], ["id", 10320123], ["lv_from", 320], ["lv_to", 339], ["mission_reward_id", 11001002], ["reward_id", 23001], ["reward_num", 6], ["reward_type", 2], ["start_time", "2020/11/16 5:00:00"]]
+          },
+          {
+            "id": 10340123,
+            "old": [["end_time", "2099/12/31 23:59:59"], ["id", 10340123], ["lv_from", 340], ["lv_to", -1], ["mission_reward_id", 11001002], ["reward_id", 23001], ["reward_num", 6], ["reward_type", 2], ["start_time", "2020/11/16 5:00:00"]],
+            "new": [["end_time", "2026/09/30 4:59:59"], ["id", 10340123], ["lv_from", 340], ["lv_to", -1], ["mission_reward_id", 11001002], ["reward_id", 23001], ["reward_num", 6], ["reward_type", 2], ["start_time", "2020/11/16 5:00:00"]]
+          },
+          {
+            "id": 10240123,
+            "old": [["end_time", "2099/12/31 23:59:59"], ["id", 10240123], ["lv_from", 240], ["lv_to", 259], ["mission_reward_id", 11001002], ["reward_id", 23001], ["reward_num", 6], ["reward_type", 2], ["start_time", "2022/11/22 5:00:00"]],
+            "new": [["end_time", "2026/09/30 4:59:59"], ["id", 10240123], ["lv_from", 240], ["lv_to", 259], ["mission_reward_id", 11001002], ["reward_id", 23001], ["reward_num", 6], ["reward_type", 2], ["start_time", "2022/11/22 5:00:00"]]
+          },
+          {
+            "id": 10140156,
+            "old": [["end_time", "2099/12/31 23:59:59"], ["id", 10140156], ["lv_from", 140], ["lv_to", 159], ["mission_reward_id", 11001002], ["reward_id", 23001], ["reward_num", 6], ["reward_type", 2], ["start_time", "2024/12/17 05:00:00"]],
+            "new": [["end_time", "2026/09/30 4:59:59"], ["id", 10140156], ["lv_from", 140], ["lv_to", 159], ["mission_reward_id", 11001002], ["reward_id", 23001], ["reward_num", 6], ["reward_type", 2], ["start_time", "2024/12/17 05:00:00"]]
+          },
+          {
+            "id": 10075156,
+            "old": [["end_time", "2099/12/31 23:59:59"], ["id", 10075156], ["lv_from", 75], ["lv_to", 94], ["mission_reward_id", 11001002], ["reward_id", 23001], ["reward_num", 6], ["reward_type", 2], ["start_time", "2024/12/17 05:00:00"]],
+            "new": [["end_time", "2026/09/30 4:59:59"], ["id", 10075156], ["lv_from", 75], ["lv_to", 94], ["mission_reward_id", 11001002], ["reward_id", 23001], ["reward_num", 6], ["reward_type", 2], ["start_time", "2024/12/17 05:00:00"]]
+          },
+          {
+            "id": 10180156,
+            "old": [["end_time", "2099/12/31 23:59:59"], ["id", 10180156], ["lv_from", 180], ["lv_to", 199], ["mission_reward_id", 11001002], ["reward_id", 23001], ["reward_num", 6], ["reward_type", 2], ["start_time", "2024/12/17 05:00:00"]],
+            "new": [["end_time", "2026/09/30 4:59:59"], ["id", 10180156], ["lv_from", 180], ["lv_to", 199], ["mission_reward_id", 11001002], ["reward_id", 23001], ["reward_num", 6], ["reward_type", 2], ["start_time", "2024/12/17 05:00:00"]]
+          },
+          {
+            "id": 10220123,
+            "old": [["end_time", "2099/12/31 23:59:59"], ["id", 10220123], ["lv_from", 220], ["lv_to", 239], ["mission_reward_id", 11001002], ["reward_id", 23001], ["reward_num", 6], ["reward_type", 2], ["start_time", "2022/11/22 5:00:00"]],
+            "new": [["end_time", "2026/09/30 4:59:59"], ["id", 10220123], ["lv_from", 220], ["lv_to", 239], ["mission_reward_id", 11001002], ["reward_id", 23001], ["reward_num", 6], ["reward_type", 2], ["start_time", "2022/11/22 5:00:00"]]
+          },
+          {
+            "id": 10200123,
+            "old": [["end_time", "2099/12/31 23:59:59"], ["id", 10200123], ["lv_from", 200], ["lv_to", 219], ["mission_reward_id", 11001002], ["reward_id", 23001], ["reward_num", 6], ["reward_type", 2], ["start_time", "2022/11/22 5:00:00"]],
+            "new": [["end_time", "2026/09/30 4:59:59"], ["id", 10200123], ["lv_from", 200], ["lv_to", 219], ["mission_reward_id", 11001002], ["reward_id", 23001], ["reward_num", 6], ["reward_type", 2], ["start_time", "2022/11/22 5:00:00"]]
+          },
+          {
+            "id": 10260123,
+            "old": [["end_time", "2099/12/31 23:59:59"], ["id", 10260123], ["lv_from", 260], ["lv_to", 279], ["mission_reward_id", 11001002], ["reward_id", 23001], ["reward_num", 6], ["reward_type", 2], ["start_time", "2022/11/22 5:00:00"]],
+            "new": [["end_time", "2026/09/30 4:59:59"], ["id", 10260123], ["lv_from", 260], ["lv_to", 279], ["mission_reward_id", 11001002], ["reward_id", 23001], ["reward_num", 6], ["reward_type", 2], ["start_time", "2022/11/22 5:00:00"]]
+          },
+          {
+            "id": 10040156,
+            "old": [["end_time", "2099/12/31 23:59:59"], ["id", 10040156], ["lv_from", 40], ["lv_to", 54], ["mission_reward_id", 11001002], ["reward_id", 23001], ["reward_num", 6], ["reward_type", 2], ["start_time", "2024/12/17 05:00:00"]],
+            "new": [["end_time", "2026/09/30 4:59:59"], ["id", 10040156], ["lv_from", 40], ["lv_to", 54], ["mission_reward_id", 11001002], ["reward_id", 23001], ["reward_num", 6], ["reward_type", 2], ["start_time", "2024/12/17 05:00:00"]]
+          }
+        ]
+      }
+    },
+    "login_bonus_detail": {
+      "data_changes": {
+        "added": [
+          [["bg_id", 530222], ["character_id", 0], ["character_name", ""], ["count", 2], ["description", ""], ["id", 428], ["login_bonus_id", 80014], ["reward_id", 91002], ["reward_num", 100], ["reward_type", 8], ["voice_id", 0]],
+          [["bg_id", 530219], ["character_id", 0], ["character_name", ""], ["count", 4], ["description", ""], ["id", 425], ["login_bonus_id", 80013], ["reward_id", 91002], ["reward_num", 100], ["reward_type", 8], ["voice_id", 0]],
+          [["bg_id", 530218], ["character_id", 0], ["character_name", ""], ["count", 3], ["description", ""], ["id", 424], ["login_bonus_id", 80013], ["reward_id", 91002], ["reward_num", 100], ["reward_type", 8], ["voice_id", 0]],
+          [["bg_id", 530216], ["character_id", 0], ["character_name", ""], ["count", 1], ["description", ""], ["id", 422], ["login_bonus_id", 80013], ["reward_id", 91002], ["reward_num", 100], ["reward_type", 8], ["voice_id", 0]],
+          [["bg_id", 530220], ["character_id", 0], ["character_name", ""], ["count", 5], ["description", ""], ["id", 426], ["login_bonus_id", 80013], ["reward_id", 91002], ["reward_num", 100], ["reward_type", 8], ["voice_id", 0]],
+          [["bg_id", 530223], ["character_id", 0], ["character_name", ""], ["count", 3], ["description", ""], ["id", 429], ["login_bonus_id", 80014], ["reward_id", 91002], ["reward_num", 100], ["reward_type", 8], ["voice_id", 0]],
+          [["bg_id", 530217], ["character_id", 0], ["character_name", ""], ["count", 2], ["description", ""], ["id", 423], ["login_bonus_id", 80013], ["reward_id", 91002], ["reward_num", 100], ["reward_type", 8], ["voice_id", 0]],
+          [["bg_id", 530221], ["character_id", 0], ["character_name", ""], ["count", 1], ["description", ""], ["id", 427], ["login_bonus_id", 80014], ["reward_id", 91002], ["reward_num", 100], ["reward_type", 8], ["voice_id", 0]]
+        ]
+      }
+    },
+    "gacha_exchange_lineup": {
+      "data_changes": {
+        "added": [
+          [["end_time", "2026/10/23 10:59:59"], ["exchange_id", 411], ["gacha_bonus_id", 1193], ["id", 1180], ["pickup_gacha_id", 30411], ["rarity", 3], ["start_time", "2026/10/09 11:00:00"], ["unit_id", 135901]],
+          [["end_time", "2026/10/09 10:59:59"], ["exchange_id", 409], ["gacha_bonus_id", 1192], ["id", 1175], ["pickup_gacha_id", 30409], ["rarity", 3], ["start_time", "2026/09/29 11:00:00"], ["unit_id", 135801]]
+        ]
+      }
+    },
+    "abyss_schedule": {
+      "data_changes": {
+        "added": [
+          [["abyss_id", 92422], ["boss_ticket_id", 70016], ["end_time", "2026/10/7 4:59:59"], ["start_time", "2026/10/2 12:00:00"], ["talent_id", 2], ["title", "轰流深渊"]]
+        ]
+      }
+    },
+    "login_bonus_data": {
+      "data_changes": {
+        "added": [
+          [["adv_play_type", 0], ["bg_id", 0], ["count_num", 5], ["count_type", 1], ["end_time", "2026/10/15 4:59:59"], ["login_bonus_id", 80013], ["login_bonus_type", 8], ["name", "6.5周年纪念 倒计时登录奖励"], ["odds_group_id", 0], ["stamp_id", 0], ["start_time", "2026/10/10 05:00:00"]],
+          [["adv_play_type", 1], ["bg_id", 0], ["count_num", 3], ["count_type", 1], ["end_time", "2026/10/18 4:59:59"], ["login_bonus_id", 80014], ["login_bonus_type", 10], ["name", "6.5周年纪念 倒计时登录奖励"], ["odds_group_id", 0], ["stamp_id", 0], ["start_time", "2026/10/15 05:00:00"]]
+        ]
+      }
+    },
+    "skill_data": {
+      "data_changes": {
+        "modified": [
+          {
+            "id": 1125013,
+            "old": [["action_1", 112501301], ["action_10", 0], ["action_2", 112501302], ["action_3", 112501303], ["action_4", 112501304], ["action_5", 112501305], ["action_6", 112501306], ["action_7", 112501307], ["action_8", 0], ["action_9", 0], ["boss_ub_cool_time", 0.0], ["depend_action_1", 0], ["depend_action_10", 0], ["depend_action_2", 0], ["depend_action_3", 0], ["depend_action_4", 0], ["depend_action_5", 0], ["depend_action_6", 112501305], ["depend_action_7", 0], ["depend_action_8", 0], ["depend_action_9", 0], ["description", "束缚前方范围内的所有敌人，造成物理伤害（中），并小幅回复自身技能值。当前方一名敌人不处于苍之锁状态时，赋予其苍之锁状态，反之则小幅提升其受到暴击时的伤害。苍之锁状态会根据该名角色的削弱效果种类数量而增加，最多可提升24%。"], ["icon_type", 2007], ["name", "蓝方石·审判+"], ["skill_area_width", 0], ["skill_cast_time", 0.59], ["skill_id", 1125013], ["skill_type", 1]],
+            "new": [["action_1", 112501301], ["action_10", 0], ["action_2", 112501302], ["action_3", 112501303], ["action_4", 112501304], ["action_5", 112501305], ["action_6", 112501306], ["action_7", 112501307], ["action_8", 0], ["action_9", 0], ["boss_ub_cool_time", 0.0], ["depend_action_1", 0], ["depend_action_10", 0], ["depend_action_2", 0], ["depend_action_3", 0], ["depend_action_4", 0], ["depend_action_5", 0], ["depend_action_6", 112501305], ["depend_action_7", 0], ["depend_action_8", 0], ["depend_action_9", 0], ["description", "束缚前方范围内的所有敌人，造成物理伤害（中），并小幅回复自身技能值。当前方一名敌人不处于苍之锁状态时，赋予其苍之锁状态，反之则小幅提升其受到暴击时的伤害。苍之锁状态会根据该名角色的削弱效果种类数量而增加，最多可提升24%。"], ["icon_type", 2007], ["name", "蓝方石之审判+"], ["skill_area_width", 0], ["skill_cast_time", 0.59], ["skill_id", 1125013], ["skill_type", 1]]
+          },
+          {
+            "id": 1361001,
+            "old": [["action_1", 136100101], ["action_10", 0], ["action_2", 136100102], ["action_3", 136100103], ["action_4", 136100104], ["action_5", 0], ["action_6", 0], ["action_7", 0], ["action_8", 0], ["action_9", 0], ["boss_ub_cool_time", 0.0], ["depend_action_1", 0], ["depend_action_10", 0], ["depend_action_2", 0], ["depend_action_3", 0], ["depend_action_4", 0], ["depend_action_5", 0], ["depend_action_6", 0], ["depend_action_7", 0], ["depend_action_8", 0], ["depend_action_9", 0], ["description", "中幅回复我方全体的技能值，特大幅度提升自身的物理攻击力，并根据该角色的最大生命值，对前方所有敌人造成最大4444444的物理比例伤害，消耗自身剩余的所有生命值。"], ["icon_type", 1001], ["name", "早安佐贺"], ["skill_area_width", 0], ["skill_cast_time", 0.0], ["skill_id", 1361001], ["skill_type", 0]],
+            "new": [["action_1", 136100101], ["action_10", 0], ["action_2", 136100102], ["action_3", 136100103], ["action_4", 136100104], ["action_5", 0], ["action_6", 0], ["action_7", 0], ["action_8", 0], ["action_9", 0], ["boss_ub_cool_time", 0.0], ["depend_action_1", 0], ["depend_action_10", 0], ["depend_action_2", 0], ["depend_action_3", 0], ["depend_action_4", 0], ["depend_action_5", 0], ["depend_action_6", 0], ["depend_action_7", 0], ["depend_action_8", 0], ["depend_action_9", 0], ["description", "中幅回复我方全体的技能值，特大幅度提升自身的物理攻击力，并根据前方所有敌人各自的最大生命值，对其造成最大4444444的物理比例伤害，消耗自身剩余的所有生命值。"], ["icon_type", 1001], ["name", "早安佐贺"], ["skill_area_width", 0], ["skill_cast_time", 0.0], ["skill_id", 1361001], ["skill_type", 0]]
+          },
+          {
+            "id": 1079202,
+            "old": [["action_1", 107920201], ["action_10", 0], ["action_2", 107920202], ["action_3", 107920203], ["action_4", 0], ["action_5", 0], ["action_6", 0], ["action_7", 0], ["action_8", 0], ["action_9", 0], ["boss_ub_cool_time", 0.0], ["depend_action_1", 0], ["depend_action_10", 0], ["depend_action_2", 0], ["depend_action_3", 0], ["depend_action_4", 0], ["depend_action_5", 0], ["depend_action_6", 0], ["depend_action_7", 0], ["depend_action_8", 0], ["depend_action_9", 0], ["description", "小幅降低前方一名敌人的技能值，小幅回复自身的技能值。 同时，小幅提升自身的物理攻击力。"], ["icon_type", 2006], ["name", "夏日沙滩吸收术 "], ["skill_area_width", 0], ["skill_cast_time", 0.5], ["skill_id", 1079202], ["skill_type", 1]],
+            "new": [["action_1", 107920201], ["action_10", 0], ["action_2", 107920202], ["action_3", 107920203], ["action_4", 0], ["action_5", 0], ["action_6", 0], ["action_7", 0], ["action_8", 0], ["action_9", 0], ["boss_ub_cool_time", 0.0], ["depend_action_1", 0], ["depend_action_10", 0], ["depend_action_2", 0], ["depend_action_3", 0], ["depend_action_4", 0], ["depend_action_5", 0], ["depend_action_6", 0], ["depend_action_7", 0], ["depend_action_8", 0], ["depend_action_9", 0], ["description", "小幅降低前方一名敌人的技能值，小幅回复自身的技能值。 同时，小幅提升自身的物理攻击力。"], ["icon_type", 2006], ["name", "夏日沙滩吸收术"], ["skill_area_width", 0], ["skill_cast_time", 0.5], ["skill_id", 1079202], ["skill_type", 1]]
+          },
+          {
+            "id": 1079013,
+            "old": [["action_1", 107901301], ["action_10", 0], ["action_2", 107901302], ["action_3", 107901303], ["action_4", 0], ["action_5", 0], ["action_6", 0], ["action_7", 0], ["action_8", 0], ["action_9", 0], ["boss_ub_cool_time", 0.0], ["depend_action_1", 0], ["depend_action_10", 0], ["depend_action_2", 0], ["depend_action_3", 0], ["depend_action_4", 0], ["depend_action_5", 0], ["depend_action_6", 0], ["depend_action_7", 0], ["depend_action_8", 0], ["depend_action_9", 0], ["description", "特大幅度提升自身的物理攻击力，小幅提升自身物理暴击时的伤害，并大幅提升行动速度。 "], ["icon_type", 2003], ["name", "破冰+ "], ["skill_area_width", 0], ["skill_cast_time", 1.1], ["skill_id", 1079013], ["skill_type", 1]],
+            "new": [["action_1", 107901301], ["action_10", 0], ["action_2", 107901302], ["action_3", 107901303], ["action_4", 0], ["action_5", 0], ["action_6", 0], ["action_7", 0], ["action_8", 0], ["action_9", 0], ["boss_ub_cool_time", 0.0], ["depend_action_1", 0], ["depend_action_10", 0], ["depend_action_2", 0], ["depend_action_3", 0], ["depend_action_4", 0], ["depend_action_5", 0], ["depend_action_6", 0], ["depend_action_7", 0], ["depend_action_8", 0], ["depend_action_9", 0], ["description", "特大幅度提升自身的物理攻击力，小幅提升自身物理暴击时的伤害，并大幅提升行动速度。 "], ["icon_type", 2003], ["name", "破冰+"], ["skill_area_width", 0], ["skill_cast_time", 1.1], ["skill_id", 1079013], ["skill_type", 1]]
+          },
+          {
+            "id": 1317012,
+            "old": [["action_1", 131701201], ["action_10", 0], ["action_2", 131701202], ["action_3", 131701203], ["action_4", 131701204], ["action_5", 131701205], ["action_6", 0], ["action_7", 0], ["action_8", 0], ["action_9", 0], ["boss_ub_cool_time", 0.0], ["depend_action_1", 0], ["depend_action_10", 0], ["depend_action_2", 0], ["depend_action_3", 0], ["depend_action_4", 131701203], ["depend_action_5", 131701203], ["depend_action_6", 0], ["depend_action_7", 0], ["depend_action_8", 0], ["depend_action_9", 0], ["description", "对我方全体展开使物理/魔法攻击无效化的屏障，赋予调和状态。并小幅回复技能值最低的一名我方角色的技能值，以其为中心，对范围内所有我方成员赋予持续回复技能值状态。调和状态存在期间，受到伤害时，伤害量会根据物理防御力和魔法防御力中较高的一方来进行计算。"], ["icon_type", 2006], ["name", "纯水·护膜+"], ["skill_area_width", 0], ["skill_cast_time", 0.74], ["skill_id", 1317012], ["skill_type", 0]],
+            "new": [["action_1", 131701201], ["action_10", 0], ["action_2", 131701202], ["action_3", 131701203], ["action_4", 131701204], ["action_5", 131701205], ["action_6", 0], ["action_7", 0], ["action_8", 0], ["action_9", 0], ["boss_ub_cool_time", 0.0], ["depend_action_1", 0], ["depend_action_10", 0], ["depend_action_2", 0], ["depend_action_3", 0], ["depend_action_4", 131701203], ["depend_action_5", 131701203], ["depend_action_6", 0], ["depend_action_7", 0], ["depend_action_8", 0], ["depend_action_9", 0], ["description", "对我方全体展开使物理/魔法攻击无效化的屏障，赋予调和状态。并小幅回复技能值最低的一名我方角色的技能值，以其为中心，对范围内所有我方成员赋予持续回复技能值状态。调和状态存在期间，受到伤害时，伤害量会根据物理防御力和魔法防御力中较高的一方来进行计算。"], ["icon_type", 2006], ["name", "纯水护膜+"], ["skill_area_width", 0], ["skill_cast_time", 0.74], ["skill_id", 1317012], ["skill_type", 0]]
+          },
+          {
+            "id": 1093012,
+            "old": [["action_1", 109301201], ["action_10", 0], ["action_2", 109301202], ["action_3", 0], ["action_4", 0], ["action_5", 0], ["action_6", 0], ["action_7", 0], ["action_8", 0], ["action_9", 0], ["boss_ub_cool_time", 0.0], ["depend_action_1", 0], ["depend_action_10", 0], ["depend_action_2", 0], ["depend_action_3", 0], ["depend_action_4", 0], ["depend_action_5", 0], ["depend_action_6", 0], ["depend_action_7", 0], ["depend_action_8", 0], ["depend_action_9", 0], ["description", "召唤2只小眼睛，中幅提升自身的魔法攻击力。每当露受到伤害时，就会有1只小眼睛逃走，并给敌人造成伤害。"], ["icon_type", 2017], ["name", "轮到小眼睛的出场啦！+"], ["skill_area_width", 0], ["skill_cast_time", 1.7325], ["skill_id", 1093012], ["skill_type", 0]],
+            "new": [["action_1", 109301201], ["action_10", 0], ["action_2", 109301202], ["action_3", 0], ["action_4", 0], ["action_5", 0], ["action_6", 0], ["action_7", 0], ["action_8", 0], ["action_9", 0], ["boss_ub_cool_time", 0.0], ["depend_action_1", 0], ["depend_action_10", 0], ["depend_action_2", 0], ["depend_action_3", 0], ["depend_action_4", 0], ["depend_action_5", 0], ["depend_action_6", 0], ["depend_action_7", 0], ["depend_action_8", 0], ["depend_action_9", 0], ["description", "召唤2只小眼睛，中幅提升自身的魔法攻击力。每当露受到伤害时，就会有1只小眼睛逃走，并给敌人造成伤害。"], ["icon_type", 2017], ["name", "轮到小眼睛出场啦！+"], ["skill_area_width", 0], ["skill_cast_time", 1.7325], ["skill_id", 1093012], ["skill_type", 0]]
+          },
+          {
+            "id": 1182002,
+            "old": [["action_1", 118200201], ["action_10", 0], ["action_2", 118200202], ["action_3", 118200203], ["action_4", 118200204], ["action_5", 118200205], ["action_6", 0], ["action_7", 0], ["action_8", 0], ["action_9", 0], ["boss_ub_cool_time", 0.0], ["depend_action_1", 0], ["depend_action_10", 0], ["depend_action_2", 0], ["depend_action_3", 0], ["depend_action_4", 0], ["depend_action_5", 0], ["depend_action_6", 0], ["depend_action_7", 0], ["depend_action_8", 0], ["depend_action_9", 0], ["description", "对前方最多三名敌人造成魔法伤害（中）。自身与敌方角色距离越远，该技能伤害也就越高。"], ["icon_type", 2002], ["name", "嘟噜噜噜★ "], ["skill_area_width", 0], ["skill_cast_time", 0.0], ["skill_id", 1182002], ["skill_type", 1]],
+            "new": [["action_1", 118200201], ["action_10", 0], ["action_2", 118200202], ["action_3", 118200203], ["action_4", 118200204], ["action_5", 118200205], ["action_6", 0], ["action_7", 0], ["action_8", 0], ["action_9", 0], ["boss_ub_cool_time", 0.0], ["depend_action_1", 0], ["depend_action_10", 0], ["depend_action_2", 0], ["depend_action_3", 0], ["depend_action_4", 0], ["depend_action_5", 0], ["depend_action_6", 0], ["depend_action_7", 0], ["depend_action_8", 0], ["depend_action_9", 0], ["description", "对前方最多三名敌人造成魔法伤害（中）。自身与敌方角色距离越远，该技能伤害也就越高。"], ["icon_type", 2002], ["name", "嘟噜噜噜★"], ["skill_area_width", 0], ["skill_cast_time", 0.0], ["skill_id", 1182002], ["skill_type", 1]]
+          },
+          {
+            "id": 1277012,
+            "old": [["action_1", 127701201], ["action_10", 0], ["action_2", 127701202], ["action_3", 127701203], ["action_4", 127701204], ["action_5", 127701205], ["action_6", 127701206], ["action_7", 127701207], ["action_8", 0], ["action_9", 0], ["boss_ub_cool_time", 0.0], ["depend_action_1", 0], ["depend_action_10", 0], ["depend_action_2", 0], ["depend_action_3", 127701202], ["depend_action_4", 127701202], ["depend_action_5", 0], ["depend_action_6", 127701205], ["depend_action_7", 127701205], ["depend_action_8", 0], ["depend_action_9", 0], ["description", "大幅提升以自身为中心的范围内所有我方角色的魔法攻击力、中幅提升魔法暴击、小幅提升魔法攻击暴击时的伤害。【领域展开时】该技能的效果会再一次发动。"], ["icon_type", 2003], ["name", "打扫卫生！+"], ["skill_area_width", 0], ["skill_cast_time", 1.05], ["skill_id", 1277012], ["skill_type", 1]],
+            "new": [["action_1", 127701201], ["action_10", 0], ["action_2", 127701202], ["action_3", 127701203], ["action_4", 127701204], ["action_5", 127701205], ["action_6", 127701206], ["action_7", 127701207], ["action_8", 0], ["action_9", 0], ["boss_ub_cool_time", 0.0], ["depend_action_1", 0], ["depend_action_10", 0], ["depend_action_2", 0], ["depend_action_3", 127701202], ["depend_action_4", 127701202], ["depend_action_5", 0], ["depend_action_6", 127701205], ["depend_action_7", 127701205], ["depend_action_8", 0], ["depend_action_9", 0], ["description", "大幅提升以自身为中心的范围内所有我方角色的魔法攻击力、中幅提升魔法暴击、小幅提升魔法攻击暴击时的伤害。【领域展开时】该技能的效果会再一次发动。"], ["icon_type", 2003], ["name", "大扫除！+"], ["skill_area_width", 0], ["skill_cast_time", 1.05], ["skill_id", 1277012], ["skill_type", 1]]
+          },
+          {
+            "id": 1077013,
+            "old": [["action_1", 107701301], ["action_10", 0], ["action_2", 107701302], ["action_3", 107701303], ["action_4", 107701304], ["action_5", 107701305], ["action_6", 107701306], ["action_7", 0], ["action_8", 0], ["action_9", 0], ["boss_ub_cool_time", 0.0], ["depend_action_1", 0], ["depend_action_10", 0], ["depend_action_2", 107701301], ["depend_action_3", 107701301], ["depend_action_4", 107701301], ["depend_action_5", 107701301], ["depend_action_6", 107701301], ["depend_action_7", 0], ["depend_action_8", 0], ["depend_action_9", 0], ["description", "以我方最前方的角色为中心，特大幅度提升范围内我方所有角色的魔法防御力和物理攻击力及魔法攻击力，中幅回复生命值并展开吸收魔法攻击的屏障。"], ["icon_type", 2003], ["name", "苏打应援+ "], ["skill_area_width", 0], ["skill_cast_time", 0.92], ["skill_id", 1077013], ["skill_type", 1]],
+            "new": [["action_1", 107701301], ["action_10", 0], ["action_2", 107701302], ["action_3", 107701303], ["action_4", 107701304], ["action_5", 107701305], ["action_6", 107701306], ["action_7", 0], ["action_8", 0], ["action_9", 0], ["boss_ub_cool_time", 0.0], ["depend_action_1", 0], ["depend_action_10", 0], ["depend_action_2", 107701301], ["depend_action_3", 107701301], ["depend_action_4", 107701301], ["depend_action_5", 107701301], ["depend_action_6", 107701301], ["depend_action_7", 0], ["depend_action_8", 0], ["depend_action_9", 0], ["description", "以我方最前方的角色为中心，特大幅度提升范围内我方所有角色的魔法防御力和物理攻击力及魔法攻击力，中幅回复生命值并展开吸收魔法攻击的屏障。"], ["icon_type", 2003], ["name", "苏打应援+"], ["skill_area_width", 0], ["skill_cast_time", 0.92], ["skill_id", 1077013], ["skill_type", 1]]
+          },
+          {
+            "id": 1085212,
+            "old": [["action_1", 108521201], ["action_10", 0], ["action_2", 108521202], ["action_3", 108521203], ["action_4", 0], ["action_5", 0], ["action_6", 0], ["action_7", 0], ["action_8", 0], ["action_9", 0], ["boss_ub_cool_time", 0.0], ["depend_action_1", 0], ["depend_action_10", 0], ["depend_action_2", 0], ["depend_action_3", 0], ["depend_action_4", 0], ["depend_action_5", 0], ["depend_action_6", 0], ["depend_action_7", 0], ["depend_action_8", 0], ["depend_action_9", 0], ["description", "以自身为中心，特大幅度提升范围内我方角色的物理防御力，效果持续至受到5次攻击或鸣响铃铛一段时间后为止。并中幅提升我方全体的物理防御力，小幅回复自身技能值。"], ["icon_type", 2003], ["name", "铃音叮当响+ "], ["skill_area_width", 0], ["skill_cast_time", 1.05], ["skill_id", 1085212], ["skill_type", 1]],
+            "new": [["action_1", 108521201], ["action_10", 0], ["action_2", 108521202], ["action_3", 108521203], ["action_4", 0], ["action_5", 0], ["action_6", 0], ["action_7", 0], ["action_8", 0], ["action_9", 0], ["boss_ub_cool_time", 0.0], ["depend_action_1", 0], ["depend_action_10", 0], ["depend_action_2", 0], ["depend_action_3", 0], ["depend_action_4", 0], ["depend_action_5", 0], ["depend_action_6", 0], ["depend_action_7", 0], ["depend_action_8", 0], ["depend_action_9", 0], ["description", "以自身为中心，特大幅度提升范围内我方角色的物理防御力，效果持续至受到5次攻击或鸣响铃铛一段时间后为止。并中幅提升我方全体的物理防御力，小幅回复自身技能值。"], ["icon_type", 2003], ["name", "铃音叮当响+"], ["skill_area_width", 0], ["skill_cast_time", 1.05], ["skill_id", 1085212], ["skill_type", 1]]
+          },
+          {
+            "id": 1287511,
+            "old": [["action_1", 128751101], ["action_10", 0], ["action_2", 0], ["action_3", 0], ["action_4", 0], ["action_5", 0], ["action_6", 0], ["action_7", 0], ["action_8", 0], ["action_9", 0], ["boss_ub_cool_time", 0.0], ["depend_action_1", 0], ["depend_action_10", 0], ["depend_action_2", 0], ["depend_action_3", 0], ["depend_action_4", 0], ["depend_action_5", 0], ["depend_action_6", 0], ["depend_action_7", 0], ["depend_action_8", 0], ["depend_action_9", 0], ["description", "战斗开始时，大幅提升自身的物理攻击力。"], ["icon_type", 3001], ["name", "星幽之炎+"], ["skill_area_width", 0], ["skill_cast_time", 0.0], ["skill_id", 1287511], ["skill_type", 0]],
+            "new": [["action_1", 128751101], ["action_10", 0], ["action_2", 0], ["action_3", 0], ["action_4", 0], ["action_5", 0], ["action_6", 0], ["action_7", 0], ["action_8", 0], ["action_9", 0], ["boss_ub_cool_time", 0.0], ["depend_action_1", 0], ["depend_action_10", 0], ["depend_action_2", 0], ["depend_action_3", 0], ["depend_action_4", 0], ["depend_action_5", 0], ["depend_action_6", 0], ["depend_action_7", 0], ["depend_action_8", 0], ["depend_action_9", 0], ["description", "战斗开始时，大幅提升自身的物理攻击力。"], ["icon_type", 3001], ["name", "星幽炽焰+"], ["skill_area_width", 0], ["skill_cast_time", 0.0], ["skill_id", 1287511], ["skill_type", 0]]
+          },
+          {
+            "id": 1124013,
+            "old": [["action_1", 112401301], ["action_10", 0], ["action_2", 112401302], ["action_3", 112401303], ["action_4", 112401304], ["action_5", 112401305], ["action_6", 112401306], ["action_7", 112401307], ["action_8", 112401308], ["action_9", 0], ["boss_ub_cool_time", 0.0], ["depend_action_1", 0], ["depend_action_10", 0], ["depend_action_2", 0], ["depend_action_3", 0], ["depend_action_4", 0], ["depend_action_5", 0], ["depend_action_6", 0], ["depend_action_7", 0], ["depend_action_8", 0], ["depend_action_9", 0], ["description", "特大幅度提升我方全体物理攻击力和魔法攻击力，根据物理攻击力和魔法攻击力的合计值，对前方范围内的所有敌人造成物理伤害（中）。当存在3名以上的敌人时，根据物理攻击力和魔法攻击力的合计值，额外对其造成物理伤害（中）。当目标的魔法防御力低于物理防御力时，该技能造成的伤害将视为魔法伤害。"], ["icon_type", 2001], ["name", "粉红·活泼+"], ["skill_area_width", 0], ["skill_cast_time", 0.97], ["skill_id", 1124013], ["skill_type", 1]],
+            "new": [["action_1", 112401301], ["action_10", 0], ["action_2", 112401302], ["action_3", 112401303], ["action_4", 112401304], ["action_5", 112401305], ["action_6", 112401306], ["action_7", 112401307], ["action_8", 112401308], ["action_9", 0], ["boss_ub_cool_time", 0.0], ["depend_action_1", 0], ["depend_action_10", 0], ["depend_action_2", 0], ["depend_action_3", 0], ["depend_action_4", 0], ["depend_action_5", 0], ["depend_action_6", 0], ["depend_action_7", 0], ["depend_action_8", 0], ["depend_action_9", 0], ["description", "特大幅度提升我方全体物理攻击力和魔法攻击力，根据物理攻击力和魔法攻击力的合计值，对前方范围内的所有敌人造成物理伤害（中）。当存在3名以上的敌人时，根据物理攻击力和魔法攻击力的合计值，额外对其造成物理伤害（中）。当目标的魔法防御力低于物理防御力时，该技能造成的伤害将视为魔法伤害。"], ["icon_type", 2001], ["name", "粉色活力+"], ["skill_area_width", 0], ["skill_cast_time", 0.97], ["skill_id", 1124013], ["skill_type", 1]]
+          }
+        ]
+      }
+    },
+    "unit_comments": {
+      "data_changes": {
+        "modified": [
+          {
+            "id": 1361001,
+            "old": [["all_comments_flag", 0], ["change_face", 2], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 4.8], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "我是樱！　这次也是事出有因，\\n正在兰德索尔进行单人活动！\\n在这座美妙的城市里，我的每一天，\\n说不定又会有什么改变呢！"], ["face_id", 1], ["face_id_2", 0], ["face_id_3", 0], ["id", 1361001], ["target_unit_id", 0], ["unit_id", 136101], ["use_type", 1], ["voice_id", 1]],
+            "new": [["all_comments_flag", 0], ["change_face", 2], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 4.8], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "我是樱！　这次也是事出有因，\\n正在兰德索尔进行个人活动！\\n在这座美妙的城市里，我的日常\\n说不定又会有什么改变呢！"], ["face_id", 1], ["face_id_2", 0], ["face_id_3", 0], ["id", 1361001], ["target_unit_id", 0], ["unit_id", 136101], ["use_type", 1], ["voice_id", 1]]
+          },
+          {
+            "id": 1361003,
+            "old": [["all_comments_flag", 0], ["change_face", 4], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 8.7], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "啊。歪、歪掉了……\\n怎么办怎么办……\\n像……像这样……嘿哟，呼，\\n脖子差点又断掉了。"], ["face_id", 10], ["face_id_2", 0], ["face_id_3", 0], ["id", 1361003], ["target_unit_id", 0], ["unit_id", 136101], ["use_type", 1], ["voice_id", 3]],
+            "new": [["all_comments_flag", 0], ["change_face", 4], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 8.7], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "啊。歪、歪掉了……\\n怎么办怎么办……\\n这……这样就……好了，呼。\\n脑袋差点又掉下来了。"], ["face_id", 10], ["face_id_2", 0], ["face_id_3", 0], ["id", 1361003], ["target_unit_id", 0], ["unit_id", 136101], ["use_type", 1], ["voice_id", 3]]
+          },
+          {
+            "id": 1361009,
+            "old": [["all_comments_flag", 0], ["change_face", 1], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 0.0], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "骑士先生是不是总被\\n女孩子围着啊？\\n他说不定很适合当偶像呢，\\n嗯～好想让他见见那个人啊～"], ["face_id", 1], ["face_id_2", 0], ["face_id_3", 0], ["id", 1361009], ["target_unit_id", 0], ["unit_id", 136131], ["use_type", 1], ["voice_id", 4]],
+            "new": [["all_comments_flag", 0], ["change_face", 1], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 0.0], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "骑士先生是不是总被\\n女孩子围着啊？\\n你说不定很适合当偶像呢，\\n嗯～好想让你见见那个人啊～"], ["face_id", 1], ["face_id_2", 0], ["face_id_3", 0], ["id", 1361009], ["target_unit_id", 0], ["unit_id", 136131], ["use_type", 1], ["voice_id", 4]]
+          }
+        ]
+      }
+    },
+    "skill_action": {
+      "data_changes": {
+        "modified": [
+          {
+            "id": 304003301,
+            "old": [["action_detail_1", 1], ["action_detail_2", 0], ["action_detail_3", 50], ["action_id", 304003301], ["action_type", 1], ["action_value_1", 100.0], ["action_value_2", 10.0], ["action_value_3", 1.0], ["action_value_4", 0.01], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", ""], ["level_up_disp", ""], ["target_area", 3], ["target_assignment", 1], ["target_count", 1], ["target_number", 0], ["target_range", 3000], ["target_type", 38]],
+            "new": [["action_detail_1", 1], ["action_detail_2", 0], ["action_detail_3", 100], ["action_id", 304003301], ["action_type", 1], ["action_value_1", 100.0], ["action_value_2", 10.0], ["action_value_3", 1.0], ["action_value_4", 0.01], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", ""], ["level_up_disp", ""], ["target_area", 3], ["target_assignment", 1], ["target_count", 1], ["target_number", 0], ["target_range", 3000], ["target_type", 38]]
+          },
+          {
+            "id": 304003101,
+            "old": [["action_detail_1", 2], ["action_detail_2", 0], ["action_detail_3", 50], ["action_id", 304003101], ["action_type", 1], ["action_value_1", 66.0], ["action_value_2", 66.0], ["action_value_3", 1.0], ["action_value_4", 0.00247], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", ""], ["level_up_disp", ""], ["target_area", 3], ["target_assignment", 1], ["target_count", 1], ["target_number", 0], ["target_range", 3000], ["target_type", 38]],
+            "new": [["action_detail_1", 2], ["action_detail_2", 0], ["action_detail_3", 100], ["action_id", 304003101], ["action_type", 1], ["action_value_1", 66.0], ["action_value_2", 66.0], ["action_value_3", 1.0], ["action_value_4", 0.00247], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", ""], ["level_up_disp", ""], ["target_area", 3], ["target_assignment", 1], ["target_count", 1], ["target_number", 0], ["target_range", 3000], ["target_type", 38]]
+          },
+          {
+            "id": 304003108,
+            "old": [["action_detail_1", 2], ["action_detail_2", 0], ["action_detail_3", 50], ["action_id", 304003108], ["action_type", 1], ["action_value_1", 66.0], ["action_value_2", 66.0], ["action_value_3", 1.0], ["action_value_4", 0.00247], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", ""], ["level_up_disp", ""], ["target_area", 6], ["target_assignment", 1], ["target_count", 99], ["target_number", 0], ["target_range", 3000], ["target_type", 4]],
+            "new": [["action_detail_1", 2], ["action_detail_2", 0], ["action_detail_3", 100], ["action_id", 304003108], ["action_type", 1], ["action_value_1", 66.0], ["action_value_2", 66.0], ["action_value_3", 1.0], ["action_value_4", 0.00247], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", ""], ["level_up_disp", ""], ["target_area", 6], ["target_assignment", 1], ["target_count", 99], ["target_number", 0], ["target_range", 3000], ["target_type", 4]]
+          }
+        ]
+      }
+    }
+  }
+}
