@@ -1,0 +1,79 @@
+{
+  "tables": {
+    "only_in_old_db": [],
+    "only_in_new_db": []
+  },
+  "table_changes": {
+    "unit_comments": {
+      "data_changes": {
+        "modified": [
+          {
+            "id": 1358007,
+            "old": [["all_comments_flag", 0], ["change_face", 1], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 0.0], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "仁太、春、竹山……\\n大家也来帮忙吧。\\n我想让骑士先生听听\\n我竭尽所能弹的三味线……"], ["face_id", 1], ["face_id_2", 0], ["face_id_3", 0], ["id", 1358007], ["target_unit_id", 0], ["unit_id", 135831], ["use_type", 1], ["voice_id", 2]],
+            "new": [["all_comments_flag", 0], ["change_face", 1], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 0.0], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "仁太、春、竹山……\\n大家也来帮忙吧。\\n我想让骑士听听\\n我竭尽所能弹的三味线……"], ["face_id", 1], ["face_id_2", 0], ["face_id_3", 0], ["id", 1358007], ["target_unit_id", 0], ["unit_id", 135831], ["use_type", 1], ["voice_id", 2]]
+          },
+          {
+            "id": 1359003,
+            "old": [["all_comments_flag", 0], ["change_face", 1], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 0.0], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "在我们鬼族之间，\\n规矩比什么都重要。\\n就算块头再大，\\n不讲道理的家伙也都是小喽啰。"], ["face_id", 1], ["face_id_2", 0], ["face_id_3", 0], ["id", 1359003], ["target_unit_id", 0], ["unit_id", 135901], ["use_type", 1], ["voice_id", 3]],
+            "new": [["all_comments_flag", 0], ["change_face", 1], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 0.0], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "在我们鬼族之间，\\n规矩比什么都重要。\\n就算块头再大，\\n不讲道义的家伙也只是小喽啰。"], ["face_id", 1], ["face_id_2", 0], ["face_id_3", 0], ["id", 1359003], ["target_unit_id", 0], ["unit_id", 135901], ["use_type", 1], ["voice_id", 3]]
+          },
+          {
+            "id": 1359006,
+            "old": [["all_comments_flag", 0], ["change_face", 1], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 0.0], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "噢，你来了啊，骑士。\\n这里就是吉奥·尼弗尔海姆，\\n夜叉岭的鬼族之村。\\n我来带路，跟我来"], ["face_id", 1], ["face_id_2", 0], ["face_id_3", 0], ["id", 1359006], ["target_unit_id", 0], ["unit_id", 135931], ["use_type", 1], ["voice_id", 1]],
+            "new": [["all_comments_flag", 0], ["change_face", 1], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 0.0], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "噢，你来了啊，骑士。\\n这里就是吉奥·尼弗尔海姆，\\n夜叉岭的鬼族之村。\\n我给你带路，跟上吧。"], ["face_id", 1], ["face_id_2", 0], ["face_id_3", 0], ["id", 1359006], ["target_unit_id", 0], ["unit_id", 135931], ["use_type", 1], ["voice_id", 1]]
+          },
+          {
+            "id": 1359004,
+            "old": [["all_comments_flag", 0], ["change_face", 2], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 3.8], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "担心我的箭伤？\\n我可不是那种需要骑士\\n担心的软弱的家伙。\\n要不要试试看？"], ["face_id", 1], ["face_id_2", 0], ["face_id_3", 0], ["id", 1359004], ["target_unit_id", 0], ["unit_id", 135901], ["use_type", 1], ["voice_id", 4]],
+            "new": [["all_comments_flag", 0], ["change_face", 2], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 3.8], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "担心我的箭伤？\\n我这身本事可不是白练的，\\n还用不着骑士你担心。\\n要不要试试看？"], ["face_id", 1], ["face_id_2", 0], ["face_id_3", 0], ["id", 1359004], ["target_unit_id", 0], ["unit_id", 135901], ["use_type", 1], ["voice_id", 4]]
+          },
+          {
+            "id": 1359002,
+            "old": [["all_comments_flag", 0], ["change_face", 1], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 6.4], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "露得太多了吗？\\n穿着花里胡哨的铠甲反而碍手碍脚吧。\\n自古以来都有句话叫“恶鬼披锦衣”嘛。"], ["face_id", 3], ["face_id_2", 0], ["face_id_3", 0], ["id", 1359002], ["target_unit_id", 0], ["unit_id", 135901], ["use_type", 1], ["voice_id", 2]],
+            "new": [["all_comments_flag", 0], ["change_face", 1], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 6.4], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "露得太多了？\\n穿一身累赘的铠甲，还怎么活动啊。\\n老话说了，给鬼穿衣多此一举。"], ["face_id", 3], ["face_id_2", 0], ["face_id_3", 0], ["id", 1359002], ["target_unit_id", 0], ["unit_id", 135901], ["use_type", 1], ["voice_id", 2]]
+          },
+          {
+            "id": 1358002,
+            "old": [["all_comments_flag", 0], ["change_face", 6], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 8.1], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "我周围的人……\\n全都是些超厉害的家伙。\\n我、我总是希望自己\\n能像大家那么厉害，但好难啊……"], ["face_id", 1], ["face_id_2", 0], ["face_id_3", 0], ["id", 1358002], ["target_unit_id", 0], ["unit_id", 135801], ["use_type", 1], ["voice_id", 2]],
+            "new": [["all_comments_flag", 0], ["change_face", 6], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 8.1], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "我身边的人……\\n个个都很厉害。\\n我、我也总想变得像大家一样，\\n可是好难啊……"], ["face_id", 1], ["face_id_2", 0], ["face_id_3", 0], ["id", 1358002], ["target_unit_id", 0], ["unit_id", 135801], ["use_type", 1], ["voice_id", 2]]
+          },
+          {
+            "id": 1358008,
+            "old": [["all_comments_flag", 0], ["change_face", 1], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 0.0], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "积雪的声音、冰碎裂的声音……\\n这里也是个热闹的地方呢。\\n以前没注意过的声音，\\n现在也比以前听得更清楚了……"], ["face_id", 1], ["face_id_2", 0], ["face_id_3", 0], ["id", 1358008], ["target_unit_id", 0], ["unit_id", 135831], ["use_type", 1], ["voice_id", 3]],
+            "new": [["all_comments_flag", 0], ["change_face", 1], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 0.0], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "积雪的声音、冰层嘎吱作响的声音……\\n这里也是个热闹的地方呢。\\n以前没注意过的声音，\\n现在也比以前听得更清楚了……"], ["face_id", 1], ["face_id_2", 0], ["face_id_3", 0], ["id", 1358008], ["target_unit_id", 0], ["unit_id", 135831], ["use_type", 1], ["voice_id", 3]]
+          },
+          {
+            "id": 1358009,
+            "old": [["all_comments_flag", 0], ["change_face", 1], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 0.0], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "我是雪女，身心都与久远的冰\\n同在……我曾经是这么想的。\\n但我……还是会渴望呢。\\n骑士那暖洋洋的温暖……"], ["face_id", 1], ["face_id_2", 0], ["face_id_3", 0], ["id", 1358009], ["target_unit_id", 0], ["unit_id", 135831], ["use_type", 1], ["voice_id", 4]],
+            "new": [["all_comments_flag", 0], ["change_face", 1], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 0.0], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "我是雪女，身心都与久远的冰\\n同在……我曾经是这么想的。\\n可我……还是忍不住渴望，\\n骑士那暖暖的体温……"], ["face_id", 1], ["face_id_2", 0], ["face_id_3", 0], ["id", 1358009], ["target_unit_id", 0], ["unit_id", 135831], ["use_type", 1], ["voice_id", 4]]
+          },
+          {
+            "id": 1359007,
+            "old": [["all_comments_flag", 0], ["change_face", 1], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 0.0], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "鬼族的年轻人们\\n可能会有点粗鲁，\\n但他们都是爽快的人，\\n请好好对待他们。"], ["face_id", 1], ["face_id_2", 0], ["face_id_3", 0], ["id", 1359007], ["target_unit_id", 0], ["unit_id", 135931], ["use_type", 1], ["voice_id", 2]],
+            "new": [["all_comments_flag", 0], ["change_face", 1], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 0.0], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "鬼族的年轻人们\\n可能是有点粗鲁，\\n不过都是些好相处的家伙。\\n你就多关照关照他们吧。"], ["face_id", 1], ["face_id_2", 0], ["face_id_3", 0], ["id", 1359007], ["target_unit_id", 0], ["unit_id", 135931], ["use_type", 1], ["voice_id", 2]]
+          },
+          {
+            "id": 1359009,
+            "old": [["all_comments_flag", 0], ["change_face", 1], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 0.0], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "长途跋涉累了吧。\\n稍微坐下来歇歇脚，\\n给我讲讲骑士的旅途见闻吧。"], ["face_id", 1], ["face_id_2", 0], ["face_id_3", 0], ["id", 1359009], ["target_unit_id", 0], ["unit_id", 135931], ["use_type", 1], ["voice_id", 4]],
+            "new": [["all_comments_flag", 0], ["change_face", 1], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 0.0], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "长途跋涉累了吧。\\n坐下来歇歇，骑士。\\n给我讲讲你路上的见闻吧。"], ["face_id", 1], ["face_id_2", 0], ["face_id_3", 0], ["id", 1359009], ["target_unit_id", 0], ["unit_id", 135931], ["use_type", 1], ["voice_id", 4]]
+          },
+          {
+            "id": 1358012,
+            "old": [["all_comments_flag", 0], ["change_face", 1], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 0.0], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "今天是骑士的生日呢。\\n我也……送上一首祝贺的曲子吧。\\n这是雪女一族传承下来的宝贵乐曲……\\n只唱给特别的人听。"], ["face_id", 1], ["face_id_2", 0], ["face_id_3", 0], ["id", 1358012], ["target_unit_id", 0], ["unit_id", 135831], ["use_type", 2], ["voice_id", 6]],
+            "new": [["all_comments_flag", 0], ["change_face", 1], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 0.0], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "今天是骑士的生日呢。\\n我也……送上一首祝贺的曲子吧。\\n这是雪女一族传承下来的宝贵乐曲……\\n只给特别的人听。"], ["face_id", 1], ["face_id_2", 0], ["face_id_3", 0], ["id", 1358012], ["target_unit_id", 0], ["unit_id", 135831], ["use_type", 2], ["voice_id", 6]]
+          },
+          {
+            "id": 1359008,
+            "old": [["all_comments_flag", 0], ["change_face", 1], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 0.0], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "内部矛盾一记拳头就能解决，\\n但外来的威胁可没那么简单。\\n不管来的是什么，\\n我都不会让它通行的。"], ["face_id", 1], ["face_id_2", 0], ["face_id_3", 0], ["id", 1359008], ["target_unit_id", 0], ["unit_id", 135931], ["use_type", 1], ["voice_id", 3]],
+            "new": [["all_comments_flag", 0], ["change_face", 1], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 0.0], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "自己人闹矛盾，一拳就能解决，\\n可外头的威胁没这么简单。\\n不管来的是什么，\\n我都不会放过去。"], ["face_id", 1], ["face_id_2", 0], ["face_id_3", 0], ["id", 1359008], ["target_unit_id", 0], ["unit_id", 135931], ["use_type", 1], ["voice_id", 3]]
+          },
+          {
+            "id": 1359001,
+            "old": [["all_comments_flag", 0], ["change_face", 1], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 4.4], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "干嘛，别那么死盯着我看啊。\\n光顾着看我的话，\\n可就有机可乘了哦。"], ["face_id", 6], ["face_id_2", 0], ["face_id_3", 0], ["id", 1359001], ["target_unit_id", 0], ["unit_id", 135901], ["use_type", 1], ["voice_id", 1]],
+            "new": [["all_comments_flag", 0], ["change_face", 1], ["change_face_2", 0], ["change_face_3", 0], ["change_time", 4.4], ["change_time_2", 0.0], ["change_time_3", 0.0], ["description", "干嘛，别那么死盯着我看啊。\\n光顾着看我的话，\\n可别连脚下都忘了留神。"], ["face_id", 6], ["face_id_2", 0], ["face_id_3", 0], ["id", 1359001], ["target_unit_id", 0], ["unit_id", 135901], ["use_type", 1], ["voice_id", 1]]
+          }
+        ]
+      }
+    }
+  }
+}
