@@ -1,0 +1,199 @@
+{
+  "tables": {
+    "only_in_old_db": [],
+    "only_in_new_db": []
+  },
+  "table_changes": {
+    "skill_data": {
+      "data_changes": {
+        "added": [
+          [["action_1", 410251101], ["action_10", 0], ["action_11", 0], ["action_12", 0], ["action_13", 0], ["action_14", 0], ["action_15", 0], ["action_16", 0], ["action_17", 0], ["action_18", 0], ["action_19", 0], ["action_2", 410251102], ["action_20", 0], ["action_3", 0], ["action_4", 0], ["action_5", 0], ["action_6", 0], ["action_7", 0], ["action_8", 0], ["action_9", 0], ["boss_ub_cool_time", 0.0], ["depend_action_1", 0], ["depend_action_10", 0], ["depend_action_11", 0], ["depend_action_12", 0], ["depend_action_13", 0], ["depend_action_14", 0], ["depend_action_15", 0], ["depend_action_16", 0], ["depend_action_17", 0], ["depend_action_18", 0], ["depend_action_19", 0], ["depend_action_2", 0], ["depend_action_20", 0], ["depend_action_3", 0], ["depend_action_4", 0], ["depend_action_5", 0], ["depend_action_6", 0], ["depend_action_7", 0], ["depend_action_8", 0], ["depend_action_9", 0], ["description", "バトル開始後90秒間味方全体の物理防御力を10％アップさせる。"], ["icon_type", 3002], ["name", "バトル中物理防御力小アップ"], ["skill_area_width", 0], ["skill_cast_time", 0.0], ["skill_id", 4102511], ["skill_type", 0]]
+        ]
+      }
+    },
+    "limited_mission_move_view": {
+      "data_changes": {
+        "added": [
+          [["mission_condition", 95], ["move_view_id", 30], ["notification", "メインクエスト3-7（NORMAL）クリアで解放"]],
+          [["mission_condition", 94], ["move_view_id", 30], ["notification", "メインクエスト3-7（NORMAL）クリアで解放"]]
+        ]
+      }
+    },
+    "battlepass_limited_mission": {
+      "data_changes": {
+        "added": [
+          [["category", 3], ["condition_num", 6], ["condition_value", 0], ["description", "追憶の戦域 追憶戦・覇を6回クリアしよう"], ["disp_order", 602], ["end_time", "2026/10/31 04:59:59"], ["label_type", 5], ["mission_condition", 71], ["mission_id", 261012046], ["reward_point", 750], ["season_id", 26101], ["start_time", "2026/10/05 12:00:00"]],
+          [["category", 2], ["condition_num", 5], ["condition_value", 0], ["description", "バトルアリーナかプリンセスアリーナで合計5回戦おう"], ["disp_order", 18], ["end_time", "2026/10/28 04:59:59"], ["label_type", 4], ["mission_condition", 53], ["mission_id", 261012005], ["reward_point", 200], ["season_id", 26101], ["start_time", "2026/09/30 05:00:00"]],
+          [["category", 3], ["condition_num", 9], ["condition_value", 0], ["description", "クランバトルに合計9回挑戦しよう"], ["disp_order", 503], ["end_time", "2026/10/30 23:59:59"], ["label_type", 5], ["mission_condition", 58], ["mission_id", 261012042], ["reward_point", 500], ["season_id", 26101], ["start_time", "2026/10/26 5:00:00"]],
+          [["category", 2], ["condition_num", 50], ["condition_value", 0], ["description", "深域クエストを50回クリアしよう"], ["disp_order", 21], ["end_time", "2026/10/28 04:59:59"], ["label_type", 4], ["mission_condition", 50], ["mission_id", 261012008], ["reward_point", 200], ["season_id", 26101], ["start_time", "2026/09/30 05:00:00"]],
+          [["category", 3], ["condition_num", 1], ["condition_value", 50000000000], ["description", "深淵討伐戦で500億Pt獲得しよう"], ["disp_order", 112], ["end_time", "2026/10/14 4:59:59"], ["label_type", 5], ["mission_condition", 60], ["mission_id", 261012023], ["reward_point", 1000], ["season_id", 26101], ["start_time", "2026/10/09 12:00:00"]],
+          [["category", 3], ["condition_num", 1], ["condition_value", 1000000000], ["description", "深淵討伐戦で10億Pt獲得しよう"], ["disp_order", 107], ["end_time", "2026/10/14 4:59:59"], ["label_type", 5], ["mission_condition", 60], ["mission_id", 261012018], ["reward_point", 100], ["season_id", 26101], ["start_time", "2026/10/09 12:00:00"]],
+          [["category", 2], ["condition_num", 5000], ["condition_value", 0], ["description", "スタミナを合計5000消費しよう"], ["disp_order", 14], ["end_time", "2026/10/28 04:59:59"], ["label_type", 4], ["mission_condition", 46], ["mission_id", 261012004], ["reward_point", 600], ["season_id", 26101], ["start_time", "2026/09/30 05:00:00"]],
+          [["category", 2], ["condition_num", 3000], ["condition_value", 0], ["description", "スタミナを合計3000消費しよう"], ["disp_order", 13], ["end_time", "2026/10/28 04:59:59"], ["label_type", 4], ["mission_condition", 46], ["mission_id", 261012003], ["reward_point", 400], ["season_id", 26101], ["start_time", "2026/09/30 05:00:00"]],
+          [["category", 3], ["condition_num", 1], ["condition_value", 20000000000], ["description", "深淵討伐戦で200億Pt獲得しよう"], ["disp_order", 111], ["end_time", "2026/10/14 4:59:59"], ["label_type", 5], ["mission_condition", 60], ["mission_id", 261012022], ["reward_point", 500], ["season_id", 26101], ["start_time", "2026/10/09 12:00:00"]],
+          [["category", 3], ["condition_num", 75], ["condition_value", 0], ["description", "エルピス討魔戦線でボスバトルを75回クリアしよう"], ["disp_order", 302], ["end_time", "2026/10/20 4:59:59"], ["label_type", 5], ["mission_condition", 70], ["mission_id", 261012031], ["reward_point", 2000], ["season_id", 26101], ["start_time", "2026/10/15 12:00:00"]],
+          [["category", 3], ["condition_num", 10], ["condition_value", 14001], ["description", "4部メインクエストのボスバトルを10回クリアしよう"], ["disp_order", 406], ["end_time", "2026/10/31 04:59:59"], ["label_type", 5], ["mission_condition", 95], ["mission_id", 261012037], ["reward_point", 1000], ["season_id", 26101], ["start_time", "2026/09/30 12:00:00"]],
+          [["category", 3], ["condition_num", 30], ["condition_value", 0], ["description", "深淵討伐戦でボスに30回挑戦しよう"], ["disp_order", 103], ["end_time", "2026/10/14 4:59:59"], ["label_type", 5], ["mission_condition", 59], ["mission_id", 261012014], ["reward_point", 300], ["season_id", 26101], ["start_time", "2026/10/09 12:00:00"]],
+          [["category", 3], ["condition_num", 3], ["condition_value", 0], ["description", "追憶の戦域 追憶戦・覇を3回クリアしよう"], ["disp_order", 601], ["end_time", "2026/10/31 04:59:59"], ["label_type", 5], ["mission_condition", 71], ["mission_id", 261012045], ["reward_point", 500], ["season_id", 26101], ["start_time", "2026/10/05 12:00:00"]],
+          [["category", 3], ["condition_num", 15], ["condition_value", 0], ["description", "クランバトルに合計15回挑戦しよう"], ["disp_order", 505], ["end_time", "2026/10/30 23:59:59"], ["label_type", 5], ["mission_condition", 58], ["mission_id", 261012044], ["reward_point", 1000], ["season_id", 26101], ["start_time", "2026/10/26 5:00:00"]],
+          [["category", 3], ["condition_num", 100], ["condition_value", 14001], ["description", "4部メインクエスト 暴風のランドソルのクエストを100回クリアしよう"], ["disp_order", 404], ["end_time", "2026/10/31 04:59:59"], ["label_type", 5], ["mission_condition", 94], ["mission_id", 261012035], ["reward_point", 400], ["season_id", 26101], ["start_time", "2026/09/30 12:00:00"]],
+          [["category", 3], ["condition_num", 6], ["condition_value", 0], ["description", "クランバトルに合計6回挑戦しよう"], ["disp_order", 502], ["end_time", "2026/10/30 23:59:59"], ["label_type", 5], ["mission_condition", 58], ["mission_id", 261012041], ["reward_point", 500], ["season_id", 26101], ["start_time", "2026/10/26 5:00:00"]],
+          [["category", 3], ["condition_num", 1], ["condition_value", 2301008], ["description", "メインストーリー第4部 第1章 エンディングを閲覧しよう"], ["disp_order", 408], ["end_time", "2026/10/31 04:59:59"], ["label_type", 5], ["mission_condition", 16], ["mission_id", 261012039], ["reward_point", 1000], ["season_id", 26101], ["start_time", "2026/09/30 12:00:00"]],
+          [["category", 3], ["condition_num", 12], ["condition_value", 0], ["description", "クランバトルに合計12回挑戦しよう"], ["disp_order", 504], ["end_time", "2026/10/30 23:59:59"], ["label_type", 5], ["mission_condition", 58], ["mission_id", 261012043], ["reward_point", 500], ["season_id", 26101], ["start_time", "2026/10/26 5:00:00"]],
+          [["category", 2], ["condition_num", 250], ["condition_value", 0], ["description", "深域クエストを250回クリアしよう"], ["disp_order", 23], ["end_time", "2026/10/28 04:59:59"], ["label_type", 4], ["mission_condition", 50], ["mission_id", 261012010], ["reward_point", 600], ["season_id", 26101], ["start_time", "2026/09/30 05:00:00"]],
+          [["category", 3], ["condition_num", 20], ["condition_value", 0], ["description", "深淵討伐戦でボスに20回挑戦しよう"], ["disp_order", 102], ["end_time", "2026/10/14 4:59:59"], ["label_type", 5], ["mission_condition", 59], ["mission_id", 261012013], ["reward_point", 200], ["season_id", 26101], ["start_time", "2026/10/09 12:00:00"]],
+          [["category", 2], ["condition_num", 1], ["condition_value", 0], ["description", "黎明界ラビリンスをスキップせずに1回クリアしよう"], ["disp_order", 24], ["end_time", "2026/10/28 04:59:59"], ["label_type", 4], ["mission_condition", 54], ["mission_id", 261012011], ["reward_point", 500], ["season_id", 26101], ["start_time", "2026/09/30 05:00:00"]],
+          [["category", 3], ["condition_num", 1], ["condition_value", 5000000000], ["description", "深淵討伐戦で50億Pt獲得しよう"], ["disp_order", 108], ["end_time", "2026/10/14 4:59:59"], ["label_type", 5], ["mission_condition", 60], ["mission_id", 261012019], ["reward_point", 200], ["season_id", 26101], ["start_time", "2026/10/09 12:00:00"]],
+          [["category", 3], ["condition_num", 18], ["condition_value", 0], ["description", "バトルスタジアムで★を合計18個獲得しよう"], ["disp_order", 202], ["end_time", "2026/10/08 20:59:00"], ["label_type", 5], ["mission_condition", 57], ["mission_id", 261012025], ["reward_point", 100], ["season_id", 26101], ["start_time", "2026/10/02 12:00:00"]],
+          [["category", 2], ["condition_num", 100], ["condition_value", 0], ["description", "深域クエストを100回クリアしよう"], ["disp_order", 22], ["end_time", "2026/10/28 04:59:59"], ["label_type", 4], ["mission_condition", 50], ["mission_id", 261012009], ["reward_point", 400], ["season_id", 26101], ["start_time", "2026/09/30 05:00:00"]],
+          [["category", 3], ["condition_num", 45], ["condition_value", 0], ["description", "バトルスタジアムで★を合計45個獲得しよう"], ["disp_order", 205], ["end_time", "2026/10/08 20:59:00"], ["label_type", 5], ["mission_condition", 57], ["mission_id", 261012028], ["reward_point", 400], ["season_id", 26101], ["start_time", "2026/10/02 12:00:00"]],
+          [["category", 3], ["condition_num", 1], ["condition_value", 15000000000], ["description", "深淵討伐戦で150億Pt獲得しよう"], ["disp_order", 110], ["end_time", "2026/10/14 4:59:59"], ["label_type", 5], ["mission_condition", 60], ["mission_id", 261012021], ["reward_point", 400], ["season_id", 26101], ["start_time", "2026/10/09 12:00:00"]],
+          [["category", 3], ["condition_num", 9], ["condition_value", 0], ["description", "バトルスタジアムで★を合計9個獲得しよう"], ["disp_order", 201], ["end_time", "2026/10/08 20:59:00"], ["label_type", 5], ["mission_condition", 57], ["mission_id", 261012024], ["reward_point", 100], ["season_id", 26101], ["start_time", "2026/10/02 12:00:00"]],
+          [["category", 3], ["condition_num", 54], ["condition_value", 0], ["description", "バトルスタジアムで★を合計54個獲得しよう"], ["disp_order", 206], ["end_time", "2026/10/08 20:59:00"], ["label_type", 5], ["mission_condition", 57], ["mission_id", 261012029], ["reward_point", 500], ["season_id", 26101], ["start_time", "2026/10/02 12:00:00"]],
+          [["category", 2], ["condition_num", 1000], ["condition_value", 0], ["description", "スタミナを合計1000消費しよう"], ["disp_order", 12], ["end_time", "2026/10/28 04:59:59"], ["label_type", 4], ["mission_condition", 46], ["mission_id", 261012002], ["reward_point", 200], ["season_id", 26101], ["start_time", "2026/09/30 05:00:00"]],
+          [["category", 3], ["condition_num", 20], ["condition_value", 14001], ["description", "4部メインクエストのボスバトルを20回クリアしよう"], ["disp_order", 407], ["end_time", "2026/10/31 04:59:59"], ["label_type", 5], ["mission_condition", 95], ["mission_id", 261012038], ["reward_point", 1000], ["season_id", 26101], ["start_time", "2026/09/30 12:00:00"]],
+          [["category", 3], ["condition_num", 27], ["condition_value", 0], ["description", "追憶の戦域 追憶戦・覇を27回クリアしよう"], ["disp_order", 606], ["end_time", "2026/10/31 04:59:59"], ["label_type", 5], ["mission_condition", 71], ["mission_id", 261012050], ["reward_point", 2000], ["season_id", 26101], ["start_time", "2026/10/05 12:00:00"]],
+          [["category", 3], ["condition_num", 1], ["condition_value", 10000000000], ["description", "深淵討伐戦で100億Pt獲得しよう"], ["disp_order", 109], ["end_time", "2026/10/14 4:59:59"], ["label_type", 5], ["mission_condition", 60], ["mission_id", 261012020], ["reward_point", 300], ["season_id", 26101], ["start_time", "2026/10/09 12:00:00"]],
+          [["category", 3], ["condition_num", 60], ["condition_value", 0], ["description", "深淵討伐戦でボスに60回挑戦しよう"], ["disp_order", 106], ["end_time", "2026/10/14 4:59:59"], ["label_type", 5], ["mission_condition", 59], ["mission_id", 261012017], ["reward_point", 1000], ["season_id", 26101], ["start_time", "2026/10/09 12:00:00"]],
+          [["category", 3], ["condition_num", 50], ["condition_value", 0], ["description", "深淵討伐戦でボスに50回挑戦しよう"], ["disp_order", 105], ["end_time", "2026/10/14 4:59:59"], ["label_type", 5], ["mission_condition", 59], ["mission_id", 261012016], ["reward_point", 500], ["season_id", 26101], ["start_time", "2026/10/09 12:00:00"]],
+          [["category", 3], ["condition_num", 40], ["condition_value", 0], ["description", "深淵討伐戦でボスに40回挑戦しよう"], ["disp_order", 104], ["end_time", "2026/10/14 4:59:59"], ["label_type", 5], ["mission_condition", 59], ["mission_id", 261012015], ["reward_point", 400], ["season_id", 26101], ["start_time", "2026/10/09 12:00:00"]],
+          [["category", 3], ["condition_num", 36], ["condition_value", 0], ["description", "バトルスタジアムで★を合計36個獲得しよう"], ["disp_order", 204], ["end_time", "2026/10/08 20:59:00"], ["label_type", 5], ["mission_condition", 57], ["mission_id", 261012027], ["reward_point", 300], ["season_id", 26101], ["start_time", "2026/10/02 12:00:00"]],
+          [["category", 3], ["condition_num", 30], ["condition_value", 14001], ["description", "4部メインクエスト 暴風のランドソルのクエストを30回クリアしよう"], ["disp_order", 402], ["end_time", "2026/10/31 04:59:59"], ["label_type", 5], ["mission_condition", 94], ["mission_id", 261012033], ["reward_point", 200], ["season_id", 26101], ["start_time", "2026/09/30 12:00:00"]],
+          [["category", 3], ["condition_num", 10], ["condition_value", 14001], ["description", "4部メインクエスト 暴風のランドソルのクエストを10回クリアしよう"], ["disp_order", 401], ["end_time", "2026/10/31 04:59:59"], ["label_type", 5], ["mission_condition", 94], ["mission_id", 261012032], ["reward_point", 100], ["season_id", 26101], ["start_time", "2026/09/30 12:00:00"]],
+          [["category", 2], ["condition_num", 20], ["condition_value", 0], ["description", "バトルアリーナかプリンセスアリーナで合計20回戦おう"], ["disp_order", 20], ["end_time", "2026/10/28 04:59:59"], ["label_type", 4], ["mission_condition", 53], ["mission_id", 261012007], ["reward_point", 600], ["season_id", 26101], ["start_time", "2026/09/30 05:00:00"]],
+          [["category", 3], ["condition_num", 12], ["condition_value", 0], ["description", "追憶の戦域 追憶戦・覇を12回クリアしよう"], ["disp_order", 604], ["end_time", "2026/10/31 04:59:59"], ["label_type", 5], ["mission_condition", 71], ["mission_id", 261012048], ["reward_point", 1250], ["season_id", 26101], ["start_time", "2026/10/05 12:00:00"]],
+          [["category", 2], ["condition_num", 5], ["condition_value", 0], ["description", "ゲームに合計5回ログインしよう"], ["disp_order", 11], ["end_time", "2026/10/28 04:59:59"], ["label_type", 4], ["mission_condition", 44], ["mission_id", 261012001], ["reward_point", 500], ["season_id", 26101], ["start_time", "2026/09/30 05:00:00"]],
+          [["category", 3], ["condition_num", 10], ["condition_value", 0], ["description", "深淵討伐戦でボスに10回挑戦しよう"], ["disp_order", 101], ["end_time", "2026/10/14 4:59:59"], ["label_type", 5], ["mission_condition", 59], ["mission_id", 261012012], ["reward_point", 100], ["season_id", 26101], ["start_time", "2026/10/09 12:00:00"]],
+          [["category", 3], ["condition_num", 150], ["condition_value", 14001], ["description", "4部メインクエスト 暴風のランドソルのクエストを150回クリアしよう"], ["disp_order", 405], ["end_time", "2026/10/31 04:59:59"], ["label_type", 5], ["mission_condition", 94], ["mission_id", 261012036], ["reward_point", 1000], ["season_id", 26101], ["start_time", "2026/09/30 12:00:00"]],
+          [["category", 3], ["condition_num", 3], ["condition_value", 0], ["description", "クランバトルに合計3回挑戦しよう"], ["disp_order", 501], ["end_time", "2026/10/30 23:59:59"], ["label_type", 5], ["mission_condition", 58], ["mission_id", 261012040], ["reward_point", 500], ["season_id", 26101], ["start_time", "2026/10/26 5:00:00"]],
+          [["category", 2], ["condition_num", 10], ["condition_value", 0], ["description", "バトルアリーナかプリンセスアリーナで合計10回戦おう"], ["disp_order", 19], ["end_time", "2026/10/28 04:59:59"], ["label_type", 4], ["mission_condition", 53], ["mission_id", 261012006], ["reward_point", 400], ["season_id", 26101], ["start_time", "2026/09/30 05:00:00"]],
+          [["category", 3], ["condition_num", 9], ["condition_value", 0], ["description", "追憶の戦域 追憶戦・覇を9回クリアしよう"], ["disp_order", 603], ["end_time", "2026/10/31 04:59:59"], ["label_type", 5], ["mission_condition", 71], ["mission_id", 261012047], ["reward_point", 1000], ["season_id", 26101], ["start_time", "2026/10/05 12:00:00"]],
+          [["category", 3], ["condition_num", 18], ["condition_value", 0], ["description", "追憶の戦域 追憶戦・覇を18回クリアしよう"], ["disp_order", 605], ["end_time", "2026/10/31 04:59:59"], ["label_type", 5], ["mission_condition", 71], ["mission_id", 261012049], ["reward_point", 1500], ["season_id", 26101], ["start_time", "2026/10/05 12:00:00"]],
+          [["category", 3], ["condition_num", 50], ["condition_value", 14001], ["description", "4部メインクエスト 暴風のランドソルのクエストを50回クリアしよう"], ["disp_order", 403], ["end_time", "2026/10/31 04:59:59"], ["label_type", 5], ["mission_condition", 94], ["mission_id", 261012034], ["reward_point", 300], ["season_id", 26101], ["start_time", "2026/09/30 12:00:00"]],
+          [["category", 3], ["condition_num", 30], ["condition_value", 0], ["description", "エルピス討魔戦線でボスバトルを30回クリアしよう"], ["disp_order", 301], ["end_time", "2026/10/20 4:59:59"], ["label_type", 5], ["mission_condition", 70], ["mission_id", 261012030], ["reward_point", 1000], ["season_id", 26101], ["start_time", "2026/10/15 12:00:00"]],
+          [["category", 3], ["condition_num", 27], ["condition_value", 0], ["description", "バトルスタジアムで★を合計27個獲得しよう"], ["disp_order", 203], ["end_time", "2026/10/08 20:59:00"], ["label_type", 5], ["mission_condition", 57], ["mission_id", 261012026], ["reward_point", 200], ["season_id", 26101], ["start_time", "2026/10/02 12:00:00"]]
+        ]
+      }
+    },
+    "battlepass_mission": {
+      "data_changes": {
+        "added": [
+          [["category", 3], ["condition_num", 50], ["condition_value", 0], ["description", "究極錬成を50回行おう"], ["disp_order", 1004], ["label_type", 5], ["mission_condition", 22], ["mission_id", 261011009], ["reward_point", 400], ["season_id", 26101]],
+          [["category", 3], ["condition_num", 200], ["condition_value", 0], ["description", "キャラのレベルを合計で200上げよう"], ["disp_order", 1009], ["label_type", 5], ["mission_condition", 56], ["mission_id", 261011014], ["reward_point", 2000], ["season_id", 26101]],
+          [["category", 3], ["condition_num", 10], ["condition_value", 0], ["description", "究極錬成を10回行おう"], ["disp_order", 1002], ["label_type", 5], ["mission_condition", 22], ["mission_id", 261011007], ["reward_point", 200], ["season_id", 26101]],
+          [["category", 3], ["condition_num", 70], ["condition_value", 0], ["description", "究極錬成を70回行おう"], ["disp_order", 1005], ["label_type", 5], ["mission_condition", 22], ["mission_id", 261011010], ["reward_point", 500], ["season_id", 26101]],
+          [["category", 3], ["condition_num", 5], ["condition_value", 0], ["description", "黎明界ラビリンスをスキップせずに5回クリアしよう"], ["disp_order", 1010], ["label_type", 5], ["mission_condition", 55], ["mission_id", 261011015], ["reward_point", 1000], ["season_id", 26101]],
+          [["category", 1], ["condition_num", 10], ["condition_value", 0], ["description", "メイン・イベント・サイドいずれかのクエストを10回クリアしよう"], ["disp_order", 4], ["label_type", 3], ["mission_condition", 48], ["mission_id", 261011004], ["reward_point", 200], ["season_id", 26101]],
+          [["category", 3], ["condition_num", 100], ["condition_value", 0], ["description", "キャラのレベルを合計で100上げよう"], ["disp_order", 1008], ["label_type", 5], ["mission_condition", 56], ["mission_id", 261011013], ["reward_point", 1000], ["season_id", 26101]],
+          [["category", 1], ["condition_num", 4], ["condition_value", 0], ["description", "経験値クエストかマナクエストを合計4回クリアしよう"], ["disp_order", 3], ["label_type", 3], ["mission_condition", 47], ["mission_id", 261011003], ["reward_point", 200], ["season_id", 26101]],
+          [["category", 3], ["condition_num", 10], ["condition_value", 0], ["description", "黎明界ラビリンスをスキップせずに10回クリアしよう"], ["disp_order", 1011], ["label_type", 5], ["mission_condition", 55], ["mission_id", 261011016], ["reward_point", 2000], ["season_id", 26101]],
+          [["category", 1], ["condition_num", 10], ["condition_value", 0], ["description", "深域クエストを10回クリアしよう"], ["disp_order", 5], ["label_type", 3], ["mission_condition", 49], ["mission_id", 261011005], ["reward_point", 200], ["season_id", 26101]],
+          [["category", 3], ["condition_num", 30], ["condition_value", 0], ["description", "究極錬成を30回行おう"], ["disp_order", 1003], ["label_type", 5], ["mission_condition", 22], ["mission_id", 261011008], ["reward_point", 300], ["season_id", 26101]],
+          [["category", 3], ["condition_num", 5], ["condition_value", 0], ["description", "究極錬成を5回行おう"], ["disp_order", 1001], ["label_type", 5], ["mission_condition", 22], ["mission_id", 261011006], ["reward_point", 100], ["season_id", 26101]],
+          [["category", 1], ["condition_num", 500], ["condition_value", 0], ["description", "スタミナを500消費しよう"], ["disp_order", 2], ["label_type", 3], ["mission_condition", 45], ["mission_id", 261011002], ["reward_point", 200], ["season_id", 26101]],
+          [["category", 3], ["condition_num", 10], ["condition_value", 0], ["description", "コネクトRANKを合計10上げよう"], ["disp_order", 1007], ["label_type", 5], ["mission_condition", 42], ["mission_id", 261011012], ["reward_point", 1000], ["season_id", 26101]],
+          [["category", 1], ["condition_num", 1], ["condition_value", 0], ["description", "ゲームに1回ログインしよう"], ["disp_order", 1], ["label_type", 3], ["mission_condition", 43], ["mission_id", 261011001], ["reward_point", 200], ["season_id", 26101]],
+          [["category", 3], ["condition_num", 100], ["condition_value", 0], ["description", "究極錬成を100回行おう"], ["disp_order", 1006], ["label_type", 5], ["mission_condition", 22], ["mission_id", 261011011], ["reward_point", 1000], ["season_id", 26101]]
+        ]
+      }
+    },
+    "unit_data": {
+      "data_changes": {
+        "modified": [
+          {
+            "id": 140601,
+            "old": [["atk_type", 1], ["comment", "【物理】中衛から必殺クローで敵全体を圧潰するロボ娘。\\n自分へのバフと敵へのデバフで【水陸可変ブースター】が\\n起動し、高頻度のＵＢでダメージの大渦潮を巻き起こす！"], ["cutin1_star6", 140601], ["cutin2_star6", 0], ["cutin_1", 140601], ["cutin_2", 0], ["end_time", "2030/12/31 15:00:00"], ["exskill_display", 0], ["guild_id", 0], ["is_collab", 0], ["is_limited", 0], ["kana", "くろーちぇ"], ["motion_type", 0], ["move_speed", 450], ["normal_atk_cast_time", 2.09], ["only_disp_owned", 0], ["original_unit_id", 0], ["prefab_id", 140601], ["prefab_id_battle", 0], ["rarity", 3], ["se_type", 0], ["search_area_width", 400], ["start_time", "2026/09/22 12:00:00"], ["unit_id", 140601], ["unit_name", "クローチェ（サブマリン）"], ["unit_name_jp", "クローチェ（サブマリン）"]],
+            "new": [["atk_type", 1], ["comment", "【物理】中衛から必殺クローで敵全体を圧潰するロボ娘。\\n自分へのバフと敵へのデバフで【水陸可変ブースター】が\\n起動し、高頻度のＵＢでダメージの大渦潮を巻き起こす！"], ["cutin1_star6", 140601], ["cutin2_star6", 0], ["cutin_1", 140601], ["cutin_2", 0], ["end_time", "2030/12/31 15:00:00"], ["exskill_display", 0], ["guild_id", 0], ["is_collab", 0], ["is_limited", 0], ["kana", "くろーちぇ"], ["motion_type", 0], ["move_speed", 450], ["normal_atk_cast_time", 2.09], ["only_disp_owned", 0], ["original_unit_id", 0], ["prefab_id", 140601], ["prefab_id_battle", 0], ["rarity", 3], ["se_type", 0], ["search_area_width", 400], ["start_time", "2026/09/22 12:00:00"], ["unit_id", 140601], ["unit_name", "Croce (Submarine)"], ["unit_name_jp", "クローチェ（サブマリン）"]]
+          }
+        ]
+      }
+    },
+    "skill_action": {
+      "data_changes": {
+        "added": [
+          [["action_detail_1", 20], ["action_detail_2", 1], ["action_detail_3", 1], ["action_id", 410251102], ["action_type", 10], ["action_value_1", 2.0], ["action_value_2", 10.0], ["action_value_3", 0.0], ["action_value_4", 90.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 2.0], ["class_id", 1], ["description", ""], ["level_up_disp", ""], ["target_area", 3], ["target_assignment", 2], ["target_count", 99], ["target_number", 0], ["target_range", 2160], ["target_type", 3]],
+          [["action_detail_1", 7], ["action_detail_2", 0], ["action_detail_3", 1], ["action_id", 410251101], ["action_type", 902], ["action_value_1", 100.0], ["action_value_2", 0.0], ["action_value_3", 90.0], ["action_value_4", 0.0], ["action_value_5", 0.0], ["action_value_6", 0.0], ["action_value_7", 0.0], ["class_id", 1], ["description", ""], ["level_up_disp", ""], ["target_area", 0], ["target_assignment", 0], ["target_count", 0], ["target_number", 0], ["target_range", 0], ["target_type", 0]]
+        ]
+      }
+    },
+    "battlepass_season": {
+      "data_changes": {
+        "added": [
+          [["end_time", "2026/10/31 04:59:59"], ["level_buy_price", 100], ["line_id_1", 261011], ["line_id_2", 261012], ["line_release_cost_2", 750], ["line_release_plus_bonus_level", 20], ["line_release_plus_cost_2", 1500], ["name", "シーズンパス"], ["next_level_point", 1000], ["point_id", 26101], ["priority", 1], ["season_id", 26101], ["start_time", "2026/09/30 05:00:00"]]
+        ]
+      }
+    },
+    "login_bonus_data": {
+      "data_changes": {
+        "added": [
+          [["adv_play_type", 0], ["bg_id", 40024], ["count_num", 10], ["count_type", 0], ["end_time", "2026/10/24 4:59:59"], ["login_bonus_id", 40024], ["login_bonus_type", 4], ["name", "第4部開幕記念ログインボーナス"], ["odds_group_id", 0], ["stamp_id", 3], ["start_time", "2026/09/30 5:00:00"]]
+        ]
+      }
+    },
+    "battlepass_navi_comment": {
+      "data_changes": {
+        "added": [
+          [["character_id", 190801], ["comment_id", 26101001], ["face_type", 0], ["pos_x", -480.0], ["pos_y", 0.0], ["season_id", 26101], ["where_type", 72]]
+        ]
+      }
+    },
+    "unit_profile": {
+      "data_changes": {
+        "modified": [
+          {
+            "id": 140601,
+            "old": [["age", "??"], ["birth_day", "11"], ["birth_month", "11"], ["blood_type", "?"], ["catch_copy", "スマイル満タン！　パワフル機械少女"], ["favorite", "昼寝、誰かの役に立つこと"], ["guild", "？？？"], ["guild_id", ""], ["height", "170"], ["race", "機械人族"], ["self_text", ""], ["unit_id", 140601], ["unit_name", "クローチェ（サブマリン）"], ["unit_name_jp", "クローチェ（サブマリン）"], ["voice", "長谷川育美"], ["voice_id", 0], ["weight", "全備重量333.3"]],
+            "new": [["age", "??"], ["birth_day", "11"], ["birth_month", "11"], ["blood_type", "?"], ["catch_copy", "スマイル満タン！　パワフル機械少女"], ["favorite", "昼寝、誰かの役に立つこと"], ["guild", "？？？"], ["guild_id", ""], ["height", "170"], ["race", "機械人族"], ["self_text", ""], ["unit_id", 140601], ["unit_name", "Croce (Submarine)"], ["unit_name_jp", "クローチェ（サブマリン）"], ["voice", "長谷川育美"], ["voice_id", 0], ["weight", "全備重量333.3"]]
+          }
+        ]
+      }
+    },
+    "login_bonus_detail": {
+      "data_changes": {
+        "added": [
+          [["bg_id", 0], ["character_id", 0], ["character_name", ""], ["count", 3], ["description", ""], ["id", 552], ["login_bonus_id", 40024], ["reward_id", 25205], ["reward_num", 50], ["reward_type", 2], ["voice_id", 0]],
+          [["bg_id", 0], ["character_id", 0], ["character_name", ""], ["count", 7], ["description", ""], ["id", 560], ["login_bonus_id", 40024], ["reward_id", 25201], ["reward_num", 50], ["reward_type", 2], ["voice_id", 0]],
+          [["bg_id", 0], ["character_id", 0], ["character_name", ""], ["count", 10], ["description", ""], ["id", 567], ["login_bonus_id", 40024], ["reward_id", 94002], ["reward_num", 2000000], ["reward_type", 12], ["voice_id", 0]],
+          [["bg_id", 0], ["character_id", 0], ["character_name", ""], ["count", 8], ["description", ""], ["id", 562], ["login_bonus_id", 40024], ["reward_id", 25205], ["reward_num", 50], ["reward_type", 2], ["voice_id", 0]],
+          [["bg_id", 0], ["character_id", 0], ["character_name", ""], ["count", 3], ["description", ""], ["id", 553], ["login_bonus_id", 40024], ["reward_id", 94002], ["reward_num", 2000000], ["reward_type", 12], ["voice_id", 0]],
+          [["bg_id", 0], ["character_id", 0], ["character_name", ""], ["count", 8], ["description", ""], ["id", 563], ["login_bonus_id", 40024], ["reward_id", 94002], ["reward_num", 2000000], ["reward_type", 12], ["voice_id", 0]],
+          [["bg_id", 0], ["character_id", 0], ["character_name", ""], ["count", 10], ["description", ""], ["id", 566], ["login_bonus_id", 40024], ["reward_id", 25204], ["reward_num", 25], ["reward_type", 2], ["voice_id", 0]],
+          [["bg_id", 0], ["character_id", 0], ["character_name", ""], ["count", 2], ["description", ""], ["id", 550], ["login_bonus_id", 40024], ["reward_id", 25201], ["reward_num", 50], ["reward_type", 2], ["voice_id", 0]],
+          [["bg_id", 0], ["character_id", 0], ["character_name", ""], ["count", 6], ["description", ""], ["id", 558], ["login_bonus_id", 40024], ["reward_id", 25203], ["reward_num", 50], ["reward_type", 2], ["voice_id", 0]],
+          [["bg_id", 0], ["character_id", 0], ["character_name", ""], ["count", 5], ["description", ""], ["id", 556], ["login_bonus_id", 40024], ["reward_id", 25204], ["reward_num", 25], ["reward_type", 2], ["voice_id", 0]],
+          [["bg_id", 0], ["character_id", 0], ["character_name", ""], ["count", 2], ["description", ""], ["id", 551], ["login_bonus_id", 40024], ["reward_id", 94002], ["reward_num", 2000000], ["reward_type", 12], ["voice_id", 0]],
+          [["bg_id", 0], ["character_id", 0], ["character_name", ""], ["count", 1], ["description", ""], ["id", 549], ["login_bonus_id", 40024], ["reward_id", 94002], ["reward_num", 2000000], ["reward_type", 12], ["voice_id", 0]],
+          [["bg_id", 0], ["character_id", 0], ["character_name", ""], ["count", 7], ["description", ""], ["id", 561], ["login_bonus_id", 40024], ["reward_id", 94002], ["reward_num", 2000000], ["reward_type", 12], ["voice_id", 0]],
+          [["bg_id", 0], ["character_id", 0], ["character_name", ""], ["count", 4], ["description", ""], ["id", 555], ["login_bonus_id", 40024], ["reward_id", 94002], ["reward_num", 2000000], ["reward_type", 12], ["voice_id", 0]],
+          [["bg_id", 0], ["character_id", 0], ["character_name", ""], ["count", 9], ["description", ""], ["id", 565], ["login_bonus_id", 40024], ["reward_id", 94002], ["reward_num", 2000000], ["reward_type", 12], ["voice_id", 0]],
+          [["bg_id", 0], ["character_id", 0], ["character_name", ""], ["count", 4], ["description", ""], ["id", 554], ["login_bonus_id", 40024], ["reward_id", 25202], ["reward_num", 50], ["reward_type", 2], ["voice_id", 0]],
+          [["bg_id", 0], ["character_id", 0], ["character_name", ""], ["count", 6], ["description", ""], ["id", 559], ["login_bonus_id", 40024], ["reward_id", 94002], ["reward_num", 2000000], ["reward_type", 12], ["voice_id", 0]],
+          [["bg_id", 0], ["character_id", 0], ["character_name", ""], ["count", 5], ["description", ""], ["id", 557], ["login_bonus_id", 40024], ["reward_id", 94002], ["reward_num", 2000000], ["reward_type", 12], ["voice_id", 0]],
+          [["bg_id", 0], ["character_id", 0], ["character_name", ""], ["count", 9], ["description", ""], ["id", 564], ["login_bonus_id", 40024], ["reward_id", 25202], ["reward_num", 50], ["reward_type", 2], ["voice_id", 0]],
+          [["bg_id", 0], ["character_id", 0], ["character_name", ""], ["count", 1], ["description", ""], ["id", 548], ["login_bonus_id", 40024], ["reward_id", 25203], ["reward_num", 50], ["reward_type", 2], ["voice_id", 0]]
+        ]
+      }
+    },
+    "ex_equipment_data": {
+      "data_changes": {
+        "added": [
+          [["category", 102], ["clan_battle_equip_flag", 0], ["default_accuracy", 0], ["default_atk", 700], ["default_def", 0], ["default_dodge", 0], ["default_energy_recovery_rate", 0], ["default_energy_reduce_rate", 0], ["default_hp", 0], ["default_hp_recovery_rate", 0], ["default_life_steal", 0], ["default_magic_critical", 0], ["default_magic_def", 0], ["default_magic_penetrate", 0], ["default_magic_str", 0], ["default_physical_critical", 300], ["default_physical_penetrate", 0], ["default_wave_energy_recovery", 0], ["default_wave_hp_recovery", 0], ["description", "摩天に達する嶺をも打開した真の英\\n雄に相応しき大剣。超負荷の剛毅を\\n宿した斬撃は仲間の前途を阻む万象\\nを駆逐し、闘志を奮い立たせる。"], ["ex_equipment_id", 4102511], ["is_force_protected", 1], ["max_accuracy", 0], ["max_atk", 700], ["max_def", 0], ["max_dodge", 0], ["max_energy_recovery_rate", 0], ["max_energy_reduce_rate", 0], ["max_hp", 0], ["max_hp_recovery_rate", 0], ["max_life_steal", 0], ["max_magic_critical", 0], ["max_magic_def", 0], ["max_magic_penetrate", 0], ["max_magic_str", 0], ["max_physical_critical", 300], ["max_physical_penetrate", 0], ["max_rank_flag", 1], ["max_wave_energy_recovery", 0], ["max_wave_hp_recovery", 0], ["name", "ブラン・プルナマ"], ["passive_skill_id_1", 4102511], ["passive_skill_id_2", 0], ["passive_skill_power", 0], ["rarity", 5], ["restriction_id", 0], ["talent_id", 0]]
+        ]
+      }
+    },
+    "ex_equip_convert_alces_coin": {
+      "data_changes": {
+        "added": [
+          [["alces_coin", 4000], ["ex_equipment_id", 4102511]]
+        ]
+      }
+    },
+    "ex_equipment_sub_status_group": {
+      "data_changes": {
+        "added": [
+          [["ex_equipment_id", 4102511], ["group_id", 1012]]
+        ]
+      }
+    }
+  }
+}
