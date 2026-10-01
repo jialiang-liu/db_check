@@ -1,0 +1,34 @@
+{
+  "tables": {
+    "only_in_old_db": [],
+    "only_in_new_db": []
+  },
+  "table_changes": {
+    "daily_mission_data": {
+      "data_changes": {
+        "added": [
+          [["category_icon", 200], ["condition_num", 10], ["condition_value_1", 0], ["condition_value_2", 0], ["condition_value_3", 0], ["daily_mission_id", 11001005], ["description", "メイン・4部メイン・イベント・サイドのクエストを合計10回クリアしよう"], ["disp_group", 1], ["end_time", "2030/04/01 14:59:59"], ["max_level", 0], ["min_level", 0], ["mission_condition", 1008], ["mission_reward_id", 11001001], ["start_time", "2026/10/02 5:00:00"], ["system_id", 101], ["title_color_id", 0], ["visible_flag", 1]],
+          [["category_icon", 200], ["condition_num", 20], ["condition_value_1", 0], ["condition_value_2", 0], ["condition_value_3", 0], ["daily_mission_id", 11001006], ["description", "メイン・4部メイン・イベント・サイドのクエストを合計20回クリアしよう"], ["disp_group", 2], ["end_time", "2030/04/01 14:59:59"], ["max_level", 0], ["min_level", 0], ["mission_condition", 1008], ["mission_reward_id", 11001002], ["start_time", "2026/10/02 5:00:00"], ["system_id", 101], ["title_color_id", 0], ["visible_flag", 1]],
+          [["category_icon", 200], ["condition_num", 3], ["condition_value_1", 0], ["condition_value_2", 0], ["condition_value_3", 0], ["daily_mission_id", 11003003], ["description", "メイン・4部メイン・イベント・サイドのH・VHを合計3回クリアしよう"], ["disp_group", 3], ["end_time", "2030/04/01 14:59:59"], ["max_level", 0], ["min_level", 0], ["mission_condition", 1015], ["mission_reward_id", 11003001], ["start_time", "2026/10/02 5:00:00"], ["system_id", 102], ["title_color_id", 0], ["visible_flag", 1]]
+        ],
+        "modified": [
+          {
+            "id": 11001004,
+            "old": [["category_icon", 200], ["condition_num", 20], ["condition_value_1", 0], ["condition_value_2", 0], ["condition_value_3", 0], ["daily_mission_id", 11001004], ["description", "メイン(4部含む)・イベントクエストを20回クリアしよう"], ["disp_group", 2], ["end_time", "2030/04/01 14:59:59"], ["max_level", 0], ["min_level", 0], ["mission_condition", 1008], ["mission_reward_id", 11001002], ["start_time", "2025/10/01 5:00:00"], ["system_id", 101], ["title_color_id", 0], ["visible_flag", 1]],
+            "new": [["category_icon", 200], ["condition_num", 20], ["condition_value_1", 0], ["condition_value_2", 0], ["condition_value_3", 0], ["daily_mission_id", 11001004], ["description", "メイン(4部含む)・イベントクエストを20回クリアしよう"], ["disp_group", 2], ["end_time", "2026/10/02 4:59:59"], ["max_level", 0], ["min_level", 0], ["mission_condition", 1008], ["mission_reward_id", 11001002], ["start_time", "2025/10/01 5:00:00"], ["system_id", 101], ["title_color_id", 0], ["visible_flag", 1]]
+          },
+          {
+            "id": 11003002,
+            "old": [["category_icon", 200], ["condition_num", 3], ["condition_value_1", 0], ["condition_value_2", 0], ["condition_value_3", 0], ["daily_mission_id", 11003002], ["description", "メイン(HARD、VERY HARD)かイベントクエスト(HARD)を3回クリアしよう"], ["disp_group", 3], ["end_time", "2030/04/01 14:59:59"], ["max_level", 0], ["min_level", 0], ["mission_condition", 1003], ["mission_reward_id", 11003001], ["start_time", "2025/10/01 5:00:00"], ["system_id", 102], ["title_color_id", 0], ["visible_flag", 1]],
+            "new": [["category_icon", 200], ["condition_num", 3], ["condition_value_1", 0], ["condition_value_2", 0], ["condition_value_3", 0], ["daily_mission_id", 11003002], ["description", "メイン(HARD、VERY HARD)かイベントクエスト(HARD)を3回クリアしよう"], ["disp_group", 3], ["end_time", "2026/10/02 4:59:59"], ["max_level", 0], ["min_level", 0], ["mission_condition", 1003], ["mission_reward_id", 11003001], ["start_time", "2025/10/01 5:00:00"], ["system_id", 102], ["title_color_id", 0], ["visible_flag", 1]]
+          },
+          {
+            "id": 11001003,
+            "old": [["category_icon", 200], ["condition_num", 10], ["condition_value_1", 0], ["condition_value_2", 0], ["condition_value_3", 0], ["daily_mission_id", 11001003], ["description", "メイン(4部含む)・イベントクエストを10回クリアしよう"], ["disp_group", 1], ["end_time", "2030/04/01 14:59:59"], ["max_level", 0], ["min_level", 0], ["mission_condition", 1008], ["mission_reward_id", 11001001], ["start_time", "2025/10/01 5:00:00"], ["system_id", 101], ["title_color_id", 0], ["visible_flag", 1]],
+            "new": [["category_icon", 200], ["condition_num", 10], ["condition_value_1", 0], ["condition_value_2", 0], ["condition_value_3", 0], ["daily_mission_id", 11001003], ["description", "メイン(4部含む)・イベントクエストを10回クリアしよう"], ["disp_group", 1], ["end_time", "2026/10/02 4:59:59"], ["max_level", 0], ["min_level", 0], ["mission_condition", 1008], ["mission_reward_id", 11001001], ["start_time", "2025/10/01 5:00:00"], ["system_id", 101], ["title_color_id", 0], ["visible_flag", 1]]
+          }
+        ]
+      }
+    }
+  }
+}
