@@ -2,7 +2,7 @@ name: TW DB Diff
 
 on:
   schedule:
-    - cron: '* */1 * * *'
+    - cron: '30 */4 * * *'
   workflow_dispatch:
 
 jobs:
