@@ -2,7 +2,7 @@ name: JP DB Diff
 
 on:
   schedule:
-    - cron: '*/10 * * * *'
+    - cron: '30 */4 * * *'
   workflow_dispatch:
 
 jobs:
@@ -51,9 +51,9 @@ jobs:
     # 安装依赖
     - name: Set up Python
       if: steps.version_check.outputs.should_continue == 'true'
-      uses: actions/setup-python@v4
+      uses: actions/setup-python@v5
       with:
-        python-version: '3.8'
+        python-version: '3.12'
 
     # 下载数据库文件
     - name: Download latest DB file
