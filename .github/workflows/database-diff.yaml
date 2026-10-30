@@ -51,7 +51,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v5
         with:
-          ref: master
+          ref: main
 
       - name: Fetch latest version
         id: fetch_version
@@ -128,31 +128,6 @@ jobs:
           name: db-differences_${{ matrix.region }}_${{ steps.fetch_version.outputs.version }}
           path: detailed_changes.json
 
-      - name: Prepare diff result
-        if: steps.version_check.outputs.should_continue == 'true'
-        env:
-          REGION: ${{ matrix.region }}
-          VERSION: ${{ steps.fetch_version.outputs.version }}
-        run: |
-          set -euo pipefail
-          mkdir -p results
-          mv detailed_changes.json "results/${REGION}_${VERSION}.json"
-
-      - name: Send Diff JSON via Curl
-        if: steps.version_check.outputs.should_continue == 'true'
-        env:
-          AUTH_TOKEN: ${{ secrets.POST_AUTH_TOKEN }}
-          TARGET_URL: ${{ secrets.POST_TARGET_URL }}
-          REGION: ${{ matrix.region }}
-          VERSION: ${{ steps.fetch_version.outputs.version }}
-        run: |
-          set -euo pipefail
-          curl --fail-with-body -X POST \
-            -H "Content-Type: multipart/form-data" \
-            -H "Auth-Token: $AUTH_TOKEN" \
-            -F "file=@results/${REGION}_${VERSION}.json;filename=${REGION}_${VERSION}.json" \
-            "$TARGET_URL"
-
       - name: Update database files
         if: steps.version_check.outputs.should_continue == 'true'
         env:
@@ -163,19 +138,23 @@ jobs:
         run: |
           set -euo pipefail
 
-          mkdir -p database
+          mkdir -p database results
 
           if [ -f "database/latest_${REGION}.db" ]; then
             rm -f "database/previous_${REGION}.db"
             mv "database/latest_${REGION}.db" "database/previous_${REGION}.db"
           fi
-
           mv "latest_${REGION}.db" "database/latest_${REGION}.db"
+
+          mv detailed_changes.json "results/${REGION}_${VERSION}.json"
 
           git config user.name github-actions
           git config user.email github-actions@github.com
 
-          git add -A database "results/${REGION}_${VERSION}.json"
+          git add "database/latest_${REGION}.db" "results/${REGION}_${VERSION}.json"
+          if [ -f "database/previous_${REGION}.db" ]; then
+            git add "database/previous_${REGION}.db"
+          fi
 
           if git diff --cached --quiet; then
             echo "No changes to commit"
@@ -198,3 +177,18 @@ jobs:
             "/repos/${REPO}/actions/variables/${VAR_NAME}" \
             -f name="$VAR_NAME" \
             -f value="$VERSION"
+
+      - name: Send Diff JSON via Curl
+        if: steps.version_check.outputs.should_continue == 'true'
+        env:
+          AUTH_TOKEN: ${{ secrets.POST_AUTH_TOKEN }}
+          TARGET_URL: ${{ secrets.POST_TARGET_URL }}
+          REGION: ${{ matrix.region }}
+          VERSION: ${{ steps.fetch_version.outputs.version }}
+        run: |
+          set -euo pipefail
+          curl --fail-with-body -X POST \
+            -H "Content-Type: multipart/form-data" \
+            -H "Auth-Token: $AUTH_TOKEN" \
+            -F "file=@results/${REGION}_${VERSION}.json;filename=${REGION}_${VERSION}.json" \
+            "$TARGET_URL"
