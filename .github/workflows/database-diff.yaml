@@ -5,6 +5,10 @@ on:
     - cron: '30 */6 * * *'
   workflow_dispatch:
 
+concurrency:
+  group: db-diff-${{ github.repository }}
+  cancel-in-progress: false
+
 permissions:
   contents: write
 
@@ -12,23 +16,11 @@ jobs:
   fetch_and_compare:
     runs-on: ubuntu-latest
 
-    concurrency:
-      group: db-diff-${{ github.repository }}
-      cancel-in-progress: false
-
     strategy:
       fail-fast: false
+      max-parallel: 1
       matrix:
         include:
-          - region: cn
-            region_upper: CN
-            ver_secret: WT_VER_URL
-            ver_method: POST
-            ver_body: '{"regionCode":"cn"}'
-            ver_jq: '.data.truthVersion'
-            db_secret: CN_DB_URL
-            var_name: LAST_VERSION_CN
-
           - region: jp
             region_upper: JP
             ver_secret: JP_VER_URL
@@ -37,6 +29,15 @@ jobs:
             ver_jq: '.TruthVersion'
             db_secret: JP_DB_URL
             var_name: LAST_VERSION_JP
+
+          - region: cn
+            region_upper: CN
+            ver_secret: WT_VER_URL
+            ver_method: POST
+            ver_body: '{"regionCode":"cn"}'
+            ver_jq: '.data.truthVersion'
+            db_secret: CN_DB_URL
+            var_name: LAST_VERSION_CN
 
           - region: tw
             region_upper: TW
