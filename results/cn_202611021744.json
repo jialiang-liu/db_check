@@ -1,0 +1,15 @@
+{
+  "tables": {
+    "only_in_old_db": [],
+    "only_in_new_db": []
+  },
+  "table_changes": {
+    "secret_dungeon_schedule": {
+      "data_changes": {
+        "added": [
+          [["close_time", "2026/11/22 14:59:59"], ["count_start_time", "2026/11/18 04:59:59"], ["dungeon_area_id", 32015], ["end_time", "2026/11/19 04:59:59"], ["start_time", "2026/11/14 05:00:00"], ["teaser_time", "2026/11/11 11:00:00"]]
+        ]
+      }
+    }
+  }
+}
