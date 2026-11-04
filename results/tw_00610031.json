@@ -1,0 +1,56 @@
+{
+  "tables": {
+    "only_in_old_db": [],
+    "only_in_new_db": []
+  },
+  "table_changes": {
+    "enemy_m_parts": {
+      "data_changes": {
+        "added": [
+          [["child_enemy_parameter_1", 781005412], ["child_enemy_parameter_2", 781005413], ["child_enemy_parameter_3", 781005414], ["child_enemy_parameter_4", 0], ["child_enemy_parameter_5", 0], ["enemy_id", 781005411], ["name", "頑強幽靈 難度EXTREME"]],
+          [["child_enemy_parameter_1", 781005212], ["child_enemy_parameter_2", 781005213], ["child_enemy_parameter_3", 781005214], ["child_enemy_parameter_4", 0], ["child_enemy_parameter_5", 0], ["enemy_id", 781005211], ["name", "頑強幽靈 難度HARD"]],
+          [["child_enemy_parameter_1", 781005112], ["child_enemy_parameter_2", 781005113], ["child_enemy_parameter_3", 781005114], ["child_enemy_parameter_4", 0], ["child_enemy_parameter_5", 0], ["enemy_id", 781005111], ["name", "頑強幽靈 難度NORMAL"]],
+          [["child_enemy_parameter_1", 781005312], ["child_enemy_parameter_2", 781005313], ["child_enemy_parameter_3", 781005314], ["child_enemy_parameter_4", 0], ["child_enemy_parameter_5", 0], ["enemy_id", 781005311], ["name", "頑強幽靈 難度VERY HARD"]]
+        ]
+      }
+    },
+    "enemy_talent_weakness": {
+      "data_changes": {
+        "added": [
+          [["enemy_id", 781005321], ["resist_id", 3000008]],
+          [["enemy_id", 781005213], ["resist_id", 3000008]],
+          [["enemy_id", 781005411], ["resist_id", 3000008]],
+          [["enemy_id", 781005151], ["resist_id", 3000008]],
+          [["enemy_id", 781005351], ["resist_id", 3000008]],
+          [["enemy_id", 781005412], ["resist_id", 3000008]],
+          [["enemy_id", 781005413], ["resist_id", 3000008]],
+          [["enemy_id", 781005341], ["resist_id", 3000008]],
+          [["enemy_id", 781005221], ["resist_id", 3000008]],
+          [["enemy_id", 781005331], ["resist_id", 3000008]],
+          [["enemy_id", 781005211], ["resist_id", 3000008]],
+          [["enemy_id", 781005212], ["resist_id", 3000008]],
+          [["enemy_id", 781005114], ["resist_id", 3000008]],
+          [["enemy_id", 781005441], ["resist_id", 3000008]],
+          [["enemy_id", 781005431], ["resist_id", 3000008]],
+          [["enemy_id", 781005311], ["resist_id", 3000008]],
+          [["enemy_id", 781005421], ["resist_id", 3000008]],
+          [["enemy_id", 781005312], ["resist_id", 3000008]],
+          [["enemy_id", 781005231], ["resist_id", 3000008]],
+          [["enemy_id", 781005313], ["resist_id", 3000008]],
+          [["enemy_id", 781005314], ["resist_id", 3000008]],
+          [["enemy_id", 781005112], ["resist_id", 3000008]],
+          [["enemy_id", 781005113], ["resist_id", 3000008]],
+          [["enemy_id", 781005414], ["resist_id", 3000008]],
+          [["enemy_id", 781005251], ["resist_id", 3000008]],
+          [["enemy_id", 781005111], ["resist_id", 3000008]],
+          [["enemy_id", 781005131], ["resist_id", 3000008]],
+          [["enemy_id", 781005241], ["resist_id", 3000008]],
+          [["enemy_id", 781005214], ["resist_id", 3000008]],
+          [["enemy_id", 781005451], ["resist_id", 3000008]],
+          [["enemy_id", 781005121], ["resist_id", 3000008]],
+          [["enemy_id", 781005141], ["resist_id", 3000008]]
+        ]
+      }
+    }
+  }
+}
