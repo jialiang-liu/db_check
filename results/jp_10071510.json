@@ -1,0 +1,68 @@
+{
+  "tables": {
+    "only_in_old_db": [
+      "talent_quest_daily_bonus_04",
+      "talent_quest_daily_bonus_01",
+      "talent_quest_daily_bonus_02",
+      "talent_quest_daily_bonus_03",
+      "knight_rank_material_setting",
+      "talent_quest_daily_bonus_05"
+    ],
+    "only_in_new_db": [
+      "action_pattern_rail_replace",
+      "battle_tl_hidden_unit",
+      "battle_state_icon",
+      "defeat_tips_overwrite",
+      "preset_party_inactive_reason"
+    ]
+  },
+  "table_changes": {
+    "ailment_data": {
+      "column_differences": {
+        "only_in_db1": [
+          "ailment_name"
+        ],
+        "only_in_db2": [
+          "unknown_3"
+        ]
+      }
+    },
+    "experience_talent_level": {
+      "column_differences": {
+        "only_in_db1": [],
+        "only_in_db2": [
+          "unknown_4",
+          "consume_num"
+        ]
+      }
+    },
+    "invasion_schedule": {
+      "column_differences": {
+        "only_in_db1": [],
+        "only_in_db2": [
+          "unknown_6",
+          "unknown_3",
+          "unknown_4",
+          "unknown_7",
+          "unknown_5"
+        ]
+      }
+    },
+    "talent_skill_enhance_level": {
+      "column_differences": {
+        "only_in_db1": [],
+        "only_in_db2": [
+          "unknown_10"
+        ]
+      }
+    },
+    "team_skill_enhance_level": {
+      "column_differences": {
+        "only_in_db1": [],
+        "only_in_db2": [
+          "unknown_10"
+        ]
+      }
+    }
+  }
+}
